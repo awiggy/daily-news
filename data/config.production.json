@@ -1,0 +1,67 @@
+{
+  "version": "1.0",
+  "ai": {
+    "provider": "openai",
+    "model": "deepseek-chat",
+    "base_url": "https://api.deepseek.com/v1",
+    "api_key_env": "DEEPSEEK_API_KEY",
+    "temperature": 0.3,
+    "max_tokens": 4096,
+    "throttle_sec": 1,
+    "analysis_concurrency": 1,
+    "enrichment_concurrency": 1,
+    "languages": ["zh", "en"]
+  },
+  "sources": {
+    "hackernews": {
+      "enabled": true,
+      "fetch_top_stories": 20,
+      "min_score": 50
+    },
+    "rss": [
+      {
+        "name": "Simon Willison",
+        "url": "https://simonwillison.net/atom/everything/",
+        "enabled": true,
+        "category": "ai-tools"
+      },
+      {
+        "name": "Google News - AI",
+        "url": "https://news.google.com/rss/search?q=artificial+intelligence+OR+LLM+OR+GPT&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "ai-news"
+      },
+      {
+        "name": "Google News - 半导体",
+        "url": "https://news.google.com/rss/search?q=半导体+OR+芯片+OR+存储&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "semiconductor"
+      }
+    ],
+    "reddit": {
+      "enabled": true,
+      "subreddits": [
+        {
+          "subreddit": "LocalLLaMA",
+          "enabled": true, "sort": "hot", "time_filter": "day",
+          "fetch_limit": 15, "min_score": 20
+        },
+        {
+          "subreddit": "MachineLearning",
+          "enabled": true, "sort": "hot", "time_filter": "day",
+          "fetch_limit": 10, "min_score": 30
+        },
+        {
+          "subreddit": "singularity",
+          "enabled": true, "sort": "hot", "time_filter": "day",
+          "fetch_limit": 10, "min_score": 50
+        }
+      ],
+      "fetch_comments": 5
+    }
+  },
+  "filtering": {
+    "ai_score_threshold": 5.0,
+    "time_window_hours": 24
+  }
+}
