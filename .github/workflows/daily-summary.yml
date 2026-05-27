@@ -19,6 +19,9 @@ jobs:
       - name: Install dependencies
         run: uv sync
 
+      - name: Setup config
+        run: cp data/config.production.json data/config.json
+
       - name: Run Horizon
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
