@@ -7,7 +7,7 @@ on:
       - 'data/summaries/**'
       - 'docs/_posts/**'
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "30 0 * * *"  # UTC 0:30 = 北京 8:30
   workflow_dispatch:
 
 jobs:
