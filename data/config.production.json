@@ -26,35 +26,54 @@
         "category": "ai-tools"
       },
       {
-        "name": "Google News - AI",
+        "name": "Google News - AI行业",
         "url": "https://news.google.com/rss/search?q=artificial+intelligence+OR+LLM+OR+GPT&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "enabled": true,
-        "category": "ai-news"
+        "category": "ai-industry"
       },
       {
-        "name": "Google News - 半导体",
-        "url": "https://news.google.com/rss/search?q=半导体+OR+芯片+OR+存储&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "name": "Google News - 半导体芯片",
+        "url": "https://news.google.com/rss/search?q=半导体+OR+芯片+OR+存储+OR+晶圆&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "enabled": true,
         "category": "semiconductor"
+      },
+      {
+        "name": "Google News - 金融市场",
+        "url": "https://news.google.com/rss/search?q=IPO+OR+上市+OR+美联储+OR+利率+OR+A股&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "finance"
+      },
+      {
+        "name": "Google News - 全球宏观",
+        "url": "https://news.google.com/rss/search?q=world+economy+OR+inflation+OR+central+bank+OR+trade+war&hl=en&gl=US&ceid=US:en",
+        "enabled": true,
+        "category": "macro"
+      },
+      {
+        "name": "Google News - 新能源",
+        "url": "https://news.google.com/rss/search?q=新能源+OR+光伏+OR+锂电+OR+电动车+OR+储能&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "enabled": true,
+        "category": "new-energy"
       }
     ],
     "reddit": {
       "enabled": true,
       "subreddits": [
         {
-          "subreddit": "LocalLLaMA",
-          "enabled": true, "sort": "hot", "time_filter": "day",
-          "fetch_limit": 15, "min_score": 20
+          "subreddit": "LocalLLaMA", "enabled": true, "sort": "hot",
+          "time_filter": "day", "fetch_limit": 15, "min_score": 20
         },
         {
-          "subreddit": "MachineLearning",
-          "enabled": true, "sort": "hot", "time_filter": "day",
-          "fetch_limit": 10, "min_score": 30
+          "subreddit": "MachineLearning", "enabled": true, "sort": "hot",
+          "time_filter": "day", "fetch_limit": 10, "min_score": 30
         },
         {
-          "subreddit": "singularity",
-          "enabled": true, "sort": "hot", "time_filter": "day",
-          "fetch_limit": 10, "min_score": 50
+          "subreddit": "singularity", "enabled": true, "sort": "hot",
+          "time_filter": "day", "fetch_limit": 10, "min_score": 50
+        },
+        {
+          "subreddit": "investing", "enabled": true, "sort": "hot",
+          "time_filter": "day", "fetch_limit": 10, "min_score": 30
         }
       ],
       "fetch_comments": 5
