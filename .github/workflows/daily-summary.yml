@@ -7,7 +7,8 @@ on:
       - 'data/summaries/**'
       - 'docs/_posts/**'
   schedule:
-    - cron: "30 0 * * *"  # UTC 0:30 = 北京 8:30
+    - cron: "30 0 * * *"   # UTC 0:30 = 北京 8:30
+    - cron: "30 1 * * *"   # UTC 1:30 = 北京 9:30 (备份)
   workflow_dispatch:
 
 jobs:
@@ -33,6 +34,9 @@ jobs:
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: uv run horizon --hours 36
+
+      - name: Remove cross-day duplicates
+        run: python scripts/dedup_across_days.py
 
       - name: Commit & push summaries
         run: |
