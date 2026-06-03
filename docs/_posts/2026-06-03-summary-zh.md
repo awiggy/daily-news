@@ -5,205 +5,86 @@ date: 2026-06-03
 lang: zh
 ---
 
-> 从 319 条内容中筛选出 67 条重要资讯。
+> 从 333 条内容中筛选出 65 条重要资讯。
 
 ---
 
-1. [黑客利用 Meta AI 机器人劫持 Instagram 账户](#item-1) ⭐️ 9.0/10
-2. [反向传播在一轮训练中破坏 V1 脑对齐](#item-2) ⭐️ 9.0/10
-3. [VSCode 漏洞实现一键窃取 GitHub 令牌](#item-3) ⭐️ 8.0/10
-4. [斯坦福研究：AI 在法律辅导中胜过法学教授](#item-4) ⭐️ 8.0/10
-5. [Pluto.jl 1.0：Julia 反应式笔记本发布](#item-5) ⭐️ 8.0/10
-6. [Kapa.ai 使用廉价视觉模型为 RAG 索引图像](#item-6) ⭐️ 8.0/10
-7. [微软发布 MAI-Thinking-1 和 MAI-Code-1-Flash 大语言模型](#item-7) ⭐️ 8.0/10
-8. [微软 Majorana 2 量子芯片将量子比特可靠性提升 1000 倍](#item-8) ⭐️ 8.0/10
-9. [玻璃变身 AI 芯片：可编程三维光子神经网络](#item-9) ⭐️ 8.0/10
-10. [三维芯片制造突破：多层单晶硅电路垂直集成](#item-10) ⭐️ 8.0/10
+1. [黑客利用 Meta AI 聊天机器人劫持 Instagram 账户](#item-1) ⭐️ 9.0/10
+2. [微软 Majorana 2 芯片将量子比特相干时间提升至 20 秒](#item-2) ⭐️ 9.0/10
+3. [MiniMax M3：稀疏注意力实现百万级上下文](#item-3) ⭐️ 9.0/10
+4. [反向传播一个 epoch 内破坏 V1 脑对齐](#item-4) ⭐️ 9.0/10
+5. [VSCode 漏洞实现一键窃取 GitHub 令牌](#item-5) ⭐️ 8.0/10
+6. [Pluto.jl 1.0：Julia 反应式笔记本](#item-6) ⭐️ 8.0/10
+7. [为 RAG 实现经济高效的图像索引](#item-7) ⭐️ 8.0/10
+8. [微软发布 MAI-Thinking-1 和 MAI-Code-1-Flash](#item-8) ⭐️ 8.0/10
+9. [玻璃变 AI 芯片：可编程三维光子神经网络](#item-9) ⭐️ 8.0/10
+10. [微软发布 7 款自研 AI 模型及二代量子芯片](#item-10) ⭐️ 8.0/10
 11. [英伟达在 GTC 2026 正式进军 PC 芯片市场](#item-11) ⭐️ 8.0/10
-12. [Minimax M3 被发现无政治审查](#item-12) ⭐️ 8.0/10
-13. [微软发布 Aion 1.0 Instruct 和 Aion 1.0 Plan 模型](#item-13) ⭐️ 8.0/10
-14. [本地 Qwen3.6-27B 在多智能体系统中替代 Claude](#item-14) ⭐️ 8.0/10
-15. [量化基准忽视工具调用有效性](#item-15) ⭐️ 8.0/10
-16. [20 个小语言模型在 6GB RTX 4050 上的基准测试](#item-16) ⭐️ 8.0/10
-17. [MiniMax 发布 MSA：百万上下文，4 倍加速](#item-17) ⭐️ 8.0/10
-18. [LightGBM 排名第一的特征因过拟合反而降低预测效果](#item-18) ⭐️ 8.0/10
-19. [微软发布七款全新 MAI 模型](#item-19) ⭐️ 8.0/10
-20. [新 AI 模型从单张图片生成模块化 UE5 环境](#item-20) ⭐️ 8.0/10
-21. [微软发布 137B 参数代码模型 MAI-Code-1-Flash](#item-21) ⭐️ 7.0/10
-22. [CT 扫描揭示比亚迪汽车零部件的高质量](#item-22) ⭐️ 7.0/10
+12. [Marvell 发布 102.4 Tbps 交换芯片 Teralynx T100](#item-12) ⭐️ 8.0/10
+13. [Nous Research 发布 Hermes Desktop，实现本地 AI 代理桌面控制](#item-13) ⭐️ 8.0/10
+14. [Minimax M3：无政治审查的中国大模型](#item-14) ⭐️ 8.0/10
+15. [Holo3.1：面向计算机使用代理的新视觉语言模型系列](#item-15) ⭐️ 8.0/10
+16. [本地 Qwen3.6-27B 在多智能体编排器中替代 Claude](#item-16) ⭐️ 8.0/10
+17. [为什么量化模型基准测试用困惑度，而不是工具调用有效性？](#item-17) ⭐️ 8.0/10
+18. [20 个小模型在 6GB RTX 4050 上的基准测试](#item-18) ⭐️ 8.0/10
+19. [AI 从单张图像生成模块化 UE5 环境](#item-19) ⭐️ 8.0/10
+20. [斯坦福研究：AI 在辅导中胜过法学教授](#item-20) ⭐️ 7.0/10
+21. [CT 扫描揭示比亚迪汽车零部件的高质量工程](#item-21) ⭐️ 7.0/10
+22. [用户因不想要的 AI 功能离开 Gmail，称赞 Fastmail 和 Migadu](#item-22) ⭐️ 7.0/10
 23. [江城实验室破解高端芯片供电难题](#item-23) ⭐️ 7.0/10
-24. [中国芯片雄心仍受技术“高墙”阻碍](#item-24) ⭐️ 7.0/10
-25. [SK 海力士计划五年内将内存晶圆产能翻番](#item-25) ⭐️ 7.0/10
-26. [Anthropic 提交里程碑式 AI 公司 IPO 申请](#item-26) ⭐️ 7.0/10
-27. [Nous Research 发布 Hermes Desktop，支持本地运行 LLM](#item-27) ⭐️ 7.0/10
-28. [工作沦为对 AI 的“是/否”监督](#item-28) ⭐️ 7.0/10
-29. [用户花 200 英镑将 V100 数据中心 GPU 装入游戏 PC](#item-29) ⭐️ 7.0/10
-30. [为何 AAA 游戏仍未使用 AI 代理作为 NPC？](#item-30) ⭐️ 7.0/10
-31. [Step 3.7 与 Qwen 模型简单编码基准测试](#item-31) ⭐️ 7.0/10
-32. [PapersWithCode 复活并支持浏览 CVPR 2026 论文](#item-32) ⭐️ 7.0/10
-33. [在 Linux 上将 Nvidia GPU 显存用作交换空间](#item-33) ⭐️ 6.0/10
-34. [讽刺网站嘲讽“自主”AI 炒作](#item-34) ⭐️ 6.0/10
-35. [Roku 为旧设备开源 LT 操作系统](#item-35) ⭐️ 6.0/10
-36. [用户因 AI 功能侵入性离开 Gmail，转向 Fastmail](#item-36) ⭐️ 6.0/10
-37. [研究发现摩亨佐达罗随时间推移变得更平等](#item-37) ⭐️ 6.0/10
-38. [HP 重新发布经典 HP-16C 程序员计算器](#item-38) ⭐️ 6.0/10
-39. [Datasette Agent MicroPython 阿尔法版发布](#item-39) ⭐️ 6.0/10
-40. [小环组件良率超 90%，订单排满三季度](#item-40) ⭐️ 6.0/10
-41. [AI 引发“芯片通胀”：特权买家抢占产能](#item-41) ⭐️ 6.0/10
-42. [长江存储 Q1 营收暴增 445%，全球 NAND 份额达 13%](#item-42) ⭐️ 6.0/10
-43. [国产芯片竞逐 AI 眼镜“物理智能”赛道](#item-43) ⭐️ 6.0/10
-44. [中国军方及“国防七子”长期寻求英伟达芯片](#item-44) ⭐️ 6.0/10
-45. [AI 需求推动 NAND 市场 2026 年 Q1 达 460 亿美元](#item-45) ⭐️ 6.0/10
-46. [Arm CEO：AI 芯片营收目标或提前实现](#item-46) ⭐️ 6.0/10
-47. [SpaceX 最快下周上市，融资高达 750 亿美元](#item-47) ⭐️ 6.0/10
-48. [生物技术或成为美中科技新战场](#item-48) ⭐️ 6.0/10
-49. [llama.cpp b9455 在双 3090 上运行 Qwen3.6-27B 达到 70+ t/s](#item-49) ⭐️ 6.0/10
-50. [Reddit 用户讨论 AI 代理的内存系统](#item-50) ⭐️ 6.0/10
-51. [深圳无人机执法交通规则](#item-51) ⭐️ 6.0/10
-52. [DeepRobotics DR02 提升负载与地形适应能力](#item-52) ⭐️ 6.0/10
-53. [伯尼·桑德斯提议 AI 公有化 50%](#item-53) ⭐️ 6.0/10
-54. [开发者分享使用 Clojure 一个月后的初步印象](#item-54) ⭐️ 5.0/10
-55. [开放维修数据标准面临低参与度](#item-55) ⭐️ 5.0/10
-56. [安凯微量产两款 AI 眼镜 SoC 芯片](#item-56) ⭐️ 5.0/10
-57. [OpenAI 在万亿 IPO 前押注基础设施](#item-57) ⭐️ 5.0/10
-58. [Anthropic IPO 在即，OpenAI 紧急追赶编程 AI 赛道](#item-58) ⭐️ 5.0/10
-59. [海辰储能发布 10 小时+储能系统，预计 2027 年交付](#item-59) ⭐️ 5.0/10
-60. [中企在欧洲拿下 1.5GWh 储能订单](#item-60) ⭐️ 5.0/10
-61. [上汽通用五菱获批建设首个新能源汽车国家质量标准实验室](#item-61) ⭐️ 5.0/10
-62. [西门子、英伟达、Fluence 推出 AI 数据中心标准方案](#item-62) ⭐️ 5.0/10
-63. [中国光伏储能实证平台发布 2025 年度数据](#item-63) ⭐️ 5.0/10
-64. [光伏教父警告储能转型风险](#item-64) ⭐️ 5.0/10
-65. [宁夏新型储能装机规模突破 1000 万千瓦](#item-65) ⭐️ 5.0/10
-66. [美国政府根据 CHIPS 法案直接购买科技股](#item-66) ⭐️ 5.0/10
-67. [市场上涨中的财富差距：多数投资者收益甚微](#item-67) ⭐️ 5.0/10
+24. [中国芯片雄心仍受技术壁垒阻碍](#item-24) ⭐️ 7.0/10
+25. [英伟达发布新 PC 芯片，黄仁勋押注全栈 AI](#item-25) ⭐️ 7.0/10
+26. [人类在环中沦为对 AI 的“是/否”监督员](#item-26) ⭐️ 7.0/10
+27. [预算数据中心 GPU 用于本地 LLM 推理](#item-27) ⭐️ 7.0/10
+28. [Mellum 和 Granite 嵌入模型现已在 llama.cpp 中得到支持](#item-28) ⭐️ 7.0/10
+29. [为什么还没有 AAA 游戏使用 AI 智能体 NPC？](#item-29) ⭐️ 7.0/10
+30. [PapersWithCode 复活并新增 CVPR 2026 浏览功能](#item-30) ⭐️ 7.0/10
+31. [将 Nvidia GPU 显存用作 Linux 交换空间](#item-31) ⭐️ 6.0/10
+32. [摩亨佐达罗在 4000 年间变得更平等](#item-32) ⭐️ 6.0/10
+33. [HP 重新发布经典 HP-16C 程序员计算器](#item-33) ⭐️ 6.0/10
+34. [Datasette Agent MicroPython Alpha 版发布](#item-34) ⭐️ 6.0/10
+35. [MicroPython-WASM 阿尔法版：通过 WebAssembly 实现沙盒化 Python](#item-35) ⭐️ 6.0/10
+36. [AI 引发“芯片通胀”，特权买家锁定产能](#item-36) ⭐️ 6.0/10
+37. [国产芯片竞逐 AI 眼镜“物理智能”赛道](#item-37) ⭐️ 6.0/10
+38. [长江存储 Q1 营收暴增 445%，全球 NAND 份额达 13%](#item-38) ⭐️ 6.0/10
+39. [SK 集团计划五年内将晶圆产能翻倍](#item-39) ⭐️ 6.0/10
+40. [中国军方及“国防七子”寻求英伟达芯片](#item-40) ⭐️ 6.0/10
+41. [黄仁勋暗示光连接是下一个万亿美元产业](#item-41) ⭐️ 6.0/10
+42. [宇树科技科创板 IPO 过会](#item-42) ⭐️ 6.0/10
+43. [Anthropic IPO 开启通用人工智能资本化大幕](#item-43) ⭐️ 6.0/10
+44. [生物技术：中美科技竞争的下一个战场](#item-44) ⭐️ 6.0/10
+45. [西门子、英伟达、Fluence 推出 AI 数据中心标准方案](#item-45) ⭐️ 6.0/10
+46. [llama.cpp b9455 在双 3090 上将 Qwen3.6-27B 提升至 70+ tk/s](#item-46) ⭐️ 6.0/10
+47. [DeepRobotics 发布 DR02，提升负载与地形适应能力](#item-47) ⭐️ 6.0/10
+48. [Roku 开源 LT 操作系统用于旧设备](#item-48) ⭐️ 5.0/10
+49. [使用 Clojure 一个月后的感想](#item-49) ⭐️ 5.0/10
+50. [开放维修数据标准旨在统一维修记录](#item-50) ⭐️ 5.0/10
+51. [粘贴文件编辑器原型模仿 Claude 功能](#item-51) ⭐️ 5.0/10
+52. [联发科下一代芯片采用英特尔 EMIB-T 封装](#item-52) ⭐️ 5.0/10
+53. [长江存储计划挑战三星本土市场](#item-53) ⭐️ 5.0/10
+54. [艾为电子以全链路策略进军 AI 眼镜市场](#item-54) ⭐️ 5.0/10
+55. [湖北实验室宣称突破芯片卡脖子技术](#item-55) ⭐️ 5.0/10
+56. [博泰车联拟收购光电芯片企业控股权](#item-56) ⭐️ 5.0/10
+57. [寒武纪能否成为中国版英伟达？](#item-57) ⭐️ 5.0/10
+58. [中国企业级 SSD 市场的进展与变局](#item-58) ⭐️ 5.0/10
+59. [SpaceX 被曝 IPO 定价 135 美元，募资 750 亿美元](#item-59) ⭐️ 5.0/10
+60. [沃什提议彻底改革美联储利率指引](#item-60) ⭐️ 5.0/10
+61. [海辰储能发布 10 小时+储能系统，预计 2027 年交付](#item-61) ⭐️ 5.0/10
+62. [上汽通用五菱获批建设首个新能源汽车国家质量标准实验室](#item-62) ⭐️ 5.0/10
+63. [Reddit 用户分享 AI 代理记忆系统偏好](#item-63) ⭐️ 5.0/10
+64. [美国政府通过《芯片法案》直接购买科技股](#item-64) ⭐️ 5.0/10
+65. [市场上涨财富创造：多数人收益有限](#item-65) ⭐️ 5.0/10
 
 ---
 
-<a id="item-3"></a>
-## [VSCode 漏洞实现一键窃取 GitHub 令牌](https://blog.ammaraskar.com/github-token-stealing/) ⭐️ 8.0/10
+<a id="item-2"></a>
+## [微软 Majorana 2 芯片将量子比特相干时间提升至 20 秒](https://news.google.com/rss/articles/CBMivAFBVV95cUxPVjFyMEg0aXRoZTVyLTVXSTBNUU1KQmYteWw1eXpXRVB4Z2JnUERZMlQyV3pSSzJGQ013R3JqOTlkR3luSndLRm5OT3JDaWVnTFpoTXlYeEhVTnAwbWFiRWcxb1lfTU51TU5PQ0lJbC1reUFsR3ZMN2dnREw2WTNxVDBFSUNrbkx1TFN6T2F4SXFmRUJYZ0NLeVBDR3pld0RJcmY4SjRFbmlJbGJja0t3WFk3NXRGSnBqM01jRw?oc=5) ⭐️ 9.0/10
 
-一名安全研究人员披露了 VSCode 嵌入式 Web 编辑器中的一个漏洞，攻击者可通过恶意扩展一键窃取 GitHub 令牌。 该漏洞暴露了 VSCode Webview 模型中的关键安全缺陷，可能危及数百万开发者的 GitHub 账户，并凸显了微软安全响应中的系统性问题。 该漏洞绕过了 VSCode Webview 中的发布者验证检查，使恶意扩展能够访问内部存储密钥并窃取 GitHub 令牌。研究人员批评 MSRC 在未充分确认的情况下悄悄修复了该漏洞。
+微软在 Build 开发者大会上发布了 Majorana 2 量子芯片，实现了 20 秒的量子比特相干时间，较上一代提升 1000 倍，并设定了在 2029 年前造出实用量子计算机的目标。 这一拓扑量子比特稳定性的突破可能加速容错量子计算的进程，有望在数年内推动密码学、药物发现和材料科学等领域的实际应用。 Majorana 2 芯片采用基于 Majorana 零模的拓扑量子比特，其固有稳定性优于传统量子比特。20 秒的相干时间较之前的 12 毫秒实现了巨大飞跃，且该芯片借助微软的 Discovery AI 进行设计。
 
-hackernews · ammar2 · 6月2日 15:29 · [社区讨论](https://news.ycombinator.com/item?id=48371562)
+rss · Google News - 半导体芯片 · 6月3日 02:30
 
-**背景**: VSCode 是一款基于 Electron 构建的流行代码编辑器，它使用 Webview 来渲染内容。嵌入式 Web 编辑器（vscode.dev）登录了 GitHub，从而产生了巨大的攻击面。该漏洞利用了 Webview 执行任意 JavaScript 的能力，如果沙箱隔离不当，可能导致完全远程代码执行。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://blog.ammaraskar.com/github-token-stealing/">1-Click GitHub Token Stealing via a VSCode Bug – Ammar's Blog</a></li>
-<li><a href="https://securityonline.info/github-token-stealing-bug-vscode/">GitHub Token Stealing Bug Exploits VSCode Webviews</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 评论者称赞了详细的报告，但对 MSRC 的处理方式表示失望，指出过去也存在类似问题。一些人分享了令牌被盗的个人经历，强调了纵深防御和令牌隔离的必要性。
-
-**标签**: `#security`, `#vscode`, `#github`, `#token theft`, `#exploit`
-
----
-
-<a id="item-4"></a>
-## [斯坦福研究：AI 在法律辅导中胜过法学教授](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/) ⭐️ 8.0/10
-
-斯坦福法学院的一项研究发现，在近 3000 次盲评中，法学教授更倾向于选择 AI 生成的合同法问题答案，而非同行教授所写的答案，占比达 75%。 这表明大型语言模型（LLM）可以有效辅导法学院学生，可能降低法律教育成本，并改变法律推理的教学方式。 该研究涉及来自美国多所法学院的 16 位法学教授，聚焦于一年级合同法问题；使用的 AI 模型很可能是 Gemini，但新闻稿中未明确说明。
-
-hackernews · berlianta · 6月2日 23:43 · [社区讨论](https://news.ycombinator.com/item?id=48377761)
-
-**背景**: 大型语言模型（LLM）是在海量文本数据上训练的人工智能系统，能够生成类似人类的文本。它们在包括法律分析在内的多个领域展现出潜力，但在法律等专业领域充当辅导者的能力此前尚不确定。这项研究为 LLM 能够生成高质量法律解释提供了实证证据。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/">AI Outperforms Law Professors in Stanford Law Study - SLS News and Announcements - Stanford Law School</a></li>
-<li><a href="https://www.reuters.com/legal/legalindustry/ai-beats-law-professors-stanford-tutoring-study-2026-06-02/">AI beats law professors in Stanford tutoring study | Reuters</a></li>
-<li><a href="https://www.forbes.com/sites/aliciapark/2026/06/02/stanford-study-finds-ai-beats-law-professors-75-of-the-time/">Stanford Study Finds AI Beats Law Professors 75% Of The Time</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 评论者提出了方法论上的担忧，指出样本量小（16 位教授）且教授表现差异大，可能降低统计效力。有人认为研究标题“AI 胜过教授”过于夸张，因为研究聚焦于辅导而非取代律师。还有人推测 AI 可能是在用于出题的同一教科书上训练的，从而获得了优势。
-
-**标签**: `#AI`, `#legal`, `#education`, `#LLM`, `#research`
-
----
-
-<a id="item-5"></a>
-## [Pluto.jl 1.0：Julia 反应式笔记本发布](https://discourse.julialang.org/t/pluto-1-0-release/137296) ⭐️ 8.0/10
-
-Pluto.jl 1.0，一个用于 Julia 编程语言的反应式笔记本环境，已正式发布，标志着多年开发后的一个重要版本里程碑。 此次发布巩固了 Pluto.jl 作为 Julia 生态系统中交互式计算和教育成熟工具的地位，实现了基于依赖关系自动更新单元格的反应式编程，类似于电子表格。 Pluto.jl 笔记本是反应式的，即更改变量或函数会自动重新运行所有依赖的单元格。1.0 版本包括稳定性改进和优化的用户界面。
-
-hackernews · fons-p · 6月2日 23:09 · [社区讨论](https://news.ycombinator.com/item?id=48377496)
-
-**背景**: Pluto.jl 是 Julia 的反应式笔记本环境，旨在使交互式计算简单且可重现。与传统的 Jupyter 笔记本不同，Pluto 自动跟踪单元格之间的依赖关系并实时更新输出。它通过麻省理工学院的“计算思维导论”课程而流行起来，该课程使用了 Pluto 笔记本。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/JuliaPluto/Pluto.jl">GitHub - JuliaPluto/Pluto.jl: 🎈 Simple reactive notebooks for Julia</a></li>
-<li><a href="https://plutojl.org/">Pluto.jl — interactive Julia programming environment</a></li>
-<li><a href="https://help.juliahub.com/juliahub/stable/tutorials/pluto_notebooks/">Pluto Notebooks · JuliaHub</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区成员称赞 Pluto 的教育影响，尤其是通过麻省理工学院的课程。然而，一些用户对输出出现在输入单元格上方表示不满，这打乱了从上到下的阅读顺序。其他人指出，现代 Web 框架使得语言特定的 UI 变得不那么必要。
-
-**标签**: `#Julia`, `#notebook`, `#reactive programming`, `#open source`
-
----
-
-<a id="item-6"></a>
-## [Kapa.ai 使用廉价视觉模型为 RAG 索引图像](https://www.kapa.ai/blog/how-we-index-images-for-rag) ⭐️ 8.0/10
-
-Kapa.ai 描述了一种为 RAG 索引图像的方法：在索引时使用廉价视觉模型生成文本描述，从而避免在运行时进行昂贵的多模态查询。 这种方法显著降低了需要处理图像的 RAG 系统的成本和延迟，使多模态检索在实际应用中更加实用和可扩展。 该方法使用廉价视觉模型（如 GPT-4o-mini）在索引时一次性描述图像，将描述存储为文本，并与文本块一起检索。这避免了在查询时将图像发送给模型，后者成本要高出 5-10 倍。
-
-hackernews · mooreds · 6月2日 16:13 · [社区讨论](https://news.ycombinator.com/item?id=48372239)
-
-**背景**: RAG（检索增强生成）通过在生成响应前从外部知识库检索相关信息来增强大语言模型。多模态 RAG 将此扩展到图像，但在查询时将图像发送给视觉模型成本高昂。在索引时预生成文本描述是一种称为“急切处理”的已知模式，常用于缩略图和媒体预处理。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">Retrieval - augmented generation - Wikipedia</a></li>
-<li><a href="https://aws.amazon.com/what-is/retrieval-augmented-generation/">What is RAG ? - Retrieval - Augmented Generation AI Explained - AWS</a></li>
-<li><a href="https://www.nouscortex.com/multimodal-ai-explained-how-machines-learn-to-see-hear-and-think/">Multimodal AI Explained: How Machines See, Hear and Think</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 评论者普遍认为这是一种明智且经济高效的方法。一些人指出，新模型可能会从图像中揭示更多信息，而对于需要视觉细节的查询，文本描述可能不够充分。其他人分享了类似经验，并建议在摄入时生成标题。
-
-**标签**: `#RAG`, `#image indexing`, `#LLM`, `#cost efficiency`, `#retrieval`
-
----
-
-<a id="item-7"></a>
-## [微软发布 MAI-Thinking-1 和 MAI-Code-1-Flash 大语言模型](https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything) ⭐️ 8.0/10
-
-微软宣布了两款新的大语言模型：MAI-Thinking-1，一个拥有 1 万亿参数、35 亿活跃参数的推理模型；以及 MAI-Code-1-Flash，一个拥有 1370 亿参数、5 亿活跃参数的代码模型，两者均采用稀疏混合专家架构。 这些模型声称在活跃参数远少于 Sonnet 4.6 等更大模型的情况下仍具有竞争力，可能降低推理成本并实现更广泛的部署。此外，对清洁、商业许可训练数据的关注也回应了 AI 领域日益增长的版权和数据伦理担忧。 MAI-Thinking-1 面向部分早期合作伙伴提供，而 MAI-Code-1-Flash 正在向 Visual Studio Code 中的 GitHub Copilot 个人用户推出。尽管声称使用清洁数据，技术论文显示 MAI-Thinking-1 仍基于专有网络爬取和 Common Crawl 进行训练，与其他主流大语言模型类似。
-
-rss · Simon Willison · 6月2日 22:21
-
-**背景**: 大语言模型通常以总参数量衡量，但混合专家模型每次只激活部分参数，从而提高效率。微软的新模型采用稀疏 MoE，以较低的活跃参数量实现高性能，这一趋势在 DeepSeek V4 等模型中也有体现。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://microsoft.ai/news/introducing-mai-thinking-1/">Introducing MAI - Thinking - 1 | Microsoft AI</a></li>
-<li><a href="https://microsoft.ai/news/introducingmai-code-1-flash/">Introducing MAI-Code-1-Flash - Microsoft AI</a></li>
-<li><a href="https://huggingface.co/blog/moe">Mixture of Experts Explained - Hugging Face</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#LLM`, `#Microsoft`, `#efficiency`, `#code generation`
-
----
-
-<a id="item-8"></a>
-## [微软 Majorana 2 量子芯片将量子比特可靠性提升 1000 倍](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sbFdDZ181MU82Z0VybS1RTV9ENjNGTzd4STZKeDRPMndtLTZ1UGFuZVROVzJreWlGYkMyQl9Wd082VEVHT3pyZw?oc=5) ⭐️ 8.0/10
-
-微软在 Build 2026 大会上发布了 Majorana 2 量子芯片，声称量子比特可靠性提升 1000 倍，错误率从 12 毫秒延长至 20 秒。 这一突破通过解决量子比特稳定性的关键问题，显著推进了实用量子计算的进程，微软已设定目标在 2029 年前交付商用级量子计算机。 该芯片采用微软的 Discovery 代理 AI 和材料改进设计，以加速开发。20 秒的相干时间相比之前毫秒级的稳定性实现了巨大飞跃。
-
-rss · Google News - 半导体芯片 · 6月3日 02:51
-
-**背景**: 量子计算依赖于量子比特，量子比特对环境噪声高度敏感，会快速失去量子态。提高量子比特的相干时间对于无错误执行复杂计算至关重要。微软的方法采用拓扑量子比特，理论上更稳定。
+**背景**: 量子相干时间是量子比特在退相干发生前维持量子态的时长。更长的相干时间能实现更可靠的量子计算。微软采用拓扑量子比特方案，这种量子比特理论上受环境噪声影响较小，是实现可扩展量子计算机的有前景路径。
 
 <details><summary>参考链接</summary>
 <ul>
@@ -214,274 +95,714 @@ rss · Google News - 半导体芯片 · 6月3日 02:51
 </ul>
 </details>
 
-**标签**: `#quantum computing`, `#Microsoft`, `#hardware`, `#reliability`
+**标签**: `#quantum computing`, `#Microsoft`, `#Majorana`, `#hardware`, `#breakthrough`
 
 ---
 
-<a id="item-9"></a>
-## [玻璃变身 AI 芯片：可编程三维光子神经网络](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yLTZBZHFjX3Rfa2lPeEsxQ3NmLVdqQkhVa1doYm9PM1dCc3ZVOFhvMkp6SmhzcHBmaUR6TDdkOGVTNjNvbFJwNGRSMTJfQlljQXdma2JhNA?oc=5) ⭐️ 8.0/10
+<a id="item-3"></a>
+## [MiniMax M3：稀疏注意力实现百万级上下文](https://www.reddit.com/r/MachineLearning/comments/1tvameq/minimax_dropped_a_new_attention_architecture_n/) ⭐️ 9.0/10
 
-科学家在玻璃中制造出可编程的三维光子神经网络，实现了片上高维信息处理。这一突破由《麻省理工科技评论》报道。 这一创新可能通过使用光而非电子进行超快、节能的计算，彻底改变 AI 硬件，在速度和并行性上超越电子芯片。它为片上直接处理高维数据开辟了新路径。 该光子神经网络是可编程的，并利用 3D 集成技术在玻璃中制造，支持可重构的光学电路。它利用体全息图和复用技术实现高维互连。
-
-rss · Google News - 半导体芯片 · 6月3日 03:56
-
-**背景**: 光子神经网络使用基于光的组件模拟生物神经网络，具有高速和低能耗的特点。可编程光子学允许动态重构光学电路，类似于电子 FPGA 的工作方式。3D 集成光子学通过堆叠多层来增加元件密度和路由复杂度。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Photonic_neural_network">Photonic neural network</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Programmable_photonics">Programmable photonics</a></li>
-<li><a href="https://www.emergentmind.com/topics/three-dimensional-integrated-photonics">3 D Integrated Photonics</a></li>
-
-</ul>
-</details>
-
-**标签**: `#photonic neural network`, `#AI hardware`, `#3D integrated photonics`, `#programmable photonics`, `#high-dimensional computing`
-
----
-
-<a id="item-11"></a>
-## [英伟达在 GTC 2026 正式进军 PC 芯片市场](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPaXg4VzBPTml6bkJJZnNhRTRMaUplOU1NdW5CanFIY3pPdWpuVDdtZV82N05fNWl4dE1IU3NTRFRqdEtaVVc0ZTRkRnFlOVVfbzdUeUFYYkItbklpbW9GNg?oc=5) ⭐️ 8.0/10
-
-在 GTC 2026 大会上，英伟达 CEO 黄仁勋宣布公司正式进军 PC 芯片市场，标志着其从传统的 GPU 和 AI 加速器业务向更广泛领域的重大扩张。 此举可能颠覆由英特尔和 AMD 主导的 PC 芯片行业，利用英伟达在 GPU 方面的专长，为 AI 增强型 PC 和游戏提供集成解决方案。 该消息是在 GTC 2026 黄仁勋的主题演讲中宣布的，但具体产品细节，如芯片名称或发布日期，尚未披露。
-
-rss · Google News - 半导体芯片 · 6月1日 19:37
-
-**背景**: 英伟达以其用于游戏、专业可视化和 AI 计算的 GPU 而闻名，并已扩展到数据中心和汽车市场。GTC（GPU 技术大会）是英伟达在 AI 和计算创新方面的旗舰活动。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Nvidia_GTC">Nvidia GTC - Wikipedia</a></li>
-<li><a href="https://www.nvidia.com/gtc/">Best of NVIDIA GTC: AI Breakthroughs and Recommended Sessions | NVIDIA GTC</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Nvidia">Nvidia - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#NVIDIA`, `#PC chips`, `#GTC`, `#hardware`
-
----
-
-<a id="item-13"></a>
-## [微软发布 Aion 1.0 Instruct 和 Aion 1.0 Plan 模型](https://www.reddit.com/r/LocalLLaMA/comments/1tvekng/microsoft_aion_10_instruct_and_aion_10_plan_models/) ⭐️ 8.0/10
-
-在 Microsoft Build 2026 上，微软宣布了两款新的设备端模型：Aion 1.0 Instruct，一个用于设备端文本智能的开源权重小语言模型（SLM）；以及 Aion 1.0 Plan，一个拥有 140 亿参数、32K 上下文长度的推理与工具调用模型。 Aion 1.0 Instruct 直接与苹果的 AFM-3B 设备端 SLM 竞争，并以开源权重发布，这对本地 LLM 社区意义重大。Aion 1.0 Plan 将强大的智能体推理能力直接带到 Windows 设备上，无需依赖云端即可实现复杂的本地工作流。 Aion 1.0 Instruct 专为设备端任务设计，如摘要、重写和意图检测，并与 Edge 浏览器集成。Aion 1.0 Plan 是一个 140 亿参数的模型，能够推理用户意图、调用工具、管理文件和编排子智能体，将随具备能力的 Windows 设备内置提供。
-
-reddit · r/LocalLLaMA · /u/Mysterious_Finish543 · 6月3日 04:23
-
-**背景**: 小语言模型（SLM）针对设备端推理进行了优化，与基于云的 LLM 相比，具有更低的延迟和更好的隐私性。基于可验证奖励的强化学习（RLVR）是一种通过基于可验证正确性提供奖励来训练推理模型的技术，如 DeepSeek-R1 中所见。社区猜测 Aion 1.0 Plan 可能基于微软的 Phi-4 模型，并额外进行了 RLVR 训练以支持工具使用。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://harmonyevans.com/a-dev-preview-of-a-new-slm-called-aion-1-0-instruct-language-detector-and-translator-apis-and-more-paul-thurrott-thurrott/">a dev preview of a new SLM called Aion - 1 . 0 - Instruct ... | Harmony Evans</a></li>
-<li><a href="https://arxiv.org/abs/2506.14245">[2506.14245] Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes Correct Reasoning in Base LLMs</a></li>
-<li><a href="https://www.promptfoo.dev/blog/rlvr-explained/">Reinforcement Learning with Verifiable Rewards Makes Models Faster, Not Smarter | Promptfoo</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: Reddit 社区对微软推出开源权重的设备端模型表示兴奋，但有人猜测 Aion 1.0 Plan 可能只是 Phi-4 加上 RLVR 工具使用训练，而非全新模型。总体情绪积极，大家对这些模型的实际表现很感兴趣。
-
-**标签**: `#Microsoft`, `#on-device LLM`, `#open-weights`, `#reasoning model`, `#SLM`
-
----
-
-<a id="item-15"></a>
-## [量化基准忽视工具调用有效性](https://www.reddit.com/r/LocalLLaMA/comments/1tvb7lq/why_do_we_benchmark_quants_on_perplexity_and/) ⭐️ 8.0/10
-
-一位 Reddit 用户指出，基于困惑度的量化基准可能误导工具调用的可靠性，认为在较低量化级别下，JSON 等结构化输出的退化速度比散文更快。 如果属实，许多根据困惑度选择量化级别的用户可能高估了量化模型在智能体任务中的适用性，导致生产环境中工具调用不可靠。 该用户特别呼吁进行基准测试，衡量不同量化级别（如 Q4_K_M）下有效工具调用的接受率（例如 JSON 解析成功率），而不仅仅是困惑度或散文质量。
-
-reddit · r/LocalLLaMA · /u/Substantial_Step_351 · 6月3日 01:52
-
-**背景**: 量化通过降低模型精度来节省内存并加速推理，Q4_K_M 是一种常见的 4 位格式。困惑度是语言模型质量的标准指标，但可能无法捕捉结构化输出中的错误，因为有效 token 序列非常稀疏。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://willitrunai.com/blog/quantization-q4-q8-fp16-explained">Quantization Explained: Q4 vs Q8 vs FP16 — What You Actually Lose | Will It Run AI Blog</a></li>
-<li><a href="https://arxiv.org/html/2402.16775v1">A Comprehensive Evaluation of Quantization Strategies for Large Language Models</a></li>
-<li><a href="https://www.sitepoint.com/quantization-explained-q4km-vs-awq-vs-fp16-for-local-llms/">Q4_K_M vs AWQ vs FP16 for Local LLMs</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 该帖子引发了大量讨论，许多评论者同意结构化输出退化研究不足，并分享了 Q4_K_M 下工具调用失败的经验证据。一些人建议对智能体任务使用约束解码或更高精度。
-
-**标签**: `#quantization`, `#benchmarking`, `#tool calling`, `#LLM evaluation`, `#agentic AI`
-
----
-
-<a id="item-17"></a>
-## [MiniMax 发布 MSA：百万上下文，4 倍加速](https://www.reddit.com/r/MachineLearning/comments/1tvameq/minimax_dropped_a_new_attention_architecture_n/) ⭐️ 8.0/10
-
-MiniMax 推出了 MiniMax Sparse Attention (MSA)，这是一种新颖的注意力架构，能够原生支持 100 万 token 的上下文窗口，相比 Flash-Sparse-Attention 实现 4 倍加速，解码阶段加速 15 倍。该模型 MiniMax M3 以开放权重发布，是首个同时具备前沿编码、百万上下文和原生多模态能力的模型。 MSA 解决了标准注意力的二次复杂度瓶颈，使长上下文推理在智能体编码和多模态任务等实际应用中变得可行。其开放权重发布允许社区进行实验和在此基础上构建，可能加速高效 Transformer 设计的进展。 MSA 采用“KV outer gather Q”方法，将 KV 块作为外层循环，确保连续内存读取且每个块仅读取一次。在完整百万上下文下，每 token 计算量降至前代模型的 1/20，预填充加速 9 倍，解码加速 15 倍。
+MiniMax 发布了 M3 模型系列，其核心是 MiniMax Sparse Attention (MSA) 架构，原生支持 100 万 token 的上下文窗口，速度比 Flash-Sparse-Attention 快 4 倍，解码速度提升 15 倍，并以开放权重形式发布。 这一突破使长上下文大语言模型在实际智能体任务中变得可行，开放权重允许社区在此基础上进一步开发，有望加速稀疏注意力和长上下文模型的研究。 MSA 采用“KV outer gather Q”方法，将 KV 块作为外层循环，确保连续内存访问且每个块只读取一次，在完整 100 万上下文下，每个 token 的计算量降至前代模型的 1/20。
 
 reddit · r/MachineLearning · /u/superintelligence03 · 6月3日 01:26
 
-**背景**: 标准注意力机制的计算量随序列长度呈二次方增长，导致长上下文计算成本高昂。稀疏注意力方法通过近似全注意力来降低成本，但通常会降低召回率。MSA 是一种新的稀疏注意力设计，在算子级别重构内存访问模式，在保持召回率的同时实现显著加速。
+**背景**: 标准注意力机制的计算复杂度随序列长度呈二次增长，导致长上下文成本高昂。稀疏注意力通过只关注部分 token 来降低复杂度，但常会降低召回率。Flash-Sparse-Attention 是此前一种高效的稀疏注意力实现。MSA 通过在算子层面重构内存访问模式，进一步改进了这一方法。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.minimax.io/blog/minimax-m3">MiniMax M3: Frontier Coding, 1M Context, Native Multimodality — All...</a></li>
+<li><a href="https://www.minimax.io/blog/minimax-m3">MiniMax M3: Frontier Coding, 1M Context, Native Multimodality</a></li>
 <li><a href="https://www.marktechpost.com/2026/06/01/minimax-releases-minimax-m3-with-msa-architecture-supporting-1m-token-context-native-multimodality-and-agentic-coding/">MiniMax Releases MiniMax M3 with MSA Architecture... - MarkTechPost</a></li>
 <li><a href="https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention">GitHub - Relaxed-System-Lab/Flash-Sparse-Attention: 🚀🚀 Efficient implementations of Native Sparse Attention</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: Reddit 讨论强调了 MSA 的技术新颖性，用户称赞其相比 Flash-Sparse-Attention 的 4 倍加速以及开放权重发布。一些评论者对百万上下文在当前应用中的实际益处提出疑问，而另一些人则对智能体和多模态用例的潜力表示兴奋。
+**社区讨论**: Reddit 上的讨论非常积极，用户称赞其技术创新和开放权重发布。一些评论者指出，100 万上下文对智能体应用是一个重要里程碑，另一些人则讨论了实际部署中的潜在限制以及进一步基准测试的必要性。
 
-**标签**: `#attention mechanism`, `#long context`, `#efficient transformers`, `#open-weight models`
+**标签**: `#attention mechanism`, `#LLM`, `#context window`, `#open-weight`, `#efficiency`
 
 ---
 
-<a id="item-19"></a>
-## [微软发布七款全新 MAI 模型](https://www.reddit.com/r/singularity/comments/1tv10ix/building_a_hillclimbing_machine_launching_seven/) ⭐️ 8.0/10
+<a id="item-5"></a>
+## [VSCode 漏洞实现一键窃取 GitHub 令牌](https://blog.ammaraskar.com/github-token-stealing/) ⭐️ 8.0/10
 
-微软宣布发布七款新的 MAI 模型，包括用于语音转文本的 MAI-Transcribe-1，作为其构建“爬山机器”以持续改进 AI 的一部分。 此次发布标志着微软积极扩展其 AI 模型组合，可能在现实世界 AI 应用领域挑战 OpenAI 和谷歌等竞争对手。 MAI 模型专为现实世界智能设计，其中 MAI-Transcribe-1 针对会议和通话等嘈杂环境进行了优化。“爬山机器”比喻指的是通过更多计算、更好数据和更精确评估进行迭代改进。
+一名安全研究人员披露了 Visual Studio Code 嵌入式 Web 编辑器中的一个漏洞，攻击者只需点击一次即可窃取 GitHub OAuth 令牌，从而获得对私有仓库的读写权限。 该漏洞对开发者构成严重风险，因为只需点击链接即可窃取令牌，无需其他用户交互，可能危及令牌可访问的所有仓库。 该利用方法利用了 VSCode 的 Web 编辑器（github.dev）和恶意扩展，通过绑定键盘快捷键绕过发布者信任检查，并结合 CSP 绕过安装扩展。
 
-reddit · r/singularity · /u/Recoil42 · 6月2日 19:13
+hackernews · ammar2 · 6月2日 15:29 · [社区讨论](https://news.ycombinator.com/item?id=48371562)
 
-**背景**: 爬山算法是一种通过逐步微调来优化解决方案的算法，类似于微软持续改进 AI 模型的方法。MAI 模型是微软的专有 AI 模型，与其与 OpenAI 的合作关系不同。
+**背景**: Visual Studio Code 提供基于 Web 的版本（vscode.dev 或 github.dev），可在浏览器中运行并用于编辑 GitHub 仓库。当用户在 Web 编辑器中打开仓库时，它会自动使用用户的 GitHub OAuth 令牌进行身份验证，该令牌存储在浏览器的本地存储中。该漏洞允许攻击者构造恶意链接，点击后会在 Web 编辑器中打开仓库并执行一系列步骤以窃取令牌。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/">Building a hill-climbing machine: Launching seven new MAI models | Microsoft AI</a></li>
-<li><a href="https://microsoft.ai/models/">Models | Microsoft AI</a></li>
-<li><a href="https://medium.com/data-science-in-your-pocket/mai-models-by-microsoft-a-simple-story-of-transcribe-talk-and-create-8e8974502a84">MAI Models by Microsoft : A Simple Story of Transcribe... | Medium</a></li>
+<li><a href="https://blog.ammaraskar.com/github-token-stealing/">1-Click GitHub Token Stealing via a VSCode Bug – Ammar's Blog</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48371562">1-Click GitHub Token Stealing via a VSCode Bug | Hacker News</a></li>
+<li><a href="https://cybersecuritynews.com/1-click-github-token-vulnerability/">1-Click GitHub Token Vulnerability Lets Attackers Steal Users' OAuth Tokens</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 未提供 Reddit 讨论内容，因此无法总结社区观点。
+**社区讨论**: 评论者称赞了详细的漏洞分析，但批评微软安全响应中心（MSRC）反应迟缓且悄悄修复漏洞。一些人指出，根本原因在于 Web 编辑器始终登录 GitHub，从而产生了巨大的攻击面。
 
-**标签**: `#AI`, `#Microsoft`, `#MAI models`, `#machine learning`, `#industry news`
+**标签**: `#security`, `#vscode`, `#github`, `#token-theft`, `#exploit`
+
+---
+
+<a id="item-6"></a>
+## [Pluto.jl 1.0：Julia 反应式笔记本](https://discourse.julialang.org/t/pluto-1-0-release/137296) ⭐️ 8.0/10
+
+Pluto.jl 已达到 1.0 版本，标志着 Julia 编程语言的反应式笔记本环境进入稳定版。 这一里程碑巩固了 Pluto.jl 作为 Julia 交互式计算和数据科学成熟工具的地位，实现了当依赖项变化时单元格自动更新的反应式工作流。 Pluto.jl 笔记本是反应式的，即更改一个单元格会自动重新执行所有依赖单元格。它还包含用于实时小部件的 @bind 宏，并支持通过 SliderServer 托管。
+
+hackernews · fons-p · 6月2日 23:09 · [社区讨论](https://news.ycombinator.com/item?id=48377496)
+
+**背景**: Pluto.jl 是 Julia 的开源反应式笔记本环境，类似于 Jupyter 但具有自动反应性。它通过麻省理工学院的“计算思维导论”课程而广受欢迎，该课程使用 Pluto 笔记本进行交互式学习。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/JuliaPluto/Pluto.jl">GitHub - JuliaPluto/ Pluto . jl : Simple reactive notebooks for Julia</a></li>
+<li><a href="https://forem.julialang.org/ifihan/plutojl-the-interactive-julia-language-notebook-58p4">Pluto . jl : The interactive Julia Language notebook - Julia Community</a></li>
+<li><a href="https://medium.com/swlh/a-guide-to-building-reactive-notebooks-for-scientific-computing-with-julia-and-pluto-jl-1a2c0c455d51">A Guide to Building Reactive Notebooks for Scientific... | Medium</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论强调了 Pluto 在麻省理工学院爆款课程中的作用以及托管交互式笔记本的实用性。然而，一些用户对输出出现在输入单元格上方感到不适，这破坏了从上到下的阅读顺序。
+
+**标签**: `#Julia`, `#notebook`, `#reactive programming`, `#data science`, `#open source`
+
+---
+
+<a id="item-7"></a>
+## [为 RAG 实现经济高效的图像索引](https://www.kapa.ai/blog/how-we-index-images-for-rag) ⭐️ 8.0/10
+
+Kapa.ai 描述了一种为 RAG 索引图像的方法：在索引时使用廉价的视觉模型生成文本描述，从而避免在检索时进行昂贵的多模态查询。 这种方法显著降低了将图像纳入 RAG 系统的成本和延迟，使其在实际应用中变得可行，因为多模态检索通常过于昂贵。 该方法在索引时使用廉价的视觉模型（例如小型 VLM）一次性描述每张图像，将描述存储为文本，并在查询时与普通文本块一起检索。
+
+hackernews · mooreds · 6月2日 16:13 · [社区讨论](https://news.ycombinator.com/item?id=48372239)
+
+**背景**: RAG（检索增强生成）是一种技术，AI 模型在生成回答前先从数据库中检索相关信息。传统的 RAG 系统只处理文本，但许多文档包含图像、图表或图形。多模态模型可以直接处理图像，但在查询时成本高且速度慢。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.reddit.com/r/explainlikeimfive/comments/1p39v3g/eli5_what_is_a_is_retrievalaugmented_generation/">ELI5 What is a is Retrieval-Augmented Generation ...</a></li>
+<li><a href="https://huggingface.co/blog/vlms">Vision Language Models Explained</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍认为这种方法聪明且成本效益高，有些人表示他们已经使用类似方法多年。担忧包括 LLM 的非确定性，新模型可能揭示图像的不同信息，以及需要作者更新标题。
+
+**标签**: `#RAG`, `#image indexing`, `#vision models`, `#retrieval`, `#cost efficiency`
+
+---
+
+<a id="item-8"></a>
+## [微软发布 MAI-Thinking-1 和 MAI-Code-1-Flash](https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything) ⭐️ 8.0/10
+
+微软宣布了两款新的大语言模型：MAI-Thinking-1，一个拥有 1 万亿参数、35 亿活跃参数的推理模型；以及 MAI-Code-1-Flash，一个拥有 1370 亿参数、5 亿活跃参数的代码模型，两者均采用稀疏混合专家架构。 这些模型代表了微软在不依赖 OpenAI 的情况下构建有竞争力的内部 AI 模型的努力，针对推理和代码生成，声称以更低成本实现强大性能，这可能重塑 AI 模型格局并影响 GitHub Copilot 用户。 MAI-Thinking-1 拥有 256,000 个 token 的上下文窗口，从头开始使用商业许可数据进行训练，未从第三方模型蒸馏；而 MAI-Code-1-Flash 专为 GitHub Copilot 和 VS Code 构建，正在向个人用户推出。
+
+rss · Simon Willison · 6月2日 22:21
+
+**背景**: 大语言模型（LLM）是在海量文本数据上训练、能生成类似人类文本的 AI 系统。混合专家（MoE）是一种架构，每个 token 仅激活部分参数，从而在保持低推理成本的同时实现大总参数量。微软此前依赖 OpenAI 的模型，但现在正在开发自己的模型。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://microsoft.ai/news/introducing-mai-thinking-1/">Introducing MAI - Thinking - 1 | Microsoft AI</a></li>
+<li><a href="https://microsoft.ai/news/introducingmai-code-1-flash/">Introducing MAI - Code - 1 - Flash | Microsoft AI</a></li>
+<li><a href="https://dev.to/akaranjkar08/microsoft-mai-thinking-1-mai-code-1-flash-developer-guide-to-7-new-mai-models-k4m">Microsoft MAI - Thinking - 1 & MAI-Code-1-Flash... - DEV Community</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论对这些模型的性能表示怀疑，指出 MAI-Code-1-Flash 在 SWE-bench pro 上的得分（51%）仅略高于 Qwen3.6-35B-A3B（49.5%），并且像 Haiku 这样的小型云模型通常对严肃编程无效。一些用户批评了 GitHub Copilot 最近的定价变化。
+
+**标签**: `#LLM`, `#Microsoft`, `#AI`, `#reasoning`, `#code generation`
+
+---
+
+<a id="item-9"></a>
+## [玻璃变 AI 芯片：可编程三维光子神经网络](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yLTZBZHFjX3Rfa2lPeEsxQ3NmLVdqQkhVa1doYm9PM1dCc3ZVOFhvMkp6SmhzcHBmaUR6TDdkOGVTNjNvbFJwNGRSMTJfQlljQXdma2JhNA?oc=5) ⭐️ 8.0/10
+
+科学家利用玻璃制造出可编程的三维光子神经网络，实现了片上高维信息处理。这一突破由《麻省理工科技评论》报道。 这一创新可能通过实现更快、更节能的高维数据处理，超越传统电子芯片的局限，从而革新 AI 硬件。它为 AI 和数据密集型应用中的集成光子计算开辟了新路径。 该神经网络利用 3D 打印技术在玻璃内部构建密集、可重构的光子电路。它利用高维光学计算直接在芯片上执行复杂操作。
+
+rss · Google News - 半导体芯片 · 6月3日 03:56
+
+**背景**: 光子神经网络利用光而非电进行计算，具有速度和能效优势。传统的二维光子电路因密集连接需求面临可扩展性挑战；三维集成通过垂直堆叠层来解决这一问题。可编程光子集成电路允许像电子 FPGA 一样针对不同任务进行重构。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.photoniques.com/articles/photon/pdf/2020/05/photon2020104p34.pdf">Optical neural networks : The 3 D connection</a></li>
+<li><a href="https://patents.google.com/patent/US20230306253A1/en">US20230306253A1 - 3 D Photonic Neural Network - Google Patents</a></li>
+<li><a href="https://arxiv.org/pdf/2605.14690">Integrated photonic computing : towards high - dimensional ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#photonic neural network`, `#AI hardware`, `#3D integrated photonics`, `#high-dimensional computing`, `#optical computing`
+
+---
+
+<a id="item-10"></a>
+## [微软发布 7 款自研 AI 模型及二代量子芯片](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWlZaTzZraHdLdU5LSV81aTNJLURtRnlYQWFYQmI3OHZMblJnQ1Y4UFBZRWd3WGxsLUEzVHNXaHVlRlhaUXR5TkY5Y1RsV2cyVEc0MzRlaHB6ZXFEV2NuWA?oc=5) ⭐️ 8.0/10
+
+微软在 Build 2026 大会上发布了 7 款自研 AI 模型，包括设备端模型 Aion 1.0 Instruct 和 Aion 1.0 Plan，以及第二代 Majorana 2 量子芯片。 这标志着将强大的 AI 和量子计算带到本地设备的重要一步，可能重塑与苹果和谷歌在设备端 AI 领域的竞争格局，并推动实用量子计算的发展。 Aion 1.0 Instruct 是一款专为设备端任务（如摘要和改写）设计的小型语言模型，而 Aion 1.0 Plan 是一款 140 亿参数的推理模型，具有 32K 上下文长度，支持智能体工作流。Majorana 2 芯片据称比上一代好 1000 倍。
+
+rss · Google News - 半导体芯片 · 6月3日 05:38
+
+**背景**: 设备端 AI 模型直接在用户硬件上运行，可提升隐私性并降低延迟。量子计算利用量子比特执行超越经典计算机的计算。微软之前的 Majorana 1 芯片依赖于理论上的物质状态，而 Majorana 2 旨在实现更实用的可靠性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://windowsforum.com/threads/microsoft-aion-1-0-on-device-ai-for-windows-11-instruct-plan-and-new-apis.421596/">Microsoft Aion 1 . 0 : On-Device AI for Windows 11— Instruct , Plan, and...</a></li>
+<li><a href="https://www.newsbytesapp.com/news/science/2-microsoft-aion-1-0-ai-models-revealed-at-build-2026/story">Microsoft Build 2026: Aion 1 . 0 Instruct , Plan AI models announced</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/quantum-computing/microsoft-announces-majorana-2-quantum-computing-chip-claims-a-practical-machine-will-come-in-2029">Microsoft announces Majorana 2 quantum computing chip — claims...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Reddit 用户对 Aion 1.0 Instruct 开放权重并与苹果 AFM-3B 竞争表示兴奋，但质疑 Aion 1.0 Plan 是否只是重新训练的 Phi-4 还是全新模型。总体情绪积极，但对技术细节充满好奇。
+
+**标签**: `#Microsoft`, `#AI models`, `#quantum computing`, `#chip`, `#technology`
+
+---
+
+<a id="item-11"></a>
+## [英伟达在 GTC 2026 正式进军 PC 芯片市场](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPaXg4VzBPTml6bkJJZnNhRTRMaUplOU1NdW5CanFIY3pPdWpuVDdtZV82N05fNWl4dE1IU3NTRFRqdEtaVVc0ZTRkRnFlOVVfbzdUeUFYYkItbklpbW9GNg?oc=5) ⭐️ 8.0/10
+
+在 GTC 2026 黄仁勋的主题演讲中，英伟达正式宣布进军 PC 芯片市场，推出全新的 RTX Spark 超级芯片，将于今年秋季开始应用于笔记本电脑和台式机。 此举直接挑战英特尔和 AMD 在 PC 处理器市场的主导地位，通过将 AI 优化芯片引入主流 PC，可能重塑整个行业格局。 RTX Spark 超级芯片采用类似智能手机系统级芯片的设计，融合了 CPU 和 AI 能力，将首发于领先 PC 制造商的 Windows 笔记本电脑和台式机中。
+
+rss · Google News - 半导体芯片 · 6月1日 19:37
+
+**背景**: 英伟达长期以来在游戏和数据中心 AI 的 GPU 市场占据主导地位，但此前并未涉足 PC CPU 市场。RTX Spark 代表了其向更广泛 PC 生态系统的战略扩张，利用英伟达的 AI 技术优势与英特尔和 AMD 竞争。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-06-01/nvidia-enters-windows-laptop-market-taking-on-intel-and-amd">Nvidia Is Taking On Intel and AMD With AI Chip for... - Bloomberg</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Deep_Learning_Super_Sampling">Deep Learning Super Sampling - Wikipedia</a></li>
+<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pwMGY2YkVSRUpfTTB4UnFYRk5TZ0FQAQ?hl=en-NG&gl=NG&ceid=NG:en">Nvidia enters PC market with RTX Spark artificial intelligence chips ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#NVIDIA`, `#PC chips`, `#GTC`, `#hardware`, `#market entry`
+
+---
+
+<a id="item-12"></a>
+## [Marvell 发布 102.4 Tbps 交换芯片 Teralynx T100](https://news.google.com/rss/articles/CBMisgFBVV95cUxQbHFDUEpncmVrajZkbk9zeUpkVWxLX3lVVjV4UTB4RDdSalZfUWZ5UkIzY1NZbTRXY1hpRWJOSlRtU1locEZyN2EwaTRXcWFuOTEwWTA1aDk2ZlEzVy1sVFpPREZ6WXN5NlVGSGhWeDZfalh0VDRiU0FtNjJfLXoyb2JzaUdqaGJDbzFkRWhNeUJPSVY4c3c2NHFWRnFKWUl3RWNFTk5FaUlGSHV1eXZldUpn?oc=5) ⭐️ 8.0/10
+
+Marvell 发布了 Teralynx T100，这是业界首款专为 AI 时代设计的 102.4 Tbps 交换芯片，宣称相比竞品节能 25%。 该芯片满足了 AI 集群和数据中心对巨大带宽的需求，在提供交换容量飞跃的同时降低了功耗，这对可持续扩展 AI 基础设施至关重要。 Teralynx T100 是一款采用 3nm 工艺的单片设备，去除了传统元件以优化 AI 工作负载。它直接与同样提供 102.4 Tbps 交换容量的 Broadcom Tomahawk 6 竞争。
+
+rss · Google News - 半导体芯片 · 6月3日 02:40
+
+**背景**: 交换芯片是网络交换机的核心，负责在数据中心服务器之间路由数据。随着 AI 模型规模增长，网络必须处理海量并行数据传输，从而推动了对更高带宽和更低延迟的需求。Marvell 通过收购 Innovium 获得的 Teralynx 系列正是瞄准这一高性能网络细分市场。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.marvell.com/products/data-center-switches.html">Data Center Switches | Enabling the AI cloud with High-bandwidth, low ...</a></li>
+<li><a href="https://www.theregister.com/networks/2026/06/02/marvell-enters-the-ai-network-fray-with-1024-tbps-switch-silicon/5250180">Marvell enters the AI network fray with 102.4 Tbps switch silicon</a></li>
+<li><a href="https://www.storagereview.com/news/broadcom-ships-tomahawk-6-switch-series-unleashing-102-4-tbps-switching-capacity">Broadcom Ships Tomahawk 6 Switch Series, Unleashing 102.4 Tbps ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#networking`, `#switch chip`, `#Marvell`, `#energy efficiency`, `#data center`
+
+---
+
+<a id="item-13"></a>
+## [Nous Research 发布 Hermes Desktop，实现本地 AI 代理桌面控制](https://www.reddit.com/r/LocalLLaMA/comments/1tve7qu/nous_research_hermes_desktop/) ⭐️ 8.0/10
+
+Nous Research 发布了 Hermes Desktop，这是一款原生 macOS 应用，将 Hermes Agent 的自主学习、任务调度和多平台消息等自主能力集成到图形界面中，无需使用命令行。 此次发布使非技术用户也能使用强大的本地 LLM 桌面自动化功能，有望加速 AI 代理在日常生产力任务中的普及，同时保持数据处理在设备本地进行。 Hermes Desktop 包含会话、工作流、文件管理、技能、定时任务、看板、使用统计和集成终端等功能，全部集成在原生 Mac 应用中。它采用闭环学习机制，代理无需云连接即可随时间自我改进。
+
+reddit · r/LocalLLaMA · /u/zxyzyxz · 6月3日 04:06
+
+**背景**: Hermes Agent 是 Nous Research 开发的开源 AI 代理，能够自主控制计算机、从用户交互中学习并执行复杂任务。此前它仅作为命令行工具提供，限制了可访问性。此类桌面代理是本地、隐私保护型 AI 自动化大趋势的一部分，与 Anthropic 的 Claude Computer Control 等云端方案竞争。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://hermes-ai.net/desktop/">Hermes Desktop App — The Self-Improving AI Agent for Mac...</a></li>
+<li><a href="https://dodo-reach.github.io/hermes-desktop/">Hermes Desktop</a></li>
+<li><a href="https://hermesagents.cc/">Hermes Desktop - Your AI Agent, Always Improving</a></li>
+
+</ul>
+</details>
+
+**标签**: `#local-llm`, `#AI-agents`, `#open-source`, `#desktop-automation`, `#Nous-Research`
+
+---
+
+<a id="item-15"></a>
+## [Holo3.1：面向计算机使用代理的新视觉语言模型系列](https://www.reddit.com/r/LocalLLaMA/comments/1tvg5x5/holo31_35b9b4b08b_qwen_35_finetunes/) ⭐️ 8.0/10
+
+H Company 发布了 Holo3.1，这是一个面向计算机使用代理的视觉语言模型系列，支持网页、桌面和移动端自动化，具备原生函数调用功能，并通过量化检查点实现本地部署。 Holo3.1 将 AI 代理的应用范围扩展至移动端，并支持高效的本地部署，使开发者能够以更低成本跨平台构建和运行自动化代理。 该模型系列参数规模从 0.8B 到 35B-A3B，基于 Qwen 3.5，并为最大模型提供了 BF16、FP8、NVFP4 和 Q4 GGUF 等量化格式。
+
+reddit · r/LocalLLaMA · /u/jacek2023 · 6月3日 05:44
+
+**背景**: 视觉语言模型（VLM）结合视觉和文本理解能力，用于解析截图并执行操作。计算机使用代理可自动化填写表单、跨应用导航等任务。Holo3.1 在先前 Holo3 版本的基础上，增加了移动端支持并引入原生函数调用，以更好地与代理框架集成。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://huggingface.co/Hcompany/Holo3-35B-A3B">Hcompany/Holo3-35B-A3B - Hugging Face</a></li>
+<li><a href="https://ai-engineering-trend.medium.com/holo3-the-ai-model-that-outperforms-gpt-5-4-at-one-tenth-the-cost-for-computer-usage-24b1380f4865">Holo3: The AI Model That Outperforms GPT-5.4 at One-Tenth the Cost for ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Reddit 讨论活跃，用户称赞该模型的性能和本地部署能力，同时也有人对基准测试对比和实际使用场景提出疑问。
+
+**标签**: `#vision-language model`, `#computer use agent`, `#local deployment`, `#Qwen finetune`, `#AI agent`
+
+---
+
+<a id="item-17"></a>
+## [为什么量化模型基准测试用困惑度，而不是工具调用有效性？](https://www.reddit.com/r/LocalLLaMA/comments/1tvb7lq/why_do_we_benchmark_quants_on_perplexity_and/) ⭐️ 8.0/10
+
+一位 Reddit 用户质疑为什么量化 LLM 的基准测试使用困惑度和散文质量，而不是工具调用 JSON 等结构化输出的有效性，认为在较低量化级别下结构化输出比散文更早退化。 如果属实，这意味着当前基于困惑度的指标会误导用户对代理应用可用量化级别的判断，可能导致许多人部署在工具调用上失败而文本表现看似正常的模型。 用户假设在 Q4_K_M 级别下，模型仍能写出可读散文，但可能生成无效 JSON（例如缺少括号或幻觉字段名），因为散文每个 token 有大量有效延续，而模式只有少数。
+
+reddit · r/LocalLLaMA · /u/Substantial_Step_351 · 6月3日 01:52
+
+**背景**: 量化降低模型精度（例如从 FP16 到 4 位）以减少内存和计算需求，但会引入误差。困惑度衡量模型预测文本的能力，但不反映结构正确性。工具调用要求模型输出符合模式的合法 JSON，对微小错误更敏感。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1tvb7lq/why_do_we_benchmark_quants_on_perplexity_and/">Why do we benchmark quants on perplexity and prose but never on ...</a></li>
+<li><a href="https://mychen76.medium.com/agentic-quantized-models-benchmark-evaluation-aqbe-4fc23425360d">Agentic Quantized Models Benchmark / Evaluation (AQBE) - Minyang Chen</a></li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1s88x5g/is_q4_k_m_the_best_practical_quantization_method/">Is Q4_K_M the best practical quantization method - Reddit</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Reddit 讨论基本认同这一前提，用户分享量化模型在结构化输出上失败的轶事。一些人建议使用约束解码或基于语法的采样来缓解问题，另一些人呼吁建立新的基准测试，如跨量化级别的 JSON 解析成功率。
+
+**标签**: `#quantization`, `#benchmarking`, `#tool calling`, `#structured output`, `#LLM evaluation`
+
+---
+
+<a id="item-20"></a>
+## [斯坦福研究：AI 在辅导中胜过法学教授](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/) ⭐️ 7.0/10
+
+斯坦福法学院的一项研究发现，当法学教授对一年级合同法问题的匿名答案进行评估时，他们约 75%的情况下更倾向于 AI 生成的回答而非教授生成的回答。 这表明大型语言模型可以作为法学学生有效且低成本的辅导工具，可能降低法律教育的成本。然而，该研究被表述为“AI 胜过教授”引发了关于统计严谨性和过度解读的争论。 该研究仅涉及 16 名教授，且他们的偏好显示出高方差，引发了对统计效力的担忧。所使用的 AI 模型很可能是 Gemini，它可能接受了与问题来源相同的教科书的训练。
+
+hackernews · berlianta · 6月2日 23:43 · [社区讨论](https://news.ycombinator.com/item?id=48377761)
+
+**背景**: 像 GPT-4 和 Gemini 这样的大型语言模型能够生成类似人类的文本，并越来越多地应用于教育领域。这项研究专门考察了它们作为法学学生辅导工具的潜力，而非取代律师或教授。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.forbes.com/sites/aliciapark/2026/06/02/stanford-study-finds-ai-beats-law-professors-75-of-the-time/">AI Beat Law Professors At Answering Questions, Study Finds—And It...</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48377761">AI outperforms law professors in Stanford Law study | Hacker News</a></li>
+<li><a href="https://practicesource.com/ai-outperforms-law-professors-in-new-stanford-law-study-by-law-professor-julian-nyarko/">AI Outperforms Law Professors in new Stanford Law Study by Law ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Hacker News 上的评论者批评该研究样本量小、方差高，称标题具有误导性。一些人指出 AI 可能接受了相同教科书的训练，并将结果重新解读为对辅导而非替代的积极意义。
+
+**标签**: `#AI`, `#legal tech`, `#LLM`, `#education`, `#research`
 
 ---
 
 <a id="item-21"></a>
-## [微软发布 137B 参数代码模型 MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/) ⭐️ 7.0/10
+## [CT 扫描揭示比亚迪汽车零部件的高质量工程](https://www.lumafield.com/scan-of-the-month/byd) ⭐️ 7.0/10
 
-微软发布了 MAI-Code-1-Flash，一个 137B 参数的代码生成模型，现已集成到 GitHub Copilot 中，并通过 Fireworks AI、Baseten 和 OpenRouter 等合作伙伴提供。 此次发布标志着微软在竞争激烈的代码模型领域的布局，但社区反馈质疑其性价比——与 Qwen3.6-35B-A3B 等更小、更便宜的模型相比，后者以极低的成本实现了相近的性能。 该模型总参数量为 137B，每次推理激活 5B 参数，在 SWE-bench Pro 上得分为 51%，而 Qwen3.6-35B-A3B 得分为 49.5%。微软将其与 Claude Haiku 进行对比，但社区指出 Haiku 并非强基准。
+Lumafield 发布了比亚迪汽车零部件的详细 CT 扫描，包括钥匙和悬挂部件，展示了其内部设计和制造质量。 这一分析通过提供比亚迪工程卓越的客观证据，挑战了关于中国汽车制造的负面刻板印象，可能影响消费者认知和行业声誉。 CT 扫描显示控制臂和副车架结构坚固，钥匙中隐藏了机械备用钥匙，体现了周到的设计。比亚迪从锂矿开采到港口垂直整合，内部生产 75%的零部件。
 
-hackernews · EvanZhouDev · 6月2日 18:47 · [社区讨论](https://news.ycombinator.com/item?id=48374466)
+hackernews · viasfo · 6月2日 20:30 · [社区讨论](https://news.ycombinator.com/item?id=48375824)
 
-**背景**: 代码生成模型是辅助开发者编写或建议代码的 AI 系统。MAI-Code-1-Flash 是一款“小规模”模型，专为日常开发工作流中的快速高效辅助而设计，采用混合专家（MoE）架构，每次推理仅激活部分参数，以平衡性能与成本。
+**背景**: 工业 CT 扫描是一种无损检测方法，可创建内部结构的 3D 图像，常用于制造中的质量控制和故障分析。比亚迪是一家中国汽车制造商，已成为全球最大的电动汽车生产商，但在某些市场仍面临对制造质量的质疑。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://microsoft.ai/news/introducingmai-code-1-flash/">Introducing MAI-Code-1-Flash | Microsoft AI</a></li>
-<li><a href="https://github.blog/changelog/2026-06-02-mai-code-1-flash-is-now-available-for-github-copilot/">MAI-Code-1-Flash is now available for GitHub Copilot</a></li>
-<li><a href="https://dev.to/akaranjkar08/microsoft-mai-thinking-1-mai-code-1-flash-developer-guide-to-7-new-mai-models-k4m">Microsoft MAI -Thinking- 1 & MAI-Code-1-Flash : Developer Guide ...</a></li>
+<li><a href="https://www.or3d.co.uk/knowledge-base/the-basics-ct-scanning/">The Basics: CT Scanning - OR3D</a></li>
+<li><a href="https://www.swri.org/industry/sensors-systems-nondestructive-evaluation-nde/industrial-ct-scanning">Industrial CT Scanning | Southwest Research Institute</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论褒贬不一：部分用户质疑该模型相对于其规模和成本的性能，指出 Qwen3.6-35B-A3B 等更小模型在 SWE-bench 上得分相近。另一些用户对 token 成本透明度和基准测试的相关性表示不满，少数人欢迎竞争，但对其实际编码实用性持怀疑态度。
+**社区讨论**: 评论者称赞比亚迪零部件的重型结构，一位技术人员指出控制臂和副车架打破了“中国汽车差”的说法。另一位车主纠正了钥匙设计的细节，其他人则强调了比亚迪的垂直整合以及其与特斯拉和福特的规模对比。
 
-**标签**: `#AI`, `#code generation`, `#Microsoft`, `#model release`, `#machine learning`
+**标签**: `#BYD`, `#EV`, `#automotive engineering`, `#CT scanning`, `#manufacturing`
 
 ---
 
 <a id="item-22"></a>
-## [CT 扫描揭示比亚迪汽车零部件的高质量](https://www.lumafield.com/scan-of-the-month/byd) ⭐️ 7.0/10
+## [用户因不想要的 AI 功能离开 Gmail，称赞 Fastmail 和 Migadu](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left) ⭐️ 7.0/10
 
-Lumafield 发布了比亚迪汽车零部件的 CT 扫描图像，包括钥匙和悬挂部件，展示了详细的内部结构，挑战了“中国汽车质量差”的说法。 该分析提供了比亚迪制造质量的客观证据，可能改变消费者看法，并凸显该公司在电动汽车行业的垂直整合优势。 CT 扫描显示钥匙底座内藏有机械备用钥匙，以及令汽车技师印象深刻的坚固控制臂和副车架。比亚迪声称自产约 75%的零部件，与特斯拉相当，远高于福特的 25%。
+一位用户发布博客文章，详细说明因智能回复和自动过滤等侵入性 AI 功能而决定离开 Gmail，并推荐 Fastmail 和 Migadu 作为更优的替代方案。 这反映了用户对优先考虑自动化而非用户控制的 AI 驱动功能日益不满，并凸显了对更简单、更私密的电子邮件服务的需求。 该帖子获得了 796 分和 470 条评论的高社区参与度，表明广泛共鸣。Fastmail 因其速度和功能（如应用密码和隐藏我的邮箱）而受到称赞，而 Migadu 则因其透明的定价模式和人工支持而受到关注。
 
-hackernews · viasfo · 6月2日 20:30 · [社区讨论](https://news.ycombinator.com/item?id=48375824)
+hackernews · speckx · 6月2日 19:27 · [社区讨论](https://news.ycombinator.com/item?id=48375016)
 
-**背景**: 比亚迪是一家以高度垂直整合著称的中国汽车制造商，超过 70%的车辆零部件由内部生产。CT 扫描是一种用于质量控制和设计验证的工业技术，可以无损检查内部结构。
+**背景**: Gmail 引入了智能回复和自动分类等 AI 驱动功能，一些用户认为这些功能具有侵入性或无帮助。Fastmail 成立于 1999 年，是一款以速度和隐私著称的付费电子邮件服务。Migadu 是另一款付费替代方案，提供简单透明的定价模式。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/BYD_Auto">BYD Auto - Wikipedia</a></li>
-<li><a href="https://evboosters.com/ev-charging-news/the-blueprint-of-an-ev-empire-how-byd-built-global-dominance-through-vertical-integration/">The blueprint of an EV empire: how BYD built global dominance through vertical integration | EVBoosters</a></li>
-<li><a href="https://www.tuvsud.com/en-us/resource-centre/infographics/x-ray-and-ct-scanning-automotive-industry">Automotive Applications for X-Ray and CT Scanning | TÜV SÜD</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fastmail">Fastmail - Wikipedia</a></li>
+<li><a href="https://www.fastmail.com/">Email and calendar made better | Fastmail</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者普遍赞扬比亚迪的制造质量，一位高级技师指出其重型部件打破了负面刻板印象。部分用户纠正了钥匙设计的细节，其他人则引用 Munro Live 的拆解视频以获取更多电动汽车见解。
+**社区讨论**: 评论者大多同意作者的观点，分享了类似的对 Gmail AI 功能的不满，并称赞 Fastmail 和 Migadu。一些人指出 Google Maps 仍然难以替代，另一些人则质疑 AI 为母语者撰写电子邮件的实用性。
 
-**标签**: `#EV`, `#BYD`, `#automotive`, `#CT scan`, `#manufacturing`
+**标签**: `#email`, `#privacy`, `#Gmail`, `#AI`, `#user experience`
 
 ---
 
 <a id="item-23"></a>
 ## [江城实验室破解高端芯片供电难题](https://news.google.com/rss/articles/CBMickFVX3lxTFBiZ05Ib21PLWZrTnRSTnFTUjl0SzVuMlBIcmhvRExQa2lsc3c1YjNmdjZlbEYxRWdYXzFsUWUyMjhzdm9fVVlBZTZ1bUMyME13dzg4YTF0ZlpsQ0pUTWxuZ3JtZTZmbGU4b1pzTjBuVGstQQ?oc=5) ⭐️ 7.0/10
 
-江城实验室宣布在高端芯片供电方面取得突破，解决了中国先进集成电路自主可控的关键瓶颈。该实验室声称已攻克此前限制先进芯片性能和可靠性的关键供电难题。 这一进展填补了中国半导体供应链的关键空白，减少了对国外电源管理技术的依赖。它可能加速用于人工智能、5G 等战略领域的国产高性能芯片的开发。 该解决方案的具体技术细节尚未披露，但可能涉及供电网络（PDN）设计或电源管理 IC（PMIC）的创新。该实验室隶属于湖北创新生态系统，专注于集成电路技术。
+江城实验室宣布在先进集成电路供电方面取得突破，解决了中国半导体自主可控进程中的一个关键瓶颈。 这一进展增强了中国本土生产高端芯片的能力，减少对外国技术的依赖，推动国家半导体自主可控。 该实验室的解决方案可能涉及改进的电源传输网络（PDN）设计，这对于在密集芯片架构中维持稳定的电压和电流至关重要。
 
 rss · Google News - 半导体芯片 · 6月3日 00:40
 
-**背景**: 高端芯片需要极其稳定高效的供电以维持性能并防止过热。电源管理集成电路（PMIC）负责调节电压和电流，是现代处理器不可或缺的部分。在全球供应链限制下，中国一直致力于在半导体制造（包括电源管理组件）方面实现自给自足。
+**背景**: 高端芯片需要精确高效的供电才能正常运行。电源传输网络（PDN）将电源从供电端分配到晶体管，随着芯片尺寸缩小，PDN 设计变得更加困难。英特尔和台积电等公司已开发背面供电技术来解决这一问题。江城实验室的突破为这一全球性努力做出了贡献。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Power_management_integrated_circuit">Power management integrated circuit - Wikipedia</a></li>
+<li><a href="https://kr-asia.com/chinas-state-backed-labs-provide-a-lifeline-for-us-blacklisted-chip-suppliers">China's state-backed labs provide a lifeline for US-blacklisted chip ...</a></li>
+<li><a href="https://www.linkedin.com/pulse/advance-backside-power-technology-intel-tsmc-samsung-anjanappa-m66rc">Advance Backside Power Technology: Intel, TSMC, Samsung</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductor`, `#chip design`, `#power supply`, `#China`, `#integrated circuits`
+**标签**: `#semiconductor`, `#chip power supply`, `#China tech`, `#integrated circuits`
 
 ---
 
 <a id="item-24"></a>
-## [中国芯片雄心仍受技术“高墙”阻碍](https://news.google.com/rss/articles/CBMijwJBVV95cUxOV0pDcE9tSlptWHZXUFNtbVNlaWh2VlNUZmxmdXNxdmtaekdvNzhVWFpUZU5GOF83NGF2dmN6VFBBcUtiempUQ1ZxOXAwZ3ZYSV92TXUxcnBVTEFHMExlT3hHNWxYejJZajFseDdycWhIUmRfbUlpTzhKbEZCMElodW5RcTVIQmRWMG1YeXlBLUYzY3ZNTXhuUkVGQ1JMbUkyWVYwUjdOU3k1alFiSWk1R19wd2tlLXY5ZF9uQ2Z2TTJQQzlPN00tXy02djU4WGZDNDNIZUdKazAyLWdGT2ktQ2Y1Q0x6bVIzWVZwakhsaUJLNmNNa0kwY2p5VnRTcGx3VnUzLU1WbmhUb0RDc1lB?oc=5) ⭐️ 7.0/10
+## [中国芯片雄心仍受技术壁垒阻碍](https://news.google.com/rss/articles/CBMijwJBVV95cUxOV0pDcE9tSlptWHZXUFNtbVNlaWh2VlNUZmxmdXNxdmtaekdvNzhVWFpUZU5GOF83NGF2dmN6VFBBcUtiempUQ1ZxOXAwZ3ZYSV92TXUxcnBVTEFHMExlT3hHNWxYejJZajFseDdycWhIUmRfbUlpTzhKbEZCMElodW5RcTVIQmRWMG1YeXlBLUYzY3ZNTXhuUkVGQ1JMbUkyWVYwUjdOU3k1alFiSWk1R19wd2tlLXY5ZF9uQ2Z2TTJQQzlPN00tXy02djU4WGZDNDNIZUdKazAyLWdGT2ktQ2Y1Q0x6bVIzWVZwakhsaUJLNmNNa0kwY2p5VnRTcGx3VnUzLU1WbmhUb0RDc1lB?oc=5) ⭐️ 7.0/10
 
-《华尔街日报》的一篇分析指出，尽管有大量国家投资，中国的半导体制造雄心仍受到持续的技术壁垒和不断升级的美国出口管制的制约。 这凸显了中美技术竞争的持续及其对全球半导体供应链的影响，波及全球依赖中国芯片生产或市场的企业。 美国已实施多轮出口管制，针对中芯国际等中国企业，并限制其获取 ASML 的先进光刻机，包括此前可用的 DUV 系统。
+《华尔街日报》的一篇分析指出，尽管有大量国家投资，中国的半导体制造雄心仍受到技术壁垒和美国出口管制的制约。 这凸显了中国在先进芯片领域实现自给自足所面临的持续挑战，对全球科技供应链和地缘政治紧张局势具有重大影响。 文章指出，美国的出口管制限制了中国获取关键的半导体制造设备和设计工具，尤其是 7 纳米以下制程。
 
 rss · Google News - 半导体芯片 · 6月3日 02:41
 
-**背景**: 半导体制造依赖于极紫外（EUV）和深紫外（DUV）光刻机，主要由荷兰公司 ASML 生产。自 2018 年以来，美国主导的出口管制阻止了中国获得 EUV 设备，最近又限制了 DUV 销售，旨在减缓中国在先进芯片领域的进展。
+**背景**: 半导体制造极其复杂，需要先进的光刻机和专用化学品。中国在国产芯片生产上投入巨资，但由于技术差距和出口限制，仍落后于台积电和三星等领先企业。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://hubkub.com/tech-news/match-act-us-chip-export-controls-china/">MATCH Act: How US Chip Export Controls Hit China in 2026</a></li>
-<li><a href="https://stealthcloud.ai/policy/us-export-controls-china/">US Semiconductor Export Controls on China ... — STEALTH CLOUD</a></li>
-<li><a href="https://www.cnbc.com/2026/04/07/asml-shares-today-us-chip-export-curbs-china.html">ASML shares fall after proposed U.S. chip export curbs on China - CNBC</a></li>
+<li><a href="https://www.semiconductors.org/chipping-away-assessing-and-addressing-the-labor-market-gap-facing-the-u-s-semiconductor-industry/">Chipping Away: Assessing and Addressing the Labor Market Gap ...</a></li>
+<li><a href="https://www.reddit.com/r/ECE/comments/11pfrkd/what_prevents_countries_from_producing_advanced/">What prevents countries from producing advanced chips and ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#China`, `#technology policy`, `#supply chain`
+**标签**: `#semiconductors`, `#China`, `#technology`, `#geopolitics`
 
 ---
 
 <a id="item-25"></a>
-## [SK 海力士计划五年内将内存晶圆产能翻番](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yTjBWVVNnMC0wNUhSYkJRd0pXM2VMUTJmRjhWOHQzVkxoM1NFLXlNTVJveTU3NUJSbTdiSjRXUGJhaTljdEthR1VrbV9SZzloQkZfaGp6R081WS1zUm03Qw?oc=5) ⭐️ 7.0/10
+## [英伟达发布新 PC 芯片，黄仁勋押注全栈 AI](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb0JWUk4xQWtEMFBEU19aV1o3Z2lsMG9ad0QzdUlNLWxiYlZJVlRBdEFoYmp0d0E2UlgzS090M3JZdmlmb1JMTG9RZzZPZTNCWmowZ0pPczBuUENaVVE3X2JQbWJFcl9TWEZfTXJJTkNEOTRWSTF3SHdEZnRUSGk1WG13dEVza09BMjhyZ05vZk04UHdSUzdIVDhPUTR4OWx0NTRUSkttTURtMF9PajUtM0ZGbnBfaHRVOUxyRmdEbnV4Rmt4ZXFON1IwZXVKN3BHLVNud2d4cEJhMDZELVE?oc=5) ⭐️ 7.0/10
 
-SK 海力士宣布计划在未来五年内将内存晶圆产能翻倍，并预测内存短缺将持续到 2030 年。 这一扩张计划表明，在人工智能和数据中心增长的推动下，内存芯片的长期需求强劲，可能重塑全球半导体供应格局。 该计划涉及将晶圆产能翻倍，而不仅仅是产量，反映了 SK 海力士对 DRAM 和 NAND 闪存需求持续增长的信心。
+英伟达推出了一款全新的 PC 芯片，标志着 CEO 黄仁勋战略转向全栈 AI，整合硬件、软件和服务。 此举可能通过将先进 AI 能力直接引入消费设备来重塑 PC 市场，加剧与 AMD 和英特尔的竞争，同时将英伟达的生态系统扩展到数据中心之外。 新芯片旨在加速个人电脑上的 AI 工作负载，但文章未披露具体技术规格，如核心数、时钟频率和功耗。
 
-rss · Google News - 半导体芯片 · 6月3日 05:17
+rss · Google News - 半导体芯片 · 6月2日 14:06
 
-**背景**: SK 海力士是韩国主要的半导体公司，专注于 DRAM 和 NAND 闪存。内存芯片是计算机、智能手机和 AI 服务器的关键组件。该行业经历了周期性的短缺和过剩，但 AI 驱动的需求正在对供应造成持续压力。
+**背景**: 英伟达以其用于游戏和数据中心 AI 训练的 GPU 而闻名。全栈 AI 战略意味着该公司旨在提供从芯片到软件框架的端到端解决方案，以主导 AI 计算市场。
+
+**标签**: `#Nvidia`, `#AI chips`, `#hardware`, `#semiconductors`
+
+---
+
+<a id="item-27"></a>
+## [预算数据中心 GPU 用于本地 LLM 推理](https://www.reddit.com/r/LocalLLaMA/comments/1tuxy5f/i_put_a_datacenter_gpu_in_my_gaming_pc_for_200/) ⭐️ 7.0/10
+
+一位 Reddit 用户分享了一篇博客文章，详细介绍了他们用不到 200 英镑购买二手 NVIDIA Tesla V100 数据中心 GPU 组装游戏 PC，专门用于运行本地大语言模型的经验。 这展示了一种经济实惠的方式，让爱好者和研究人员能够获得高端 AI 推理硬件，可能降低本地 LLM 实验的入门门槛。 V100 是一款数据中心 GPU，原价数千美元，但由于企业升级，二手设备可以低价购得。但它缺乏显示输出，需要特定的散热和电源解决方案。
+
+reddit · r/LocalLLaMA · /u/tymscar · 6月2日 17:29
+
+**背景**: NVIDIA Tesla V100 基于 Volta 架构，专为数据中心的 AI 和高性能计算工作负载设计。它配备 16GB 或 32GB HBM2 显存和用于加速深度学习的张量核心。在消费级 PC 中使用此类 GPU 通常需要转接卡和定制设置。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/SK_Hynix">SK Hynix - Wikipedia</a></li>
-<li><a href="https://www.skhynix.com/">SK hynix</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nvidia_Tesla">Nvidia Tesla - Wikipedia</a></li>
+<li><a href="https://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf">[PDF] NVIDIA TESLA V100 GPU ARCHITECTURE</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductor`, `#memory`, `#SK Hynix`, `#capacity expansion`, `#industry forecast`
+**社区讨论**: Reddit 帖子产生了超过 100 条评论，许多用户称赞其性价比，而其他人则指出散热、功耗和驱动兼容性等挑战。一些人争论二手 RTX 3090 可能是更好的选择。
+
+**标签**: `#GPU`, `#Local LLM`, `#V100`, `#Budget Build`, `#AI Inference`
 
 ---
 
-<a id="item-26"></a>
-## [Anthropic 提交里程碑式 AI 公司 IPO 申请](https://news.google.com/rss/articles/CBMiSEFVX3lxTE16X2ZnUmwtMjd1MzJYbjFaQmR6YzlFdEMtbjFpMUI3STF5aFdCRjdNNjhFVGlhTjRvaldrbXVkcXBRdUtmX1BybQ?oc=5) ⭐️ 7.0/10
+<a id="item-28"></a>
+## [Mellum 和 Granite 嵌入模型现已在 llama.cpp 中得到支持](https://www.reddit.com/r/LocalLLaMA/comments/1tvfldm/mellum_granite_embedding_models_are_ready_on/) ⭐️ 7.0/10
 
-Anthropic 已正式提交首次公开募股（IPO）申请，可能成为 AI 史上最大规模的 IPO，领先于竞争对手 OpenAI。 此次 IPO 可能为 AI 公司设定估值基准，并显示投资者对基础 AI 模型的信心，从而影响更广泛的科技 IPO 市场。 Anthropic 已聘请 IPO 律师，并与 OpenAI 竞相上市，有报道称其估值可能达到万亿美元。根据 JOBS 法案，该申请为保密提交。
+两个拉取请求已合并到 llama.cpp 中，增加了对 Mellum 和 Granite 嵌入模型的支持，从而可以使用这些模型执行本地嵌入任务。 这一集成扩展了 llama.cpp 在本地 AI 部署中的能力，使开发者能够使用高质量的嵌入模型执行语义搜索和 RAG 等任务，而无需依赖云服务。 Mellum 模型是 JetBrains 开发的专注于代码的嵌入模型，而 Granite 是 IBM 设计的用于检索任务的嵌入模型系列。两者现在都可以通过 llama.cpp 的推理引擎访问。
 
-rss · Google News - 金融市场 · 6月3日 04:20
+reddit · r/LocalLLaMA · /u/pmttyji · 6月3日 05:14
 
-**背景**: Anthropic 是一家由前 OpenAI 员工创立的 AI 安全公司，以开发 Claude 系列大型语言模型而闻名。IPO 允许私人公司向公众出售股票，从而筹集资金并为早期投资者提供流动性。AI 行业增长迅速，包括 OpenAI 在内的公司也在考虑上市。
+**背景**: 嵌入模型将文本转换为捕获语义含义的数值向量，从而实现相似性搜索和聚类等任务。llama.cpp 是一个流行的开源库，用于在消费级硬件上本地运行大型语言模型。这些模型的加入使用户无需外部 API 即可利用专门的嵌入功能。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pzMElDUUVCR3oweFRhUWYzSEhpZ0FQAQ?hl=en-US&gl=US&ceid=US:en">Google News - News about Anthropic • IPO - Overview</a></li>
-<li><a href="https://stockanalysis.com/article/invest-in-anthropic-stock/">6 Ways to Invest in Anthropic Stock in 2026</a></li>
+<li><a href="https://blog.jetbrains.com/ai/2025/04/mellum-how-we-trained-a-model-to-excel-in-code-completion/">Mellum: How We Trained a Model to Excel in Code Completion</a></li>
+<li><a href="https://huggingface.co/collections/ibm-granite/granite-embedding">Granite Embedding - a ibm-granite Collection - Hugging Face</a></li>
+<li><a href="https://arxiv.org/abs/2502.20204">[2502.20204] Granite Embedding Models - arXiv</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Reddit 社区对这一集成表示热情，用户讨论了代码检索和 RAG 流水线等潜在用例。一些用户提到了性能比较以及开放权重模型的价值。
+
+**标签**: `#llama.cpp`, `#embedding models`, `#local LLM`, `#open source`, `#AI deployment`
+
+---
+
+<a id="item-29"></a>
+## [为什么还没有 AAA 游戏使用 AI 智能体 NPC？](https://www.reddit.com/r/LocalLLaMA/comments/1tuy151/why_dont_we_still_have_any_games_with_ai_agents/) ⭐️ 7.0/10
+
+一位 Reddit 用户质疑，在 NVIDIA 展示 AI NPC 演示三年后，为何 AAA 游戏工作室仍未将 AI 智能体用作 NPC，并指出模组尝试缺乏涌现行为和游戏内后果。 这凸显了 AI 研究与游戏开发之间的差距，表明如果 AI 智能体无法在安全的游戏环境中可靠地扮演角色，其更广泛的实用性可能被高估。 用户提到，针对《上古卷轴：晨风》和《天际》的模组允许对话，但缺乏涌现行为和有意义的后果，并指出像 Gemma 4 这样的开放模型可以在普通硬件上运行，用于 2D RPG。
+
+reddit · r/LocalLLaMA · /u/Another__one · 6月2日 17:32
+
+**背景**: NVIDIA 在 2021 年的演示展示了使用其 ACE 平台的 AI 驱动 NPC，能够进行实时对话。AI 智能体是能够自主感知、推理和行动的系统；涌现行为指从简单规则中产生的复杂结果。像 Mantella 这样的模组使用 LLM 进行 NPC 对话，但在集成方面存在困难。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.facebook.com/groups/DeepNetGroup/posts/1981733638886175/">Nvidia AI NPCs in future games challenges - Facebook</a></li>
+<li><a href="https://www.pcgamer.com/games/the-elder-scrolls/this-skyrim-mod-that-makes-npcs-ai-chatterboxes-just-got-a-massive-overhaul/">This Skyrim mod that makes NPCs AI chatterboxes just got a massive ...</a></li>
+<li><a href="https://www.nexusmods.com/morrowind/mods/58341">LLMorrowind (MWSE) (EN Port of RU) - Nexus Mods</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 该帖子未提供评论，因此无法获取社区讨论内容。
+
+**标签**: `#AI agents`, `#video games`, `#NPCs`, `#game development`, `#LLM applications`
+
+---
+
+<a id="item-31"></a>
+## [将 Nvidia GPU 显存用作 Linux 交换空间](https://github.com/c0dejedi/nbd-vram) ⭐️ 6.0/10
+
+一款名为 nbd-vram 的新 Linux 工具允许将 Nvidia GPU 显存用作交换空间，主要针对内存焊接且无法升级的笔记本电脑。 该工具为拥有闲置 GPU 显存的用户提供了一种扩展系统内存的创意方式，但其实际效果受限于 PCIe 带宽，在许多情况下比 NVMe 交换更慢。 在 RTX 3070 笔记本 GPU 上，顺序吞吐量仅约 1.3 GB/s，远低于 PCIe 4.0 x16 的理论带宽 64 GB/s，且慢于典型 NVMe SSD。该工具通过内核模块利用 NBD（网络块设备）将显存暴露为块设备。
+
+hackernews · tanelpoder · 6月2日 22:55 · [社区讨论](https://news.ycombinator.com/item?id=48377404)
+
+**背景**: 交换空间是当 RAM 满时用作虚拟内存的存储区域。GPU 显存是专用于图形的高带宽内存，但将其用作交换需要通过 PCIe 总线传输数据，这会引入延迟和带宽瓶颈。此前已有通过 MTD/phram 在视频 RAM 上使用交换的方法，但已过时。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/PCI_Express">PCI Express - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者普遍认为这个想法有趣但小众，担忧性能（PCIe 瓶颈）和稳定性（Wayland 在显存耗尽时崩溃）。有人指出交换到 NVMe 驱动器通常更快，而其他人则欣赏这一概念，适用于拥有闲置显存的机器。
+
+**标签**: `#Linux`, `#GPU`, `#swap`, `#VRAM`, `#performance`
+
+---
+
+<a id="item-32"></a>
+## [摩亨佐达罗在 4000 年间变得更平等](https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/) ⭐️ 6.0/10
+
+一项新研究表明，印度河流域的古城摩亨佐达罗随着时间的推移在经济上变得更加平等，这挑战了早期城市必然发展出等级社会结构的假设。 这一发现为城市发展的另一种模式提供了证据，即集体治理和公共投资可能在没有中央集权政治权力的情况下促进了长期稳定，为理解社会如何在没有极端不平等的情况下组织提供了见解。 该研究通过分析家庭文物和建筑来衡量随时间变化的财富不平等，发现随着城市成熟，基尼系数下降。印度河印章和标准化砝码在普通家庭中被发现，表明贸易工具的广泛可及性。
+
+hackernews · marojejian · 6月2日 22:22 · [社区讨论](https://news.ycombinator.com/item?id=48377140)
+
+**背景**: 摩亨佐达罗是印度河流域文明最大的定居点之一，该文明在公元前 2500 年左右繁荣。与其他古代文明不同，印度河流域几乎没有宫殿、寺庙或大型墓葬的证据，表明社会更加平等。这项新研究使用考古学上的财富代理指标来追踪该城市居住期间的不平等变化。
+
+**社区讨论**: 评论者指出印度河流域发掘中没有武器和战争的证据，支持了和平、无国家社会的观点。一些人将这项研究与 David Graeber 关于早期平等社会的工作联系起来，而另一些人则提出技术进步可以解释不平等减少的模式。
+
+**标签**: `#archaeology`, `#history`, `#inequality`, `#Indus Valley`
+
+---
+
+<a id="item-33"></a>
+## [HP 重新发布经典 HP-16C 程序员计算器](https://hpcalcs.com/product/hp-16c-collectors-edition/) ⭐️ 6.0/10
+
+HP 以收藏版形式重新发布了 HP-16C 程序员计算器，为现代爱好者复活了这款 1980 年代的经典工具。 此次重新发布迎合了看重 HP-16C 独特位操作能力的复古计算爱好者和程序员，但也引发了关于其做工质量以及与原始机型或 SwissMicros DM16L 等现代替代品相比价值的讨论。 收藏版是原始 HP-16C 的现代复刻版，该机型最初于 1980 年代发布，以其逆波兰表示法（RPN）和十六进制/十进制/二进制/八进制数制转换功能而闻名。提供的内容中未详细说明价格和具体规格。
+
+hackernews · dm319 · 6月2日 19:02 · [社区讨论](https://news.ycombinator.com/item?id=48374685)
+
+**背景**: HP-16C 是惠普在 1980 年代推出的经典程序员计算器，采用 RPN 输入方式，并具备位操作和数制转换等专用功能。它属于 HP Voyager 系列，该系列以坚固的做工和长电池寿命著称。此次重新发布紧随 HP 之前推出的 HP-15C 收藏版，而该版本在做工质量方面曾引发褒贬不一的反应。
+
+**社区讨论**: 社区评论中既有怀旧之情也有怀疑态度。一些用户认为与经通胀调整后的 eBay 价格相比，这次重新发行很划算；而另一些用户则根据 HP-15C 收藏版的体验对做工质量表示担忧，并推荐 SwissMicros DM16L 等替代品。许多长期拥有者报告称他们的原始 HP-16C 仍然完美运行。
+
+**标签**: `#HP calculators`, `#retro computing`, `#hardware`, `#programming tools`
+
+---
+
+<a id="item-34"></a>
+## [Datasette Agent MicroPython Alpha 版发布](https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything) ⭐️ 6.0/10
+
+Simon Willison 发布了 datasette-agent-micropython 0.1a0，这是一个 alpha 插件，允许 Datasette Agent 通过 WebAssembly 沙箱和 MicroPython 安全地生成并执行 Python 代码。 此版本解决了 AI 辅助数据分析工具中安全执行代码的关键需求，有望让 LLM 运行生成的 Python 代码而无需承担安全风险。 该沙箱使用编译为 WebAssembly 的 MicroPython，作者指出 GPT-5.5 目前未能突破沙箱，表明其安全性令人期待。
+
+rss · Simon Willison · 6月2日 19:28
+
+**背景**: Datasette Agent 是 Datasette（一个用于探索和发布数据的开源工具）的可扩展 AI 助手。当允许 LLM 执行代码时，沙箱至关重要，可以防止恶意或错误操作。WebAssembly 提供了轻量级、跨平台的沙箱环境。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://simonwillison.net/2026/May/21/datasette-agent/">Datasette Agent - Simon Willison's Weblog</a></li>
+<li><a href="https://datasette.io/">Datasette</a></li>
+
+</ul>
+</details>
+
+**标签**: `#datasette`, `#sandboxing`, `#webassembly`, `#python`, `#llm`
+
+---
+
+<a id="item-35"></a>
+## [MicroPython-WASM 阿尔法版：通过 WebAssembly 实现沙盒化 Python](https://simonwillison.net/2026/Jun/2/micropython-wasm-2/#atom-everything) ⭐️ 6.0/10
+
+Simon Willison 发布了 micropython-wasm 0.1a0 阿尔法版，该包将轻度定制的 MicroPython WebAssembly 构建与 wasmtime 封装器捆绑，用于在沙盒中执行 Python 代码。 该实验提供了一种实用方法，可在服务器端应用中安全运行不受信任的 Python 代码，利用 WebAssembly 的沙盒特性和 wasmtime 的性能，对 AI 代理、UDF 和多租户环境可能很有用。 该包是早期阿尔法版本（0.1a0），可在 GitHub 上获取。它使用轻度定制的 MicroPython WASM 构建，并以 wasmtime 作为 WebAssembly 运行时。
+
+rss · Simon Willison · 6月2日 03:43
+
+**背景**: MicroPython 是 Python 3 的精简实现，专为微控制器和受限系统设计。WebAssembly（WASM）是一种二进制指令格式，在沙盒环境中运行，适合安全执行不受信任的代码。wasmtime 是一个快速且安全的 WebAssembly 运行时，可集成到 Python 应用中。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://til.simonwillison.net/webassembly/python-in-a-wasm-sandbox">Run Python code in a WebAssembly sandbox | Simon Willison’s TILs</a></li>
+
+</ul>
+</details>
+
+**标签**: `#python`, `#webassembly`, `#sandboxing`, `#micropython`
+
+---
+
+<a id="item-36"></a>
+## [AI 引发“芯片通胀”，特权买家锁定产能](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfakRxVlRuNndrM29FLUpYYlZzNmdRTEM4MDV3MEZOemx4M0NCRmtUejNNNTRRMXdaV0NvT3poVGlFSXpObGQwMThyWlFXQS1FNUtv?oc=5) ⭐️ 6.0/10
+
+AI 需求正在制造一个两级半导体市场：特权买家（大型科技公司）通过长期合同锁定产能，而弱势买家争夺剩余供应，推高所有人的成本。 这种“芯片通胀”可能推高各类电子产品和 AI 服务的价格，最终影响依赖平价芯片的消费者和小型企业。 文章指出，特权买家包括 NVIDIA 等主要 AI 公司和超大规模云服务商，弱势买家则包括汽车和工业领域。随着 AI 芯片需求持续超过供应，这种不平衡可能持续。
+
+rss · Google News - 半导体芯片 · 6月3日 01:57
+
+**背景**: 半导体是现代电子产品的基础，AI 工作负载需要 GPU 等专用芯片。当前供应链仍在从之前的短缺中恢复，AI 的快速增长加剧了对先进制造产能的竞争。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.heidenhain.us/resources-and-news/semiconductors-whats-next/">Q&A: Semiconductors, the supply chain and what's next - HEIDENHAIN</a></li>
+<li><a href="https://www.semiconductors.org/">Semiconductor Industry Association | SIA | Voice of the Semiconductor ...</a></li>
+<li><a href="https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative-products-into-the-united-states/">ADJUSTING IMPORTS OF SEMICONDUCTORS ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#semiconductors`, `#chip shortage`, `#supply chain`
+
+---
+
+<a id="item-37"></a>
+## [国产芯片竞逐 AI 眼镜“物理智能”赛道](https://news.google.com/rss/articles/CBMiXEFVX3lxTE50Sjc1cERXSTRFSGxydnlkbm1QdXVOWmI2a2pZZUxRaE1BaUFickFsSlRaU1lCVnZCSUlGazI0MTBfc1FaVXlMeEs1WExISmhKLTNRSFpfWVVSS1Nn?oc=5) ⭐️ 6.0/10
+
+国产芯片制造商正加速竞逐新兴的 AI 眼镜市场，聚焦于将人工智能与现实世界交互相结合的“物理智能”应用。 这场竞争可能加速高性能、低成本 AI 眼镜的开发，并巩固中国在全球 AI 硬件生态系统中的地位。 文章强调了专为 AI 眼镜设计的国产芯片，这些芯片注重低功耗和实时处理能力，但未披露具体芯片型号或性能指标。
+
+rss · Google News - 半导体芯片 · 6月3日 01:56
+
+**背景**: AI 眼镜是一种将数字信息叠加到现实世界的可穿戴设备，需要强大且节能的芯片来执行物体识别和导航等任务。“物理智能”指能够感知并在物理环境中行动的人工智能系统，常用于机器人和自主系统。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Physical_Intelligence_Inc.">Physical Intelligence Inc.</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI glasses`, `#domestic chips`, `#physical intelligence`, `#hardware`
+
+---
+
+<a id="item-38"></a>
+## [长江存储 Q1 营收暴增 445%，全球 NAND 份额达 13%](https://news.google.com/rss/articles/CBMikwJBVV95cUxQUU5KWUk1ckVhUjJ5LTB4czdhelQxYV9jaHNmb09acVJXU21ZZFZBQXV0bTVIMFJfb3FhbUsxSGNrWEFyekNvSjdHaDVPRlpjRThFbVk5ZkpiNnZ1Wjl3c1lILXFRNUJzZlh1OXJiY250bzExblkyQnhCOXNPQWNqOXRKTDAyU19SX0NDdm1WREhyT0g4c0t2aDVxcUJtWW1SaWhMVzl5N25QT2dXTmpRNU1ZbFVaZmo2NzNRdmJtMVd6ZXIxRl9Cc0QwYTZBNGNtOFBUdmhFMlNTa3NTak0yZEJ5NF9FcUpMbVowcXp4TlFXeGcyM0JNWFpDVmZYNlBObnlzUF9hYUZaeXN6NUcyd21NRQ?oc=5) ⭐️ 6.0/10
+
+中国 NAND 闪存制造商长江存储 2025 年第一季度营收同比增长 445%，全球 NAND 闪存出货市场份额达到 13%，主要受 AI 数据中心强劲需求推动。 长江存储的快速增长挑战了 SK 海力士和美光等老牌厂商的主导地位，重塑全球 NAND 闪存市场格局，并凸显中国半导体技术的进步。 长江存储有望成为全球第三大 NAND 闪存制造商，其第五代 3D TLC NAND 已进入量产。公司产能加速扩充，可能在产能上超越 SK 海力士和美光。
+
+rss · Google News - 半导体芯片 · 6月3日 05:08
+
+**背景**: 长江存储（YMTC）是一家成立于 2016 年的中国半导体公司，专注于 3D NAND 闪存。它成为中国首家量产 3D NAND 芯片的企业。全球 NAND 闪存市场长期由三星、SK 海力士、美光和铠侠主导。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies">Yangtze Memory Technologies - Wikipedia</a></li>
+<li><a href="https://www.techinsights.com/blog/ymtc-chinas-first-mass-producer-3d-nand-flash-memory-chips">YMTC is China's First Mass Producer of 3D NAND Flash Memory Chips</a></li>
+<li><a href="https://www.reddit.com/r/hardware/comments/1q3qln3/ymtc_rockets_to_13_shipment_share_in_nand_flash/">YMTC rockets to 13% shipment share in NAND Flash, Micron now in sight</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductors`, `#NAND flash`, `#AI data centers`, `#Chinese tech`
+
+---
+
+<a id="item-39"></a>
+## [SK 集团计划五年内将晶圆产能翻倍](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDdDJlUzJxekxvT1FsMW1DTUp3N2ZYMDc4YU9zWk91Zld0SmFNalBRdkNVaWh5ZTF2U2ZPaVh6NGxYeUE1UGxaSg?oc=5) ⭐️ 6.0/10
+
+SK 集团董事长宣布，由于人工智能相关存储需求激增，公司计划在未来五年内将晶圆产能翻倍。 这一扩张计划表明存储芯片在人工智能时代日益重要，并可能通过提升 SK 海力士的市场份额来重塑全球半导体供应链。 该计划重点增加高带宽存储器（HBM）及其他对 AI 工作负载至关重要的先进存储解决方案的产量。SK 海力士是英伟达等公司 HBM 的主要供应商。
+
+rss · Google News - 半导体芯片 · 6月2日 07:11
+
+**背景**: 晶圆产能是指晶圆厂能处理的硅晶圆数量，通常以每月千片计。AI 应用需要大量快速存储器，推动了对先进 DRAM 和 NAND 闪存的需求。SK 海力士是全球第二大存储芯片制造商，仅次于三星。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.itiger.com/news/2111005630">全球晶圆产能大排名：三星第1，中芯国际第10，台积电第几？ - Tiger ...</a></li>
+<li><a href="https://www.tsmc.com/english/dedicatedFoundry/manufacturing/fab_capacity">Fab Capacity - Taiwan Semiconductor Manufacturing Company Limited</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductor`, `#AI`, `#storage`, `#manufacturing`
+
+---
+
+<a id="item-41"></a>
+## [黄仁勋暗示光连接是下一个万亿美元产业](https://news.google.com/rss/articles/CBMickFVX3lxTE5Yd3ltNzQ3Q1JFeUlhYWRuT2hGM3hMZkNyRzl6bzlac2tjekM3TUJNQzkwY0tuSEE3R2FzNl9fWmJMNlM2YWpwWWhJX2RNSVFMZENSMEo5Ulc5WU44T0tpRTJsZ2xTMXY3b29KZFdpQWQyZw?oc=5) ⭐️ 6.0/10
+
+英伟达 CEO 黄仁勋暗示，光连接可能成为继算力和存储之后的下一万亿美元产业，并暗示该领域将诞生一家万亿美元公司。 这一预测凸显了光互连在数据中心和 AI 系统中日益增长的重要性，因为带宽和能效至关重要。这可能标志着半导体和网络投资方向的重大转变。 与传统铜互连相比，光连接（尤其是硅光子技术）能够实现更快的数据传输和更低的功耗。黄仁勋的评论与行业向共封装光学和光学 I/O 发展的趋势一致。
+
+rss · Google News - 半导体芯片 · 6月2日 07:36
+
+**背景**: 硅光子技术将光子元件集成到硅基板上，使得光学和电子元件可以组合在单个芯片上。随着数据速率持续提高，该技术被视为克服高性能计算和 AI 中带宽瓶颈的一种方式。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Silicon_photonics">Silicon photonics</a></li>
+
+</ul>
+</details>
+
+**标签**: `#optical connectivity`, `#Jensen Huang`, `#semiconductor`, `#industry prediction`
+
+---
+
+<a id="item-42"></a>
+## [宇树科技科创板 IPO 过会](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHdGdRMWpUSlpMb1VqR0dPdmpEMmJUTlVudWZzRXhkODRjZk11MThTVjdOdUh6X1NRX1NHMHA3dEJOVHVnUXJJZDU1eGRVZDJhanBCS2tCaWJVQUxrTHh3cw?oc=5) ⭐️ 6.0/10
+
+中国机器人公司宇树科技已获得在上海证券交易所科创板首次公开募股（IPO）的批准。 此次 IPO 使宇树科技能够获得大量资金以扩大生产和研发，并标志着投资者对中国科创板中先进机器人技术的兴趣日益增长。 该批准由东方财富和新浪财经等金融媒体报道，但具体的发行规模和定价细节尚未披露。
+
+rss · Google News - 金融市场 · 6月2日 03:51
+
+**背景**: 科创板于 2019 年推出，是中国的纳斯达克，旨在支持科技公司。宇树科技以开发先进的四足机器人（如 Go1 和 B2 系列）而闻名，并与波士顿动力等公司全球竞争。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Star_Market_Stock_Market">Star Market Stock Market</a></li>
+
+</ul>
+</details>
+
+**标签**: `#IPO`, `#robotics`, `#finance`, `#Unitree`
+
+---
+
+<a id="item-43"></a>
+## [Anthropic IPO 开启通用人工智能资本化大幕](https://news.google.com/rss/articles/CBMidEFVX3lxTE5yY2ZndlNGeG1qb0RVMWNQVmFHZEpzMHNTaWVISHRCTjQyMkNkTFI1V3BKZUpNcFo3S0JLeDBETkthN2JwaWtpdVJKOFRlQTlNRGdpLTdhNjNzcUJMV2xjN2c1UXJYcXlfNGd4XzJqR2JIaERh?oc=5) ⭐️ 6.0/10
+
+领先的 AI 安全初创公司 Anthropic 据报道已启动 IPO，标志着通用人工智能行业资本化迈出重要一步。 此次 IPO 表明投资者对 AI 公司的信心不断增强，可能加速先进 AI 技术的商业化，影响更广泛的科技生态系统。 IPO 细节（包括估值和股价）尚未披露，但此举使 Anthropic 成为首批上市的主要 AI 初创公司之一，可能为 OpenAI 等其他公司开创先例。
+
+rss · Google News - 金融市场 · 6月3日 05:19
+
+**背景**: Anthropic 由前 OpenAI 员工于 2021 年创立，专注于 AI 安全。该公司开发了 Claude 等大型语言模型，与 OpenAI 的 GPT 系列竞争。上市使 Anthropic 能够筹集资金用于研发和扩大运营。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic_principle">Anthropic principle</a></li>
 
 </ul>
 </details>
@@ -490,688 +811,295 @@ rss · Google News - 金融市场 · 6月3日 04:20
 
 ---
 
-<a id="item-27"></a>
-## [Nous Research 发布 Hermes Desktop，支持本地运行 LLM](https://www.reddit.com/r/LocalLLaMA/comments/1tve7qu/nous_research_hermes_desktop/) ⭐️ 7.0/10
-
-Nous Research 发布了 Hermes Desktop，这是一款适用于 macOS、Windows 和 Linux 的原生桌面应用，为安装、配置和交互 Hermes Agent（一个自我改进的 AI 代理）提供了图形化界面。 该发布降低了用户运行具备代理能力的强大本地 LLM 的门槛，有望加速开源 AI 代理在个人和企业工作流中的采用。 Hermes Desktop 包含 MCP 集成、技能系统，并支持超过 15 种消息网关，用精美的 GUI 取代了手动 CLI 管理。它适用于 macOS、Windows 和 Linux。
-
-reddit · r/LocalLLaMA · /u/zxyzyxz · 6月3日 04:06
-
-**背景**: Nous Research 是一家总部位于纽约的开源 AI 研究实验室，成立于 2023 年，以开发 Hermes 系列等世界级开源语言模型而闻名。Hermes Desktop 是 Hermes Agent 的官方桌面客户端，Hermes Agent 是一个设计用于本地运行的自我改进 AI 代理。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.hermes-ai.net/desktop/">Hermes Desktop App — The Self-Improving AI Agent for Mac, Windows...</a></li>
-<li><a href="https://nousresearch.com/">NOUS RESEARCH - Open Source AI</a></li>
-<li><a href="https://grokipedia.com/page/Nous_Research">Nous Research — Grokipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#Local LLM`, `#Nous Research`, `#Desktop Application`
-
----
-
-<a id="item-29"></a>
-## [用户花 200 英镑将 V100 数据中心 GPU 装入游戏 PC](https://www.reddit.com/r/LocalLLaMA/comments/1tuxy5f/i_put_a_datacenter_gpu_in_my_gaming_pc_for_200/) ⭐️ 7.0/10
-
-一位 Reddit 用户分享了一篇博客文章，详细介绍了他们如何将二手 NVIDIA V100 数据中心 GPU 安装到标准游戏 PC 中，用于本地 LLM 推理，以 200 英镑的低成本实现了高性能。 这展示了一种经济高效的方式，让爱好者可以在本地运行大型语言模型，避开 RTX 4090 等消费级 GPU 的高昂价格。它可能使业余爱好者和研究人员更容易获得强大的 AI 硬件。 V100 基于 NVIDIA Volta 架构，提供 16GB 或 32GB HBM2 内存，最初为数据中心设计。但它需要主动散热和电源适配器，且没有显示输出，因此需要第二块 GPU 用于视频输出。
-
-reddit · r/LocalLLaMA · /u/tymscar · 6月2日 17:29
-
-**背景**: 本地 LLM 推理是指在个人硬件上运行大型语言模型，而非云服务器。Ollama 和 LM Studio 等工具使其变得可行，但需要具有足够显存（例如 8-24GB）的 GPU。像 V100 这样的数据中心 GPU 在二手市场上通常比具有类似显存容量的消费级显卡更便宜。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.nvidia.com/en-us/data-center/v100.md/">NVIDIA V100 | NVIDIA</a></li>
-<li><a href="https://www.fluence.network/blog/nvidia-v100/">NVIDIA V100 : Specs, Benchmarks & Best Use Cases (2026)</a></li>
-<li><a href="https://grokipedia.com/page/Running_Open-Source_LLMs_Locally">Running Open-Source LLMs Locally</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 该 Reddit 帖子获得大量点赞和评论，用户们分享了关于散热、电源需求和驱动兼容性的技巧。一些人指出 V100 缺乏 FP8 支持，而较新的模型可能需要，但总体情绪对该性价比持积极态度。
-
-**标签**: `#Local LLM`, `#GPU`, `#V100`, `#DIY`, `#Machine Learning`
-
----
-
-<a id="item-30"></a>
-## [为何 AAA 游戏仍未使用 AI 代理作为 NPC？](https://www.reddit.com/r/LocalLLaMA/comments/1tuy151/why_dont_we_still_have_any_games_with_ai_agents/) ⭐️ 7.0/10
-
-一位 Reddit 用户质疑，尽管英伟达 2021 年展示了令人印象深刻的 AI NPC 演示，且有多款游戏模组尝试，但至今没有一款 AAA 大作将 AI 代理作为 NPC 集成，实现具有涌现行为和游戏内后果的角色。 这凸显了 AI 代理研究与实际游戏集成之间的巨大鸿沟，引发了对当前 AI 代理真实能力以及阻碍其在价值数十亿美元游戏行业中应用的经济或技术障碍的质疑。 用户指出，像《上古卷轴：晨风》和《天际》的现有模组虽然允许对话，但缺乏涌现行为和有意义的后果，并建议即使是像《辐射 2》这样简单的 2D RPG，也可以作为 AI 驱动 NPC 的试验场，使用 CPU 处理游戏逻辑，GPU 进行 AI 推理。
-
-reddit · r/LocalLLaMA · /u/Another__one · 6月2日 17:32
-
-**背景**: AI 代理是能够感知环境并采取行动以实现目标的系统，通常由大型语言模型（如 Gemma 4）驱动。英伟达的 ACE（Avatar Cloud Engine）演示展示了具有生成式 AI 对话的 NPC，但该技术尚未在商业游戏中大规模部署。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.nvidia.com/en-us/geforce/news/nvidia-ace-for-games-generative-ai-npcs/">Introducing NVIDIA ACE For Games - Spark Life Into Virtual Characters With Generative AI | GeForce News | NVIDIA</a></li>
-<li><a href="https://www.theshortcut.com/p/nvidias-ace-covert-protocol-ai-npc-inworld">Nvidia AI NPCs make next-gen video game characters incredibly lifelike</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Large_language_model">Large language model - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI agents`, `#game development`, `#NPCs`, `#LLM applications`
-
----
-
-<a id="item-31"></a>
-## [Step 3.7 与 Qwen 模型简单编码基准测试](https://www.reddit.com/r/LocalLLaMA/comments/1tuxspu/a_simple_coding_benchmark_step_37_vs_qwen_35/) ⭐️ 7.0/10
-
-一位 Reddit 用户对 Step 3.7 Flash 与 Qwen 3.5 122B-A10B、Qwen 3.6 27B 和 Qwen 3.6 35B-A3B 在简单编码任务上进行了基准测试，比较了它们的性能。 这种直接比较有助于从业者为编码任务选择最新的开源 LLM，突出了模型大小、速度和准确性之间的权衡。 Step 3.7 Flash 是一个 198B 参数的稀疏 MoE 视觉语言模型，而 Qwen 3.5 122B-A10B 和 Qwen 3.6 35B-A3B 也是 MoE 模型，但总参数和激活参数不同；Qwen 3.6 27B 是一个密集模型。
-
-reddit · r/LocalLLaMA · /u/remeh · 6月2日 17:24
-
-**背景**: 混合专家（MoE）模型每个 token 只激活一部分参数，从而在较低计算成本下实现更大的总参数量。该基准测试可能测试代码生成或补全，这是 LLM 在开发者工具中的常见用例。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://build.nvidia.com/stepfun-ai/step-3.7-flash/modelcard">step-3.7-flash Model by Stepfun-ai - Nvidia NIM</a></li>
-<li><a href="https://huggingface.co/stepfun-ai/Step-3.7-Flash">stepfun-ai/Step-3.7-Flash - Hugging Face</a></li>
-<li><a href="https://qwen.ai/blog?id=qwen3.6-35b-a3b">Qwen3.6-35B-A3B : Agentic Coding Power, Now Open to All</a></li>
-
-</ul>
-</details>
-
-**标签**: `#LLM`, `#benchmark`, `#coding`, `#open-source`
-
----
-
-<a id="item-33"></a>
-## [在 Linux 上将 Nvidia GPU 显存用作交换空间](https://github.com/c0dejedi/nbd-vram) ⭐️ 6.0/10
-
-一款名为 NBD-VRAM 的新开源工具允许 Linux 用户将 Nvidia GPU 的显存用作交换空间，在系统内存耗尽时提供一种替代方案。 这对于内存焊死且无法升级的笔记本电脑尤其有用，但性能受限于 PCIe 带宽，顺序访问速度比 NVMe SSD 慢。 在 RTX 3070 笔记本 GPU 上，顺序吞吐量约为 1.3 GB/s，远低于 PCIe 4.0 x16 的理论带宽 64 GB/s。该工具利用 NBD（网络块设备）机制将显存暴露为块设备。
-
-hackernews · tanelpoder · 6月2日 22:55 · [社区讨论](https://news.ycombinator.com/item?id=48377404)
-
-**背景**: 交换空间是存储设备上的一块区域，当内存满时用作 RAM 的扩展。传统上，交换空间放在 SSD 或 HDD 上。GPU 显存是高带宽内存，主要用于图形和计算任务，但可以通过此工具重新用作交换空间，不过由于 PCIe 总线的限制，会带来延迟和带宽的权衡。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/c0dejedi/nbd-vram">GitHub - c0deJedi/nbd-vram: Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work · GitHub</a></li>
-<li><a href="https://www.phoronix.com/news/NVIDIA-NBD-VRAM">NBD-VRAM Provides Swap Space On Your NVIDIA GeForce GPUs - Phoronix</a></li>
-<li><a href="https://en.wikipedia.org/wiki/PCI_Express">PCI Express - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区认为该工具虽小众但针对特定场景有趣。一些评论者提到了历史先例，如 GpuRamDrive 和 Linux MTD/phram 驱动。其他人指出了性能限制，一位用户提到交换到 NVMe 驱动器会快两倍。
-
-**标签**: `#Linux`, `#GPU`, `#swap`, `#VRAM`, `#performance`
-
----
-
-<a id="item-34"></a>
-## [讽刺网站嘲讽“自主”AI 炒作](https://agenticmotherfucking.website/) ⭐️ 6.0/10
-
-一个名为“Agentic Motherfucking Website”的讽刺网站出现，模仿被过度炒作的“自主”AI 叙事，在 Hacker News 上引发了 103 分和 28 条评论的讨论。 这一批评凸显了对 AI 炒作日益增长的怀疑，质疑推动自主 AI 是为了真正的进步还是仅仅在兜售问题。它反映了对科技行业叙事更广泛的文化疲劳。 该网站使用粗俗语言和夸张手法讽刺 AI 应接管创造性任务而人类做琐碎工作的想法。一位评论者指出“当内容被设计成思想无法触及，可访问性便无关紧要”这句话是突出的批评。
-
-hackernews · elmerland · 6月3日 02:32 · [社区讨论](https://news.ycombinator.com/item?id=48379203)
-
-**背景**: “自主 AI”一词指能够自主行动以实现目标的 AI 系统，这一概念被科技公司大力推广。该讽刺作品反驳了这种 AI 将解放人类的叙事，反而暗示它可能使人类沦为机器的奴仆。
-
-**社区讨论**: 评论者反应不一：一些人称赞讽刺有效且令人不安，而另一些人则对夸张和粗俗语言感到疲劳，质疑这样的内容是否比没有更好。一位评论者指出了先兜售疾病再推销解药的讽刺。
-
-**标签**: `#AI`, `#satire`, `#technology criticism`, `#hype`
-
----
-
-<a id="item-35"></a>
-## [Roku 为旧设备开源 LT 操作系统](https://blog.roku.com/developer/roku-lt-os) ⭐️ 6.0/10
-
-Roku 已将其旧设备使用的 LT 操作系统开源，代码托管在 GitHub 的 lt-sdk 仓库中。 此次发布使开发者和爱好者能够探索和修改数百万 Roku 设备中使用的嵌入式 RTOS，可能促进流媒体硬件和嵌入式系统的创新。 代码主要用 C 语言编写，文档较为完善；托管在 github.com/rokudev/lt-sdk。LT OS 是一个实时操作系统（RTOS），用于旧款 Roku 播放器和遥控器。
-
-hackernews · dpmdpm · 6月3日 01:13 · [社区讨论](https://news.ycombinator.com/item?id=48378495)
-
-**背景**: Roku 是流媒体播放器和智能电视的领先品牌，其自有操作系统 Roku OS 驱动着数百万台设备。LT OS 是为较旧、性能较低的硬件设计的轻量级 RTOS，此次开源顺应了公司将遗留软件发布给社区的趋势。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Roku">Roku - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区评论强调了 Roku 自动内容识别（ACR）技术的隐私问题，有用户指出开源操作系统并不能解决监控问题。其他人则欣赏代码用 C 语言编写且文档完善，也有人希望提供文本说明而非视频。
-
-**标签**: `#open-source`, `#Roku`, `#embedded-systems`, `#RTOS`
-
----
-
-<a id="item-36"></a>
-## [用户因 AI 功能侵入性离开 Gmail，转向 Fastmail](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left) ⭐️ 6.0/10
-
-一位用户发表个人经历，因 Gmail 的智能回复和智能撰写等 AI 功能令人不适而离开，转而使用更快、更私密的 Fastmail。 这反映了用户对电子邮件服务中 AI 集成的日益不满，凸显了对更简单、注重隐私的替代方案的需求。社区的高度参与（755 分，441 条评论）表明隐私问题引起了强烈共鸣。 Fastmail 是一家总部位于澳大利亚墨尔本的订阅制电子邮件托管公司，提供应用密码、隐藏邮箱和 iOS 集成等功能。用户称赞 Fastmail 的速度和隐私，但指出其日历缺少地址自动补全功能。
-
-hackernews · speckx · 6月2日 19:27 · [社区讨论](https://news.ycombinator.com/item?id=48375016)
-
-**背景**: Gmail 集成了智能回复和智能撰写等 AI 功能，帮助用户快速撰写邮件。然而，一些用户认为这些功能具有侵入性或多余，尤其是当它们生成长篇建议时。Fastmail 是一个历史悠久的电子邮件服务，强调隐私、安全和速度，定位为 Gmail 的替代品。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Fastmail">Fastmail - Wikipedia</a></li>
-<li><a href="https://www.fastmail.com/">Email and calendar made better | Fastmail</a></li>
-<li><a href="https://cyberinsider.com/email/reviews/fastmail/">Fastmail Review for 2026 — NOT The Best Choice - RestorePrivacy</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 评论者普遍支持这一举动，许多人分享了自己离开 Gmail 的原因，例如加强隐私保护。一些人批评 AI 写邮件对母语者来说令人费解，而另一些人则指出 Fastmail 相比 Gmail 的加载延迟提供了即时性能。
-
-**标签**: `#email`, `#privacy`, `#Gmail`, `#AI`, `#Fastmail`
-
----
-
-<a id="item-37"></a>
-## [研究发现摩亨佐达罗随时间推移变得更平等](https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/) ⭐️ 6.0/10
-
-一项新研究表明，印度河流域文明的重要城市摩亨佐达罗在其 700 年历史中社会平等程度有所提高，这挑战了早期城市社会必然导致不平等加剧和权力集中的普遍假设。 这一发现为城市增长必然伴随社会分层的传统叙事提供了反例，揭示了集体治理和公共投资的替代模式，可能为现代城市规划和社会政策提供启示。 研究人员分析了不同时期的家庭规模、对印度河印章等贸易物品的获取以及标准化度量衡，未发现精英控制资源的证据。研究表明，摩亨佐达罗的稳定性是通过集体治理而非中央集权统治者维持的。
-
-hackernews · marojejian · 6月2日 22:22 · [社区讨论](https://news.ycombinator.com/item?id=48377140)
-
-**背景**: 摩亨佐达罗是印度河流域文明最大的定居点之一，繁荣于公元前 2500 年左右。早期城市通常被认为具有等级制度，统治者控制资源和劳动力。这项研究使用财富和权力的考古代理指标来追踪随时间的变化。
-
-**社区讨论**: 评论者普遍欢迎这一发现，指出印度河流域发掘中缺乏武器和战争痕迹作为支持证据。一些人将其与现代技术进步相类比，认为不平等减少可能反映了商品获取的普及。其他人则希望此类发现能提升公众对历史研究的兴趣。
-
-**标签**: `#archaeology`, `#history`, `#urbanism`, `#inequality`
-
----
-
-<a id="item-38"></a>
-## [HP 重新发布经典 HP-16C 程序员计算器](https://hpcalcs.com/product/hp-16c-collectors-edition/) ⭐️ 6.0/10
-
-HP 宣布重新发布 HP-16C 程序员计算器的收藏版，该计算器最初于 1982 年至 1989 年生产。 此次重新发布吸引了复古计算爱好者和收藏家，但面临来自 SwissMicros 等第三方替代品以及 eBay 上原版机型的竞争。 HP-16C 具有可配置的字长（1-64 位），支持无符号、1 的补码和 2 的补码运算，非常适合调试。
-
-hackernews · dm319 · 6月2日 19:02 · [社区讨论](https://news.ycombinator.com/item?id=48374685)
-
-**背景**: HP-16C 是一款专为计算机程序员设计的可编程计算器，用于辅助调试。它是 HP Voyager 系列的一部分，以其坚固的制造质量和 RPN（逆波兰表示法）输入而闻名。原版机型于 1989 年停产。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/HP-16C">HP-16C - Wikipedia</a></li>
-<li><a href="https://www.hpmuseum.org/hp16.htm">HP-16C</a></li>
-<li><a href="https://www.thecalculatorstore.com/c/hp16c-ce">HP16c CE - thecalculatorstore.com</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区评论意见不一：一些粉丝称赞其怀旧感，但对制造质量与原版相比表示担忧，而另一些人则推荐 SwissMicros 的替代品，认为它们制造更精良、更可靠。
-
-**标签**: `#retro computing`, `#calculators`, `#HP`, `#hardware`
-
----
-
-<a id="item-39"></a>
-## [Datasette Agent MicroPython 阿尔法版发布](https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything) ⭐️ 6.0/10
-
-Simon Willison 发布了 datasette-agent-micropython 0.1a0 阿尔法版，该包通过 wasmtime 沙箱化的 MicroPython WebAssembly 构建，在 Datasette Agent 中实现安全的 Python 代码执行。 这解决了 AI 驱动的数据探索工具中安全代码执行的关键需求，使 Datasette Agent 能够生成并运行 Python 代码而无安全风险，可能实现更强大、更自主的数据分析工作流。 该阿尔法版使用了一个轻微定制的 MicroPython WASM 构建，并通过 wasmtime 执行代码的包装器。作者指出，GPT-5.5 目前未能突破沙箱，表明安全性良好。
-
-rss · Simon Willison · 6月2日 19:28
-
-**背景**: Datasette Agent 是一个 AI 助手，用于使用 LLM 探索和查询 Datasette 中的数据。沙箱化 Python 代码非常困难；WebAssembly 提供了一种轻量级、可移植的沙箱，可以隔离不受信任的代码执行。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://agent.datasette.io/">Datasette Agent : an AI assistant for Datasette to help explore and...</a></li>
-<li><a href="https://webassembly.org/">WebAssembly</a></li>
-
-</ul>
-</details>
-
-**标签**: `#datasette`, `#python`, `#sandboxing`, `#webassembly`, `#datasette-agent`
-
----
-
-<a id="item-40"></a>
-## [小环组件良率超 90%，订单排满三季度](https://news.google.com/rss/articles/CBMicEFVX3lxTFAxMzRYRXhRTXlNTWVEaUxrTHU2WEpWd05URllyd1FnaXlmRzdtc1hHcDkwQmRhMHNjS1RUb196WEFjSkgtdW4yb2U5UHlCR3JJWTdxNjVUXzhucW9pUHdGU2NWdWQ2TU1lVmhJaW1MZDc?oc=5) ⭐️ 6.0/10
-
-一种用于半导体制造的小环组件实现了超过 90%的良率，订单已排满第三季度，服务于国内多家领先半导体企业。 这一里程碑表明中国国内半导体供应链取得了重大进展，减少了对国外组件的依赖，增强了本地芯片生产的韧性。 该环组件是半导体制造设备中的关键部件，实现超过 90%的良率在业内被视为高标准。订单排满第三季度表明国内芯片制造商的需求强劲且信心充足。
-
-rss · Google News - 半导体芯片 · 6月3日 00:30
-
-**背景**: 半导体制造涉及众多专用组件，例如用于刻蚀或沉积腔室的环。良率衡量生产的合格组件百分比，高良率对于成本效益生产至关重要。在全球贸易限制下，中国一直致力于实现半导体供应链的本地化。
-
-**标签**: `#semiconductor`, `#manufacturing`, `#yield`, `#China`, `#supply chain`
-
----
-
-<a id="item-41"></a>
-## [AI 引发“芯片通胀”：特权买家抢占产能](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfakRxVlRuNndrM29FLUpYYlZzNmdRTEM4MDV3MEZOemx4M0NCRmtUejNNNTRRMXdaV0NvT3poVGlFSXpObGQwMThyWlFXQS1FNUtv?oc=5) ⭐️ 6.0/10
-
-华尔街见闻的分析文章指出，AI 需求的激增正在制造一种“芯片通胀”现象，大型科技公司作为特权买家锁定半导体产能，而弱势买家只能争夺剩余产能，最终推高所有人的成本。 这一趋势可能加剧非 AI 应用的芯片短缺，推高消费电子和汽车芯片的价格，并扩大半导体供应链中大公司和小公司之间的竞争差距。 文章指出，AI 芯片（如 GPU 和 HBM 内存）需求极高，供应商优先满足大客户（如云服务商），而其他行业面临产能分配限制和价格上涨。
-
-rss · Google News - 半导体芯片 · 6月3日 01:57
-
-**背景**: 半导体行业曾经历周期性短缺，但 AI 热潮催生了对先进芯片的持续需求。“芯片通胀”指的是有限产能和优先分配导致全面价格上涨的现象，而不仅仅是 AI 专用组件。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.bitget.com/amp/news/detail/12560605441156">AI is creating a "chip inflation"! "Privileged buyers" secure production capacity, while "weaker buyers" fight for leftovers, and ultimately everyone pays the price. | Bitget News</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#semiconductor`, `#supply chain`, `#chip shortage`
-
----
-
-<a id="item-42"></a>
-## [长江存储 Q1 营收暴增 445%，全球 NAND 份额达 13%](https://news.google.com/rss/articles/CBMikwJBVV95cUxQUU5KWUk1ckVhUjJ5LTB4czdhelQxYV9jaHNmb09acVJXU21ZZFZBQXV0bTVIMFJfb3FhbUsxSGNrWEFyekNvSjdHaDVPRlpjRThFbVk5ZkpiNnZ1Wjl3c1lILXFRNUJzZlh1OXJiY250bzExblkyQnhCOXNPQWNqOXRKTDAyU19SX0NDdm1WREhyT0g4c0t2aDVxcUJtWW1SaWhMVzl5N25QT2dXTmpRNU1ZbFVaZmo2NzNRdmJtMVd6ZXIxRl9Cc0QwYTZBNGNtOFBUdmhFMlNTa3NTak0yZEJ5NF9FcUpMbVowcXp4TlFXeGcyM0JNWFpDVmZYNlBObnlzUF9hYUZaeXN6NUcyd21NRQ?oc=5) ⭐️ 6.0/10
-
-中国 NAND 闪存制造商长江存储 2025 年第一季度营收同比增长 445%，全球市场份额达到 13%，主要受 AI 数据中心需求推动。 这一快速增长使长江存储有望成为全球第三大 NAND 供应商，挑战 SK 海力士和美光等老牌厂商，并减少中国对外国存储芯片的依赖。 长江存储的 Xtacking 3.0 架构和 232 层 3D NAND 技术是其竞争力的基础，尽管美国制裁限制了先进设备对华出口。
-
-rss · Google News - 半导体芯片 · 6月3日 05:08
-
-**背景**: 长江存储 2016 年成立于武汉，是中国领先的 NAND 闪存制造商。其 Xtacking 技术将存储阵列和外围电路分别键合，实现更高密度和性能。2024 年全球 NAND 市场规模达 651 亿美元，AI 数据中心推动了对大容量 SSD 的需求。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Yangtze_Memory_Technologies">Yangtze Memory Technologies - Wikipedia</a></li>
-<li><a href="https://www.electronicdesign.com/technologies/embedded/article/21248389/electronic-design-memory-chip-makers-take-3d-nand-up-a-level">Memory Chip Makers Take 3D NAND Up a Level | Electronic Design</a></li>
-<li><a href="https://www.blocksandfiles.com/flash/2023/11/02/ymtc-first-to-ship-232-layer-qlc-nand-despite-sanctions/1592442">YMTC first to ship 232-layer QLC NAND despite sanctions</a></li>
-
-</ul>
-</details>
-
-**标签**: `#semiconductors`, `#NAND flash`, `#YMTC`, `#AI data centers`, `#market share`
-
----
-
-<a id="item-43"></a>
-## [国产芯片竞逐 AI 眼镜“物理智能”赛道](https://news.google.com/rss/articles/CBMiXEFVX3lxTE50Sjc1cERXSTRFSGxydnlkbm1QdXVOWmI2a2pZZUxRaE1BaUFickFsSlRaU1lCVnZCSUlGazI0MTBfc1FaVXlMeEs1WExISmhKLTNRSFpfWVVSS1Nn?oc=5) ⭐️ 6.0/10
-
-国产芯片厂商正在 AI 眼镜的“物理智能”新赛道上展开竞争，瑞芯微、恒玄科技等公司正开发国产芯片以挑战高通的垄断地位。 这一竞争有望减少对外国芯片的依赖，加速 AI 眼镜在中国的普及，影响全球供应链和消费电子市场。 瑞芯微的 6 纳米制程芯片 RK3588 已在部分高性能 AR 头戴设备中获得应用，恒玄科技则依托其低功耗音频芯片积累切入无屏 AI 眼镜和音频眼镜市场。
-
-rss · Google News - 半导体芯片 · 6月3日 01:56
-
-**背景**: AI 眼镜是集成人工智能的可穿戴设备，可用于实时翻译、导航和物体识别等任务。“物理智能”概念指的是与物理世界交互的 AI。目前，高通的骁龙 AR1 Gen1 平台主导着中高端 AI 眼镜市场，但中国企业正在追赶。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://m.tech.china.com/hea/articles/20251222/202512221784908.html">户外场景下的国产芯片 AI 眼镜，走出了一条可行路径_中华网</a></li>
-<li><a href="https://finance.sina.com.cn/roll/2026-05-26/doc-inhzfmyq1474397.shtml">AI眼镜竞速：巨头争抢新入口，中国企业走到哪一步了？|AI_新浪财经_新浪网</a></li>
-<li><a href="https://www.stcn.com/article/detail/3928885.html">AI眼镜竞速：巨头争抢新入口，中国企业走到哪一步了？</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI glasses`, `#chip`, `#hardware`, `#China`
-
----
-
 <a id="item-45"></a>
-## [AI 需求推动 NAND 市场 2026 年 Q1 达 460 亿美元](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZU9QLVR1M2EyTkFZaFpUMGh3SWVUcllTOVl0SUpVQ1hnVzI4TFR5NkF4SXptSkVINkVrckdyZ2VkU19qTENaQnM4S0loV3ZkdnowOWZpN1JMUU1KTllvZHhsaHlCQ2d3aE10SHBYSXMweWkxNi0wSXhUMlAyNEY2VGV6dEloUkIx?oc=5) ⭐️ 6.0/10
+## [西门子、英伟达、Fluence 推出 AI 数据中心标准方案](https://news.google.com/rss/articles/CBMiYEFVX3lxTE04Q0tiVzU1QUI5eFNjZXVkalh6bEVNaVVoTTVMMWRIRTVJMG05clNNRjRoYWZ5QjlIRlJ5bEdZVk9EN0NfODdQUTlOdXQ4dXNIalRUX014SzF4RUJZZEg2cA?oc=5) ⭐️ 6.0/10
 
-市场预测显示，受 AI 应用需求激增推动，全球 NAND 闪存营收将在 2026 年第一季度达到创纪录的 460 亿美元。 这凸显了存储基础设施对 AI 工作负载日益增长的重要性，因为 AI 需要大量高速数据访问。该预测标志着 NAND 制造商的重大增长机会，并可能影响对存储技术的投资。 该预测来自一家未具名机构，基于 AI 对数据中心和边缘设备中大容量 NAND 的需求。460 亿美元的数字将超过以往的营收峰值，反映出远高于历史平均水平的复合年增长率。
+西门子、英伟达和 Fluence 联合开发了一套集成储能和液冷的 AI 数据中心参考电气与电力架构，专为英伟达 Vera Rubin NVL72 平台设计。 该标准方案解决了 AI 基础设施中功耗和冷却的关键挑战，有望加速高性能 AI 数据中心的部署，同时提高能源效率。 该参考架构的总设施容量为 136 MW，IT 负载为 100 MW，集成了 Fluence 的储能系统和液冷技术。
 
-rss · Google News - 半导体芯片 · 6月3日 04:44
+rss · Google News - 新能源 · 6月3日 03:13
 
-**背景**: NAND 闪存是一种非易失性存储技术，用于 SSD、U 盘和存储卡。AI 应用，尤其是大语言模型和训练数据集，需要快速且高密度的存储，从而推动了对大容量 NAND 的需求。该市场历史上具有周期性，曾出现供应过剩和价格下跌的阶段。
+**背景**: AI 数据中心需要大量电力并产生大量热量，因此储能和高效冷却至关重要。Fluence 是储能产品与服务的全球领导者，西门子提供电气基础设施和自动化，英伟达的 Vera Rubin 平台是下一代 AI 计算架构。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/NAND_flash_memory">NAND flash memory</a></li>
-<li><a href="https://www.ibm.com/think/topics/nand-flash">What is NAND flash memory ? - IBM</a></li>
-<li><a href="https://www.forbes.com/sites/tomcoughlin/2026/05/30/how-has-ai-changed-hard-disk-drive-storage-demand/">How Has AI Changed Hard Disk Drive Storage Demand ?</a></li>
+<li><a href="https://www.datacenterdynamics.com/en/news/siemens-nvidia-and-fluence-develop-reference-electrical-and-power-architecture-for-data-centers-running-vera-rubin-nvl72-platform/">Siemens, Nvidia, and Fluence develop reference electrical and ...</a></li>
+<li><a href="https://www.ess-news.com/2026/06/02/siemens-and-fluence-complete-nvidia-battery-framework-for-ai-data-centers/">Siemens and Fluence complete NVIDIA battery framework for AI ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#NAND`, `#AI`, `#storage`, `#market forecast`
+**标签**: `#AI infrastructure`, `#energy storage`, `#liquid cooling`, `#NVIDIA`, `#Siemens`
 
 ---
 
 <a id="item-46"></a>
-## [Arm CEO：AI 芯片营收目标或提前实现](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQmlYX0ZqbmNDWkQ2Q3B4NDltWjRlTnE3N2h5cm1RTVdhUDZWOWJscTY2SmhGS01tMHl4Qnh3cl9PLVgtZW5vOE1TTGRFS1FjZ3ZEZExVOVFnemNCcER4dmxsUG1qS3F4OHhPaS02eEhTQXUzMmt0amlBNmxCUGxTTHhiSUN0bVowVV9PcnRJU3poRmR6XzNwMWdTeWZQajhwa2RxVmMwT29PUkhzQTRyWEgxeHBRVnY3dmlEcDNBcGJnOVI5ZmpqSXdjbjY4RUZXNTJONWhudUdyWkt4TU5F?oc=5) ⭐️ 6.0/10
+## [llama.cpp b9455 在双 3090 上将 Qwen3.6-27B 提升至 70+ tk/s](https://www.reddit.com/r/LocalLLaMA/comments/1tvff62/another_shout_out_to_llamacpp_build_b9455_2x3090/) ⭐️ 6.0/10
 
-Arm 首席执行官 Rene Haas 表示，受 AI 计算需求激增推动，公司可能比原计划更早实现 150 亿美元的 AI 芯片营收目标。 这标志着 Arm 在传统由英伟达主导的 AI 芯片市场中影响力日益增强，可能重塑 AI 工作负载的半导体设计竞争格局。 150 亿美元的目标原为长期规划，但 Haas 表示，由于字节跳动、甲骨文等客户对基于 Arm 的服务器 CPU 需求强劲，该目标可能更快实现。
+一位用户报告称，llama.cpp 构建版本 b9455 配合 tensor-split 在双 3090 上运行 Qwen3.6-27B-UD-Q8_K_XL 时达到了每秒超过 70 个 token 的速度，首次与 vllm 的性能持平。 这一性能提升使 llama.cpp 成为多 GPU 本地 LLM 推理中 vllm 的可行替代方案，让用户能够以高速运行 Unsloth 的 UDQ8KXL 等高精度量化模型，并获得干净的代码输出。 用户通过 tensor-split 50,50、flash attention、Q8_0 缓存以及 draft 长度为 3 的 MTP 推测解码实现了 70+ tk/s。冷上下文填充 27K token 耗时 18.8 秒，而缓存上下文的解码速度保持在 66-78 tk/s。
 
-rss · Google News - 半导体芯片 · 6月2日 09:35
+reddit · r/LocalLLaMA · /u/Fabulous_Fact_606 · 6月3日 05:05
 
-**背景**: Arm Holdings 设计的芯片架构用于几乎所有智能手机，并越来越多地用于数据中心。其能效设计在 AI 推理工作负载中日益流行，挑战了基于 x86 和 GPU 的解决方案。
+**背景**: llama.cpp 是一个针对本地执行优化的 LLaMA 推理 C++ 实现，支持多种量化和多 GPU 配置。Tensor-split 将模型层分布到多个 GPU 上以提高吞吐量。vllm 是一个常用于服务 LLM 的高性能推理引擎。Qwen3.6-27B 是阿里通义千问系列中一个 270 亿参数的模型。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.arm.com/">Powering the Future of AI Compute – Arm ®</a></li>
-<li><a href="https://wealthorbitcenter.com/arm-ceo-says-ai-chip-export-controls-on-cpus-would-be-nearly-impossible-as-demand-surges/">Arm CEO Says AI Chip Export Controls on CPUs Would Be...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Arm`, `#AI chips`, `#revenue forecast`, `#semiconductor`
+**标签**: `#llama.cpp`, `#local LLM`, `#multi-GPU`, `#performance`, `#Qwen`
 
 ---
 
 <a id="item-47"></a>
-## [SpaceX 最快下周上市，融资高达 750 亿美元](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBZGR3NHlUNi1qQkxTVFp0Q1RydldpV0hIYWFReWtCalZsaFZObDloWU9xWkhQWWJjaUdpS1doUUxnVTIwSFRIU2pqdFhBaWJjRFhId09MUjdINkhsUWNkdUEtcnFnQQ?oc=5) ⭐️ 6.0/10
+## [DeepRobotics 发布 DR02，提升负载与地形适应能力](https://www.reddit.com/r/singularity/comments/1tv2l9z/deeprobotics_unveils_dr02_with_significant/) ⭐️ 6.0/10
 
-据报道，SpaceX 计划最快下周上市，最早周三确定 IPO 条款，目标融资高达 750 亿美元。 这将成为史上最大规模的 IPO 之一，让公众投资者有机会入股马斯克的太空巨头，并可能重塑太空产业的金融格局。 750 亿美元的估值目标反映了 SpaceX 在商业航天领域的领先地位，包括其星链卫星互联网业务和可重复使用火箭技术。
+DeepRobotics 发布了 DR02 四足机器人，在负载能力和复杂地形机动性方面有显著提升。该机器人配备了激光雷达、深度传感器和视觉摄像头以增强感知能力。 这一进步使四足机器人更接近在工业和家庭环境中的实际部署，在这些场景中，承载重物和穿越崎岖地形至关重要。同时也表明中国机器人创新的持续进步。 DR02 配备了激光雷达、深度传感器和视觉摄像头用于导航。它属于 DeepRobotics 的 Lynx 系列，该系列还包括专为危险环境设计的轮腿式 M20 系列。
 
-rss · Google News - 金融市场 · 6月3日 03:30
+reddit · r/singularity · /u/Distinct-Question-16 · 6月2日 20:08
 
-**背景**: SpaceX 由埃隆·马斯克于 2002 年创立，一直是一家私营公司，致力于降低太空运输成本并实现火星殖民。其星链项目旨在通过数千颗卫星组成的星座提供全球宽带互联网。
+**背景**: 四足机器人，如波士顿动力的 Spot，旨在穿越崎岖地形并携带负载。DeepRobotics 是一家专注于开发此类机器人用于工业和救援应用的中国机器人公司。DR02 代表了在提高实际应用价值方面的一个渐进但有意义的进步。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.reddit.com/r/singularity/comments/1tv2l9z/deeprobotics_unveils_dr02_with_significant/">DeepRobotics unveils DR02, with significant improvements in load ...</a></li>
+<li><a href="https://pr.ai/threads/lynx-all-terrian-robot-deeprobotics-co-ltd-hangzhou-zhejiang-china.26049/">Lynx, all-terrian robot, DeepRobotics Co. Ltd, Hangzhou, Zhejiang, China</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: Reddit 上的讨论有限，有一条评论提到了机器人的传感器套件（激光雷达、深度传感器、摄像头）。总体情绪中性，承认了改进但未将其视为突破。
+
+**标签**: `#robotics`, `#hardware`, `#mobility`, `#quadruped`
+
+---
+
+<a id="item-48"></a>
+## [Roku 开源 LT 操作系统用于旧设备](https://blog.roku.com/developer/roku-lt-os) ⭐️ 5.0/10
+
+Roku 已将 LT 操作系统开源，这是一个最初为旧款 Roku 设备设计的轻量级实时操作系统，代码已在 GitHub 上发布。 此举使开发者能够研究并可能为用于数百万旧设备的 RTOS 做出贡献，促进了嵌入式系统的社区参与和透明度。 LT OS 主要用 C 语言编写，托管在 GitHub 的 rokudev 组织下，并附有文档。它是一个用于旧款 Roku 设备和遥控器的轻量级 RTOS。
+
+hackernews · dpmdpm · 6月3日 01:13 · [社区讨论](https://news.ycombinator.com/item?id=48378495)
+
+**背景**: Roku LT OS 是为资源受限的嵌入式设备设计的实时操作系统。开源它使社区能够检查、修改和学习代码，尽管它基于较旧的硬件。
+
+**社区讨论**: 评论褒贬不一：一些用户对 Roku 的 ACR 技术提出隐私担忧，而另一些用户则赞赏基于 C 语言的代码和文档。少数人指出遥控器中使用 RTOS 的讽刺之处，并希望提供基于文本的说明。
+
+**标签**: `#open source`, `#RTOS`, `#Roku`, `#embedded systems`
+
+---
+
+<a id="item-49"></a>
+## [使用 Clojure 一个月后的感想](https://www.acdw.net/clojure/) ⭐️ 5.0/10
+
+一位开发者分享了使用 Clojure 一个月后的初步印象，重点介绍了其语法和数据结构，并提到用它构建了一个静态网站生成器。 这篇个人反思为关于 Clojure 学习曲线和实际应用的持续讨论提供了见解，对考虑函数式编程语言的开发者有参考价值。 作者指出 Clojure 的组合和数据结构很棒，真正的附加价值在于运行时而非语法。他们还提到使用宏轻松添加模板引擎。
+
+hackernews · speckx · 6月2日 19:56 · [社区讨论](https://news.ycombinator.com/item?id=48375393)
+
+**背景**: Clojure 是一种运行在 Java 虚拟机（JVM）上的现代 Lisp 方言，强调函数式编程和不可变数据结构。静态网站生成器是从模板和内容生成 HTML 页面的工具，常用于博客和文档。
+
+**社区讨论**: 评论讨论了 Clojure 相对于其他语言的运行时优势、JVM 之外的多种 Clojure 实现（如 ClojureScript、ClojureDart），以及 Lisp 程序员编写自己的静态网站生成器的常见现象。一位评论者指出这个话题已经被讨论得很多了。
+
+**标签**: `#Clojure`, `#programming languages`, `#functional programming`, `#static site generator`
+
+---
+
+<a id="item-50"></a>
+## [开放维修数据标准旨在统一维修记录](https://openrepair.org/open-data/open-standard/) ⭐️ 5.0/10
+
+开放维修联盟发布了开放维修数据标准，为不同组织记录维修数据提供了通用格式。 该标准可提高维修数据的透明度和可比性，支持维修权和可持续发展运动。 该标准定义了产品类别、故障和维修结果等字段，但社区反馈指出缺少型号等字段，并担心自 2024 年以来项目停滞。
+
+hackernews · cassepipe · 6月2日 19:37 · [社区讨论](https://news.ycombinator.com/item?id=48375150)
+
+**背景**: 开放维修联盟是一个倡导开放维修数据的组织联盟。该标准旨在协调来自维修咖啡馆、社区团体和商业维修商的数据收集。
+
+**社区讨论**: 社区评论指出缺少型号等字段，并质疑该项目是否因自 2024 年以来没有重大变化而被放弃。
+
+**标签**: `#open data`, `#repair`, `#standardization`, `#sustainability`
+
+---
+
+<a id="item-51"></a>
+## [粘贴文件编辑器原型模仿 Claude 功能](https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything) ⭐️ 5.0/10
+
+Simon Willison 创建了一个名为 Pasted File Editor 的原型工具，它复制了 Claude 的大文本粘贴检测功能，自动将大段粘贴文本转换为文件附件。该工具还支持直接打开文件和拖放功能。 该工具展示了 AI 辅助编程如何快速复现商业产品中的实用功能，可能激发其他应用中的类似工具。它也凸显了将文件附件行为集成到文本输入界面中的增长趋势。 该工具使用 Codex 桌面版构建，并以网页形式提供。它可以处理图片并显示缩略图，还允许用户将文件拖放到文本区域。
+
+rss · Simon Willison · 6月2日 04:13
+
+**背景**: Claude 是 Anthropic 开发的 AI 助手，它能自动检测用户粘贴大量文本并将其转换为文件附件以提升性能。这一功能在需要分享大段代码或文档的用户中很受欢迎。Simon Willison 的原型将这一行为复现为独立的网页工具。
+
+**标签**: `#javascript`, `#tools`, `#ai-assisted-programming`, `#claude`, `#codex`
+
+---
+
+<a id="item-52"></a>
+## [联发科下一代芯片采用英特尔 EMIB-T 封装](https://news.google.com/rss/articles/CBMiXkFVX3lxTE43S1lzN29UNFp4M3NWMzgtZWJJb1NPZHl4a2d2OUtVZHZVaHp0ZlkwUE5iZVY1aWRSUF9YSHJiYWFpVVdGcWRocUpCRmNKZzgtU2NnSTlhUHlSV2lKZ3c?oc=5) ⭐️ 5.0/10
+
+联发科将在其下一代芯片中采用英特尔的 EMIB-T 先进封装技术，标志着其制造策略的转变。 此次合作凸显了先进封装在半导体设计中的重要性日益增加，并可能加强英特尔的代工服务业务。 EMIB-T 是英特尔的嵌入式多芯片互连桥接技术，可实现芯片间高带宽、低延迟连接。具体芯片和时间表尚未披露。
+
+rss · Google News - 半导体芯片 · 6月3日 05:14
+
+**背景**: 像 EMIB-T 这样的先进封装技术允许将多个较小的芯片（小芯片）集成到单个封装中，从而提高性能和良率。联发科是一家主要的无晶圆厂芯片设计公司，传统上依赖台积电进行制造，因此此举标志着多元化。
+
+**标签**: `#semiconductor`, `#advanced packaging`, `#MediaTek`, `#Intel`, `#ETF`
+
+---
+
+<a id="item-53"></a>
+## [长江存储计划挑战三星本土市场](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcGZsVEM3TDlaaU41SE9wa1FmXzlXUnNDQUsyVGdxbU5RZ3pDdjc2ME5JQVQyNXYwNHZRcGp4amJkUzlDdnZQTkVabmRpVzFVMWdqNFVfRDJyczlSazd6UmstRDE4VTRURkQ1SXU0QTN6c18wd0VTR0d6VW9rRGpVYkNGSkxSRFVnc1o5NW9NSTFWTWx5Wm8zQjcyeWhMb3JoVUp3djVqNA?oc=5) ⭐️ 5.0/10
+
+据报道，中国 NAND 闪存制造商长江存储计划进军三星的本土市场韩国，直接与这家存储巨头竞争。 此举表明长江存储对其技术日益自信，可能加剧全球存储芯片市场的竞争，有望降低价格并削弱三星的主导地位。 长江存储成立于 2016 年，有政府背景，专注于 3D NAND 闪存，并已加大其 Xtacking 架构芯片的生产。
+
+rss · Google News - 半导体芯片 · 6月3日 06:02
+
+**背景**: 长江存储（YMTC）是一家专注于 NAND 闪存的中国半导体公司，旨在减少中国对外国芯片制造商（如三星、SK 海力士和美光）的依赖。三星是全球最大的存储芯片制造商，在 DRAM 和 NAND 市场均占据主导地位。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/YMTC">YMTC</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductors`, `#memory chips`, `#YMTC`, `#Samsung`
+
+---
+
+<a id="item-54"></a>
+## [艾为电子以全链路策略进军 AI 眼镜市场](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uNHhkNnlXcHk5WFdJSTk0cE4wNWtDU0tVSmstRHBGdnNTeEFQOHgtVDBTSlc1VmtQMHFVcnR1TlNIMlgyZm1STHBIM2NpbWlIcmV3SzRneldMdy1U?oc=5) ⭐️ 5.0/10
+
+艾为电子宣布采用“算力+算法+芯片”全链路策略进军 AI 眼镜市场，旨在提供一体化解决方案。 此举标志着 AI 可穿戴设备领域竞争加剧，中国半导体公司正通过垂直整合实现差异化。通过提供更优化的软硬件协同设计，可能加速 AI 眼镜的普及。 该策略涵盖从芯片设计到算法优化的全链条，针对眼镜的低功耗、高性能 AI 处理。未披露具体产品或时间表。
+
+rss · Google News - 半导体芯片 · 6月3日 03:47
+
+**背景**: AI 眼镜需要平衡功耗和 AI 算力的专用芯片，通常采用系统级芯片（SoC）设计。艾为电子等中国公司正投资定制芯片，以与高通等全球厂商竞争。
+
+**标签**: `#AI glasses`, `#semiconductor`, `#hardware`, `#China tech`
+
+---
+
+<a id="item-55"></a>
+## [湖北实验室宣称突破芯片卡脖子技术](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ncUI3RUk3d2xFVDZwSVpSaHdpZUFXbHFTZ1dySGdYQ3JjbU5FRXpIQ0l0UXFnaUhmTVFKUjRuWFY1MUFSX0pwSGFQakN5ampkS2stNVVoRTM?oc=5) ⭐️ 5.0/10
+
+湖北三峡实验室宣布经过三年攻关，在芯片“卡脖子”技术上取得突破，旨在减少对外国半导体供应的依赖。 这一进展可能增强中国半导体自给自足能力，降低对出口管制的脆弱性，影响全球芯片供应链和技术竞争。 该实验室位于湖北省宜昌市，专注于芯片制造的关键材料和工艺。突破的具体技术细节尚未公开。
+
+rss · Google News - 半导体芯片 · 6月2日 23:06
+
+**背景**: 由于美国主导的出口管制，中国在先进芯片技术进口方面面临严重限制。“卡脖子”技术指光刻、高纯度化学品等中国难以自主研发的关键技术。湖北三峡实验室是为应对此类挑战而设立的省级研究机构。
+
+**标签**: `#semiconductor`, `#chip technology`, `#China`, `#research breakthrough`
+
+---
+
+<a id="item-56"></a>
+## [博泰车联拟收购光电芯片企业控股权](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MMFc3cm55WFQ0UmNJVTUwb0c4UWx5aTJEX3BPQ0RQT1hsYnd5bEhzWkw0WXV1REh1aWRKQ0Y4Y2h6aTN0Z2dPeHZqLUx0MloyN083U3FwVW1qWkNFdGJSWUZsWktwUQ?oc=5) ⭐️ 5.0/10
+
+博泰车联宣布拟收购一家光电芯片企业的控股权，旨在拓展车载光通信及 AI 基础硬件领域。 此举标志着博泰车联向芯片设计上游的战略延伸，有望增强其在智能汽车和 AI 基础设施领域的竞争力。 据报道，此次收购与平安资本合作，目标公司是一家通信芯片设计企业。该交易是博泰将光电芯片整合到汽车应用中的更广泛战略的一部分。
+
+rss · Google News - 半导体芯片 · 6月3日 05:12
+
+**背景**: 博泰车联是中国汽车网联和智能座舱解决方案提供商。光电芯片可将电信号转换为光信号，对于车辆和 AI 数据中心的高速数据传输至关重要。
+
+**标签**: `#acquisition`, `#automotive`, `#AI hardware`, `#optoelectronics`
+
+---
+
+<a id="item-57"></a>
+## [寒武纪能否成为中国版英伟达？](https://news.google.com/rss/articles/CBMib0FVX3lxTE9hOVh5bmlYY0o3aFBTTk5zNlAxNjNicUFYN3FJVm5wX0hBTnZLTWVxbkV2Rkptcnd4djR3UTdua2dIYmZMb2d1MHlPMElxRzRIRDVzaHlUUWhhSWM2TmFrN0ctcnZJQ3ZhWXN3b2Fodw?oc=5) ⭐️ 5.0/10
+
+新浪财经的一篇分析文章讨论了在拥挤的中国 AI 芯片市场中，寒武纪能否成为类似英伟达的领先企业。 这很重要，因为中国正在努力实现半导体自给自足，本土 AI 芯片领军企业的成功可能重塑全球 AI 硬件格局，并减少对英伟达的依赖。 文章指出，寒武纪面临来自华为等成熟公司和初创企业的激烈竞争，其市场份额和盈利能力仍不确定。
+
+rss · Google News - 半导体芯片 · 6月3日 03:02
+
+**背景**: 寒武纪是一家由中国科学院研究人员创立的中国 AI 芯片设计公司。英伟达凭借其 GPU 主导全球 AI 芯片市场，但美国的出口限制刺激了中国开发本土替代品。
+
+**标签**: `#AI chips`, `#semiconductor`, `#China`, `#Cambricon`, `#NVIDIA`
+
+---
+
+<a id="item-58"></a>
+## [中国企业级 SSD 市场的进展与变局](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORFlLVmhJN01FdkZ2T0FMTzA5cHFyNmw4NmhJRWI3YUkyYWdwWkwxSkNFWGx0c0pkeG5TazM0czRpTXh0anNGYVZYQjl0TkpicEpENmlUM21FVnhFeGh3aFJkMnVfTzZJeW1yV1plajU2OThWNGVKOXpDcHhrYnF1bHJvcUN5NXB0?oc=5) ⭐️ 5.0/10
+
+搜狐网最近的一篇文章概述了中国国内企业级 SSD 市场的进展与变化，强调了本土制造商的崛起及其对行业的影响。 这很重要，因为中国在半导体领域追求自给自足的努力包括企业级 SSD，这对数据中心和云计算至关重要。本土厂商的成长可能重塑全球供应链，减少对三星、英特尔等外国供应商的依赖。 文章讨论了长江存储等国内公司在 NAND 闪存和 SSD 控制器方面的进展，并指出了技术差距和市场竞争等挑战。
+
+rss · Google News - 半导体芯片 · 6月3日 05:59
+
+**背景**: 企业级 SSD 是用于服务器和数据中心的高性能存储设备，在耐用性和可靠性上区别于消费级 SSD。中国一直在大力投资半导体自给自足，企业级 SSD 因数据主权和供应链安全而成为重点领域。
+
+**标签**: `#SSD`, `#enterprise storage`, `#semiconductors`
+
+---
+
+<a id="item-59"></a>
+## [SpaceX 被曝 IPO 定价 135 美元，募资 750 亿美元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sMUViVFJuUUQ1SXEybFVCQ1ZlY3lFSlFzb2R6SW5wRVA1WFFIaGxpV09TV0tISWktaTVzWVBRQWVBaDNDLUxMN3BEU1cxM3pTbFZyUTVmcUQxbFFMOUloWg?oc=5) ⭐️ 5.0/10
+
+有传言称 SpaceX 计划进行首次公开募股（IPO），每股定价 135 美元，目标募资 750 亿美元。 如果属实，这将成为史上最大规模的 IPO 之一，可能使 SpaceX 估值超过 1500 亿美元，并为公众提供投资这家领先私营太空公司的机会。 每股 135 美元和募资 750 亿美元的传言尚未得到证实，且未向 SEC 提交正式文件。具体细节仍属猜测。
+
+rss · Google News - 金融市场 · 6月3日 04:00
+
+**背景**: SpaceX 由埃隆·马斯克创立，是一家私营航空航天制造商和太空运输公司。IPO 将允许公众投资者购买股票，但马斯克此前曾因长期任务导向而对上市表示犹豫。
 
 **标签**: `#SpaceX`, `#IPO`, `#finance`, `#space`
 
 ---
 
-<a id="item-49"></a>
-## [llama.cpp b9455 在双 3090 上运行 Qwen3.6-27B 达到 70+ t/s](https://www.reddit.com/r/LocalLLaMA/comments/1tvff62/another_shout_out_to_llamacpp_build_b9455_2x3090/) ⭐️ 6.0/10
-
-有用户报告称，在双 RTX 3090 GPU 上使用 llama.cpp b9455 版本并启用 tensor-split，运行 Qwen3.6-27B 模型（使用 Unsloth 的 UD-Q8_K_XL 量化及 MTP 投机解码）时，推理速度超过 70 tokens/s，与 vLLM 的性能持平。 这表明 llama.cpp 现在能够达到与 vLLM 相当的多 GPU 推理速度，为用户提供了一个更简单的替代方案，且支持更好的量化格式，无需寻找专门的 vLLM 量化模型。 用户使用了 Qwen3.6-27B-MTP UD-Q8_K_XL GGUF 模型，配置了 tensor-split 50,50、flash attention、Q8_0 KV 缓存以及 draft 长度为 3 的 MTP 投机解码，在不同上下文大小下实现了 66-81 t/s 的解码速度。
-
-reddit · r/LocalLLaMA · /u/Fabulous_Fact_606 · 6月3日 05:05
-
-**背景**: llama.cpp 是一个流行的开源 C++ 库，用于在消费级硬件上本地运行大语言模型。通过 tensor-split 实现的多 GPU 推理将模型层分布到多个 GPU 上以提高吞吐量。MTP（多 token 预测）投机解码利用模型自身的 MTP 头，无需外部草稿模型即可每步生成多个 token，从而加速生成。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://bric.pe.kr/blog/llama-cpp-split-mode-row-vs-layer-old-gpu">llama . cpp -- split -mode row vs layer on Multi - GPU — Old GPU Edition...</a></li>
-<li><a href="https://recipes.vllm.ai/Qwen/Qwen3.6-27B">Qwen/Qwen3.6-27B | vLLM Recipes</a></li>
-<li><a href="https://medium.com/practical-llm-systems/i-tested-mtp-speculative-decoding-on-two-qwen-models-one-was-a-trap-46c2dfe584c7">I Tested MTP Speculative Decoding on Two Qwen Models — One Was a Trap | by Rost Glukhov | Practical LLM Systems | May, 2026 | Medium</a></li>
-
-</ul>
-</details>
-
-**标签**: `#llama.cpp`, `#multi-GPU`, `#inference`, `#Qwen`
-
----
-
-<a id="item-50"></a>
-## [Reddit 用户讨论 AI 代理的内存系统](https://www.reddit.com/r/LocalLLaMA/comments/1tv4xi0/what_memory_system_are_you_using_for_your_agents/) ⭐️ 6.0/10
-
-一位 Reddit 用户向社区询问关于 AI 代理第三方内存系统的使用经验，特别提到了 Memo0 和 Supermemory，以及他们更倾向于自定义还是内置解决方案。 内存系统对于 AI 代理跨会话保持上下文至关重要，这次讨论凸显了代理开发中对健壮、可扩展内存解决方案日益增长的需求。 用户提到了 Claude Code、Hermes 和 OpenClaw 等工具，并询问了 Memo0 和 Supermemory 等第三方系统与内置内存之间的比较。
-
-reddit · r/LocalLLaMA · /u/Mr_Moonsilver · 6月2日 21:33
-
-**背景**: AI 代理通常需要跨会话记住用户偏好、历史交互和上下文。像 Supermemory 这样的内存系统提供了持久内存的托管 API，而 Memo0 是另一个第三方选项。内置内存系统因代理框架而异。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://supermemory.ai/research/">Supermemory Research — State-of-the-Art Agent Memory</a></li>
-<li><a href="https://github.com/supermemoryai/supermemory">GitHub - supermemoryai/supermemory: Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. · GitHub</a></li>
-<li><a href="https://www.datacamp.com/tutorial/supermemory-tutorial">Supermemory Tutorial: Add Persistent Memory to AI Agents | DataCamp</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI agents`, `#memory systems`, `#LLM`, `#tooling`
-
----
-
-<a id="item-52"></a>
-## [DeepRobotics DR02 提升负载与地形适应能力](https://www.reddit.com/r/singularity/comments/1tv2l9z/deeprobotics_unveils_dr02_with_significant/) ⭐️ 6.0/10
-
-DeepRobotics 发布了 DR02 四足机器人，在负载能力和复杂地形机动性方面有显著提升。 这一进步可能扩大四足机器人在工业巡检、搜救和物流等领域的应用，这些场景中在崎岖地形上携带重物至关重要。 DR02 基于 DeepRobotics 此前型号改进，但公告中未披露最大负载重量、续航时间和地形类型等具体技术参数。
-
-reddit · r/singularity · /u/Distinct-Question-16 · 6月2日 20:08
-
-**背景**: 四足机器人（如波士顿动力的 Spot）旨在穿越不平坦地形并携带传感器或设备。DeepRobotics 是一家专注于开发此类商用和工业机器人的中国机器人公司。
-
-**标签**: `#robotics`, `#hardware`, `#quadruped`
-
----
-
-<a id="item-53"></a>
-## [伯尼·桑德斯提议 AI 公有化 50%](https://www.reddit.com/r/singularity/comments/1tuo0n5/bernie_sanders_ai_is_a_public_resource_you_should/) ⭐️ 6.0/10
-
-参议员伯尼·桑德斯宣布将提出一项法案，要求美国最大的 AI 公司向公众提供 50%的所有权股份，并通过主权财富基金管理。 该提案挑战了当前 AI 的私人控制，旨在确保 AI 的经济利益广泛共享，并防止寡头对这项变革性技术做出决策。 该法案将创建一个 AI 主权财富基金，持有主要 AI 公司的直接所有权股份，确保利润用于公共福利而非私人致富。
-
-reddit · r/singularity · /u/idontlikethisuserna · 6月2日 11:24
-
-**背景**: AI 系统建立在人类集体知识和数据之上，其开发往往依赖公共资源如研究经费和基础设施。将 AI 视为公共资源呼应了历史上的先例，如公共拥有电波和水道。支持者认为，公有化可以使 AI 开发与社会价值观保持一致，并防止权力集中。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/tech-industry/big-tech/bernie-sanders-pushes-for-50-percent-public-ownership-of-american-ai-companies-proposes-ai-sovereign-wealth-fund-that-would-hold-direct-ownership-stakes-in-largest-ai-firms">Bernie Sanders pushes for 50% public ownership of American AI companies — proposes AI sovereign wealth fund that would hold direct ownership stakes in largest AI firms | Tom's Hardware</a></li>
-<li><a href="https://oneproject.org/how-to-make-ai-serve-the-public/">How to Make AI Serve the Public - One Project</a></li>
-<li><a href="https://ash.harvard.edu/policy-101-public-ai/">Policy 101: Public AI – Ash Center</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: Reddit 上的评论褒贬不一：一些人支持这一想法，认为可以民主化 AI 收益，而另一些人则质疑其可行性及政府效率低下的问题。少数用户指出，类似提案以前就有人提出过，但面临强烈的政治反对。
-
-**标签**: `#AI policy`, `#public ownership`, `#Bernie Sanders`, `#AI ethics`
-
----
-
-<a id="item-54"></a>
-## [开发者分享使用 Clojure 一个月后的初步印象](https://www.acdw.net/clojure/) ⭐️ 5.0/10
-
-一位开发者发布博客文章，详细介绍了使用 Clojure 约一个月后的体验，涉及语法、生态系统以及构建静态站点生成器。 这篇个人反思凸显了 Clojure 的独特魅力和挑战，为关于函数式编程和 Lisp 方言在现代开发中的持续讨论提供了素材。 作者使用 Clojure 宏创建了自己的静态站点生成器，指出添加自定义模板引擎很容易，但构建功能完整的生成器很复杂。Clojure 跨运行时（JVM、JavaScript、CLR 等）的可移植性被强调为关键优势。
-
-hackernews · speckx · 6月2日 19:56 · [社区讨论](https://news.ycombinator.com/item?id=48375393)
-
-**背景**: Clojure 是一种现代 Lisp 方言，运行在 Java 虚拟机（JVM）和其他平台上。它强调函数式编程，具有不可变数据结构和强大的宏系统。像 Cryogen 这样的静态站点生成器在 Clojure 社区中很受欢迎，用于构建网站。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://cryogenweb.org/">Cryogen: Simple static sites</a></li>
-<li><a href="https://clojure.org/">Clojure</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Clojure">Clojure - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 评论指出，编写静态站点生成器是 Lisp 程序员常见的成人礼。一些用户称赞 Clojure 跨运行时的可移植性，而另一些用户则认为 Clojure 优点的讨论已经过度。由于带宽限制，提供了文章的缓存版本。
-
-**标签**: `#Clojure`, `#programming languages`, `#functional programming`, `#personal experience`
-
----
-
-<a id="item-55"></a>
-## [开放维修数据标准面临低参与度](https://openrepair.org/open-data/open-standard/) ⭐️ 5.0/10
-
-开放维修数据标准（ORDS）为小型电子产品的维修数据记录提供了结构化格式，但自 2024 年以来更新极少，引发了对项目被废弃的担忧。 该标准对于跨组织汇总维修数据、促进可持续性和维修权至关重要，但低参与度可能阻碍其采用和影响力。 该模式缺少产品型号等关键字段，限制了其在详细分析中的实用性。该标准托管在 standard.openrepair.org，由开放维修联盟维护。
-
-hackernews · cassepipe · 6月2日 19:37 · [社区讨论](https://news.ycombinator.com/item?id=48375150)
-
-**背景**: 开放维修联盟是一个国际组织，致力于使电子产品更耐用、更易维修。ORDS 旨在实现不同来源维修数据的整合，支持维修权运动。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://openrepair.org/open-data/open-standard/">Open Repair Data Standard - Open Repair Alliance</a></li>
-<li><a href="https://standard.openrepair.org/">Open Repair Data Standard</a></li>
-<li><a href="https://openrepair.org/about/">About - Open Repair Alliance</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区评论表达了对项目被废弃的担忧，因为自 2024 年以来没有重大变化，并指出缺少型号等产品信息字段，使模式显得薄弱。
-
-**标签**: `#open data`, `#repair`, `#standard`, `#sustainability`
-
----
-
-<a id="item-56"></a>
-## [安凯微量产两款 AI 眼镜 SoC 芯片](https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0dU9wMFpBSzR5NGN5Nmx0aEUwelVYUnBzQVR4S2tjb3lacEpBVjNsdWJ6SmlUZjc1SnpYZnZOZG1SUmpWX1ZwQWR0bDZudUR3a3RqMWc3a0pscTg0MU1qb1lfZHhvQQ?oc=5) ⭐️ 5.0/10
-
-安凯微宣布已开始量产两款专为 AI 眼镜设计的系统级芯片（SoC）。 这标志着 AI 硬件生态的重要进展，为日益增长的 AI 眼镜市场提供专用 SoC 方案，可能加速可穿戴 AI 设备的产品开发。 公告未披露具体芯片型号和技术规格，但这些芯片专为 AI 眼镜定制，处理摄像头输入、显示渲染和 AI 处理等任务。
-
-rss · Google News - 半导体芯片 · 6月2日 02:47
-
-**背景**: AI 眼镜需要紧凑、低功耗的 SoC，集成图像处理、AI 推理和连接等多种功能。安凯微是一家专注于智能硬件 SoC 设计的中国半导体公司。这些芯片的量产表明已准备好用于消费级 AI 眼镜的商业化部署。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.topaiglasses.com/post/decoding-ai-glasses-chipset-solutions-understand-the-core-know-the-product">Decoding AI Glasses Chipset Solutions: Understand the Core, Know the Product</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI hardware`, `#SoC`, `#AI glasses`, `#semiconductor`
-
----
-
-<a id="item-57"></a>
-## [OpenAI 在万亿 IPO 前押注基础设施](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMQWNsWmtwcmpXSjBIYkR4LTNOQlc4MTB5S0xYT0Q4b2xzamhQQXU5Q1FhVXFNTnd4SWk5QlEzVlB0NEpHRU1CYkpCb1VoQXBGYUZBZWNwbG12aVVMT2c?oc=5) ⭐️ 5.0/10
-
-OpenAI 正在加大基础设施投资，包括 5000 亿美元的 Stargate 项目，同时筹备估值高达 1 万亿美元的 IPO。 此举表明 AI 领导者必须确保海量计算资源以维持增长，而此次 IPO 可能成为史上最大规模之一，重塑投资者对 AI 公司的预期。 Stargate 项目计划四年内投资 5000 亿美元用于美国 AI 基础设施，而软银已承诺 400 亿美元并持有 OpenAI 基础设施超过 10%的所有权。
-
-rss · Google News - 金融市场 · 6月3日 04:53
-
-**背景**: OpenAI 是 ChatGPT 的创建者，以营利性公益公司形式运营。随着 AI 模型规模扩大，需要庞大的数据中心和能源，基础设施成为关键竞争优势。据报道，该公司正筹备估值高达 1 万亿美元的 IPO。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://openai.com/index/announcing-the-stargate-project/">Announcing The Stargate Project | OpenAI</a></li>
-<li><a href="https://www.reuters.com/business/openai-lays-groundwork-juggernaut-ipo-up-1-trillion-valuation-2025-10-29/">Exclusive: OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation | Reuters</a></li>
-<li><a href="https://www.devcuration.com/openai-infrastructure-ownership-softbank/">OpenAI Infrastructure Ownership: SoftBank Crosses 10%</a></li>
-
-</ul>
-</details>
-
-**标签**: `#OpenAI`, `#IPO`, `#infrastructure`, `#AI`, `#business strategy`
-
----
-
-<a id="item-58"></a>
-## [Anthropic IPO 在即，OpenAI 紧急追赶编程 AI 赛道](https://news.google.com/rss/articles/CBMieEFVX3lxTE55S1UxODZ4eElabWFjNE9xOUhiRzRFWFhDMC1iMWVfWHU4NW1meTh6dHltMWNXTmJTeU1PSEhrNmp3MzJGQlJCcWhPYW1iajN1blBtdXFvMW9pOFVNMEFLR3hDLWthMHh0dWR4N3ZoUmxvZmZpb04xXw?oc=5) ⭐️ 5.0/10
-
-Anthropic 已向 SEC 秘密提交 IPO 申请，而 OpenAI 正加速推进其编程 AI 产品（如 Codex 和 GPT-5）以保持竞争力。 这标志着两家领先 AI 公司之间的竞争加剧，IPO 可能重塑 AI 投资格局，而编程 AI 竞赛将推动开发者工具领域的创新。 Anthropic 的 IPO 申请是秘密提交的，但预计估值可观；OpenAI 的编程解决方案包括 Codex（一个用于编程的 AI 智能体）和 GPT-5（增强了代码生成和审查能力）。
-
-rss · Google News - 金融市场 · 6月3日 04:04
-
-**背景**: Anthropic 和 OpenAI 是两家开发大型语言模型的主要 AI 公司。Anthropic 以其 Claude 模型闻名，而 OpenAI 以 GPT 系列和 Codex 著称。两者都在 AI 编程工具市场竞争，该市场旨在自动化软件开发任务。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.reuters.com/business/ai-giant-anthropic-confidentially-files-us-ipo-2026-06-01/">Anthropic moves toward IPO , stepping up race with OpenAI</a></li>
-<li><a href="https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html">Anthropic confidentially files IPO prospectus with SEC, landmark...</a></li>
-<li><a href="https://openai.com/solutions/use-case/coding/">Solutions for Coding | OpenAI</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#OpenAI`, `#Anthropic`, `#IPO`, `#programming`
-
----
-
-<a id="item-59"></a>
-## [海辰储能发布 10 小时+储能系统，预计 2027 年交付](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxNndoQTZuVHJsTnFwRDVGa1ZJR3NfYmpFLTNKUnFSdmRkM0owNHRmNUN6V0hDVU9maFFOMWU0cmdyOFhzTlhoa2o5ZHZuc09xNFlyNmtUd29JNkQxTDFGX1ZR?oc=5) ⭐️ 5.0/10
-
-海辰储能发布了一款可放电超过 10 小时的长时储能系统，预计 2027 年开始交付。 这一进展满足了可再生能源并网和电网稳定性对长时储能日益增长的需求，与中国雄心勃勃的储能扩张目标相契合。 该系统针对需要持续供电的应用场景，如可再生能源平滑和削峰填谷，但具体技术规格（如化学体系、容量）尚未披露。
-
-rss · Google News - 新能源 · 6月3日 04:17
-
-**背景**: 长时储能（通常 4 小时以上）对于整合太阳能、风能等间歇性可再生能源至关重要。国家能源局近期设定了到 2027 年新型储能装机达到 1.8 亿千瓦的目标，推动了该领域的创新。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.ndrc.gov.cn/xxgk/jd/jd/202509/t20250912_1400432.html">【国家能源局有关负责同志就《新型储能规模化建设专项行动方案（2025—2027年）》答记者问】-国家发展和改革委员会</a></li>
-<li><a href="https://www.nea.gov.cn/20250912/24589b84cb0d4120b263106e3e7c50d1/c.html">国家能源局有关负责同志就《新型储能规模化建设专项行动方案（2025—2027年）》答记者问---国家能源局</a></li>
-
-</ul>
-</details>
-
-**标签**: `#energy storage`, `#renewable energy`, `#battery technology`
-
----
-
 <a id="item-60"></a>
-## [中企在欧洲拿下 1.5GWh 储能订单](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zOHlFQ3R6dEJOTlU0Tm44M1lrZ2FCa0dlRmNaQVNxbnVXa1k1Z3VTakM5Z0pfZDV5b01SSFJtMDRsdFAwMFJ5YVhtZE1FVEZrdGFLWW9RM1hVTmhRbzg0Ng?oc=5) ⭐️ 5.0/10
+## [沃什提议彻底改革美联储利率指引](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnM2M0Y3RqeWQzX3lDM0tCb1FvT0RQU0gtQzg4TVp6VExzajBaWWQweDJMdzN4b0hGRXFZUE56cEV1OHJMRTQ4Qm81VlloQWhvRl90ZzlfLVNvQQ?oc=5) ⭐️ 5.0/10
 
-据碳索储能网报道，一家中国企业已在欧洲获得多个储能订单，总容量达 1.5GWh。 这表明欧洲对大规模电池储能的需求日益增长，以及中国储能供应商在全球市场的竞争力。 报道未披露具体公司名称和项目细节，但 1.5GWh 的总容量对于电网级应用而言意义重大。
+前美联储理事凯文·沃什提议用更简单的基于规则的利率沟通方式取代美联储的前瞻指引和点阵图。 这一提议可能显著改变金融市场解读美联储政策的方式，可能降低波动性，但也可能移除投资者依赖的微妙信号。 沃什特别批评了点阵图造成混乱，并主张建立一个将利率决策与可观察的经济数据而非委员会预测挂钩的系统。
 
-rss · Google News - 新能源 · 6月3日 02:56
+rss · Google News - 金融市场 · 6月3日 05:50
 
-**背景**: 储能系统以吉瓦时（GWh）为单位，对于将太阳能和风能等可再生能源并入电网至关重要。欧洲一直在快速扩大其储能容量，以支持其脱碳目标。
+**背景**: 美联储目前使用前瞻指引和点阵图来预示未来的利率路径。前瞻指引是关于可能政策变动的口头沟通，而点阵图显示各成员对利率的预测。批评者认为这些工具可能具有误导性或造成市场扭曲。
 
-**标签**: `#energy storage`, `#renewable energy`, `#business`
+**标签**: `#finance`, `#monetary policy`, `#Federal Reserve`
 
 ---
 
 <a id="item-61"></a>
-## [上汽通用五菱获批建设首个新能源汽车国家质量标准实验室](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Pd2ljVjcwUm9OSXlucmFQcHRRYlJ2STlra1BmR0kwMTNnS2NtdEhyRVRuSVZ4a3V5NjZHejEyaGtKT3NWd2dOVWN2bzRySWctYWgyenA0VktETjV6a3ZjRWR3?oc=5) ⭐️ 5.0/10
+## [海辰储能发布 10 小时+储能系统，预计 2027 年交付](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxNndoQTZuVHJsTnFwRDVGa1ZJR3NfYmpFLTNKUnFSdmRkM0owNHRmNUN6V0hDVU9maFFOMWU0cmdyOFhzTlhoa2o5ZHZuc09xNFlyNmtUd29JNkQxTDFGX1ZR?oc=5) ⭐️ 5.0/10
 
-上汽通用五菱获批建设汽车行业首个新能源汽车国家质量标准实验室。 该实验室将有助于制定和执行中国新能源汽车的质量基准，可能提升行业标准并增强消费者对电动汽车的信心。 该实验室被指定为国家级别设施，表明政府对快速增长的新能源汽车领域的质量保证给予支持。
+海辰储能发布了一款新型长时储能系统，可放电超过 10 小时，预计 2027 年开始交付。 该产品满足了可再生能源电网对长时储能日益增长的需求，有望提高太阳能和风能的并网比例。 该系统针对需要持续供电超过典型 4 小时锂离子电池的应用场景，但具体技术细节（如化学体系、容量）尚未披露。
 
-rss · Google News - 新能源 · 6月3日 04:40
+rss · Google News - 新能源 · 6月3日 04:17
 
-**背景**: 中国是全球最大的新能源汽车市场，质量标准对安全性和性能至关重要。国家级实验室通常制定制造商必须满足的测试协议和认证标准。
+**背景**: 长时储能（LDES）指可存储并放电 10 小时以上的系统，对于平衡间歇性可再生能源至关重要。目前大多数锂离子电池优化用于 2-4 小时时长。海辰储能是一家专注于公用事业规模电池储能解决方案的中国公司。
 
-**标签**: `#automotive`, `#new energy vehicles`, `#quality standards`, `#China`
+**标签**: `#energy storage`, `#renewable energy`, `#grid storage`, `#battery technology`
 
 ---
 
 <a id="item-62"></a>
-## [西门子、英伟达、Fluence 推出 AI 数据中心标准方案](https://news.google.com/rss/articles/CBMiYEFVX3lxTE04Q0tiVzU1QUI5eFNjZXVkalh6bEVNaVVoTTVMMWRIRTVJMG05clNNRjRoYWZ5QjlIRlJ5bEdZVk9EN0NfODdQUTlOdXQ4dXNIalRUX014SzF4RUJZZEg2cA?oc=5) ⭐️ 5.0/10
+## [上汽通用五菱获批建设首个新能源汽车国家质量标准实验室](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Pd2ljVjcwUm9OSXlucmFQcHRRYlJ2STlra1BmR0kwMTNnS2NtdEhyRVRuSVZ4a3V5NjZHejEyaGtKT3NWd2dOVWN2bzRySWctYWgyenA0VktETjV6a3ZjRWR3?oc=5) ⭐️ 5.0/10
 
-西门子、英伟达和 Fluence 联合发布了一项集成储能和液冷技术的 AI 算力中心标准方案。 此次合作解决了 AI 数据中心功耗和热管理的关键挑战，有望为效率和可持续性树立新的行业标杆。 该方案结合了 Fluence 的储能系统、英伟达的 AI 计算平台以及西门子的数字基础设施专长，并采用液冷技术处理高密度 GPU 集群。
+上汽通用五菱已获批建设汽车行业首个新能源汽车国家质量标准实验室。 该实验室将为中国的新能源汽车行业设定质量标准，有望提升整个行业的车辆可靠性和安全性。 该实验室被指定为国家级别设施，专注于新能源汽车特有的质量标准，包括电池、电机和电控系统。
 
-rss · Google News - 新能源 · 6月3日 03:13
+rss · Google News - 新能源 · 6月3日 04:40
 
-**背景**: AI 数据中心消耗大量电力并产生大量热量，需要先进的冷却和能源管理。对于高密度部署，液冷比传统风冷更高效，而储能有助于稳定电网需求并降低成本。
+**背景**: 中国是全球最大的新能源汽车市场，政府一直在推动提高质量标准以支持行业发展。上汽通用五菱是一家大型合资企业，生产五菱宏光 MINI EV 等热门新能源车型。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://fluenceenergy.com/">Fluence | A Siemens and AES Company</a></li>
-<li><a href="https://www.siemens.com/en-us/">Siemens home</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI infrastructure`, `#energy storage`, `#liquid cooling`, `#data centers`
+**标签**: `#new energy vehicles`, `#quality standards`, `#automotive industry`, `#China`
 
 ---
 
 <a id="item-63"></a>
-## [中国光伏储能实证平台发布 2025 年度数据](https://news.google.com/rss/articles/CBMidEFVX3lxTE5oQ3drRnJwSnJuTlRDd3ktYklxaHBBUWVrY1JmdVpiVVYxMmU5T1hTOUlBekZaa2VhblF1RllmR1U3dWhLOFJoN2w0QkxlYnYwQXFIUjhheUF0YUE4cGwzb2RkYTQzS3FTMW0xUUl4aWlSRXBE?oc=5) ⭐️ 5.0/10
+## [Reddit 用户分享 AI 代理记忆系统偏好](https://www.reddit.com/r/LocalLLaMA/comments/1tv4xi0/what_memory_system_are_you_using_for_your_agents/) ⭐️ 5.0/10
 
-国家光伏、储能实证实验平台（大庆基地）发布了 2025 年度数据成果，提供了光伏和储能技术的实际运行性能指标。 该数据发布提供了光伏和储能系统在实际条件下运行效率和可靠性的关键见解，支持中国的可再生能源部署和并网整合工作。 大庆基地是一个国家级平台，用于实证测试光伏和储能技术，其 2025 年数据涵盖了性能、衰减和经济指标。
+一位 Reddit 用户向社区询问他们使用第三方 AI 代理记忆系统的经验，提到了 Memo0 和 Supermemory 等选项，以及他们是否更倾向于自定义解决方案而非内置方案。 记忆系统对于 AI 代理在长时间交互中保持上下文至关重要，社区见解可以帮助开发者选择有效的工具来构建更强大的代理。 该帖子特别询问了像 Memo0 和 Supermemory 这样的第三方系统，并将它们与 Claude Code、Hermes 和 OpenClaw 等工具中的内置记忆进行了比较。
 
-rss · Google News - 新能源 · 6月3日 00:58
+reddit · r/LocalLLaMA · /u/Mr_Moonsilver · 6月2日 21:33
 
-**背景**: 大庆基地于 2021 年启动，是中国首个国家级光伏和储能技术实证实验平台。其目标是为可再生能源领域的技术选择、标准制定和政策制定提供客观数据。
+**背景**: AI 代理通常需要记忆来跨会话保留信息，从而实现个性化和连贯的交互。一些代理框架提供了内置记忆系统，但第三方解决方案提供了专门的功能，如长期存储或检索增强生成。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://on-demand.eastview.com/browse/doc/67199663/国家光伏储能实证实验平台开建助力-碳中和">Standalone Serials - 国家光伏储能实证实验平台开建助力“碳中和”</a></li>
+**社区讨论**: 讨论内容不可用，但该帖子邀请用户分享他们的经验，表明社区对比较记忆系统选项感兴趣。
 
-</ul>
-</details>
-
-**标签**: `#renewable energy`, `#solar power`, `#energy storage`, `#China`
+**标签**: `#AI agents`, `#memory systems`, `#LLM`, `#community discussion`
 
 ---
 
 <a id="item-64"></a>
-## [光伏教父警告储能转型风险](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vLUhIVVhBRGg2UVNkNmxqVTNFQktWMlJva2hFSXJyRDJ1cFZHWGl5cGtfS0tEd0NjOXlPNmRfQnVIMUI3SmRmOEVPd3UtanQ5UkhHTUN2UHU3RV8wN0xobw?oc=5) ⭐️ 5.0/10
+## [美国政府通过《芯片法案》直接购买科技股](https://www.reddit.com/r/investing/comments/1tuxpef/government_is_buying_tech_stocks_directly_now/) ⭐️ 5.0/10
 
-一位被称为“光伏教父”的中国光伏行业知名人士表示，所有光伏企业都涌向储能领域令人“后背发凉”。 这一警告凸显了中国可再生能源领域可能出现的产能过剩和战略失误，可能影响全球光伏和储能市场。 该评论是在接受界面新闻采访时发表的，但摘要中未透露“教父”的具体身份和涉及的企业。
-
-rss · Google News - 新能源 · 6月3日 04:20
-
-**背景**: 中国光伏产业经历了快速增长，许多企业现在正多元化进入储能领域以抓住新机遇。但“教父”警告称，盲目进入储能可能导致市场饱和和财务风险。
-
-**标签**: `#solar energy`, `#energy storage`, `#renewable energy`, `#industry commentary`
-
----
-
-<a id="item-65"></a>
-## [宁夏新型储能装机规模突破 1000 万千瓦](https://news.google.com/rss/articles/CBMijAFBVV95cUxNYjM0ajdNdTdNYmQ2YTVHbzNOT0tMYzFTSlBoaW9yUzBrd1pueVFEanhhRzZEc3M5aE9lZ1R4QzhJR3hDNTNSSHRXVUVVREJTZ2RWYWxsR2ZIMnpUb3NJQmxXS1lOZXRsQmE0SFVIQTFqU1pzM1QxNHc4c1FxZDM3UnBSOGpuQ1dST21qYQ?oc=5) ⭐️ 5.0/10
-
-宁夏新型储能装机规模已突破 1000 万千瓦（10 吉瓦），标志着该地区可再生能源基础设施建设的一个重要里程碑。 这一成就通过提供大规模储能以平衡供需，支持了中国将更多可再生能源并入电网的目标，并使宁夏成为储能部署的领先地区。 该里程碑由搜狐网报道，但现有内容未提供储能技术（如锂离子、抽水蓄能）或项目时间表的具体细分。
-
-rss · Google News - 新能源 · 6月3日 02:54
-
-**背景**: 新型储能是指将太阳能、风能等可再生能源储存起来以备后用的技术。装机规模衡量储能系统的最大功率输出。宁夏位于中国西北部，拥有丰富的太阳能和风能资源，是可再生能源发展的关键区域。
-
-**标签**: `#energy storage`, `#renewable energy`, `#China`
-
----
-
-<a id="item-66"></a>
-## [美国政府根据 CHIPS 法案直接购买科技股](https://www.reddit.com/r/investing/comments/1tuxpef/government_is_buying_tech_stocks_directly_now/) ⭐️ 5.0/10
-
-美国联邦政府已开始根据 CHIPS 法案直接持有科技公司股权，向 IBM 投资 10 亿美元用于晶圆制造，并向 IonQ、Rigetti 和 D-Wave 等量子计算公司各投资 1 亿美元，导致其股价飙升超过 100%。 这标志着从拨款到直接股权的转变，表明政府对量子计算的强力支持，可能加速行业发展，但也引发了对市场扭曲和潜在泡沫的担忧，尤其是考虑到高做空兴趣。 这些量子股票做空兴趣高，尽管收入低但市值达数十亿美元，形成了散户炒作、政府支持和做空者之间的博弈。Defiance Quantum ETF (QTUM) 过去一年上涨 45%，持有更安全的半导体供应商。
+这标志着从传统拨款向直接股权投资的转变，表明政府对国内科技制造和量子计算的更强承诺，可能重塑市场动态和投资者情绪。 涉及的量子股票空头头寸高、收入低，在散户炒作、政府支持和卖空者之间形成博弈；Defiance Quantum ETF (QTUM) 过去一年上涨 45%，持有更安全的半导体供应商。
 
 reddit · r/investing · /u/throwawayteacherQ · 6月2日 17:21
 
-**背景**: 2022 年通过的《芯片与科学法案》旨在促进国内半导体制造和研究。该法案下的直接股权投资是一种新方式，不同于传统的拨款。量子计算利用量子比特进行计算，在某些问题上可能比经典计算机更快。
+**背景**: 2022 年通过的《芯片与科学法案》旨在促进国内半导体制造和研究。量子计算利用量子比特执行超越经典计算机的计算，可能破解现有加密，促使政府设定网络安全升级的最后期限。
 
-**标签**: `#government investment`, `#quantum computing`, `#CHIPS Act`, `#stock market`
+**社区讨论**: 源内容中未提供社区评论。
+
+**标签**: `#government investment`, `#CHIPS Act`, `#quantum computing`, `#stock market`
