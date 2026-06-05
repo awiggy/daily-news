@@ -1,565 +1,506 @@
 # Horizon Daily - 2026-06-05
 
-> From 306 items, 76 important content pieces were selected
+> From 315 items, 80 important content pieces were selected
 
 ---
 
-1. [NVIDIA Releases Nemotron-3-Ultra-550B: 1M Context, Hybrid MoE](#item-1) ⭐️ 9.0/10
-2. [Anthropic: Claude May Enable Recursive Self-Improvement](#item-2) ⭐️ 9.0/10
-3. [Anthropic's open-source harness for AI vulnerability discovery](#item-3) ⭐️ 8.0/10
-4. [S&P Rejects Fast-Track Index Entry for Mega IPOs Like SpaceX](#item-4) ⭐️ 8.0/10
-5. [Exploring the Causes of Long Covid](#item-5) ⭐️ 8.0/10
-6. [Huawei Open-Sources KVarN for KV-Cache Quantization](#item-6) ⭐️ 8.0/10
-7. [AI Enthusiasts vs. Skeptics: Race Against Time vs. Entropy](#item-7) ⭐️ 8.0/10
-8. [Beihang team publishes thermoelectric cooling breakthrough in Science](#item-8) ⭐️ 8.0/10
-9. [Shenzhen Domestic Chips Train Trillion-Parameter AI Model](#item-9) ⭐️ 8.0/10
-10. [High-Performance Femtosecond Laser Integrated on Photonic Chip](#item-10) ⭐️ 8.0/10
-11. [US Closes Loophole on AI Chip Exports to Chinese Overseas Units](#item-11) ⭐️ 8.0/10
-12. [Quantinuum Lists on Nasdaq with $15.6B Valuation](#item-12) ⭐️ 8.0/10
-13. [New NVFP4/MXFP6 GGUF Quantizer Tool for llama.cpp](#item-13) ⭐️ 8.0/10
-14. [AgentCodec: Unified LLM Reliability Library Cuts Costs 56%](#item-14) ⭐️ 8.0/10
-15. [Anthropic's Mythos Achieves 52x Training Code Speedup](#item-15) ⭐️ 8.0/10
-16. [Top AI CEOs Urge Congress to Mandate Synthetic DNA Screening](#item-16) ⭐️ 8.0/10
-17. [World's first AI-designed vaccine announced](#item-17) ⭐️ 8.0/10
-18. [Meta enables ADB on deprecated Portal devices](#item-18) ⭐️ 7.0/10
-19. [Alibaba Open Code Review: AI CLI Tool for Code Review](#item-19) ⭐️ 7.0/10
-20. [Do Transformers Need Three Projections? QKV Variants Studied](#item-20) ⭐️ 7.0/10
-21. [Cloudflare Acquires VoidZero, Creator of Vite](#item-21) ⭐️ 7.0/10
-22. [Google Removes 'Humans in the Loop' After Internal Mockery](#item-22) ⭐️ 7.0/10
-23. [Nvidia CEO: All three major memory makers qualified for HBM4](#item-23) ⭐️ 7.0/10
-24. [Marvell Tapped by Google for Custom TPU Network Chip](#item-24) ⭐️ 7.0/10
-25. [Kuxin Micro Unveils 6 TOPS AI Chip for Smart Glasses at 300mW](#item-25) ⭐️ 7.0/10
-26. [Huawei Unveils 'Tao's Law', Targets 1.4nm Chip Density by 2031](#item-26) ⭐️ 7.0/10
-27. [Custom LLM Server Build: EPYC 9575F + 4× RTX 3090](#item-27) ⭐️ 7.0/10
-28. [Qwen 3.6 35B Shines in Agentic Workflow with KV Cache Optimization](#item-28) ⭐️ 7.0/10
-29. [Meta's Absence Hurts Open-Source LLM Community](#item-29) ⭐️ 7.0/10
-30. [Higgs Audio v3 TTS 4B: Multilingual Voice Chat Model](#item-30) ⭐️ 7.0/10
-31. [LLM-Driven NPCs in Ultima Online: A Technical Walkthrough](#item-31) ⭐️ 7.0/10
-32. [On-Policy Distillation: Hot AI Research Term](#item-32) ⭐️ 7.0/10
-33. [Calibration vs Utility Tradeoff in LLM Agents](#item-33) ⭐️ 7.0/10
-34. [GitHub Repo Collects Transformer Attention Implementations](#item-34) ⭐️ 7.0/10
-35. [Canada PM Carney Launches National AI Strategy](#item-35) ⭐️ 7.0/10
-36. [Azure Linux 4.0: Microsoft's Tuned Distro, Not General-Purpose](#item-36) ⭐️ 6.0/10
-37. [Parenting with Retro Tech to Foster Creativity](#item-37) ⭐️ 6.0/10
-38. [Ultra-thin semiconductor structure balances low leakage and high performance](#item-38) ⭐️ 6.0/10
-39. [Chip design verification automation startup raises angel funding](#item-39) ⭐️ 6.0/10
-40. [China Responds to US Chip Export Control Measures](#item-40) ⭐️ 6.0/10
-41. [Nvidia's autonomous driving chips lose 50% market share in China](#item-41) ⭐️ 6.0/10
-42. [Automakers Use Lower-Grade Chips to Cut Costs, Risking Safety](#item-42) ⭐️ 6.0/10
-43. [Major Acquisition in China's RF Chip Industry](#item-43) ⭐️ 6.0/10
-44. [Global First: 200 kW Flow Battery Stack Breakthrough](#item-44) ⭐️ 6.0/10
-45. [Nvidia Accused of Paying LinkedIn Shills for Misleading AI Posts](#item-45) ⭐️ 6.0/10
-46. [Quantizing Spec Draft KV Cache May Reduce Context Size](#item-46) ⭐️ 6.0/10
-47. [Tool to Explore Kokoro TTS Released](#item-47) ⭐️ 6.0/10
-48. [Legal Boundaries of Using OpenAI API Outputs for Code Datasets](#item-48) ⭐️ 6.0/10
-49. [Queen Bees Develop in Special Wax Chambers](#item-49) ⭐️ 5.0/10
-50. [Physical AI's 'ChatGPT Moment' Predicted in Five Years](#item-50) ⭐️ 5.0/10
-51. [Semiconductor Industry Enters Knockout Phase](#item-51) ⭐️ 5.0/10
-52. [Hangzhou State-Backed Storage Chip Firm Files for HK IPO](#item-52) ⭐️ 5.0/10
-53. [AOS Dr. Feng Lei on Power Semiconductor Strategy in AI Era](#item-53) ⭐️ 5.0/10
-54. [Chinese Memory Products Enter South Korean Market](#item-54) ⭐️ 5.0/10
-55. [Chip Capacity Becomes a Major Problem](#item-55) ⭐️ 5.0/10
-56. [Semiconductor Industry Enters Chiplet Era](#item-56) ⭐️ 5.0/10
-57. [Zhongkexin Semiconductor Starts IPO Coaching for Ion Implanters](#item-57) ⭐️ 5.0/10
-58. [Microchip Chips Power Artemis II Lunar Mission](#item-58) ⭐️ 5.0/10
-59. [Samsung Reportedly to Manufacture BYD's Autonomous Driving Chips](#item-59) ⭐️ 5.0/10
-60. [STMicroelectronics Doubles Data Revenue Target by 2026 on AI Demand](#item-60) ⭐️ 5.0/10
-61. [TSMC CEO Wei Zhejia Considers Price Hike, Avoids Memory Industry Tactics](#item-61) ⭐️ 5.0/10
-62. [Broadcom and Micron Suffer Record Single-Day Market Cap Losses](#item-62) ⭐️ 5.0/10
-63. [TSMC Chairman Hints at Price Hike, Criticizes Memory Chip Surge](#item-63) ⭐️ 5.0/10
-64. [Asian Chip Giants Face Passive Stake Reductions](#item-64) ⭐️ 5.0/10
-65. [Micron Joins Trillion-Dollar Club: Memory Trio All Hit Milestone](#item-65) ⭐️ 5.0/10
-66. [Sodium-ion battery storage industry accelerates](#item-66) ⭐️ 5.0/10
-67. [April Energy Storage Bidding Surges 132% to 85.3GWh](#item-67) ⭐️ 5.0/10
-68. [Solar Firms Shift to Integrated Energy Services, Computing-Electricity Key](#item-68) ⭐️ 5.0/10
-69. [Tongwei CTO: Solar Ceiling Far Off, AI to Boost Power Demand](#item-69) ⭐️ 5.0/10
-70. [Low Bids and High Risks Threaten India's Energy Storage Ambitions](#item-70) ⭐️ 5.0/10
-71. [HYXI Proposes AI-Native Energy Autonomy at SNEC 2026](#item-71) ⭐️ 5.0/10
-72. [Why Solar Giants Struggle in Energy Storage](#item-72) ⭐️ 5.0/10
-73. [Solar Giants Race for 28%+ BC Cell Efficiency Amid Losses](#item-73) ⭐️ 5.0/10
-74. [VibeOS: A Fully Hallucinated Operating System](#item-74) ⭐️ 5.0/10
-75. [How ML researchers use AI writing tools](#item-75) ⭐️ 5.0/10
-76. [Nvidia's RTX Spark Faces AI PC Market Hurdles](#item-76) ⭐️ 5.0/10
+1. [Anthropic: Claude May Enable Recursive Self-Improvement](#item-1) ⭐️ 9.0/10
+2. [Russian Satellite Cosmos 2546 Linked to GNSS Interference in Europe](#item-2) ⭐️ 8.0/10
+3. [Ladybird Browser Shifts to Closed Development Model](#item-3) ⭐️ 8.0/10
+4. [Anthropic open-sources harness for AI vulnerability discovery](#item-4) ⭐️ 8.0/10
+5. [Do Transformers Need Three Projections? QKV Variants Studied](#item-5) ⭐️ 8.0/10
+6. [AI Enthusiasts vs Skeptics: A Race Against Time and Entropy](#item-6) ⭐️ 8.0/10
+7. [High-performance femtosecond lasers integrated into photonic chips](#item-7) ⭐️ 8.0/10
+8. [World's First Diamond Semiconductor Mass Production Factory in Japan](#item-8) ⭐️ 8.0/10
+9. [Beihang Team Publishes Thermoelectric Cooling Breakthrough in Science](#item-9) ⭐️ 8.0/10
+10. [Huawei's KVarN: 3-5x KV-cache compression with speedup](#item-10) ⭐️ 8.0/10
+11. [On-Policy Distillation: Hottest Post-Training Technique](#item-11) ⭐️ 8.0/10
+12. [AgentCodec: Open-source LLM reliability library cuts costs by half](#item-12) ⭐️ 8.0/10
+13. [Anthropic's Mythos achieves 52x training code speedup](#item-13) ⭐️ 8.0/10
+14. [World's First AI-Designed Vaccine Developed](#item-14) ⭐️ 8.0/10
+15. [Top AI CEOs Urge Congress to Screen Synthetic DNA Orders](#item-15) ⭐️ 8.0/10
+16. [Meta enables ADB on deprecated Portal devices](#item-16) ⭐️ 7.0/10
+17. [Fine-Tuning LLMs for 1990s-Style Documentation](#item-17) ⭐️ 7.0/10
+18. [C++ Documentary Released, Sparks Community Debate](#item-18) ⭐️ 7.0/10
+19. [Alibaba Open-Sources AI Code Review CLI Tool](#item-19) ⭐️ 7.0/10
+20. [Google retracts human oversight pledge after AI quality mockery](#item-20) ⭐️ 7.0/10
+21. [TSMC CEO: AI Demand Will Outstrip Chip Supply for Years](#item-21) ⭐️ 7.0/10
+22. [World's first mass-produced GaN-on-Si RF chip for smart terminals ships 5M units](#item-22) ⭐️ 7.0/10
+23. [Chinese Memory Firms Enter South Korean Market](#item-23) ⭐️ 7.0/10
+24. [US Demands Nvidia CEO Clarify Chip Sales to China](#item-24) ⭐️ 7.0/10
+25. [User Builds High-End LLM Server with EPYC 9575F and 4× RTX 3090](#item-25) ⭐️ 7.0/10
+26. [Reddit Post Highlights Decline in Open-Source LLMs Without Meta](#item-26) ⭐️ 7.0/10
+27. [Higgs Audio v3 TTS 4B: Voice Chat Model with 100 Languages](#item-27) ⭐️ 7.0/10
+28. [LLM-Driven NPCs in Ultima Online via ServUO](#item-28) ⭐️ 7.0/10
+29. [Small Edge AI Models Underestimated?](#item-29) ⭐️ 7.0/10
+30. [Is Capture-Time Semantic Annotation for Robot Trajectories Solved?](#item-30) ⭐️ 7.0/10
+31. [Monako Glass: Linux smart glasses for hands-free AI coding](#item-31) ⭐️ 7.0/10
+32. [Damodaran Updates SpaceX Valuation After Prospectus](#item-32) ⭐️ 7.0/10
+33. [Novel Ultra-Thin Semiconductor Structure Balances Leakage and Performance](#item-33) ⭐️ 6.0/10
+34. [China advances space-terrestrial communication chip to production](#item-34) ⭐️ 6.0/10
+35. [AOS Dr. Feng Lei Interview: Power Semiconductors in AI Era](#item-35) ⭐️ 6.0/10
+36. [Chinese Nanoimprint Lithography Bypasses DUV/EUV for Photonic Chips](#item-36) ⭐️ 6.0/10
+37. [Ultra-Thin Diamond Film for Chip Cooling](#item-37) ⭐️ 6.0/10
+38. [Anker and Zhicun CEOs Discuss In-Memory Computing Chips](#item-38) ⭐️ 6.0/10
+39. [Three events signal growing robotics industry direction](#item-39) ⭐️ 6.0/10
+40. [Anthropic Files for IPO While Urging AI Caution, Fueling Bubble Debate](#item-40) ⭐️ 6.0/10
+41. [Global First: Breakthrough in High-Power Flow Battery Stack](#item-41) ⭐️ 6.0/10
+42. [Sodium-ion battery storage enters fast track for large-scale application](#item-42) ⭐️ 6.0/10
+43. [Qwen 3.6 35B Shines in Agentic Workflow with KV Cache Insights](#item-43) ⭐️ 6.0/10
+44. [Nvidia Accused of Astroturfing on LinkedIn](#item-44) ⭐️ 6.0/10
+45. [RTX Pro 4500 Blackwell Benchmarks Show VRAM Dominance](#item-45) ⭐️ 6.0/10
+46. [Open-Source Tool for Exploring Kokoro Model Released](#item-46) ⭐️ 6.0/10
+47. [VibeOS: A Fully Hallucinated OS Generated by AI](#item-47) ⭐️ 6.0/10
+48. [Reddit Users Share Local AI Agent Stacks](#item-48) ⭐️ 6.0/10
+49. [Using OpenAI API Outputs for Code Datasets: Legal?](#item-49) ⭐️ 6.0/10
+50. [S&P 500 Keeps Seasoning Rules for Megacaps](#item-50) ⭐️ 6.0/10
+51. [IsUpMap visualizes status of 100+ major sites](#item-51) ⭐️ 5.0/10
+52. [Physical AI's 'ChatGPT Moment' Predicted in Five Years](#item-52) ⭐️ 5.0/10
+53. [Memory Chip Sales Predicted to Surge 250% This Year](#item-53) ⭐️ 5.0/10
+54. [Jensen Huang Confirms Three HBM4 Suppliers for NVIDIA](#item-54) ⭐️ 5.0/10
+55. [Hangzhou state capital backs storage chip firm's HK IPO](#item-55) ⭐️ 5.0/10
+56. [Hanmi Semiconductor Plans HBF TC Bonder Delivery in H2 2026](#item-56) ⭐️ 5.0/10
+57. [World's Smallest 0.13-inch LCoS Chip Released by SiView](#item-57) ⭐️ 5.0/10
+58. [AI Computing Power Drives Storage Price Surge](#item-58) ⭐️ 5.0/10
+59. [Tencent Exec Tang Daosheng Addresses AI, Chips, and Talent](#item-59) ⭐️ 5.0/10
+60. [Memory Market Volatility Hits Samsung and SK Hynix Stocks](#item-60) ⭐️ 5.0/10
+61. [Cross-Strait Semiconductor Giants in 327M Yuan Arbitration](#item-61) ⭐️ 5.0/10
+62. [Shanghai Lingang Chip Packaging Project Reaches New Phase](#item-62) ⭐️ 5.0/10
+63. [South Korea's AI Boom: GPU, Robotics, Semiconductors, Auto](#item-63) ⭐️ 5.0/10
+64. [US Scholar: Huawei Can Achieve 1.4nm Without EUV](#item-64) ⭐️ 5.0/10
+65. [Solar PV Shifts to Storage, AI, and Space](#item-65) ⭐️ 5.0/10
+66. [UL Solutions Launches Large-Scale BESS Fire Testing](#item-66) ⭐️ 5.0/10
+67. [April Energy Storage Bidding Surges 132% to 85.3 GWh](#item-67) ⭐️ 5.0/10
+68. [Sodium-ion Battery Storage Industry Accelerates](#item-68) ⭐️ 5.0/10
+69. [Suqian Times Energy Wins 10MW/60MWh Iron-Chromium Project Bid](#item-69) ⭐️ 5.0/10
+70. [Solar-Storage-AI Integration Cuts Industrial Park Energy Costs by 15%](#item-70) ⭐️ 5.0/10
+71. [AI Agents Take Center Stage at SNEC PV Expo](#item-71) ⭐️ 5.0/10
+72. [TÜV SÜD and SJTU Release 2026 China Perovskite PV White Paper](#item-72) ⭐️ 5.0/10
+73. [Tongwei CTO: Solar growth far from peak, AI to boost power demand](#item-73) ⭐️ 5.0/10
+74. [China's New Energy Vehicle Retail Penetration Hits Record 63%](#item-74) ⭐️ 5.0/10
+75. [Energy storage batteries become new household essential in SE Asia](#item-75) ⭐️ 5.0/10
+76. [New Battery Recycling Paths for Critical Materials at Africa Lithium Summit](#item-76) ⭐️ 5.0/10
+77. [Gemma 4 12B Q5_K_XL Becomes User's Top Local Coding Model](#item-77) ⭐️ 5.0/10
+78. [SupraLabs Releases Tiny Open Reasoning Model Supra-50M-Reasoning](#item-78) ⭐️ 5.0/10
+79. [ML Researchers Discuss AI Writing Tool Usage](#item-79) ⭐️ 5.0/10
+80. [Can Nvidia Capture AI PC Market with RTX Spark?](#item-80) ⭐️ 5.0/10
 
 ---
 
 <a id="item-1"></a>
-## [NVIDIA Releases Nemotron-3-Ultra-550B: 1M Context, Hybrid MoE](https://www.reddit.com/r/LocalLLaMA/comments/1twla1k/nvidianvidianemotron3ultra550ba55bbf16_hugging/) ⭐️ 9.0/10
-
-NVIDIA has released Nemotron-3-Ultra-550B-A55B-BF16, a frontier-scale open LLM with 550B total parameters (55B active), 1M token context length, and a novel LatentMoE architecture combining Mamba-2, MoE, and Attention layers with Multi-Token Prediction. This release marks a significant milestone in open-weight LLMs, offering frontier-level reasoning and agentic capabilities at a scale previously only available in closed models, potentially accelerating research and deployment of advanced AI agents. The model requires at least 8x GB200/B200/GB300/B300 or 16x H100 GPUs, supports 11 languages, and includes a configurable reasoning mode via chat template. It is released under the OpenMDW License Agreement v1.1 for commercial and non-commercial use.
-
-reddit · r/LocalLLaMA · /u/jacek2023 · Jun 4, 11:48
-
-**Background**: LatentMoE is a revised Mixture-of-Experts architecture that improves accuracy per parameter and per FLOP by routing tokens through a smaller latent dimension. Mamba-2 is a state-space model that offers linear-time sequence modeling, while Multi-Token Prediction (MTP) uses lightweight heads to predict multiple future tokens simultaneously, improving generation speed and quality.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.emergentmind.com/topics/latentmoe-architecture">LatentMoE Architecture</a></li>
-<li><a href="https://research.nvidia.com/labs/nemotron/LatentMoE/">Think Smart About Sparse Compute: LatentMoE ... - NVIDIA Nemotron</a></li>
-<li><a href="https://github.com/state-spaces/mamba">GitHub - state-spaces/mamba: Mamba SSM architecture · GitHub</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The Reddit community expressed excitement about the model's scale and capabilities, with many noting the high hardware requirements (e.g., 8x H200) as a barrier for local deployment. Some users discussed the potential of the hybrid architecture and the significance of open-weight release.
-
-**Tags**: `#LLM`, `#NVIDIA`, `#MoE`, `#open-source`, `#reasoning`
-
----
-
-<a id="item-2"></a>
 ## [Anthropic: Claude May Enable Recursive Self-Improvement](https://www.reddit.com/r/singularity/comments/1twsm5g/anthropic_our_internal_data_shows_claude_is/) ⭐️ 9.0/10
 
-Anthropic released internal data showing that Claude is accelerating AI development, potentially enabling recursive self-improvement where AI autonomously builds a more capable successor. If true, this could lead to an intelligence explosion, drastically accelerating AI progress and raising urgent safety concerns. It also positions Anthropic as a key player in the race toward superintelligence. The claim is based on internal metrics, but critics note that lines of code is an imperfect measure of productivity. Anthropic is reportedly planning an IPO, which may influence the timing of this announcement.
+Anthropic released internal data suggesting that its Claude AI model is accelerating AI development, potentially paving the way for recursive self-improvement where an AI autonomously builds a more capable successor. If true, this marks a significant step toward an intelligence explosion, raising profound safety and control concerns for the AI community and society at large. The claim is based on Anthropic's internal data, but no specific metrics or experiments were disclosed in the announcement. The concept of recursive self-improvement is a theoretical path to superintelligence, often discussed in AI safety literature.
 
 reddit · r/singularity · /u/Educational_Grab_473 · Jun 4, 16:24
 
-**Background**: Recursive self-improvement (RSI) is a hypothetical process where an AI system improves its own capabilities, leading to an intelligence explosion. Claude is Anthropic's large language model, similar to ChatGPT, capable of coding, writing, and analysis. The concept of RSI has been discussed in AI safety circles as a potential risk.
+**Background**: Recursive self-improvement (RSI) is a process where an AI system rewrites its own code to become more capable, potentially leading to an intelligence explosion. Anthropic's Claude is a family of large language models trained with constitutional AI to align with human values. The concept of RSI has been a central topic in AI safety, with concerns about loss of control.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Recursive_self-improvement">Recursive self-improvement</a></li>
+<li><a href="https://spectrum.ieee.org/recursive-self-improvement">Recursive Self-Improvement Edges Closer In AI Labs - IEEE Spectrum</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (language model) - Wikipedia</a></li>
-<li><a href="https://medium.com/codex/recursive-self-improvement-ae03d40e7cda">Recursive Self - Improvement . Future Dream or Current... | Medium</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters expressed skepticism, noting the timing coincides with Anthropic's IPO plans and questioning the validity of lines of code as a metric. Some saw potential in specialized AI markets, while others doubted the extraordinary claims.
+**Discussion**: The Reddit community on r/singularity expressed both excitement and skepticism, with some users questioning the lack of concrete evidence and others highlighting the potential risks of recursive self-improvement.
 
 **Tags**: `#AI`, `#Anthropic`, `#recursive self-improvement`, `#AI safety`, `#Claude`
 
 ---
 
-<a id="item-3"></a>
-## [Anthropic's open-source harness for AI vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness) ⭐️ 8.0/10
+<a id="item-2"></a>
+## [Russian Satellite Cosmos 2546 Linked to GNSS Interference in Europe](https://arxiv.org/abs/2606.03673) ⭐️ 8.0/10
 
-Anthropic has released an open-source harness for AI-driven vulnerability discovery, enabling researchers to build custom agents for code security analysis. The framework is part of Project Glasswing, which commits up to $100M in AI compute credits for vulnerability hunting. This release lowers the barrier for security researchers to leverage AI for vulnerability discovery, potentially accelerating the identification of critical flaws in open-source software. It also signals Anthropic's commitment to open-source security tools, which could reshape how the industry approaches automated code auditing. The harness uses Claude models and provides a rough guideline of ~10K uncached input tokens/min and ~2K output tokens/min per agent, with parallelism scaling up to account limits. Running costs are estimated at hundreds of dollars with Opus and thousands with Mythos.
+A research paper identifies Russian early warning satellite Cosmos 2546 (NORAD ID 45608) as a primary source of GNSS interference affecting Europe since 2019, using a combination of techniques to pinpoint the satellite with high confidence. This finding has significant geopolitical and technical implications, as it attributes widespread GNSS degradation across Europe to a specific Russian military satellite, potentially affecting aviation, maritime, and civilian navigation systems. The paper further points to the Russian Edinaya Kosmicheskaya Sistema (EKS) early warning constellation, to which Cosmos 2546 belongs, as collectively responsible for the wide-area transient interference causing GNSS degradation across Europe since 2019.
 
-hackernews · binyu · Jun 4, 20:11 · [Discussion](https://news.ycombinator.com/item?id=48403980)
+hackernews · mimorigasaka · Jun 5, 08:32 · [Discussion](https://news.ycombinator.com/item?id=48409664)
 
-**Background**: AI-driven vulnerability discovery uses large language models to analyze source code and identify potential security flaws. Anthropic's Mythos AI program has demonstrated the ability to autonomously find zero-day vulnerabilities, including a 27-year-old bug in OpenBSD. Project Glasswing is a coalition of tech giants committing resources to secure critical open-source software.
+**Background**: GNSS (Global Navigation Satellite Systems) like GPS and GLONASS provide positioning and timing services critical for many applications. Interference can be caused by jamming or spoofing, and identifying the source is challenging. The EKS constellation is a Russian missile early warning system, and its signals have been suspected of causing GNSS disruptions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.anthropic.com/glasswing">Project Glasswing: Securing critical software for the AI era \ Anthropic</a></li>
-<li><a href="https://www.theregister.com/security/2026/04/10/project-glasswing-and-open-source-the-good-bad-and-ugly/5222575">Project Glasswing and open source : The good, bad, and ugly</a></li>
+<li><a href="https://globalgpssystems.com/gnss/the-difference-between-gnss-and-gps-explained/">The difference between GNSS and GPS explained</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters compared the harness to a 'shop jig' that researchers can customize, noting that building your own may be more efficient. Others raised concerns about cost, estimating hundreds to thousands of dollars per run, and questioned whether Claude uses tokens efficiently in this harness.
+**Discussion**: Community comments express interest in the identification technique and share real-world experiences of daily jamming near Ukraine and Kaliningrad. A TL;DR summary confirms the paper's conclusion that Cosmos 2546 and the EKS constellation are responsible.
+
+**Tags**: `#GNSS`, `#satellite interference`, `#geopolitics`, `#RF jamming`, `#space security`
+
+---
+
+<a id="item-3"></a>
+## [Ladybird Browser Shifts to Closed Development Model](https://ladybird.org/posts/changing-how-we-develop-ladybird/) ⭐️ 8.0/10
+
+Ladybird browser announced it is moving to a closed development model, accepting patches only from invited contributors, to address security and maintainability concerns exacerbated by a surge of AI-generated pull requests. This marks a significant departure from typical open-source practices, highlighting the growing challenge of AI-generated code contributions and maintainer burnout. It could influence other projects to reconsider their contribution policies. The change was announced in a blog post on the Ladybird website, citing that AI-generated PRs have made it impossible to trust that effort implies good faith. The project remains open-source in terms of code access, but development is now closed.
+
+hackernews · EdwinHoksberg · Jun 5, 07:26 · [Discussion](https://news.ycombinator.com/item?id=48409191)
+
+**Background**: Ladybird is an open-source web browser developed by the Ladybird Browser Initiative, a nonprofit funded by donations from sponsors like Cloudflare and Shopify. It was originally part of SerenityOS and is now standalone, with an alpha release planned for 2026.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Ladybird_browser">Ladybird browser</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Open_source">Open source - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments are mixed: some sympathize with the maintainers' burden from AI-generated PRs, while others worry this move represents a 'death of open source' and may reduce the pool of future contributors. A few note that the project's own maintainers merge large PRs without review, which undermines the stated rationale.
+
+**Tags**: `#open source`, `#browser development`, `#AI-generated code`, `#community management`, `#software engineering`
+
+---
+
+<a id="item-4"></a>
+## [Anthropic open-sources harness for AI vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness) ⭐️ 8.0/10
+
+Anthropic has released an open-source harness for AI-driven vulnerability discovery on GitHub, providing a reference implementation for building agents that find security flaws in code. This release lowers the barrier for security researchers to leverage large language models for vulnerability discovery, potentially accelerating the identification of zero-day vulnerabilities across major software. The harness is not maintained and not accepting contributions, as noted in the repository. Running the harness with models like Opus or Mythos can cost hundreds to thousands of dollars per scan, depending on token usage.
+
+hackernews · binyu · Jun 4, 20:11 · [Discussion](https://news.ycombinator.com/item?id=48403980)
+
+**Background**: AI-driven vulnerability discovery uses large language models to autonomously find and exploit security flaws in code. Traditional methods like fuzzing require significant manual effort, while AI tools can achieve higher discovery rates. Anthropic's Claude Mythos Preview, released earlier in 2026, demonstrated the ability to autonomously identify zero-day vulnerabilities.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://news.ycombinator.com/item?id=48403980">Anthropic's open-source framework for AI-powered vulnerability discovery | Hacker News</a></li>
+<li><a href="https://decrypt.co/364744/anthropic-mythos-replicated-public-models-vidoc-security">Anthropic’s Alarming Mythos Findings Replicated With Off-the-Shelf AI, Researchers Say - Decrypt</a></li>
+<li><a href="https://www.helpnetsecurity.com/2026/04/08/anthropic-claude-mythos-preview-identify-vulnerabilities/">Anthropic's new AI model finds and exploits zero-days across every major OS and browser - Help Net Security</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments highlight that building a custom harness tailored to one's workflow is often more practical than using a generic one. There is also debate about the high cost of running such harnesses with premium models, with estimates of hundreds to thousands of dollars per scan. Some users note that without a good harness, AI models struggle to find bugs effectively.
 
 **Tags**: `#AI`, `#security`, `#open-source`, `#vulnerability discovery`, `#Anthropic`
 
 ---
 
-<a id="item-4"></a>
-## [S&P Rejects Fast-Track Index Entry for Mega IPOs Like SpaceX](https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation) ⭐️ 8.0/10
+<a id="item-5"></a>
+## [Do Transformers Need Three Projections? QKV Variants Studied](https://arxiv.org/abs/2606.04032) ⭐️ 8.0/10
 
-S&P Dow Jones Indices announced on June 4, 2026, that it will keep its 12-month seasoning rule and profitability requirements unchanged, blocking fast-track entry for mega-cap IPOs like SpaceX into the S&P 500. This decision maintains the traditional stability of index funds, protecting passive investors from forced buying of unproven stocks, while contrasting with Nasdaq and FTSE Russell's recent adoption of fast-track rules. To be included in the S&P 500, a company must be profitable under GAAP in its most recent quarter and for the sum of the last four quarters, a rule S&P left unchanged. Goldman Sachs had estimated that fast-track rules could trigger up to $60 billion in forced buying.
+A new paper systematically evaluates variants of the QKV projections in transformers, showing that sharing projections (e.g., Q-K=V) can match or exceed standard performance while reducing parameters and KV cache size. This challenges the long-held assumption that three separate projections are necessary, potentially simplifying transformer architectures and reducing memory usage in large language models. The study tests three constraints: Q-K=V (shared key-value), Q=K-V (shared query-key), and Q=K=V (single projection). In language modeling, Q-K=V achieves 50% KV cache reduction with only 3.1% perplexity degradation.
 
-hackernews · tristanj · Jun 4, 22:48 · [Discussion](https://news.ycombinator.com/item?id=48405718)
+hackernews · Anon84 · Jun 4, 23:11 · [Discussion](https://news.ycombinator.com/item?id=48405931)
 
-**Background**: Index providers like S&P, Nasdaq, and FTSE Russell set rules for which stocks enter their benchmarks. Recently, Nasdaq reduced its waiting period for large IPOs to 15 trading days, and FTSE Russell to five trading days, sparking debate about whether index funds should automatically buy newly listed mega-cap stocks.
+**Background**: In transformer attention, input tokens are projected into three matrices: Query (Q), Key (K), and Value (V). These projections are typically learned independently. The paper explores whether sharing weights among these projections can maintain performance while reducing model size.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://fortune.com/2026/06/02/spacex-index-funds-new-listing-rules/">If S&P Dow Jones rewrites its listing rules SpaceX and Anthropic will benefit—investors won't | Fortune</a></li>
-<li><a href="https://investinglive.com/stock-market-update/spacex-faces-full-sp-500-wait-as-index-giant-rejects-fast-track-entry-rules-20260604/">SpaceX faces full S&P 500 wait as index giant rejects fast-track entry rules | investingLive</a></li>
-<li><a href="https://www.reuters.com/business/finance/sp-global-keeps-fast-entry-proposal-unchanged-spacex-listing-looms-2026-06-04/">SpaceX blocked from early US benchmark index entry as S&P reaffirms existing rules | Reuters</a></li>
+<li><a href="https://arxiv.org/abs/2606.04032">[2606.04032] Do Transformers Need Three Projections? Systematic Study of QKV Variants</a></li>
+<li><a href="https://arxiv.org/html/2606.04032">Do Transformers Need Three Projections? Systematic Study of QKV Variants</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Transformer_(deep_learning)">Transformer (deep learning) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters largely supported S&P's decision, arguing that indexes should remain slow-moving and that fast-tracking would force pension funds and ETFs to bail out IPO stockholders at the expense of regular investors. Some noted that Nasdaq and FTSE Russell had already adopted faster rules, making S&P's stance a notable contrast.
+**Discussion**: Commenters noted mathematical notation issues in the paper (e.g., using '-' to mean 'and' instead of subtraction). Some discussed connections to Gemma-4's cross-layer KV reuse and likened attention to kernel smoothing. The missing code repository was also mentioned.
 
-**Tags**: `#finance`, `#index funds`, `#IPOs`, `#regulation`, `#stock market`
-
----
-
-<a id="item-5"></a>
-## [Exploring the Causes of Long Covid](https://www.science.org/content/blog-post/causes-long-covid) ⭐️ 8.0/10
-
-A blog post on Science.org examines the causes of Long Covid, highlighting ongoing research into its mechanisms and the lack of definitive treatments. Long Covid affects millions worldwide, and understanding its causes is crucial for developing effective treatments and public health policies. The post discusses potential mechanisms such as viral persistence, immune dysregulation, and tissue damage, but notes that no single cause has been identified.
-
-hackernews · maxall4 · Jun 5, 03:04 · [Discussion](https://news.ycombinator.com/item?id=48407451)
-
-**Background**: Long Covid refers to a range of symptoms persisting weeks or months after acute COVID-19 infection. It is a chronic condition with no universally accepted definition or cure.
-
-**Discussion**: Commenters share personal experiences of prolonged recovery, with some noting exercise intolerance and cognitive issues lasting years. One commenter argues that classifying chronic illnesses by symptoms may not help find cures, suggesting an emergent behavior perspective.
-
-**Tags**: `#Long Covid`, `#chronic illness`, `#public health`, `#medical research`
+**Tags**: `#transformers`, `#attention`, `#deep learning`, `#architecture`, `#NLP`
 
 ---
 
 <a id="item-6"></a>
-## [Huawei Open-Sources KVarN for KV-Cache Quantization](https://github.com/huawei-csl/KVarN) ⭐️ 8.0/10
+## [AI Enthusiasts vs Skeptics: A Race Against Time and Entropy](https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything) ⭐️ 8.0/10
 
-Huawei has open-sourced KVarN, a native vLLM backend for KV-cache quantization under the Apache 2.0 license, claiming superior performance and quality trade-offs compared to existing methods like TurboQuant and FP16. KVarN could significantly improve LLM inference efficiency by enabling up to 5x more context length with FP16-quality outputs and higher throughput than TurboQuant, potentially reducing memory costs and enabling longer sequences. KVarN claims up to 1.4x FP16 throughput and up to 2.4x TurboQuant throughput, with no model changes, retraining, or calibration required; it integrates as a single vLLM flag.
+Charity Majors published an article analyzing the conflicting pressures between AI enthusiasts racing for capability gains and AI skeptics preserving code quality and trust, highlighting the lack of natural feedback loops between the two groups. This analysis is significant because it captures a real, nuanced debate in software engineering teams, where both sides have valid concerns that can lead to existential threats if not balanced. It provides a framework for understanding and bridging the gap between rapid AI adoption and long-term code maintainability. Majors recommends treating the tension as both a leadership and engineering challenge, and emphasizes designing feedback loops to mend the gap in shared reality between enthusiasts and skeptics. The article was shared via Lobste.rs and tagged with AI, agentic engineering, and Charity Majors.
 
-hackernews · theanonymousone · Jun 4, 15:18 · [Discussion](https://news.ycombinator.com/item?id=48399974)
+rss · Simon Willison · Jun 4, 23:55
 
-**Background**: KV-cache quantization reduces the memory footprint of key-value cache during LLM inference, enabling longer context lengths. Existing methods like FP8 offer ~2x capacity with minimal quality loss, while TurboQuant achieves higher compression but at the cost of throughput and reasoning accuracy. KVarN aims to balance these trade-offs.
+**Background**: In software engineering, AI enthusiasts advocate for rapid adoption of AI tools to gain competitive advantages, while AI skeptics warn against sacrificing code quality, reliability, and institutional knowledge. The tension arises because shipping code faster than engineers can review it erodes trust and leads to systems that nobody fully understands. Majors argues that both perspectives are valid and that organizations need to create feedback loops to align these conflicting priorities.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://huggingface.co/blog/kv-cache-quantization">Unlocking Longer Generation with Key-Value Cache Quantization</a></li>
-<li><a href="https://docs.vllm.ai/en/stable/getting_started/quickstart/">Quickstart - vLLM Documentation</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community expressed surprise at KVarN's claimed performance (better than TQ and better than FP16), questioned why it wasn't a PR to vLLM, and noted the competitive landscape of KV-cache quantization.
-
-**Tags**: `#KV-cache quantization`, `#vLLM`, `#LLM inference`, `#Huawei`, `#open source`
+**Tags**: `#AI`, `#software engineering`, `#code quality`, `#technology adoption`, `#engineering culture`
 
 ---
 
 <a id="item-7"></a>
-## [AI Enthusiasts vs. Skeptics: Race Against Time vs. Entropy](https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything) ⭐️ 8.0/10
+## [High-performance femtosecond lasers integrated into photonic chips](https://news.google.com/rss/articles/CBMifEFVX3lxTFBKd3NHSEJneG55WVBFSUxvb3JNblA3MjR3a2h2RC1XaWJJU3hqSUV1U3RNejdENGU3VXpiUktkak45YWtCODJVTHNTckpLaXBqdnhzU3NtdVVZVWVKa1dySjRyMXZHaDVVaG5MYTFTd0hTekFUdjZPbUx4Uzc?oc=5) ⭐️ 8.0/10
 
-Charity Majors published an article analyzing the tension between AI enthusiasts racing to leverage AI for competitive advantage and AI skeptics concerned about eroding code quality and trust, highlighting the lack of a natural feedback loop between the two groups. This commentary captures a nuanced, timely debate within the software engineering community about balancing rapid AI adoption with maintaining code quality and institutional trust, which is critical for teams facing existential threats from both sides. Majors argues that both enthusiasts and skeptics are correct: AI can deliver discontinuous leaps in capability, but shipping code faster than engineers can read it erodes trust and reliability. She recommends designing feedback loops to bridge the gap in shared reality between the two groups.
+Researchers have successfully integrated high-performance femtosecond lasers into photonic chips, a breakthrough reported by Xinhua News Agency. This integration could revolutionize optical computing and communications by enabling ultra-fast, energy-efficient data processing on a chip-scale platform. Femtosecond lasers emit pulses lasting just quadrillionths of a second, allowing extreme precision. The integration on photonic chips combines light sources with other optical components on a single substrate.
 
-rss · Simon Willison · Jun 4, 23:55
+rss · Google News - 半导体芯片 · Jun 5, 01:00
 
-**Background**: The article is written by Charity Majors, a well-known engineer and CTO, and shared by Simon Willison, a prominent figure in the developer community. The debate reflects a broader tension in the tech industry between moving fast with AI tools and maintaining software engineering best practices.
+**Background**: Photonic integrated circuits (PICs) use light instead of electricity to process data, offering higher speed and lower power consumption. Femtosecond lasers are ultrafast lasers with pulse durations in the femtosecond range (10^-15 seconds), enabling precise material processing and advanced scientific applications.
 
-**Tags**: `#AI`, `#software engineering`, `#technology debate`, `#code quality`, `#trust`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Femtosecond">Femtosecond - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Photonic_integrated_circuit">Photonic integrated circuit - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#photonics`, `#femtosecond laser`, `#chip integration`, `#semiconductor`, `#optical computing`
 
 ---
 
 <a id="item-8"></a>
-## [Beihang team publishes thermoelectric cooling breakthrough in Science](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GMmNKX0tSMXZDTWJ5Y3M1T2xDYXQ0MWZHQmxmNHUzcUZRQU9tN2JxSi1hV3NGQUJzWGxEWC1mRUtCMDJKSFNLcHNhQ0hCZzMydTNJTmIxaw?oc=5) ⭐️ 8.0/10
+## [World's First Diamond Semiconductor Mass Production Factory in Japan](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MaGxWaGFwR2ZzRHNKdEExV2NScGJtQzNETlNiN0xXeGhNNC1aNllWc1l5Z1dRM3BERVRVV2Z0X3FwOTdaZ1ZNSEJ4MmNIQkFaRmRv?oc=5) ⭐️ 8.0/10
 
-Professor Zhao Lidong's group at Beihang University published their latest progress in thermoelectric semiconductor cooling materials and devices in the journal Science. This publication in Science highlights a significant advancement in thermoelectric cooling, which could lead to more efficient, solid-state refrigeration without moving parts or harmful chemicals. The research focuses on improving the performance of thermoelectric materials, likely involving bismuth telluride or related compounds, to enhance cooling efficiency.
+Japan will host the world's first mass production factory for diamond semiconductors, with full production targeted by fiscal year 2028. This marks a major step toward commercializing diamond semiconductors, which offer superior performance for high-power, high-frequency, and high-temperature applications, potentially revolutionizing power electronics and other industries. The factory is established by Diamond Semiconductor Co., Ltd., a spin-off from Saga University led by Professor Makoto Kasu. The company was recognized as an official Saga University venture.
 
-rss · Google News - 半导体芯片 · Jun 5, 00:08
+rss · Google News - 半导体芯片 · Jun 5, 09:56
 
-**Background**: Thermoelectric cooling uses the Peltier effect to transfer heat through semiconductor materials when an electric current is applied. It offers advantages such as compact size, quiet operation, and no refrigerants, but its efficiency has historically been limited. Recent advances in materials engineering aim to overcome these limitations.
+**Background**: Diamond is an ultra-wide-bandgap semiconductor with exceptional thermal conductivity, high breakdown voltage, and high carrier mobility, making it ideal for next-generation power devices. Current research focuses on overcoming challenges in doping, crystal growth, and device fabrication to enable practical applications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Thermoelectric_cooling">Thermoelectric heat pump - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Thermoelectric_materials">Thermoelectric materials - Wikipedia</a></li>
-<li><a href="https://research.buaa.edu.cn/en/persons/lidong-zhao/">Lidong Zhao - Beihang University</a></li>
+<li><a href="https://grokipedia.com/page/Diamond_Semiconductor_Co_Ltd">Diamond Semiconductor Co., Ltd.</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11278176/">A Review of Diamond Materials and Applications in Power ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#thermoelectric materials`, `#semiconductors`, `#materials science`, `#research breakthrough`
+**Tags**: `#semiconductor`, `#diamond semiconductor`, `#Japan`, `#manufacturing`, `#technology`
 
 ---
 
 <a id="item-9"></a>
-## [Shenzhen Domestic Chips Train Trillion-Parameter AI Model](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TbnoycllrV2ZuelpvbE1YckxPS3c1NTZoVnYwMjdQVjZFTmp4eHlEX0VsdDV5UUEwMndnZDctSWt2ZTNPemwtTnEwOXhZRVVmYU1aN1hreHVieGpfZ19ianln?oc=5) ⭐️ 8.0/10
+## [Beihang Team Publishes Thermoelectric Cooling Breakthrough in Science](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GMmNKX0tSMXZDTWJ5Y3M1T2xDYXQ0MWZHQmxmNHUzcUZRQU9tN2JxSi1hV3NGQUJzWGxEWC1mRUtCMDJKSFNLcHNhQ0hCZzMydTNJTmIxaw?oc=5) ⭐️ 8.0/10
 
-Shenzhen-made domestic chips have successfully trained a trillion-parameter AI large model, marking a significant milestone for China's AI hardware capabilities. This achievement demonstrates that domestic chips can handle the massive computational demands of trillion-parameter models, reducing reliance on foreign hardware like NVIDIA GPUs amid trade restrictions. The model was trained entirely on domestic chips, with reports indicating that similar efforts by Meituan's LongCat AI and DeepSeek also used Huawei Ascend chips, signaling a broader trend.
+Professor Zhao Lidong's group at Beihang University published their latest progress in thermoelectric semiconductor cooling materials and devices in the journal Science. This high-impact publication advances thermoelectric cooling technology, which could lead to more energy-efficient solid-state refrigeration and precise temperature control in electronics. The research likely focuses on improving the figure of merit (zT) of thermoelectric materials, which determines cooling performance. Specific material compositions or device architectures were not disclosed in the summary.
 
-rss · Google News - 半导体芯片 · Jun 5, 02:16
+rss · Google News - 半导体芯片 · Jun 5, 00:13
 
-**Background**: Training trillion-parameter AI models typically requires thousands of high-end GPUs like NVIDIA's H100, which are restricted for export to China. Domestic chips such as Huawei's Ascend series have been developed as alternatives, but software ecosystem and performance gaps have been challenges.
+**Background**: Thermoelectric materials convert temperature differences into electricity and vice versa, enabling solid-state cooling without moving parts. The dimensionless figure of merit zT quantifies their efficiency; higher zT means better cooling. Semiconductor materials are commonly used due to their tunable electrical and thermal properties.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://hardware.slashdot.org/story/24/10/06/036220/china-trained-a-1-trillion-parameter-llm-using-only-domestic-chips">China Trained a 1- Trillion - Parameter LLM Using Only Domestic Chips</a></li>
-<li><a href="https://btw.media/it-infrastructure/china-trains-trillion-parameter-ai-model-on-local-chips/">China trains trillion - parameter AI model on local chips</a></li>
-<li><a href="https://www.remio.ai/post/meituan-s-longcat-ai-just-trained-a-trillion-parameter-model-on-chinese-chips-nvidia-was-not-invite">Meituan's LongCat AI Just Trained a Trillion - Parameter Model on...</a></li>
+<li><a href="https://thermoelectricsolutions.com/how-thermoelectric-cooling-works/">Thermoelectric Cooling Explained: Performance, Limits, Tradeoffs</a></li>
+<li><a href="https://www.zjcxtech.com/how-semiconductor-materials-enable-solid-state-cooling/">What is the Thermoelectric Effect? Semiconductor Cooling Basics</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments highlight the significance of this breakthrough for China's AI self-sufficiency, with some noting that multiple trillion-parameter models trained on domestic chips on the same day indicates a coordinated push.
-
-**Tags**: `#AI`, `#hardware`, `#China`, `#large language models`, `#semiconductors`
+**Tags**: `#thermoelectric`, `#semiconductor`, `#materials science`, `#cooling`, `#research`
 
 ---
 
 <a id="item-10"></a>
-## [High-Performance Femtosecond Laser Integrated on Photonic Chip](https://news.google.com/rss/articles/CBMiU0FVX3lxTE16QmQyNEhFVFEwYkNjSTRNOFIxWTJNd2VUcHJ6d04yelJoOWVYQWlxS0tvdDdWLTNUdk9rM1pRcFRtWDV0dk9yc193RGFHZXp5MFVR?oc=5) ⭐️ 8.0/10
+## [Huawei's KVarN: 3-5x KV-cache compression with speedup](https://www.reddit.com/r/LocalLLaMA/comments/1twptw2/kvarn_new_kvcache_quant_from_huawei_35_kv_cache/) ⭐️ 8.0/10
 
-Researchers have successfully integrated a high-performance femtosecond laser onto a photonic chip, achieving a compact and efficient ultrafast laser source. This breakthrough was reported by multiple sources, including EPFL's work on a high-pulse-energy integrated mode-locked laser using a Mamyshev oscillator. This integration enables miniaturization and cost reduction of ultrafast lasers, which are critical for high-speed data processing, communications, and precision measurements. It paves the way for widespread adoption in applications like optical computing, atomic clocks, and medical diagnostics. The laser uses photonic chips to route light through microscopic waveguides instead of bulky laboratory equipment, achieving high pulse energy. The technology is based on a Mamyshev oscillator design, which enables stable mode-locking and high peak power.
+Huawei open-sourced KVarN, a KV-cache quantization method that achieves 3-5x compression with actual throughput speedup (up to 1.4x over FP16) while maintaining reasoning quality, unlike TurboQuant. It integrates into vLLM with a single flag and is released under Apache 2.0. KVarN addresses a critical bottleneck in LLM inference by significantly reducing KV-cache memory usage without sacrificing speed or accuracy, enabling longer context windows and higher throughput. Its open-source availability and easy integration with vLLM make it immediately practical for the community. KVarN combines Hadamard rotations with variance-normalization on both axes of K and V matrices, then rounds to nearest, achieving 3-4x compression with 0-1% accuracy drop on benchmarks like AIME24. It outperforms TurboQuant in both throughput (up to 2.4x) and reasoning accuracy at high compression levels.
 
-rss · Google News - 半导体芯片 · Jun 5, 00:45
+reddit · r/LocalLLaMA · /u/acluk90 · Jun 4, 14:47
 
-**Background**: Femtosecond lasers emit pulses lasting only quadrillionths of a second, enabling ultra-precise material processing and time-resolved measurements. Traditionally, these lasers are large, expensive, and require careful alignment, limiting their use to specialized labs. Photonic chip integration aims to bring these capabilities to compact, low-cost devices, similar to how electronic integrated circuits revolutionized computing.
+**Background**: KV-cache stores intermediate key-value pairs during LLM inference to avoid recomputation, but its memory footprint grows with sequence length, limiting context windows. Quantization reduces this footprint by using fewer bits per value, but existing methods like FP8 offer ~2x compression with minimal quality loss, while aggressive methods like TurboQuant can cause slowdowns and reasoning degradation. KVarN aims to achieve higher compression without these trade-offs.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Laser">Laser - Wikipedia</a></li>
-<li><a href="https://interestingengineering.com/innovation/high-power-ultrafast-laser-on-microchip">Swiss scientists shrink lab-grade ultrafast laser onto a single chip</a></li>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTbmRTbEVSSGVxWVAyQTFfNDFTZ0FQAQ?hl=en-NA&gl=NA&ceid=NA:en">EPFL team integrates femtosecond laser onto a photonic chip ...</a></li>
+**Discussion**: The author of KVarN shared the work on Reddit, explaining the technique and its advantages. The community expressed excitement and interest in stress-testing the method, noting its potential to outperform TurboQuant in both speed and accuracy.
 
-</ul>
-</details>
-
-**Tags**: `#photonics`, `#laser`, `#chip integration`, `#semiconductor`, `#high-speed`
+**Tags**: `#KV-cache quantization`, `#LLM inference`, `#vLLM`, `#Huawei`, `#open-source`
 
 ---
 
 <a id="item-11"></a>
-## [US Closes Loophole on AI Chip Exports to Chinese Overseas Units](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VcDM5XzJmb09NajJSNnVGbTBtdmN4eDFvVlllS3A4enZvQThIam0xZWtOaUZjUzZsUzJBZ1ctaHBPZkNYVU14Q0dmd29JLVh0NXhCMzNwalE?oc=5) ⭐️ 8.0/10
+## [On-Policy Distillation: Hottest Post-Training Technique](https://www.reddit.com/r/MachineLearning/comments/1twmhud/onpolicy_distillation_one_of_the_hottest_terms_on/) ⭐️ 8.0/10
 
-The U.S. Department of Commerce issued a notice on May 31, 2026, closing a loophole that allowed advanced AI chips, such as Nvidia's Blackwell processors, to be exported to subsidiaries of Chinese companies located outside China. This move significantly escalates US-China tech tensions by restricting Chinese firms' access to cutting-edge AI chips even through overseas entities, potentially accelerating China's push for domestic semiconductor self-sufficiency. The rule applies to all advanced AI chips made by American firms, including Nvidia's Rubin and Blackwell series, and covers subsidiaries of Chinese companies regardless of their location. The announcement was made on a Sunday, which foreign media noted as highly unusual.
+Niels from Hugging Face highlights on-policy distillation (OPD) as a key post-training technique behind models like Qwen 3.6, GLM-5.1, and DeepSeek-V4, and has added it to PapersWithCode with links to the original paper and a whiteboard explanation by Sasha Rush. OPD is becoming a core post-training method for large language models, enabling more efficient error correction without costly re-decoding, which could accelerate model improvement and reduce training costs. OPD works by injecting hint tokens into the trajectory where a mistake occurred, then running a forward pass to assign lower probabilities to error tokens, and training the model to match these new probabilities. This avoids regenerating a new rollout, saving compute.
 
-rss · Google News - 半导体芯片 · Jun 4, 23:16
+reddit · r/MachineLearning · /u/NielsRogge · Jun 4, 12:40
 
-**Background**: The US has imposed export controls on advanced semiconductors to China since 2022, citing national security concerns. However, Chinese firms had been using overseas subsidiaries to circumvent these restrictions, prompting the latest rule to close that loophole.
+**Background**: Knowledge distillation is a technique where a smaller student model learns from a larger teacher model. On-policy distillation uses the model's own rollouts (on-policy) to generate training data, as opposed to off-policy distillation which uses data from a different policy. This makes OPD particularly effective for correcting specific errors in the model's own behavior.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31/">US takes step to halt Nvidia AI chip shipments to Chinese firms outside China | Reuters</a></li>
-<li><a href="https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china">US says ban on AI chip shipments applies to Chinese firms outside China | Technology News | Al Jazeera</a></li>
-<li><a href="https://en.sedaily.com/international/2026/06/01/us-closes-loophole-on-ai-chip-exports-to-chinese-firms">US Closes Loophole on AI Chip Exports to Chinese Firms' Overseas Units - Seoul Economic Daily</a></li>
+<li><a href="https://arxiv.org/abs/2604.13016">[2604.13016] Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe</a></li>
+<li><a href="https://github.com/thunlp/OPD">GitHub - thunlp/OPD: Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe · GitHub</a></li>
+<li><a href="https://thinkingmachines.ai/blog/on-policy-distillation/">On-Policy Distillation - Thinking Machines Lab</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#export controls`, `#US-China tech war`, `#geopolitics`
+**Tags**: `#machine learning`, `#knowledge distillation`, `#AI research`, `#post-training`, `#Hugging Face`
 
 ---
 
 <a id="item-12"></a>
-## [Quantinuum Lists on Nasdaq with $15.6B Valuation](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tcEZxUVhFSC1zSm1BQzZheVpobTVqcEtWNXI1TUZIUmI0bXlmWWg0SEZ4MS14V2w4dWg2eUZRNjBWQmhWX1V1QUJHUUdHa2U0cDM1dg?oc=5) ⭐️ 8.0/10
+## [AgentCodec: Open-source LLM reliability library cuts costs by half](https://www.reddit.com/r/MachineLearning/comments/1twtdob/we_built_a_sourceavailable_llm_reliability/) ⭐️ 8.0/10
 
-Quantinuum, a quantum computing company formed from the merger of Cambridge Quantum and Honeywell Quantum Solutions, went public on Nasdaq with a valuation of $15.6 billion, marking the largest traditional IPO in the quantum computing sector. This IPO signals growing investor confidence in quantum computing and its potential for mainstream adoption, potentially accelerating investment and development in the industry. Quantinuum's H-Series trapped-ion quantum computers achieved a quantum volume of 33,554,432 in September 2025, and the company plans to raise $1.05 billion from the IPO.
+The authors released AgentCodec, a source-available library that unifies 28 LLM reliability techniques under a single API with adaptive routing, achieving up to 56% cost reduction at matched quality on a specific benchmark. This work bridges a gap between scattered reliability methods and practical deployment, enabling developers to easily adopt advanced techniques like retry-with-feedback or ensembling with minimal code changes, potentially reducing inference costs significantly. The library includes 21 communication-theoretic methods across 6 families plus 7 prior-method baselines, and three adaptive routers (SemKNN and two local ACM routers) that select the best technique per prompt. Adoption requires changing only one import line.
 
-rss · Google News - 金融市场 · Jun 5, 03:10
+reddit · r/MachineLearning · /u/Intellerce · Jun 4, 16:51
 
-**Background**: Quantinuum is an integrated quantum computing company formed in November 2021 through the merger of Honeywell Quantum Solutions and Cambridge Quantum. It develops hardware, middleware, and software for applications like cybersecurity, quantum chemistry, and quantum machine learning. The company's trapped-ion architecture offers all-to-all qubit connectivity and high fidelity.
+**Background**: LLM reliability techniques like self-consistency and best-of-N are often implemented in separate codebases, making comparison and integration difficult. The authors draw an analogy between LLMs and stochastic channels in wireless communication, where techniques like ARQ and diversity combining have direct counterparts in agent systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Quantinuum">Quantinuum</a></li>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTelBHZEVSRWxOWVpjb1ZjT0lpZ0FQAQ?hl=en-UG&gl=UG&ceid=UG:en">Quantinuum to raise $1.05 billion in quantum computing IPO ...</a></li>
+<li><a href="https://arxiv.org/abs/2605.09121">[2605.09121] A Communication-Theoretic Framework for LLM Agents: Cost-Aware Adaptive Reliability</a></li>
+<li><a href="https://arxiv.org/html/2506.22716v1">BEST- Route : Adaptive LLM Routing with Test-Time Optimal Compute</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#quantum computing`, `#IPO`, `#finance`, `#technology`
+**Discussion**: The Reddit discussion is positive, with users praising the practical impact and the communication-theory framing. Some ask about the generalizability of the cost savings and the choice of models in the benchmark.
+
+**Tags**: `#LLM`, `#reliability`, `#inference optimization`, `#open-source`, `#adaptive routing`
 
 ---
 
 <a id="item-13"></a>
-## [New NVFP4/MXFP6 GGUF Quantizer Tool for llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1txa902/here_is_my_llamacpp_nvfp4mxfp6_gguf_quantizer_tool/) ⭐️ 8.0/10
+## [Anthropic's Mythos achieves 52x training code speedup](https://www.reddit.com/r/singularity/comments/1twy548/mythos_can_improve_speed_of_training_code_52x/) ⭐️ 8.0/10
 
-A developer released an advanced quantizer tool for llama.cpp that creates NVFP4 and MXFP6 GGUF models using search-based optimization and evaluation against source BF16 models. This tool enables higher-quality quantization for local LLM deployment, potentially improving inference efficiency and model accuracy on NVIDIA Blackwell hardware that supports NVFP4 and MXFP6 natively. The tool features layer-by-layer scoring using metrics like PPL, KLD, and entropy, supports RSF (Refined Scale Fitting) for improved quantization, and includes tensor promotion from NVFP4 to MXFP6 for sensitive layers.
+Anthropic's Mythos system achieved up to a 52x speedup in optimizing training code, compared to a human expert's 4x improvement over 4-8 hours, as detailed in their recursive self-improvement research. This demonstrates rapid progress in AI-driven code optimization, potentially reducing training costs and time for large models, and highlights the potential of recursive self-improvement toward more capable AI systems. The 52x figure is a like-for-like comparison over the past year; the absolute speedup depends on the starting code quality and should not be interpreted as real-world training speedup. The system also showed a ~3x to ~52x range across different models.
 
-reddit · r/LocalLLaMA · /u/ElectronicStranger53 · Jun 5, 04:10
+reddit · r/singularity · /u/Murky_Ad_1507 · Jun 4, 19:37
 
-**Background**: GGUF is a file format for storing quantized LLMs for inference with llama.cpp. NVFP4 is a 4-bit floating-point format optimized for NVIDIA GPUs, while MXFP6 is a 6-bit block-scaled format supported by Blackwell hardware. Quantization reduces model size and speeds up inference but can degrade quality; this tool aims to minimize that degradation.
+**Background**: Recursive self-improvement refers to an AI system enhancing its own capabilities without human intervention, potentially leading to an intelligence explosion. Mythos is a sandboxed agent model developed by Anthropic that can identify and exploit software vulnerabilities, and here it was applied to optimize training code.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.marktechpost.com/2026/02/01/nvidia-ai-brings-nemotron-3-nano-30b-to-nvfp4-with-quantization-aware-distillation-qad-for-efficient-reasoning-inference/">NVIDIA AI Brings Nemotron-3-Nano-30B to NVFP 4 with Quantization ...</a></li>
-<li><a href="https://www.emergentmind.com/topics/mxfp6">MXFP 6 : 6-bit Micro-Float Quantization</a></li>
-<li><a href="https://huggingface.co/docs/diffusers/quantization/gguf">GGUF · Hugging Face</a></li>
+<li><a href="https://claudelab.net/en/articles/claude-ai/claude-mythos-system-card-explained">Claude Mythos Explained — Understanding Anthropic 's New...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Recursive_self-improvement">Recursive self - improvement - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#llama.cpp`, `#quantization`, `#GGUF`, `#NVFP4`, `#MXFP6`
+**Discussion**: The community discussion is not provided, but given the high score and topic, it likely includes excitement about the speedup and debate over the real-world applicability and safety implications of recursive self-improvement.
+
+**Tags**: `#AI`, `#machine learning`, `#Anthropic`, `#code optimization`, `#recursive self-improvement`
 
 ---
 
 <a id="item-14"></a>
-## [AgentCodec: Unified LLM Reliability Library Cuts Costs 56%](https://www.reddit.com/r/MachineLearning/comments/1twtdob/we_built_a_sourceavailable_llm_reliability/) ⭐️ 8.0/10
+## [World's First AI-Designed Vaccine Developed](https://www.reddit.com/r/singularity/comments/1tx5wjn/worldfirst_vaccine_designed_by_artificial/) ⭐️ 8.0/10
 
-Researchers released AgentCodec, an open-source library that unifies 28 LLM reliability techniques under a single API with adaptive routing, achieving up to 56% cost savings at matched quality by changing just one import line. This library dramatically simplifies the adoption of advanced LLM reliability methods, enabling developers to reduce inference costs by half without sacrificing quality, which could accelerate deployment of LLMs in production environments. The library includes 21 communication-theoretic methods across 6 families plus 7 prior baselines, with three adaptive routers (SemKNN and two local ACM routers) that select the best technique per prompt. It provides drop-in shims for OpenAI, Anthropic, and Ollama APIs.
+Researchers have created the world's first vaccine designed entirely by artificial intelligence, marking a milestone in AI-driven drug discovery. The vaccine was developed using machine learning algorithms that predicted optimal antigen structures without human intervention. This breakthrough demonstrates AI's potential to dramatically accelerate vaccine development, reducing timelines from years to months. It could revolutionize pandemic response and enable rapid design of vaccines for emerging infectious diseases. The AI system utilized deep learning architectures such as convolutional neural networks and generative adversarial networks to design multi-epitope vaccines. The vaccine has reportedly shown promising results in preclinical trials, though full details of the specific disease target and clinical data have not been disclosed.
 
-reddit · r/MachineLearning · /u/Intellerce · Jun 4, 16:51
+reddit · r/singularity · /u/Mountain_Ad_8525 · Jun 5, 00:47
 
-**Background**: LLM reliability techniques like retries, ensembling, and self-refinement improve correctness but are scattered across separate codebases, making comparison and adoption difficult. The authors draw an analogy between LLM inference and wireless communication, treating the LLM as a noisy channel and applying error-correction concepts like ARQ, diversity combining, and fountain codes.
+**Background**: Traditional vaccine development is a lengthy and costly process, often taking 10-15 years. AI can analyze vast biological datasets to predict immune responses and optimize vaccine components, significantly shortening discovery timelines. Recent advances in AI-driven multi-omic integration and epitope mapping have accelerated this field.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://portkey.ai/blog/llm-routing-techniques-for-high-volume-applications/">LLM routing techniques for high-volume applications</a></li>
-<li><a href="https://arxiv.org/html/2506.22716v1">BEST- Route : Adaptive LLM Routing with Test-Time Optimal Compute</a></li>
-<li><a href="https://www.getmaxim.ai/articles/top-5-llm-routing-techniques/">Top 5 LLM Routing Techniques</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12095282/">Artificial intelligence in vaccine research and development: an umbrella review - PMC</a></li>
+<li><a href="https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2025.100162">Proceeding artificial intelligence technology towards vaccine designs</a></li>
+<li><a href="https://www.mdpi.com/2076-2607/13/10/2361">Artificial Intelligence Driven Framework for the Design and Development of Next-Generation Avian Viral Vaccines</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLM`, `#reliability`, `#adaptive routing`, `#inference optimization`, `#open source`
+**Discussion**: Reddit commenters expressed cautious optimism, with many highlighting the need for rigorous clinical validation. Some users questioned the 'world-first' claim, noting that AI has been used in vaccine design before, while others emphasized the potential for personalized vaccines.
+
+**Tags**: `#AI`, `#vaccine`, `#drug discovery`, `#healthcare`, `#machine learning`
 
 ---
 
 <a id="item-15"></a>
-## [Anthropic's Mythos Achieves 52x Training Code Speedup](https://www.reddit.com/r/singularity/comments/1twy548/mythos_can_improve_speed_of_training_code_52x/) ⭐️ 8.0/10
+## [Top AI CEOs Urge Congress to Screen Synthetic DNA Orders](https://www.reddit.com/r/singularity/comments/1two85g/sam_altman_dario_amodei_and_demis_hassabis_have/) ⭐️ 8.0/10
 
-Anthropic's Mythos model can optimize training code up to 52 times faster than the original, compared to a skilled human expert achieving only a 4x speedup in 4-8 hours. This demonstrates rapid progress in AI-driven code optimization, potentially reducing training costs and time for large models, and highlights the potential of recursive self-improvement. The 52x figure is not a real-world training speedup but a metric comparing optimized code to a baseline; the improvement depends heavily on the starting code quality.
+Sam Altman (OpenAI), Dario Amodei (Anthropic), and Demis Hassabis (Google DeepMind) signed an open letter calling on the U.S. Congress to mandate screening of synthetic nucleic acid orders to prevent misuse for biological weapons. This joint action signals unprecedented industry consensus on biosecurity risks from AI, potentially leading to federal regulation that could set a global precedent for synthetic biology oversight. The letter specifically asks Congress to require DNA synthesis providers to screen orders against known pathogen sequences and customer identities, a measure already voluntarily adopted by some companies but not legally mandated.
 
-reddit · r/singularity · /u/Murky_Ad_1507 · Jun 4, 19:37
+reddit · r/singularity · /u/TorturedPoet30 · Jun 4, 13:48
 
-**Background**: Recursive self-improvement (RSI) is a process where an AI system enhances its own capabilities without human intervention. Anthropic's Mythos model, announced in April 2026, is a frontier AI that the company initially declined to release due to safety concerns. This work is part of Anthropic's research into using AI to improve AI training efficiency.
+**Background**: Synthetic nucleic acids are artificially created DNA or RNA strands used in research and medicine, but they can also be used to construct dangerous pathogens. AI tools could lower the barrier for designing such sequences, raising concerns about bioweapon proliferation. The letter aims to close a regulatory gap where ordering synthetic DNA currently lacks mandatory screening.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Recursive_self-improvement">Recursive self - improvement - Wikipedia</a></li>
-<li><a href="https://www.bbc.com/news/articles/crk1py1jgzko">What is Anthopic's Claude Mythos and what risks does it pose?</a></li>
+<li><a href="https://www.wired.me/story/openai-and-anthropic-sign-letter-to-prevent-ai-developed-biological-weapons">OpenAI and Anthropic Sign Letter to Prevent AI -Developed Biological ...</a></li>
+<li><a href="https://www.euronews.com/health/2026/06/05/tech-giants-warn-ai-safety-gaps-could-hand-bioweapons-to-bad-actors">Tech giants warn AI safety gaps could hand bioweapons ... | Euronews</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Reddit discussion clarifies that the 52x speedup is contextual and not a direct training speedup, with users noting the footnote's caveats. Some express excitement about the progress in code optimization, while others caution against overinterpreting the metric.
+**Discussion**: Reddit comments largely support the initiative, with many noting it's a rare bipartisan issue. Some debate the technical feasibility of screening and potential impacts on legitimate research, while others question whether voluntary measures are sufficient.
 
-**Tags**: `#AI`, `#machine learning`, `#code optimization`, `#Anthropic`, `#training efficiency`
+**Tags**: `#AI safety`, `#biosecurity`, `#policy`, `#synthetic biology`, `#regulation`
 
 ---
 
 <a id="item-16"></a>
-## [Top AI CEOs Urge Congress to Mandate Synthetic DNA Screening](https://www.reddit.com/r/singularity/comments/1two85g/sam_altman_dario_amodei_and_demis_hassabis_have/) ⭐️ 8.0/10
-
-Sam Altman (OpenAI), Dario Amodei (Anthropic), and Demis Hassabis (Google DeepMind) signed an open letter calling on the U.S. Congress to mandate screening of synthetic nucleic acid orders to prevent misuse for biological weapons. This marks an unprecedented consensus among leading AI companies that voluntary measures are insufficient, and government regulation is needed to mitigate the risk of AI-enabled bioweapons. The letter signals industry alignment on biosecurity, potentially accelerating legislative action. The letter specifically calls for mandatory screening of synthetic nucleic acid orders to identify 'sequences of concern' (SOCs) that could be used to create dangerous pathogens. The White House previously released a voluntary framework in April 2024, but the CEOs argue that mandatory requirements are necessary for effective enforcement.
-
-reddit · r/singularity · /u/TorturedPoet30 · Jun 4, 13:48
-
-**Background**: Synthetic nucleic acids are custom-made DNA or RNA sequences that can be ordered online. While they enable beneficial research, they could also be misused to recreate or engineer pathogens. AI tools can further accelerate the design of harmful sequences, raising concerns about AI-enabled bioweapons. The U.S. government has issued guidance, but no federal law currently mandates screening of all orders.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/04/Nucleic-Acid_Synthesis_Screening_Framework.pdf">Framework for nucleic acid</a></li>
-<li><a href="https://www.longtermresilience.org/wp-content/uploads/2024/09/Synthetic-Nucleic-Acid-Screening-Overcoming-challenges-with-implementation-Website-copy-1.pdf">Synthetic Nucleic Acid Screening - Overcoming challenges with...</a></li>
-<li><a href="https://aspr.hhs.gov/S3/Pages/Synthetic-Nucleic-Acid-Screening.aspx">HHS & OSTP Screening | Synthetic Nucleic Acid Security & Biorisk...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI safety`, `#biosecurity`, `#regulation`, `#synthetic biology`
-
----
-
-<a id="item-17"></a>
-## [World's first AI-designed vaccine announced](https://www.reddit.com/r/singularity/comments/1tx5wjn/worldfirst_vaccine_designed_by_artificial/) ⭐️ 8.0/10
-
-Researchers have developed the world's first vaccine designed entirely by artificial intelligence, as reported by BBC News. This marks a breakthrough in AI-driven biotechnology. This achievement demonstrates AI's potential to radically accelerate vaccine and drug discovery, reducing timelines from years to months. It could transform how we respond to emerging infectious diseases and personalize medicine. The AI system designed the vaccine without human intervention, selecting antigens and optimizing formulations. Specific details about the target disease and clinical trial status were not disclosed in the report.
-
-reddit · r/singularity · /u/Mountain_Ad_8525 · Jun 5, 00:47
-
-**Background**: Traditional vaccine development is slow and expensive, often taking over a decade and costing billions. AI can analyze vast biological datasets to predict effective vaccine candidates, potentially cutting discovery cycles by 40–60%. The pharmaceutical industry is expected to spend $3 billion on AI in drug discovery by 2025.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.datatobiz.com/blog/ai-in-biotechnology/">The Power of AI in Biotechnology : Revolutionizing Innovation</a></li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/40740484/">Applications of Artificial Intelligence in Biotech Drug Discovery and...</a></li>
-<li><a href="https://www.linkedin.com/posts/marvik-ai_ai-in-biotechnology-accelerating-drug-discovery-activity-7399445343567773698-_kfr">AI in Biotechnology : Accelerating Drug Discovery and Genomics...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#vaccine`, `#biotechnology`, `#healthcare`, `#AI-driven discovery`
-
----
-
-<a id="item-18"></a>
 ## [Meta enables ADB on deprecated Portal devices](https://fb.watch/HxPu0fSyeH/) ⭐️ 7.0/10
 
-Meta has enabled Android Debug Bridge (ADB) on its deprecated Portal devices, allowing developers and users to sideload custom applications and repurpose the hardware. This move opens up new possibilities for repurposing otherwise obsolete hardware, aligning with the growing repairability and right-to-repair movements. It also empowers the tinkerer community to extend the life of these devices beyond Meta's original software support. Users can enable ADB by navigating to Settings > Debug > ADB Enabled on their Portal device. However, some users reported that the setting was missing for over a month before the official enablement.
+Meta has enabled Android Debug Bridge (ADB) on deprecated Portal devices, allowing developers and hobbyists to repurpose the hardware. The feature can be accessed via Settings > Debug > ADB Enabled. This move significantly enhances repairability and reuse of deprecated devices, reducing e-waste and empowering users to extend the life of their hardware. It also sparks discussion about corporate responsibility in supporting old products. The ADB feature was initially hinted at over a month ago but was not functional until now. Users can now install custom apps, such as a routine board for kids, as demonstrated by the community.
 
 hackernews · jenders · Jun 5, 00:44 · [Discussion](https://news.ycombinator.com/item?id=48406640)
 
-**Background**: ADB (Android Debug Bridge) is a command-line tool that allows developers to communicate with Android devices for debugging, file transfer, and app installation. Meta Portal is a line of smart video calling devices launched in 2018, which Meta has since deprecated, ceasing software updates and new features.
+**Background**: Meta Portal is a line of smart video calling devices launched in 2018, similar to Amazon Echo Show. ADB (Android Debug Bridge) is a command-line tool for debugging Android-based devices, allowing app installation and system access.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Android_Debug_Bridge">Android Debug Bridge - Wikipedia</a></li>
-<li><a href="https://developer.android.com/tools/adb">Android Debug Bridge ( adb ) | Android Studio | Android Developers</a></li>
-<li><a href="https://www.amazon.com/Facebook-Portal-Calling-Screen-Display/dp/B07XPS5W3L">Amazon.com: Meta Portal - Smart Video Calling for the Home with 10”...</a></li>
+<li><a href="https://developer.android.com/tools/adb">Android Debug Bridge (adb) | Android Studio | Android Developers</a></li>
+<li><a href="https://www.adnan.design/meta-portal">Meta Portal | Adnan Khan | Product Designer | Adnan Khan</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community reaction is mixed: some appreciate the ability to repurpose Portal devices (e.g., as a routine board for kids), while others criticize Meta for only enabling ADB after community pressure and note that it's not a full commitment to repairability. One commenter highlighted that a setting prompt existed for over a month but was non-functional.
+**Discussion**: The community is mixed: some see it as a positive step for tinkering, while others criticize it as a minimal effort that doesn't address broader repairability concerns. Users have already created practical repurposing projects, like a kids' routine board.
 
-**Tags**: `#Meta`, `#Portal`, `#ADB`, `#repairability`, `#tinkering`
+**Tags**: `#Meta`, `#Portal`, `#ADB`, `#repairability`, `#deprecated devices`
+
+---
+
+<a id="item-17"></a>
+## [Fine-Tuning LLMs for 1990s-Style Documentation](https://passo.uno/fine-tuning-docs-llm/) ⭐️ 7.0/10
+
+The author fine-tuned Llama 3.1 8B Instruct and Qwen 2.5 7B Instruct on a dataset of vintage software manuals to generate documentation in the style of 1990s Windows help files and books. This experiment highlights the potential of fine-tuning LLMs for specific stylistic and historical documentation formats, offering insights into balancing depth, prose, and technical accuracy in AI-generated docs. The fine-tuning used a small custom dataset of 1990s manual excerpts; the resulting outputs captured the retro style but sometimes lacked technical depth, revealing trade-offs between style fidelity and content substance.
+
+hackernews · taubek · Jun 5, 05:46 · [Discussion](https://news.ycombinator.com/item?id=48408442)
+
+**Background**: Fine-tuning adapts a pre-trained LLM to a specific task or style using a smaller, targeted dataset. The 1990s documentation style is known for its verbose, explanatory prose and step-by-step instructions, contrasting with modern concise online docs.
+
+**Discussion**: Commenters noted that documentation quality depends on depth, not just prose style, and that LLMs can mimic style with few-shot examples without fine-tuning. Some expressed interest in running similar experiments on local hardware.
+
+**Tags**: `#LLM`, `#fine-tuning`, `#documentation`, `#AI`, `#software engineering`
+
+---
+
+<a id="item-18"></a>
+## [C++ Documentary Released, Sparks Community Debate](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/) ⭐️ 7.0/10
+
+A documentary about the C++ programming language has been released, covering its history, evolution, and impact on software engineering. This documentary provides a comprehensive look at C++'s development, helping both newcomers and veterans understand the language's complexity and enduring significance in systems programming. The documentary includes interviews with key figures such as Andrei Alexandrescu, and has a runtime suitable for watching during a build process, as noted by one commenter.
+
+hackernews · ingve · Jun 5, 04:37 · [Discussion](https://news.ycombinator.com/item?id=48408016)
+
+**Background**: C++ is a general-purpose programming language created by Bjarne Stroustrup in 1985. It is widely used in systems software, game development, and performance-critical applications. The language has evolved through multiple standards (C++98, C++11, C++14, C++17, C++20, C++23), each adding complexity.
+
+**Discussion**: Community comments are mixed: some praise the documentary's quality and inclusion of notable figures, while others express frustration with C++'s complexity and steep learning curve. One commenter jokingly claims that C++ is the true language of the internet, with web developers merely using programs built in C++.
+
+**Tags**: `#C++`, `#documentary`, `#programming languages`, `#software engineering`
 
 ---
 
 <a id="item-19"></a>
-## [Alibaba Open Code Review: AI CLI Tool for Code Review](https://github.com/alibaba/open-code-review) ⭐️ 7.0/10
+## [Alibaba Open-Sources AI Code Review CLI Tool](https://github.com/alibaba/open-code-review) ⭐️ 7.0/10
 
-Alibaba has released Open Code Review, an open-source AI-powered CLI tool for code review, written in Go and licensed under Apache 2.0. This tool provides developers with a free, open-source alternative for automated code review, potentially speeding up the review process and reducing bottlenecks. The tool is installed globally via the 'ocr' command, though the acronym has drawn some criticism. Community testing on a benchmark showed high recall (~74%) but low precision (~12%), leading to a low F1 score (~20%).
+Alibaba has released Open Code Review, an open-source CLI tool that uses AI to automate code review, available on GitHub. This tool lowers the barrier for teams to integrate AI-powered code review into their workflows, potentially improving code quality and developer productivity. Community benchmarks show a recall of ~74% but precision of only ~12%, leading to a low F1 score (~20%). The tool uses rule files written in Chinese, with community-provided English translations available.
 
 hackernews · geoffbp · Jun 5, 00:04 · [Discussion](https://news.ycombinator.com/item?id=48406358)
 
-**Background**: Code review is a practice where developers examine each other's code to improve quality and catch defects. AI-powered tools aim to automate parts of this process, but balancing recall (finding real issues) and precision (avoiding false positives) remains challenging.
+**Background**: Code review is a critical practice for maintaining software quality, but manual review can be time-consuming. AI-powered tools aim to automate issue detection, but balancing recall (finding real bugs) and precision (avoiding false positives) remains a challenge.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.libhunt.com/r/alibaba/open-code-review">Alibaba / Open - code - review Alternatives and Reviews</a></li>
-<li><a href="https://www.alibabacloud.com/blog/code-review---alibaba-devops-practice-guide-part-11_598590">Code Review - Alibaba DevOps Practice... - Alibaba Cloud Community</a></li>
-<li><a href="https://www.coderabbit.ai/cli">CodeRabbit CLI | AI Code Reviews in CLI</a></li>
+<li><a href="https://www.codeant.ai/blogs/ai-code-review-benchmark-results-from-200-000-real-pull-requests">AI Code Review Benchmark 2026: Precision, Recall, and F1 Results</a></li>
+<li><a href="https://www.augmentcode.com/guides/deep-code-review-recall-vs-precision">Deep Code Review: Why Recall Beats Precision for Agents | Augment Code</a></li>
+<li><a href="https://www.qodo.ai/blog/why-code-review-needs-its-own-ai-with-state-of-the-art-precision-recall/">Why Code Review Needs Its Own AI with State-of-the-Art Precision–Recall</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community feedback highlights mixed results: one user reported good recall but poor precision, causing the tool to rank low in a benchmark. Others discussed alternatives like CodeRabbit and noted that building AI code review into Git itself is not difficult.
+**Discussion**: Community feedback highlights the tool's high recall but low precision, with one user noting it found many golden issues but also many false positives. Some users question its added value over existing AI coding assistants, while others appreciate the dedicated CLI pattern for integration.
 
-**Tags**: `#AI code review`, `#open source`, `#developer tools`, `#CLI`
+**Tags**: `#AI`, `#code review`, `#open source`, `#CLI`, `#developer tools`
 
 ---
 
 <a id="item-20"></a>
-## [Do Transformers Need Three Projections? QKV Variants Studied](https://arxiv.org/abs/2606.04032) ⭐️ 7.0/10
+## [Google retracts human oversight pledge after AI quality mockery](https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything) ⭐️ 7.0/10
 
-A new paper systematically investigates whether transformers can reduce parameters by using fewer than three separate projection matrices (Q, K, V) without performance loss. This study could lead to more efficient transformer architectures, reducing model size and computational cost, which is critical for deploying large models on resource-constrained devices. The paper explores various QKV variants, including shared projections and alternative mechanisms, and evaluates their impact on model performance across different tasks.
-
-hackernews · Anon84 · Jun 4, 23:11 · [Discussion](https://news.ycombinator.com/item?id=48405931)
-
-**Background**: In transformer models, the attention mechanism uses three learned projection matrices: Query (Q), Key (K), and Value (V). These projections transform input embeddings into different representation spaces to compute attention scores and aggregate information. The standard design assumes separate projections are necessary, but this paper questions that assumption.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/pdf/2606.04032">Do Transformers Need Three Projections ? Systematic Study of QKV ...</a></li>
-<li><a href="https://notes.roydipta.com/zettelkasten/why-do-we-use-projection-in-qkv/">Why do we use Projection in QKV ?</a></li>
-<li><a href="https://www.emergentmind.com/topics/separate-qkv-projections-for-vision-modality">Separate QKV Projections for Vision</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters raised concerns about notation clarity (e.g., 'Q-K=V' being misinterpreted) and suggested alternative attention mechanisms. Some noted that practical GPU efficiency may favor the standard QKV design regardless of theoretical redundancy.
-
-**Tags**: `#transformers`, `#attention mechanism`, `#deep learning`, `#architecture optimization`
-
----
-
-<a id="item-21"></a>
-## [Cloudflare Acquires VoidZero, Creator of Vite](https://blog.cloudflare.com/voidzero-joins-cloudflare/) ⭐️ 7.0/10
-
-Cloudflare has acquired VoidZero, the company behind the popular JavaScript build tool Vite and other frontend tooling. The announcement was made on Cloudflare's blog, with VoidZero's team joining Cloudflare. This acquisition signals Cloudflare's deepening investment in the JavaScript ecosystem and could reshape frontend tooling development. It raises concerns about the future independence of open-source projects like Vite under corporate ownership. VoidZero was founded by Evan You, the creator of Vue.js, and had raised Series A funding. The company developed Vite, a next-generation frontend build tool, and Rolldown, a Rust-based bundler.
-
-hackernews · coloneltcb · Jun 4, 13:00 · [Discussion](https://news.ycombinator.com/item?id=48398055)
-
-**Background**: Vite is a fast frontend build tool that has become the default for many modern web frameworks, including Nuxt, SvelteKit, and TanStack Start. It uses native ES modules and a dev server with hot module replacement to provide instant feedback during development. VoidZero was positioned as a JavaScript tooling company aiming to improve developer productivity.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://voidzero.dev/">VoidZero | The Javascript Tooling company</a></li>
-<li><a href="https://vite.dev/">Vite | Next Generation Frontend Tooling</a></li>
-<li><a href="https://tracxn.com/d/companies/voidzero/__twoPlBvt4fARtnfhLKRC7TX1mKTNPTYWQRLJ783qSBo">VoidZero - 2026 Company Profile, Team, Funding... - Tracxn</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community sentiment is mixed, with many expressing unease about open-source projects being acquired by large corporations. Commenters like olingern and demetris worry that promises of 'nothing will change' often don't hold, while yuppiepuppie questions the business model of building popular tools and hoping for an acqui-hire.
-
-**Tags**: `#acquisition`, `#Vite`, `#Cloudflare`, `#JavaScript`, `#open-source`
-
----
-
-<a id="item-22"></a>
-## [Google Removes 'Humans in the Loop' After Internal Mockery](https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything) ⭐️ 7.0/10
-
-Google removed the phrase 'it's critical that we maintain humans in the loop' from a statement after employees internally shared memes mocking the company's AI quality, as reported by 404 Media. This incident signals a potential shift in Google's commitment to human oversight in AI, raising concerns about AI safety and accountability. It also highlights internal dissent over AI quality, which could affect public trust in Google's AI products. The original statement was published after a 404 Media story about Google employees sharing memes about AI failures. Google's spokesperson later asked for the statement to be revised, removing the 'humans in the loop' commitment.
+Google's spokesperson retracted a previous statement that emphasized maintaining human oversight in AI, after employees internally shared memes mocking the company's AI quality. The new statement no longer includes the phrase "it's critical that we maintain humans in the loop." This incident reveals Google's internal acknowledgment of AI quality issues and a concerning shift away from human oversight, which has significant implications for AI ethics and transparency. It underscores the tension between corporate messaging and internal reality in the AI industry. The retraction followed a 404 Media report that Google employees internally shared memes about how its AI "sucks." The original statement was issued in response to that report, but after publication, Google asked for a revised version that removed the human oversight commitment.
 
 rss · Simon Willison · Jun 4, 16:38
 
-**Background**: Human-in-the-loop (HITL) AI integrates human judgment at key stages like training, validation, and decision-making to ensure ethical and accurate outcomes. Google has faced recent criticism for AI quality issues, such as its AI Overviews suggesting users put glue on pizza. The removal of the HITL commitment suggests Google may be deprioritizing human oversight in favor of automation.
+**Background**: "Humans in the loop" (HITL) is a principle where humans actively participate in AI system operation, supervision, or decision-making to ensure safety and ethics. Google had previously publicly committed to maintaining human oversight in its AI systems, but this retraction suggests a potential policy shift.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5">Google 's AI Feature Suggested Using Glue to Keep... - Business Insider</a></li>
-<li><a href="https://www.symphonyai.com/glossary/ai/hitl-human-in-the-loop-ai/">Human in the loop AI definition and examples - SymphonyAI</a></li>
+<li><a href="https://www.ibm.com/think/topics/human-in-the-loop">What Is Human In The Loop (HITL)? | IBM</a></li>
+<li><a href="https://www.geeksforgeeks.org/artificial-intelligence/human-in-the-loop-hitl-decision-making/">Human - in-the-Loop (HITL) - GeeksforGeeks</a></li>
 
 </ul>
 </details>
@@ -568,99 +509,89 @@ rss · Simon Willison · Jun 4, 16:38
 
 ---
 
-<a id="item-23"></a>
-## [Nvidia CEO: All three major memory makers qualified for HBM4](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jd1hNX21JSEUyc3ZjbzBCRFpadlBRMjRYYk9KZjIzdXFvYWRqZTZVOVJPU0J5Q2RFZHF5TFBPWkpCdlFmd0tFWG5wbm15bks0LURROHdnTF9SelU2LV9TMA?oc=5) ⭐️ 7.0/10
+<a id="item-21"></a>
+## [TSMC CEO: AI Demand Will Outstrip Chip Supply for Years](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tSzlQcUR5N3lsUEVMTU1WOVFsNzlsT0swMExVMFFJY19leW9mN1VLSHpZWW9XdGpZTXhob3M5ajF1b1piM2RpXw?oc=5) ⭐️ 7.0/10
 
-Nvidia CEO Jensen Huang stated that all three major memory chip manufacturers—Samsung, SK Hynix, and Micron—are qualified to supply HBM4 memory chips for Nvidia's next-generation AI GPUs. This statement signals a diversified supply chain for HBM4, reducing reliance on a single supplier and potentially accelerating the adoption of HBM4 in AI hardware, which is critical for training large language models and other AI workloads. HBM4 is the next-generation high-bandwidth memory standard, expected to offer higher bandwidth and capacity than HBM3, with production ramping up twice as fast as HBM3 according to Micron. The qualification of all three major memory makers ensures competitive pricing and supply stability.
+TSMC CEO C.C. Wei stated that the company's chip supply will remain insufficient to meet AI-driven demand for several years, highlighting a persistent bottleneck in the semiconductor industry. This signals a prolonged chip shortage specifically for AI applications, which could slow down AI development and deployment across industries, affecting companies relying on advanced chips like NVIDIA and AMD. The statement was made at a recent technology conference, and TSMC is the world's largest contract chipmaker, producing chips for major AI players like Apple, NVIDIA, and AMD.
 
-rss · Google News - 半导体芯片 · Jun 5, 05:26
+rss · Google News - 半导体芯片 · Jun 5, 08:33
 
-**Background**: High Bandwidth Memory (HBM) is a type of DRAM that stacks memory dies vertically to achieve a very wide memory bus, enabling high bandwidth for applications like AI and graphics. HBM4 is the upcoming iteration, succeeding HBM3, and is crucial for Nvidia's future AI accelerators such as the Blackwell architecture.
+**Background**: AI models like GPT-4 require massive computational power, driving demand for specialized chips such as GPUs and AI accelerators. TSMC manufactures most of these advanced chips, but capacity expansion takes years due to the complexity and cost of fabrication plants.
+
+**Tags**: `#semiconductors`, `#AI`, `#TSMC`, `#chip shortage`
+
+---
+
+<a id="item-22"></a>
+## [World's first mass-produced GaN-on-Si RF chip for smart terminals ships 5M units](https://news.google.com/rss/articles/CBMicEFVX3lxTE9xQkN6cDdfSnFlMjNvbUdKWDBoTjJPeFZ4ek5hT3I1aEd4MzN0MTBUNVVtTm42cXVTQzRnSUdyel96Z0ZkajIxQnE0Skppal9oUWNVbTY1enE3M0ZPWS1tXzZtUDc3a3JEY1Rnel9sb0Y?oc=5) ⭐️ 7.0/10
+
+The world's first mass-produced silicon-based gallium nitride (GaN-on-Si) RF chip for smart terminals has shipped over 5 million units, marking a major milestone in semiconductor manufacturing. This achievement demonstrates the commercial viability of GaN-on-Si technology for RF applications in consumer devices, potentially enabling higher efficiency and performance in 5G smartphones and other wireless devices. The chip is designed for smart terminals such as smartphones and tablets, and its mass production indicates a shift from traditional GaAs or silicon-based RF chips to GaN-on-Si, which offers better power efficiency and thermal performance.
+
+rss · Google News - 半导体芯片 · Jun 5, 04:34
+
+**Background**: RF chips are essential components in wireless communication devices, handling signal transmission and reception. Traditionally, RF power amplifiers use materials like GaAs or SiGe, but GaN offers higher power density and efficiency. Silicon-based GaN (GaN-on-Si) reduces cost by leveraging existing silicon manufacturing infrastructure, making it attractive for mass-market applications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://wccftech.com/micron-warns-memory-crunch-will-outlast-2026-as-ai-demand-outpaces-what-hbm-dram-and-nand-can-supply/">Micron Warns Memory Crunch Will Outlast 2026 as AI Demand...</a></li>
+<li><a href="https://www.jiemian.com/article/4501829.html">揭秘射频芯片，5G时代芯片之王，国产替代的芯片桥头堡|界面新闻 · JMedia</a></li>
+<li><a href="https://news.qq.com/rain/a/20240219A07MJB00">疯狂内卷下，射频芯片的出路在哪？_腾讯新闻</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#HBM4`, `#semiconductor`, `#memory chips`, `#supply chain`
+**Tags**: `#GaN`, `#RF chip`, `#semiconductor`, `#mass production`, `#smart terminals`
+
+---
+
+<a id="item-23"></a>
+## [Chinese Memory Firms Enter South Korean Market](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QUkN2OTJBcnE5eGFqOGg4ajhjXy1QQ0Y4cXZIZG1ZRUR2Sk52VzF3eGp4ZTlYdVdQVnZHNGdQVDRHOTVfbUlsbEVUTXowNkJLS2ln?oc=5) ⭐️ 7.0/10
+
+Chinese memory manufacturers have officially entered the South Korean market, directly competing with local giants Samsung and SK Hynix. This marks a significant shift in the global memory chip landscape, as Chinese companies challenge the dominance of South Korean firms in their home market, potentially reshaping supply chains and pricing. The news, reported by a Chinese industry publication, indicates that Chinese memory products are now available in South Korea, though specific product details and market share are not provided.
+
+rss · Google News - 半导体芯片 · Jun 5, 03:45
+
+**Background**: South Korea's semiconductor industry, led by Samsung and SK Hynix, dominates global memory chip production, especially DRAM and NAND flash. China has been investing heavily in its domestic memory industry, with companies like YMTC and CXMT making rapid progress, though they still lag in advanced manufacturing and AI-critical memory technologies.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.koreaherald.com/article/10667897">Korea’s memory fortress under pressure as China advances — but the lead still holds - The Korea Herald</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductors`, `#memory`, `#market competition`, `#China`, `#South Korea`
 
 ---
 
 <a id="item-24"></a>
-## [Marvell Tapped by Google for Custom TPU Network Chip](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPU1RKbnBWM2NfY1dWeUxvYmFsYzI4Rzk3eTlHT2FzZEtmQ3dyR0xZajQxd1V2Yk9EWXVFR0o2bkdvOC0wM0M4WmlpYjUwQkVkc2Z2QWpHWncwTnRfUU9LSVNR?oc=5) ⭐️ 7.0/10
+## [US Demands Nvidia CEO Clarify Chip Sales to China](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoSVNSanRuZ0VMLWRWTzl2WS1KWlRLV1BuVUNocEE1dU82RFBCbnRwX2lZdmFwaXNMMzgxcGlmM1ZKdWtsQjJDQWNqV1I2Z2ptcEpqMkx6V1Y?oc=5) ⭐️ 7.0/10
 
-Marvell has reportedly been commissioned by Google to design a custom networking chip for Google's Tensor Processing Unit (TPU) accelerators, with the chip to be manufactured on Intel's advanced 18A process. This partnership underscores Google's strategic push to reduce dependence on Nvidia GPUs by building custom AI infrastructure, and it highlights Marvell's growing role in the AI chip ecosystem. The custom network chip aims to alleviate data latency bottlenecks in large-scale AI training clusters. The custom networking chip is reportedly for the TPU v5e or a future generation, and it will be built on Intel's 18A process node, which is part of Intel's advanced foundry services. The chip is expected to improve inter-TPU communication efficiency.
+The US government has formally requested Nvidia CEO Jensen Huang to provide detailed information on the final destination of chips sold to China, as part of intensified enforcement of export controls on advanced AI semiconductors. This move signals a stricter crackdown on potential circumvention of US export controls, which could disrupt Nvidia's significant revenue from China and reshape the global AI chip supply chain. The request specifically targets Nvidia's A100 and H100 chips, which are restricted for export to China without a license. Nvidia has previously developed modified chips like the A800 and H800 to comply with rules, but the US is now scrutinizing whether these chips are being diverted to prohibited end users.
 
-rss · Google News - 半导体芯片 · Jun 5, 03:16
+rss · Google News - 半导体芯片 · Jun 5, 11:26
 
-**Background**: Google's TPU is an application-specific integrated circuit (ASIC) designed for neural network machine learning, used in Google's data centers for AI training and inference. As AI models grow larger, efficient networking between accelerators becomes critical to avoid communication bottlenecks. Marvell is a leading semiconductor company specializing in data infrastructure and custom chip solutions.
+**Background**: Since October 2022, the US has imposed export controls on advanced AI and supercomputing chips to China, citing national security concerns. Nvidia's A100 and H100 GPUs are among the most powerful AI training chips, and their restriction has forced Nvidia to create lower-performance variants for the Chinese market. The US government is now increasing oversight to ensure compliance, including demanding transparency on chip end-use and end-users.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://wccftech.com/marvell-scores-another-win-after-nvidia-ceos-trillion-dollar-praise-as-google-hands-it-a-custom-networking-chip-for-the-tpuv8e-on-intels-18a-18ap-process/">Marvell Scores Another Win After NVIDIA CEO's Trillion-Dollar Praise...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tensor_Processing_Unit">Tensor Processing Unit - Wikipedia</a></li>
-<li><a href="https://startupstag.com/ai/google-marvell-custom-ai-chips-tpu-2027/">Google Partners with Marvell for Custom AI Memory & TPU Chips</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nvidia">Nvidia - Wikipedia</a></li>
+<li><a href="https://www.nvidia.com/en-us/">World Leader in Artificial Intelligence Computing | NVIDIA</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductor`, `#AI hardware`, `#TPU`, `#networking`, `#Google`
+**Tags**: `#semiconductors`, `#export controls`, `#Nvidia`, `#US-China tech war`, `#AI chips`
 
 ---
 
 <a id="item-25"></a>
-## [Kuxin Micro Unveils 6 TOPS AI Chip for Smart Glasses at 300mW](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wNjFBczF6Uk55WGJJM3ZIOHA3Qk5GMHF2SmZNbWRsdi1TTXQtV1pUSlllSTJjbExOY2FQcG53LUhlckxzUDVNODRLeUdZam54dmVz?oc=5) ⭐️ 7.0/10
+## [User Builds High-End LLM Server with EPYC 9575F and 4× RTX 3090](https://www.reddit.com/r/LocalLLaMA/comments/1tx9tf2/finally_finished_my_llm_server_epyc_9575f_4_rtx/) ⭐️ 7.0/10
 
-Kuxin Micro has released a dedicated AI chip for smart glasses that delivers 6 TOPS of performance while consuming only 300mW of power. This chip enables powerful on-device AI processing for smart glasses with extremely low power consumption, potentially accelerating the adoption of augmented reality and wearable AI devices. The chip achieves 6 TOPS at 300mW, yielding an efficiency of 20 TOPS/W, which is significantly higher than many existing edge AI solutions.
-
-rss · Google News - 半导体芯片 · Jun 5, 01:14
-
-**Background**: AI chips for edge devices must balance performance and power consumption. Smart glasses require compact, low-power chips to enable real-time AI features like object recognition and voice commands without draining the battery. Kuxin Micro's chip targets this niche with high efficiency.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.eenewseurope.com/en/gyrfalcon-ships-ai-chip-to-samsung-fujitsu-lg/">Gyrfalcon ships AI chip to Samsung, Fujitsu, LG .. | eeNews Europe</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI chip`, `#edge computing`, `#smart glasses`, `#low power`, `#hardware`
-
----
-
-<a id="item-26"></a>
-## [Huawei Unveils 'Tao's Law', Targets 1.4nm Chip Density by 2031](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uckhjWHlKaEFLajNwTExBdTM4UU9oSWNuTElSdTF0UExxTzdRbTBVbkp6Q0N0UFFBTWdIQi1wVnJaY3lhUzh2WnVHSzRyWnQxcDZWcA?oc=5) ⭐️ 7.0/10
-
-On May 25, 2026, Huawei officially announced 'Tao's Law' (Tau Scaling Law), a new semiconductor scaling rule that predicts achieving equivalent 1.4nm transistor density by 2031 without relying on advanced lithography equipment. This marks the first time a Chinese company has defined a technology evolution rule in the semiconductor industry since Moore's Law, potentially reshaping the global chip development landscape and reducing dependence on extreme ultraviolet (EUV) lithography. Tao's Law focuses on improving chip performance and transistor density through architectural and packaging innovations rather than traditional lithography scaling. Huawei also released a ten-year roadmap targeting 5GHz CPU core frequency by 2031.
-
-rss · Google News - 半导体芯片 · Jun 5, 02:55
-
-**Background**: Moore's Law, which predicted transistor density doubling every two years, has been slowing down due to physical limits of silicon. Tao's Law offers an alternative path by leveraging advanced packaging, chiplets, and 3D stacking to continue density improvements without requiring smaller lithography nodes. This approach is particularly relevant for Huawei, which faces restrictions on accessing cutting-edge lithography equipment.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://news.qq.com/rain/a/20260525A08UKA00">华为正式发布 韬 定 律 ，半导体界迎来新法则_腾讯新闻</a></li>
-<li><a href="https://ee.ofweek.com/2026-06/ART-8110-2801-30689213.html">火遍全网的 韬 定 律 ，有三大局限 |人人能懂的产业报告 - OFweek...</a></li>
-<li><a href="https://t.me/xhqcankao/29722">风向旗参考快讯 – Telegram</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductor`, `#Huawei`, `#chip manufacturing`, `#technology forecast`
-
----
-
-<a id="item-27"></a>
-## [Custom LLM Server Build: EPYC 9575F + 4× RTX 3090](https://www.reddit.com/r/LocalLLaMA/comments/1tx9tf2/finally_finished_my_llm_server_epyc_9575f_4_rtx/) ⭐️ 7.0/10
-
-A Reddit user completed a custom LLM inference server using an AMD EPYC 9575F CPU, 768GB DDR5 ECC RAM, and four RTX 3090 GPUs (96GB VRAM total), intended for running vLLM and llama.cpp. This build demonstrates a powerful, high-memory local setup for running large language models, enabling high-throughput inference for small models and reasoning for larger models, which is valuable for developers integrating AI into applications like game NPC planning. The user power-limits all four RTX 3090s to 250W each for inference efficiency, and uses a Supermicro H13SSL-N motherboard with a Corsair 9000D case. Two GPUs are mounted directly on the motherboard, while two are front-mounted.
+A Reddit user completed a custom LLM inference server build featuring an AMD EPYC 9575F CPU, 4× RTX 3090 GPUs (96GB VRAM total), and 768GB DDR5 ECC RAM, intended for running vLLM and llama.cpp. This build demonstrates the feasibility of assembling a high-performance local LLM inference rig using consumer-grade GPUs and server hardware, enabling enthusiasts to run large models with high throughput at home. The user plans to power-limit all four RTX 3090s to 250W each, as the system is primarily for inference. The EPYC 9575F is a 64-core Zen 5 processor, and the total cost was significantly lower due to parts purchased over a year ago on used and grey markets.
 
 reddit · r/LocalLLaMA · /u/C0smo777 · Jun 5, 03:49
 
-**Background**: vLLM is an open-source framework for efficient LLM serving, using PagedAttention for memory management. llama.cpp is a popular library for running LLMs locally on CPU/GPU. The EPYC 9575F is a 64-core Zen 5 server CPU with up to 5 GHz boost clock, designed for AI workloads.
+**Background**: vLLM is an open-source framework for efficient LLM serving, using PagedAttention for memory management. llama.cpp is a popular C/C++ library for local LLM inference, often used with GGUF models. Both tools are widely used by the AI community for running models on consumer hardware.
 
 <details><summary>References</summary>
 <ul>
@@ -671,61 +602,41 @@ reddit · r/LocalLLaMA · /u/C0smo777 · Jun 5, 03:49
 </ul>
 </details>
 
-**Tags**: `#LLM`, `#hardware`, `#inference`, `#build log`, `#local LLM`
+**Discussion**: The community praised the build's specs and cost-effectiveness, with many asking about thermal management and power consumption. Some users discussed the trade-offs of using RTX 3090s versus newer GPUs for inference.
+
+**Tags**: `#LLM inference`, `#hardware build`, `#RTX 3090`, `#vLLM`, `#local AI`
 
 ---
 
-<a id="item-28"></a>
-## [Qwen 3.6 35B Shines in Agentic Workflow with KV Cache Optimization](https://www.reddit.com/r/LocalLLaMA/comments/1twyoqe/you_guys_were_right_qwen_36_35b_is_goodand_kv/) ⭐️ 7.0/10
+<a id="item-26"></a>
+## [Reddit Post Highlights Decline in Open-Source LLMs Without Meta](https://www.reddit.com/r/LocalLLaMA/comments/1twqvmp/today_made_me_realize_just_how_bad_things_have/) ⭐️ 7.0/10
 
-A user reports that Qwen 3.6 35B (IQ4NXL quant with uncompressed KV cache) outperforms the 27B version in complex agentic tasks, solving a problem nearly in one shot after struggling with the 27B for two days. This hands-on evaluation highlights that KV cache compression can significantly degrade model intelligence in agentic workflows, challenging the common belief that its impact is minor. It also demonstrates that larger models with proper quantization can be more effective for complex, multi-step tasks. The user tested Qwen 3.6 35B IQ4NXL with uncompressed KV cache against Qwen 3.6 27B Q5KXL with KV Q8/8, finding the 35B superior despite the 27B being considered smarter. The 35B still slows at high context, requiring a switch to Q4KXL with KV Q4/4 for end-of-session routines, risking detail loss.
-
-reddit · r/LocalLLaMA · /u/GrungeWerX · Jun 4, 19:57
-
-**Background**: KV cache is a technique that stores key and value tensors from previous tokens to avoid recomputation, speeding up inference but consuming memory. Compression reduces memory usage but can lower model accuracy, especially in agentic workflows where long context and complex reasoning are required. Qwen 3.6 is a series of open-source LLMs by Alibaba; the 35B and 27B variants differ in parameter count and performance characteristics.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://magazine.sebastianraschka.com/p/coding-the-kv-cache-in-llms">Understanding and Coding the KV Cache in LLMs from Scratch</a></li>
-<li><a href="https://www.dailydoseofds.com/p/kv-caching-in-llms-explained-visually/">KV Caching in LLMs , explained visually</a></li>
-<li><a href="https://rivet.ironcladapp.com/">Rivet</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLM`, `#Qwen`, `#KV Cache`, `#Agentic Workflow`, `#LocalLLaMA`
-
----
-
-<a id="item-29"></a>
-## [Meta's Absence Hurts Open-Source LLM Community](https://www.reddit.com/r/LocalLLaMA/comments/1twqvmp/today_made_me_realize_just_how_bad_things_have/) ⭐️ 7.0/10
-
-A Reddit post on r/LocalLLaMA expresses concern that the open-source large language model ecosystem has deteriorated since Meta reduced its involvement. Meta's Llama models were a cornerstone of open-source LLM development, and their reduced release pace may slow innovation and increase reliance on proprietary models. The post does not specify exact metrics but reflects a sentiment that the community feels a gap in open-source model releases and support from Meta.
+A Reddit user expressed concern that the open-source LLM ecosystem has deteriorated significantly since Meta reduced its contributions, noting fewer high-quality model releases and less community momentum. Meta's Llama models have been a cornerstone of open-source LLM development, and their reduced involvement could slow innovation and limit access to powerful models for researchers and hobbyists. The post does not cite specific data but reflects a sentiment shared by many in the community that recent open-source models lack the quality and impact of earlier Meta releases like Llama 2 and Llama 3.
 
 reddit · r/LocalLLaMA · /u/ForsookComparison · Jun 4, 15:24
 
-**Background**: Meta previously released open-source LLMs like Llama and Llama 2, which spurred widespread community adoption and derivative works. A slowdown in new releases or reduced engagement can impact the open-source AI ecosystem's vitality.
+**Background**: Meta (formerly Facebook) has been a major contributor to open-source LLMs through its Llama series, which provided competitive performance and spurred a wave of community fine-tuned models. The company's reduced emphasis on open-source releases has left a gap that other organizations have not fully filled.
 
-**Discussion**: The discussion likely includes mixed views: some agree that Meta's absence is harmful, while others argue that other players like Mistral or Qwen are filling the gap.
+**Discussion**: The Reddit discussion largely agrees with the original post, with users lamenting the lack of new flagship open-source models and noting that smaller players like Mistral and Qwen have not matched Meta's scale or community engagement.
 
-**Tags**: `#Meta`, `#open-source`, `#LLM`, `#community`, `#AI`
+**Tags**: `#open-source`, `#LLM`, `#Meta`, `#community discussion`
 
 ---
 
-<a id="item-30"></a>
-## [Higgs Audio v3 TTS 4B: Multilingual Voice Chat Model](https://www.reddit.com/r/LocalLLaMA/comments/1tx2mot/higgs_audio_v3_tts_4b_built_for_voice_chat/) ⭐️ 7.0/10
+<a id="item-27"></a>
+## [Higgs Audio v3 TTS 4B: Voice Chat Model with 100 Languages](https://www.reddit.com/r/LocalLLaMA/comments/1tx2mot/higgs_audio_v3_tts_4b_built_for_voice_chat/) ⭐️ 7.0/10
 
-Higgs Audio has released v3 TTS 4B, a 4-billion-parameter text-to-speech model designed for voice chat, supporting 100 languages and featuring inline control for adjusting tone, pace, and emotion mid-sentence. This model significantly advances open-source TTS for real-time voice chat applications, offering broad language support and fine-grained control, which could enable more natural and expressive AI voice interactions across global markets. The model is built on an encoder-decoder LLM architecture (likely T5Gemma) and supports batch generation for multiple audio variations. Inline control tags allow users to modify delivery characteristics without restarting generation.
+Boson AI released Higgs Audio v3 TTS, a 4-billion-parameter text-to-speech model designed for voice chat, supporting 100 languages and inline control tags for emotion, style, and prosody. This model advances real-time conversational AI by offering fine-grained control over speech output in a compact 4B parameter size, making it suitable for voice agents and multilingual applications. The model is built on a Qwen3-4B backbone as an autoregressive decoder, and it integrates with SGLang-Omni for real-time streaming. Inline tags allow control of emotion, style, prosody, and sound effects.
 
 reddit · r/LocalLLaMA · /u/FerretLegitimate6929 · Jun 4, 22:26
 
-**Background**: Text-to-speech (TTS) models convert written text into spoken audio. Inline control refers to the ability to insert tags within the text to dynamically adjust speech attributes like tone, speed, and emotion. Higgs Audio's previous v2 model (3B parameters) was already known for high-quality multi-speaker and zero-shot TTS.
+**Background**: Text-to-speech (TTS) models convert written text into spoken audio. Inline control tags let users insert markers in the text to specify emotional tone or speaking style, enabling more expressive and natural speech synthesis. This model is designed for voice chat applications where low latency and controllability are critical.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://higgs-audio.com/">Higgs Audio - Revolutionary Text to Audio AI Model</a></li>
-<li><a href="https://huggingface.co/bosonai/higgs-audio-v2-generation-3B-base">bosonai/ higgs - audio -v2-generation-3B-base · Hugging Face</a></li>
-<li><a href="https://github.com/wildminder/awesome-ai-voice">GitHub - wildminder/awesome-ai-voice: List of open-source TTS , voice...</a></li>
+<li><a href="https://huggingface.co/bosonai/higgs-audio-v3-tts-4b">bosonai/higgs-audio-v3-tts-4b · Hugging Face</a></li>
+<li><a href="https://github.com/boson-ai/higgs-audio">GitHub - boson-ai/higgs-audio: Text-audio foundation model from Boson AI · GitHub</a></li>
+<li><a href="https://docs.boson.ai/models/higgs-audio-tts/overview">Higgs Audio v3 TTS - Boson</a></li>
 
 </ul>
 </details>
@@ -734,444 +645,572 @@ reddit · r/LocalLLaMA · /u/FerretLegitimate6929 · Jun 4, 22:26
 
 ---
 
-<a id="item-31"></a>
-## [LLM-Driven NPCs in Ultima Online: A Technical Walkthrough](https://www.reddit.com/r/LocalLLaMA/comments/1tx87uh/how_llmdriven_npcs_work_in_ultima_online_servuo/) ⭐️ 7.0/10
+<a id="item-28"></a>
+## [LLM-Driven NPCs in Ultima Online via ServUO](https://www.reddit.com/r/LocalLLaMA/comments/1tx87uh/how_llmdriven_npcs_work_in_ultima_online_servuo/) ⭐️ 7.0/10
 
-A Reddit user posted a detailed technical walkthrough showing how to integrate large language models (LLMs) into the ServUO Ultima Online server emulator to create dynamic, conversational NPCs. This demonstrates a practical, open-source approach to enhancing classic games with modern AI, potentially inspiring similar integrations in other legacy MMOs and indie games. The implementation uses ServUO, a C#-based Ultima Online emulator, and connects to an LLM backend (e.g., via API) to generate NPC responses in real time, replacing traditional static dialogue trees.
+A Reddit post explains how to integrate large language models (LLMs) into the Ultima Online emulator ServUO to create intelligent, conversational NPCs. This demonstrates a practical, open-source approach to enhancing classic game NPCs with modern AI, potentially inspiring similar integrations in other retro games and MMOs. The implementation likely uses ServUO's C# scripting to call an LLM API (e.g., OpenAI or local models) for NPC dialogue generation, with context from the game world.
 
 reddit · r/LocalLLaMA · /u/Zolty · Jun 5, 02:32
 
-**Background**: Ultima Online is a classic MMORPG from 1997, and ServUO is a popular open-source server emulator that allows custom modifications. LLM-driven NPCs use large language models to generate context-aware dialogue, offering more immersive interactions than pre-scripted responses.
+**Background**: ServUO is an open-source server emulator for Ultima Online, written in C# .NET, allowing custom shards. LLMs are AI models trained on vast text data to generate human-like responses. Integrating them into NPCs enables dynamic, context-aware conversations beyond traditional scripted dialogue.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/ServUO/ServUO">GitHub - ServUO / ServUO : An Ultima Online server emulator written...</a></li>
-<li><a href="https://blog.marekrosa.org/2024/05/why-havent-we-seen-any-mainstream-games/">Why haven’t we seen any mainstream games utilizing LLM - driven AI...</a></li>
+<li><a href="https://servuo.dev/">ServUO - Ultima Online Emulation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Large_language_model">Large language model - Wikipedia</a></li>
+<li><a href="https://grokipedia.com/page/ServUO_Scripting">ServUO Scripting</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLM`, `#NPC`, `#game development`, `#Ultima Online`, `#ServUO`
+**Tags**: `#LLM`, `#NPC`, `#game development`, `#AI integration`, `#retro gaming`
+
+---
+
+<a id="item-29"></a>
+## [Small Edge AI Models Underestimated?](https://www.reddit.com/r/MachineLearning/comments/1txgeu0/are_we_underestimating_small_edge_ai_modelsd/) ⭐️ 7.0/10
+
+A developer built a 5 MB offline Morse code recognition app for Android using a small AI model, arguing that such specialized edge models are undervalued compared to large LLMs. This challenges the prevailing trend toward ever-larger models, highlighting that many practical tasks can be solved efficiently with small, on-device models, reducing cloud dependency and improving privacy. The model uses LiteRT (formerly TensorFlow Lite) for inference, and the entire pipeline from synthetic data generation to deployment was built from scratch on a personal GPU workstation.
+
+reddit · r/MachineLearning · /u/VegetableLegal6737 · Jun 5, 09:55
+
+**Background**: Edge AI refers to running machine learning models on local devices rather than in the cloud. LiteRT is Google's runtime for on-device ML, optimized for low latency and small footprint. Synthetic data generation helps create training datasets without manual collection.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://grokipedia.com/page/LiteRT">LiteRT</a></li>
+<li><a href="https://github.com/google-ai-edge/litert">google-ai-edge/ LiteRT - GitHub</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Synthetic_data">Synthetic data - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Edge AI`, `#Computer Vision`, `#Mobile ML`, `#TinyML`, `#On-device Inference`
+
+---
+
+<a id="item-30"></a>
+## [Is Capture-Time Semantic Annotation for Robot Trajectories Solved?](https://www.reddit.com/r/MachineLearning/comments/1txf4gg/would_you_say_capturetime_semantic_annotation_for/) ⭐️ 7.0/10
+
+A researcher on Reddit questions whether capture-time semantic annotation for robot trajectories is a solved problem, arguing that raw teleoperation data lacks affordance, contact intent, and embodiment-specific kinematic context that cannot be recovered post-hoc. This highlights a critical bottleneck in robot learning for contact-rich tasks in unstructured environments, where current post-hoc filtering or simulation-based methods fail to close the semantic gap. The post specifically points out that information like affordance and contact intent is structurally missing from raw RGB and joint state data, and asks whether anyone is working on enriching the stream at acquisition time rather than labeling after the fact.
+
+reddit · r/MachineLearning · /u/Several-Many9101 · Jun 5, 08:42
+
+**Background**: Teleoperation data collection involves humans controlling robots to perform tasks, capturing sensor streams like RGB images and joint states. Semantic annotation adds labels that describe what the robot is doing, why, and how it interacts with objects. Current methods often clean data after collection or use simulation to generate labels, but these approaches may miss subtle cues like contact intent that are only present during actual physical interaction.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.emergentmind.com/topics/dense-robot-trajectory-annotations">Dense Robot Trajectory Annotations</a></li>
+<li><a href="https://humaid.co/blog/teleoperation-data-collection-technical-guide">Teleoperation Data Collection — Technical Guide | Humaid</a></li>
+<li><a href="https://www.labellerr.com/blog/teleoperation-datasets-for-robot-learning/">Teleoperation Datasets: The Fuel for Robot Learning</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#robot learning`, `#semantic annotation`, `#teleoperation`, `#imitation learning`, `#affordance`
+
+---
+
+<a id="item-31"></a>
+## [Monako Glass: Linux smart glasses for hands-free AI coding](https://www.reddit.com/r/singularity/comments/1txhxtf/a_chinese_startup_just_launched_smart_glasses/) ⭐️ 7.0/10
+
+A Chinese startup announced Monako Glass, a 48g Linux-based smart glasses that natively run Claude Code and OpenAI Codex, featuring a bone conduction microphone and gesture control. This product could transform developer workflows by enabling hands-free AI-assisted coding in any environment, potentially making AI coding agents more accessible and practical for daily use. The glasses run a custom MonoOS, use a 0.5 TOPS NPU for gesture recognition, and allow users to wipe bundled apps and deploy custom code. Prototypes are expected to ship around August.
+
+reddit · r/singularity · /u/beasthunterr69 · Jun 5, 11:14
+
+**Background**: Claude Code and Codex are AI coding agents that can read codebases, edit files, and run commands via natural language. Bone conduction microphones pick up vibrations from the user's skull, filtering out ambient noise for clear voice input in loud environments.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://claude.com/product/claude-code">Claude Code by Anthropic | AI Coding Agent, Terminal, IDE</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Codex_(AI_agent)">Codex (AI agent) - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Reddit comments show mixed reactions: some are excited about the potential for hands-free coding, while others are skeptical about battery life, comfort, and whether the product will actually ship. A few users question the practicality of voice coding in public spaces.
+
+**Tags**: `#smart glasses`, `#AI coding`, `#wearable`, `#Linux`, `#developer tools`
 
 ---
 
 <a id="item-32"></a>
-## [On-Policy Distillation: Hot AI Research Term](https://www.reddit.com/r/MachineLearning/comments/1twmhud/onpolicy_distillation_one_of_the_hottest_terms_on/) ⭐️ 7.0/10
+## [Damodaran Updates SpaceX Valuation After Prospectus](https://www.reddit.com/r/investing/comments/1txgx7o/aswath_damodaran_the_numbers_are_in_a/) ⭐️ 7.0/10
 
-Niels from Hugging Face highlights on-policy distillation (OPD) as a key post-training technique used by models like Qwen 3.6, GLM-5.1, and DeepSeek-V4, and provides resources on PapersWithCode. OPD enables efficient correction of model errors during rollout without full regeneration, making post-training more effective for large language models. This technique is driving improvements in state-of-the-art models. OPD uses a teacher model to insert hint tokens at error points in the trajectory, then trains the student to match the adjusted probabilities. This avoids the need for new decoding and reduces noise from sparse rewards.
+Aswath Damodaran has released a revised valuation of SpaceX following the company's IPO prospectus filing and the setting of an offering price, incorporating newly available financial data. Damodaran's analysis provides a rigorous, data-driven valuation of a high-profile private company, offering investors a credible benchmark for SpaceX's worth and highlighting the financial details revealed in the prospectus. The prospectus reveals that Starlink accounts for over two-thirds of SpaceX's revenue and earned $1.2 billion in profit in the most recent quarter, while the company plans to raise $75 billion from the offering.
 
-reddit · r/MachineLearning · /u/NielsRogge · Jun 4, 12:40
+reddit · r/investing · /u/Round_Ad_40 · Jun 5, 10:23
 
-**Background**: Post-training is a phase after initial pre-training where models are fine-tuned for specific tasks or behaviors. Knowledge distillation transfers knowledge from a larger teacher model to a smaller student model. On-policy distillation is a variant where the student generates its own rollouts, and the teacher provides token-level guidance.
+**Background**: Aswath Damodaran is a renowned finance professor at NYU Stern, known for his expertise in valuation. Private company valuation is challenging due to limited public data; Damodaran's approach combines narrative with financial metrics. SpaceX's prospectus, filed in May 2026, provides the first official look at its financials, including Starlink's performance and the planned Nasdaq ticker SPCX.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://grokipedia.com/page/On-policy_distillation">On-policy distillation</a></li>
-<li><a href="https://ulab-uiuc.github.io/OPD_website/">The Many Faces of On - Policy Distillation : Pitfalls, Mechanisms, and...</a></li>
-<li><a href="https://thinkingmachines.ai/blog/on-policy-distillation/">On - Policy Distillation - Thinking Machines Lab</a></li>
+<li><a href="https://fortune.com/2026/05/20/spacex-finally-files-ipo-prospectus-reveals-revenue-is-up-but-losses-are-too/">Blast Off: SpaceX finally files IPO prospectus, reveals revenue is up–but losses are too | Fortune</a></li>
+<li><a href="https://www.investing.com/analysis/spacex-after-the-prospectus-a-fresh-look-at-valuation-200681559">SpaceX After the Prospectus: A Fresh Look at Valuation | Investing.com</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Aswath_Damodaran">Aswath Damodaran - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Reddit discussion is active and substantive, with users validating the importance of OPD and sharing additional resources. Some commenters note that OPD is indeed a hot topic and appreciate the clear explanation.
-
-**Tags**: `#on-policy distillation`, `#AI research`, `#post-training`, `#large language models`, `#knowledge distillation`
+**Tags**: `#valuation`, `#SpaceX`, `#investing`, `#finance`, `#private company`
 
 ---
 
 <a id="item-33"></a>
-## [Calibration vs Utility Tradeoff in LLM Agents](https://www.reddit.com/r/MachineLearning/comments/1twq0h3/faithful_uncertainty_in_llm_agents_calibration_vs/) ⭐️ 7.0/10
+## [Novel Ultra-Thin Semiconductor Structure Balances Leakage and Performance](https://news.google.com/rss/articles/CBMicEFVX3lxTE1WU0hYYWh4WG5MZHdpZWpWako3YjNwR1F3bGxWWHBjdkNkM1R2X3M0akN3Y3NSOGM2M3hLLVFpX0RhZWdYbkwzZHJfMHQtWm96OUVsMEJoQ2hBZHZmMnJRM21mRTlxMTRKOG9HOXFueFU?oc=5) ⭐️ 6.0/10
 
-A Reddit post highlights the underappreciated distinction between calibration (matching confidence to correctness) and utility in LLM agents, noting that a perfectly calibrated model can still be wrong 25% of the time, which is more dangerous in agent systems than in chat. This distinction is critical for agent safety because an agent acting confidently on a wrong premise can cause real-world harm, unlike a conversational model giving a hedged answer. The discussion provides practical insights into designing safer agent pipelines. The author describes a coding setup where a planning stage produces a task graph, then a lightweight verifier checks consistency with available evidence, catching about 60% of hallucinated tool calls before execution. The tradeoff is that reducing hallucination from 25% to 5% costs about half of easy correct answers.
-
-reddit · r/MachineLearning · /u/Ill_Awareness6706 · Jun 4, 14:53
-
-**Background**: LLM agents are AI systems that use large language models to plan and execute tasks using tools. Calibration refers to how well a model's confidence matches its actual correctness, while utility measures the overall effectiveness of the system. In agent systems, poor calibration can lead to dangerous actions, unlike in simple chat where hedged answers are merely annoying.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://lushbinary.com/blog/eval-driven-development-llm-agents-production-guide/">Eval-Driven Development for LLM Agents : 2026 Guide | Lushbinary</a></li>
-<li><a href="https://scrapfly.io/blog/posts/practical-guide-to-llm-agents">Guide to Understanding and Developing LLM Agents - Scrapfly Blog</a></li>
-<li><a href="https://www.thinkstack.ai/blog/what-are-llm-agents/">What are LLM Agents ? A Complete Guide for 2026</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The community discussion includes the author's practical compromise: let the planning layer flag low-confidence tasks for human review while auto-executing high-confidence ones. Commenters note that most agent stacks still treat confidence as a log detail rather than a control surface.
-
-**Tags**: `#LLM agents`, `#calibration`, `#uncertainty`, `#hallucination reduction`, `#agent safety`
-
----
-
-<a id="item-34"></a>
-## [GitHub Repo Collects Transformer Attention Implementations](https://www.reddit.com/r/MachineLearning/comments/1twhhnq/repo_for_implementations_of_various_transformer/) ⭐️ 7.0/10
-
-A new GitHub repository, attnhut, provides modular implementations of various Transformer attention mechanisms, including MiniMax M3's sparse attention, designed for easy switching in small language model experiments and other ML applications. This resource simplifies research and education by offering a well-organized collection of attention mechanisms, enabling faster prototyping and benchmarking across domains like NLP, computer vision, and reinforcement learning. The repo integrates with Andrej Karpathy's autoresearch framework and encourages community contributions via pull requests. It covers attention variants not commonly found in a single library, such as MiniMax sparse attention.
-
-reddit · r/MachineLearning · /u/AnyIce3007 · Jun 4, 08:28
-
-**Background**: Transformer models rely on attention mechanisms to weigh input importance. Different attention variants (e.g., sparse, linear) offer trade-offs in efficiency and performance. MiniMax M3's sparse attention achieves significant speedups for long-context tasks. Karpathy's autoresearch is an AI agent framework for automated research experiments.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/karpathy/autoresearch">GitHub - karpathy / autoresearch : AI agents running research on...</a></li>
-<li><a href="https://huggingface.co/blog/AtlasCloud-AI/minimax-goes-sparse">MiniMax Goes Sparse : Decoding M 3 's Attention from a Single Diagram</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Transformer`, `#Attention Mechanisms`, `#Machine Learning`, `#Open Source`
-
----
-
-<a id="item-35"></a>
-## [Canada PM Carney Launches National AI Strategy](https://www.reddit.com/r/singularity/comments/1twubff/canadas_prime_minister_mark_carney_launches_ai/) ⭐️ 7.0/10
-
-Canadian Prime Minister Mark Carney announced a national artificial intelligence strategy called 'AI for All'. This strategy positions Canada as a leader in AI policy among G7 nations, potentially influencing global AI governance and economic competitiveness. The announcement was made on Reddit, but no specific details about funding, timeline, or regulatory measures were provided in the post.
-
-reddit · r/singularity · /u/JordanNVFX · Jun 4, 17:23
-
-**Background**: National AI strategies are comprehensive government plans to promote AI research, development, and adoption while addressing ethical and societal impacts. Canada has previously invested in AI through initiatives like the Pan-Canadian AI Strategy.
-
-**Tags**: `#AI policy`, `#Canada`, `#national strategy`, `#government`
-
----
-
-<a id="item-36"></a>
-## [Azure Linux 4.0: Microsoft's Tuned Distro, Not General-Purpose](https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/) ⭐️ 6.0/10
-
-Microsoft released Azure Linux 4.0, a tuned Linux distribution optimized for Azure and WSL, but it is not a general-purpose OS. This release streamlines Microsoft's Linux offerings for its cloud and developer ecosystem, but the limited scope outside Azure and WSL means it won't compete with mainstream distros like Ubuntu. Azure Linux 4.0 is the base container OS for Azure services and the graphical component of WSL 2, and it is free and open-source on GitHub.
-
-hackernews · haydenbarnes · Jun 5, 03:14 · [Discussion](https://news.ycombinator.com/item?id=48407499)
-
-**Background**: Azure Linux is a free and open-source Linux distribution developed by Microsoft, originally known as CBL-Mariner. It serves as the base OS for Azure infrastructure and WSL 2, but is not intended for general-purpose desktop or server use outside Microsoft's ecosystem.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Azure_Linux">Azure Linux - Wikipedia</a></li>
-<li><a href="https://azure.microsoft.com/en-us/products/azure-linux">Azure Linux | Microsoft Azure</a></li>
-<li><a href="https://github.com/microsoft/azurelinux">GitHub - microsoft/azurelinux: General purpose Linux OS for Azure</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community comments express skepticism, noting that Azure Linux is just a tuned distro for Azure, not a general-purpose OS. Some question its advantages over Ubuntu, while others recall Microsoft's historical support for Unix.
-
-**Tags**: `#Linux`, `#Microsoft`, `#Azure`, `#Cloud Computing`
-
----
-
-<a id="item-37"></a>
-## [Parenting with Retro Tech to Foster Creativity](https://havenweb.org/2026/05/28/retro-tech.html) ⭐️ 6.0/10
-
-A parent shares their approach of raising children with retro technology, such as a 2012 MacBook Pro without internet and Lego robotics kits, to encourage creativity and understanding of technology. This approach sparks discussion on intentional technology use in parenting, challenging the norm of constant connectivity and highlighting potential benefits of digital minimalism for child development. The parent provides a family laptop with no internet, pre-loaded with creative software and coding tools, along with Lego robotics sets that run on an iPad without internet access.
-
-hackernews · mawise · Jun 4, 16:02 · [Discussion](https://news.ycombinator.com/item?id=48400588)
-
-**Background**: The post reflects a growing trend of digital minimalism, where parents limit children's exposure to modern internet-connected devices to foster hands-on learning and creativity. Retro technology refers to older devices that often require more active engagement than modern smartphones or tablets.
-
-**Discussion**: Comments show mixed reactions: some support the approach with similar examples, while others question whether it's genuine benefit or parental nostalgia. One commenter compares it to a parent forcing their music taste on a child, suggesting the child may feel like a prop in the parent's nostalgia.
-
-**Tags**: `#parenting`, `#technology`, `#retro`, `#digital minimalism`, `#education`
-
----
-
-<a id="item-38"></a>
-## [Ultra-thin semiconductor structure balances low leakage and high performance](https://news.google.com/rss/articles/CBMicEFVX3lxTE1WU0hYYWh4WG5MZHdpZWpWako3YjNwR1F3bGxWWHBjdkNkM1R2X3M0akN3Y3NSOGM2M3hLLVFpX0RhZWdYbkwzZHJfMHQtWm96OUVsMEJoQ2hBZHZmMnJRM21mRTlxMTRKOG9HOXFueFU?oc=5) ⭐️ 6.0/10
-
-Researchers have developed a new ultra-thin semiconductor thin-film structure that simultaneously achieves low leakage current and high performance, overcoming a traditional trade-off in semiconductor design. This breakthrough could enable more energy-efficient electronic devices, such as low-power processors and memory chips, benefiting mobile devices, IoT, and AI hardware by reducing standby power consumption without sacrificing speed. The structure reportedly uses an ultra-thin film that suppresses leakage paths while maintaining high carrier mobility. Specific material compositions and thicknesses were not disclosed in the news report.
+Researchers have developed a novel ultra-thin semiconductor structure that simultaneously achieves low leakage current and high performance, overcoming a traditional trade-off in semiconductor design. This breakthrough could enable more energy-efficient and faster electronic devices, impacting fields from consumer electronics to high-performance computing and reducing power consumption in integrated circuits. The structure reportedly balances low leakage and high performance, but specific technical details such as materials, thickness, and fabrication methods are not disclosed in the available report.
 
 rss · Google News - 半导体芯片 · Jun 4, 18:02
 
-**Background**: In semiconductor devices, leakage current is unwanted current that flows when the device is off, wasting power. Traditionally, reducing leakage often compromises performance (speed). This new structure aims to solve that dilemma, which is critical as transistors shrink to atomic scales.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.dymek.cn/article-item-514.html">半 导 体 能否像金属甚至 超 导 体 一样？ - 岱美仪器</a></li>
-
-</ul>
-</details>
+**Background**: In semiconductor devices, there is often a trade-off between leakage current (power loss when off) and performance (speed when on). Ultra-thin structures can reduce leakage but may degrade performance. This new structure aims to optimize both simultaneously.
 
 **Tags**: `#semiconductor`, `#thin-film`, `#low leakage`, `#high performance`
 
 ---
 
-<a id="item-39"></a>
-## [Chip design verification automation startup raises angel funding](https://news.google.com/rss/articles/CBMingFBVV95cUxOcnJwSG5tc3ZpcVV5R3lNOGpsejFERW9TQ0c3UklzLUtjNktZSWJ0dVpxWTBtOHV0N3NlN1dTZUhLa1lGakkzdEhpbXZ1OW5SRmRfbXMzRlR3SVdhOTN4QWdmdlhtNHUtRDloVU1ZdWJIZ1ZsR1duSlFDWm5GZW0zUmZCMXRlWGRIQm5Rb00tSFVGMnRkd2c1cWVfcF9rUQ?oc=5) ⭐️ 6.0/10
+<a id="item-34"></a>
+## [China advances space-terrestrial communication chip to production](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzcnB1aWtjX255d3gxQnh5ckVfVTcyOHliem91ZW9qNUJ6eDNfMThFTDhJOGU2M3hvekkzNXNNeFRRQ3VOYmxJbVlsN0JJVWhaMUIwTmt3QVFGTW1nMk1KcXIyLVNXczJj?oc=5) ⭐️ 6.0/10
 
-Chinese startup Zhiwei Chuangxin has completed tens of millions of yuan in angel round financing to automate chip design verification, claiming to improve development efficiency by more than 10 times. This funding highlights growing interest in automating chip design verification, a critical bottleneck in semiconductor development. If successful, it could significantly reduce time-to-market for new chips and lower design costs. The company focuses on automating the verification phase of chip design, which traditionally requires extensive manual effort. The claimed 10x efficiency improvement could reshape how chips are validated before tape-out.
+China Electronics Technology Group (CETC) has moved its integrated chip for space-terrestrial information communication from the laboratory to the production line, marking a step toward mass production. This advancement supports the development of 6G networks, which aim to integrate space, air, ground, and sea communication, and could strengthen China's position in next-generation communication technology. The chip is designed to be compact enough for integration into smartphones, enabling satellite mobile communication. CETC's move reflects China's push to cultivate new productive forces in the semiconductor sector.
 
-rss · Google News - 半导体芯片 · Jun 5, 02:52
+rss · Google News - 半导体芯片 · Jun 5, 11:11
 
-**Background**: Chip design verification ensures that a chip design meets specifications before manufacturing. It is a time-consuming and error-prone process, often accounting for a large portion of the overall design cycle. EDA (Electronic Design Automation) tools are used to assist, but verification remains a major challenge.
+**Background**: Space-terrestrial integrated communication aims to provide seamless connectivity across satellites, aircraft, ground stations, and maritime systems. 6G networks are expected to rely on such integration to achieve global coverage and ultra-high speeds. China has been investing heavily in 6G research and satellite communication infrastructure.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.agentm6.com/blog/uber-amazon-chip-geo-strategy/">Uber为何押注Amazon AI 芯 片 ？ 工业 自 动 化 企业的GEO...</a></li>
-<li><a href="https://www.fxbaogao.com/detail/5208479">[中国银河 证 券]： 计 算机行业行业深度报告：国产EDA...</a></li>
+<li><a href="http://paper.people.com.cn/rmrb/images/2024-06/13/07/rmrb2024061307.pdf">YW7BRMRB07B20240613C</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#chip design`, `#automation`, `#funding`, `#semiconductor`
+**Tags**: `#semiconductors`, `#communications`, `#China`, `#hardware`
+
+---
+
+<a id="item-35"></a>
+## [AOS Dr. Feng Lei Interview: Power Semiconductors in AI Era](https://news.google.com/rss/articles/CBMiUkFVX3lxTE45SmFpODktNXVPUm1zdUd0QkVKdjN3bzN0ZEpjOE1JNkk2WVVEOWwydnBQMTFHWk9taGEzcXROVjhvM2Q2VzRTbm05alI4QVJNQ1E?oc=5) ⭐️ 6.0/10
+
+Dr. Feng Lei of Alpha and Omega Semiconductor (AOS) gave an interview discussing the company's strategic depth in power semiconductors for the AI era. As AI data centers demand efficient power management, AOS's strategic positioning in power semiconductors is crucial for enabling AI infrastructure. AOS specializes in Power MOSFET, IGBT, IPM, and Power IC products, integrating process technology, design, and packaging for high-performance power solutions.
+
+rss · Google News - 半导体芯片 · Jun 5, 03:56
+
+**Background**: Power semiconductors manage and convert electrical power in electronic devices. In AI data centers, they are essential for efficient power distribution and thermal management, supporting high-performance computing.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.aosmd.com/">AOS Home | AOSMD</a></li>
+<li><a href="https://www.semiconductors.org/powering-ai-the-semiconductor-ecosystem-at-the-foundation-of-data-centers/">Powering AI: The Semiconductor Ecosystem at the Foundation of Data Centers - Semiconductor Industry Association</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#power semiconductors`, `#AI`, `#interview`, `#electronics`
+
+---
+
+<a id="item-36"></a>
+## [Chinese Nanoimprint Lithography Bypasses DUV/EUV for Photonic Chips](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LelR6aGVVY3lUZ1BFTGktQS1ZV0JMVEN6eEtQa2l6ZXIwQndlRFRoal9kLV9DLUlKckdUS25lZERIVkdoNkhFQ0x2TWhKSnR5YXNB?oc=5) ⭐️ 6.0/10
+
+Chinese researchers have developed a nanoimprint lithography (NIL) process that enables mass production of photonic chips without relying on traditional DUV or EUV lithography. This approach uses mechanical stamping to create nanoscale patterns, offering a cost-effective alternative for photonic chip manufacturing. This breakthrough could reduce China's dependence on advanced lithography equipment, which is subject to export controls, and accelerate the domestic production of photonic chips used in data communications, sensing, and quantum computing. It also highlights a potential shift in semiconductor manufacturing strategies for specialized applications. Nanoimprint lithography achieves high resolution and throughput by physically pressing a mold into a resist material, unlike conventional photolithography that uses light. The technique is particularly suited for photonic chips, which require less critical dimensions than advanced logic chips, making NIL a viable alternative.
+
+rss · Google News - 半导体芯片 · Jun 5, 09:56
+
+**Background**: Nanoimprint lithography (NIL) is a nanopatterning technique that creates features by mechanical deformation of a resist, offering low cost and high resolution. Photonic chips manipulate light for applications like high-speed data transmission and sensing, and their manufacturing has traditionally relied on DUV or EUV lithography, which are expensive and subject to export restrictions.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Nanoimprint_lithography">Nanoimprint lithography</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Photonics">Photonics - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#nanoimprint lithography`, `#photonic chips`, `#semiconductor manufacturing`, `#China`
+
+---
+
+<a id="item-37"></a>
+## [Ultra-Thin Diamond Film for Chip Cooling](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kcmdLUW1wcFMxQmc3N3hvaXFQdWoySmtPRFN4LW5RQUJPMC1MSDNaWHoyYmRiOXFTQ1VseFQ0SDVLa0JqSkg0OGowU3dSSlFJVFJz?oc=5) ⭐️ 6.0/10
+
+Huahe Jidian (化合积电) has introduced an ultra-thin diamond film designed to significantly improve heat dissipation in semiconductor chips. This innovation could address critical thermal management challenges in high-performance chips, enabling better performance and reliability in electronics. The diamond film is extremely thin and leverages diamond's high thermal conductivity to efficiently draw heat away from chip hotspots.
+
+rss · Google News - 半导体芯片 · Jun 5, 09:56
+
+**Background**: As chips become more powerful, heat dissipation becomes a bottleneck. Diamond has the highest thermal conductivity of any known material, making it ideal for thermal management, but manufacturing thin films has been challenging.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.diamondgroup.cn/xwzx/qyxw/202605/t20260515_634599.html">diamondgroup.cn/xwzx/qyxw/202605/t20260515_634599.html</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductor`, `#thermal management`, `#diamond film`, `#chip cooling`
+
+---
+
+<a id="item-38"></a>
+## [Anker and Zhicun CEOs Discuss In-Memory Computing Chips](https://news.google.com/rss/articles/CBMidkFVX3lxTE40b0pJSXRWVFdPNnNoLVhpT3J6SmE3elZkR1N3YWdRSmZDOWJiSi1rcUdlei1nVVA2QmtzaXJRRFNuMDJIelNHaXJiN2FoeWs0N2ZST0FzcTV3cVFFMExhQk5Hd0JJZmt0RWZxcVFsem1fSm9ZY1E?oc=5) ⭐️ 6.0/10
+
+In an exclusive interview, the CEOs of Anker Innovations and Zhicun Technology discussed their collaboration on developing in-memory computing (IMC) chips as a strategic advantage for edge AI applications. This collaboration highlights the growing industry focus on in-memory computing to overcome the von Neumann bottleneck, potentially enabling more efficient AI processing in consumer devices and IoT products. Zhicun Technology has achieved small-scale mass production of IMC chips at tens of millions of units per year, with the next milestone targeting 16 TOPS compute power and 10-bit precision at 2-5x cost advantage.
+
+rss · Google News - 半导体芯片 · Jun 5, 09:07
+
+**Background**: In-memory computing (IMC) performs computations directly within memory arrays, reducing data movement and energy consumption compared to traditional von Neumann architectures. This approach is particularly promising for AI inference at the edge, where power and latency are critical. Major players like Intel, NVIDIA, and IBM are also investing in IMC technology.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Computing_with_memory">Computing with memory - Wikipedia</a></li>
+<li><a href="https://research.ibm.com/projects/in-memory-computing">In-memory computing - IBM Research</a></li>
+<li><a href="https://www.cas.cn/syky/202508/t20250818_5079766.shtml">阻变存储器存算一体芯片研究取得进展----中国科学院</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductor`, `#in-memory computing`, `#chip design`, `#interview`
+
+---
+
+<a id="item-39"></a>
+## [Three events signal growing robotics industry direction](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Xbk5OTlFRc19DVXY2cFBaTmdZMFVHRmFlNGVmWVloOUYzNXZmejlUU2JEZjZYdWtVQUYzNzNBd1E0VFhvSFdkMXFUdjV0RERDQXo0bmgyNGNjXzAwUlE?oc=5) ⭐️ 6.0/10
+
+Unitree Robotics is preparing for an IPO, new industry standards for robotics have been introduced, and Nvidia CEO Jensen Huang has publicly endorsed robotics, including a humanoid robot reference design based on Unitree's H2 chassis. These three events collectively indicate that the robotics industry is gaining significant momentum, with increased investment, standardization, and endorsement from major tech leaders, which could accelerate the adoption and development of robotics globally. Unitree Robotics, known for its quadrupedal robots, is going public; the new industry standards aim to unify robotics development; and Jensen Huang's support includes a humanoid robot reference design that uses Unitree's H2 chassis, highlighting Nvidia's commitment to robotics.
+
+rss · Google News - 金融市场 · Jun 5, 09:34
+
+**Background**: Unitree Robotics is a Chinese company founded in 2016 that produces high-performance quadrupedal and humanoid robots. Nvidia has been expanding its robotics platform, including the Isaac GR00T humanoid robot reference design, which leverages partnerships with robot makers like Unitree. Industry standards help ensure interoperability and safety in the growing robotics ecosystem.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Unitree_Robotics">Unitree Robotics - Wikipedia</a></li>
+<li><a href="https://www.unitree.com/">Unitree Robotics | Robot Dog_Quadruped_Humanoid Robotics ...</a></li>
+<li><a href="https://fortune.com/2026/06/01/jensen-huang-nvidia-pc-reinvention-ai-chips/">Jensen Huang says Nvidia is 'reinventing the personal computer' as it unveils new powerful AI chips | Fortune</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#robotics`, `#IPO`, `#industry standards`, `#Jensen Huang`, `#Unitree`
 
 ---
 
 <a id="item-40"></a>
-## [China Responds to US Chip Export Control Measures](https://news.google.com/rss/articles/CBMilAJBVV95cUxNNVl4NTJPcjdmUld4T3BBbWcyNU9jUGNRRE9zSElBSTlINTFrdVRxOHAzUTR3Q2ZJZjRGX1NWY1pNejVDbFNHbkVXQnoybGhHRHNDV21XSHkxSXR2dGJ3T3g2cGd0Zlk0Vk9CWTBrZWVwVVAyRWgwWjZxam8zaTVCMFJINkpGSVJyZE9ma2dFOElxMmVkWDZzZXRiZldFdkhtU2txd3h0MXZXQk5BUlFqWjBkbWVnN051Mko4bE5ZVmFEd3VFY1cyRHh0MVNHTFZiSG02eXFaR25ZY1VjazhPV0t2aWFxZ0g4LXE5ZHBpTVF0dzk0VnRKVUtYb0N3UVB5NGs5U3ZjbmNMWVdpd1RYeE8xcGE?oc=5) ⭐️ 6.0/10
+## [Anthropic Files for IPO While Urging AI Caution, Fueling Bubble Debate](https://news.google.com/rss/articles/CBMiU0FVX3lxTE55S2tnYUs5cEloRHV6cmJXUEpNU2xGZnJqckZaTmJGSGJXSUp3ZVJNeHdhbm5nb2xrbTYwZkNrNy1WYjc0bDhHVVFQSC1XWHlFekE0?oc=5) ⭐️ 6.0/10
 
-China's Ministry of Commerce has publicly responded to the US's latest chip export control measures, accusing the US of abusing export controls and disrupting the stability of global semiconductor supply chains. This response highlights ongoing tensions between the US and China over semiconductor technology, which could further impact global chip supply chains and affect industries reliant on advanced chips. The Ministry of Commerce stated that the US measures are an abuse of export controls and harm the stability of global semiconductor production and supply chains. The response comes amid broader US efforts to restrict China's access to advanced chip technology.
+Anthropic confidentially filed its IPO prospectus with the SEC, while its CEO continues to publicly call for a slowdown in AI development, reigniting debates about an AI bubble. This dual stance highlights the tension between commercial pressures and ethical concerns in the AI industry, and the IPO could set a precedent for other AI startups going public amid valuation concerns. Anthropic is reportedly the most valuable AI startup, and its IPO filing signals it may become the first major generative AI company to go public, potentially ahead of OpenAI.
 
-rss · Google News - 半导体芯片 · Jun 5, 05:35
+rss · Google News - 金融市场 · Jun 5, 08:29
 
-**Background**: The US has imposed export controls on advanced semiconductor technology to China, citing national security concerns. These controls affect companies like ASML, which supplies lithography machines, and TSMC, a major chip manufacturer. China views these measures as unfair trade practices that disrupt global supply chains.
+**Background**: The AI bubble debate centers on whether the massive investments in AI companies are sustainable or resemble the dot-com bubble. Critics point to circular investment flows among leading AI firms that inflate valuations. Anthropic's IPO comes at a time when chip stocks are soaring due to AI demand, further fueling the debate.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/ASML">ASML - Wikipedia</a></li>
-<li><a href="https://www.cnbc.com/2025/03/03/tsmc-to-announce-100-billion-investment-in-us-chip-plants.html">cnbc.com/ 2025 /03/03/tsmc-to-announce-100-billion-investment-in- us ...</a></li>
+<li><a href="https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html">Anthropic confidentially files IPO prospectus with SEC ... - CNBC</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AI_bubble">AI bubble - Wikipedia</a></li>
+<li><a href="https://www.cnbc.com/2026/01/10/are-we-in-an-ai-bubble-tech-leaders-analysts.html">Are we in an AI bubble ? What tech leaders and analysts are saying...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#trade policy`, `#supply chain`, `#geopolitics`
+**Tags**: `#AI`, `#Anthropic`, `#IPO`, `#AI bubble`, `#industry trends`
 
 ---
 
 <a id="item-41"></a>
-## [Nvidia's autonomous driving chips lose 50% market share in China](https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWphaElJNXRUOVF1TFgya3BKWXVheVNCS20ydWI2NVpzOUhTVS1MQ21qNWV1VmFaQjFaUWRTRkc2bTR4NWFObDFNRGhwdmpzNGVaWmNidTRkb0dUQm9PNUFRcTFIeEZtZ3RIbGpqbjlIVnIzQ3BhY1htMUlVaVdRam5kY1FrWUppYWo1UQ?oc=5) ⭐️ 6.0/10
+## [Global First: Breakthrough in High-Power Flow Battery Stack](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVcFJ3dk8xVlUxZFg0MUFkR0xYVVVzT2NfclJ6Y28zTnhPOGo5MEdrcUp6akFVTzE0RzZlN3lVZTBOZWZkSnhQTERvRDRtUnNFc2F0bQ?oc=5) ⭐️ 6.0/10
 
-An article from Sohu claims that Nvidia's autonomous driving chips have experienced a 50% drop in market share in China, losing ground to domestic competitors like BYD's in-house 4nm chip. This shift signals the rapid rise of Chinese autonomous driving chip makers, potentially reshaping the global supply chain and reducing reliance on foreign technology in a key automotive sector. The article does not provide specific data sources or a timeline for the claimed 50% decline. Meanwhile, BYD recently unveiled its first in-house 4nm smart driving chip as part of its 'God's Eye' strategy.
-
-rss · Google News - 半导体芯片 · Jun 5, 05:37
-
-**Background**: Nvidia's DRIVE AGX Thor is a flagship autonomous driving SoC with up to 2,000 TOPS, targeting L2+ to L4 autonomy. Chinese automakers like BYD are increasingly developing their own chips to reduce costs and ensure supply chain security, leveraging advanced manufacturing nodes like 4nm.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Nvidia">Nvidia - Wikipedia</a></li>
-<li><a href="https://www.nevsemi.com/blog/top-20-most-advanced-autonomous-driving-chips-2025">Top 20 Most Advanced Autonomous Driving Chips 2025</a></li>
-<li><a href="https://electrek.co/2026/05/28/byd-reveals-chinas-first-in-house-4nm-smart-driving-chip/">BYD reveals China 's first in-house 4nm smart driving chip</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Nvidia`, `#autonomous driving`, `#chips`, `#market share`, `#China`
-
----
-
-<a id="item-42"></a>
-## [Automakers Use Lower-Grade Chips to Cut Costs, Risking Safety](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RUGt1YW1nNVlCYWYwQ2lvNW55WjhpRWNTOFdfcmFtMDVfNkNEZ25WMjdkSVVEZ0JIbzJTdjg4NGpIOVdDbGdBZnowWHFPbkl4dlYw?oc=5) ⭐️ 6.0/10
-
-A growing trend in the automotive industry sees manufacturers replacing expensive automotive-grade chips with cheaper consumer- or industrial-grade chips in vehicles, prioritizing cost reduction over safety and reliability. This practice could compromise vehicle safety and reliability, especially in critical systems like braking and engine control, potentially leading to increased failure rates and recalls. It also raises concerns about long-term durability and regulatory compliance. Automotive-grade chips must meet stringent standards for temperature range, vibration, and lifespan (e.g., AEC-Q100 qualification), while consumer-grade chips lack such validation. The cost difference can be significant, sometimes up to 50% or more.
-
-rss · Google News - 半导体芯片 · Jun 4, 21:26
-
-**Background**: Automotive-grade chips are designed to operate reliably under extreme conditions, such as -40°C to 150°C temperatures and high vibration, with a lifespan of 10-15 years. Consumer-grade chips, used in smartphones and appliances, have lower tolerances. The global chip shortage (2020-2023) exacerbated supply constraints, pushing some automakers to consider lower-grade alternatives to maintain production.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://club.m.autohome.com.cn/bbs/thread/4768f4899abc20e6/111453840-1.html">（汽 车 知识）揭秘上汽奥迪Q6 车 规 级 标 准 _奥迪Q6论坛-汽 车 之家论坛</a></li>
-<li><a href="http://auto.cnfol.com/cheshidongtai/20260530/32265099.shtml">auto.cnfol.com/cheshidongtai/20260530/32265099.shtml</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#automotive`, `#semiconductors`, `#safety`, `#cost reduction`
-
----
-
-<a id="item-43"></a>
-## [Major Acquisition in China's RF Chip Industry](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UbDFsRDhJaU1NbTNtSTBOSmdvTjdkUFBQdW4wQ0plZ2lVOGtRM3hnWDZqUm5qR083eDVMWlNlU1Z3M05lQU9jeVE2QXBBd1BzdXUw?oc=5) ⭐️ 6.0/10
-
-A significant acquisition has been announced in the Chinese RF chip industry, as reported by a domestic electronics publication. The specific companies and deal terms have not been disclosed in the brief headline. This acquisition signals ongoing consolidation in China's RF chip sector, which is critical for 5G and IoT devices. It reflects strategic moves to strengthen domestic supply chains amid global semiconductor tensions. The news is a brief headline without details on the acquiring or target company, deal value, or technology focus. Further information is expected from the full article.
-
-rss · Google News - 半导体芯片 · Jun 5, 03:12
-
-**Background**: RF (radio frequency) chips are essential components in wireless communication devices, handling signal transmission and reception. China has been investing heavily in domestic RF chip development to reduce reliance on foreign suppliers like Qorvo and Skyworks.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.bbc.com/zhongwen/simp/world-62420404">美 国 总统拜登签署 芯 片 法 案 企业如何在中美间“选边站队” - BBC News...</a></li>
-<li><a href="https://cn.gii.tw/report/smrc1511324-radio-frequency-front-end-market-forecasts-global.html">到 2030 年的全球射频前端（ RF front-end...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#RF chip`, `#acquisition`, `#semiconductor`, `#China`
-
----
-
-<a id="item-44"></a>
-## [Global First: 200 kW Flow Battery Stack Breakthrough](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVcFJ3dk8xVlUxZFg0MUFkR0xYVVVzT2NfclJ6Y28zTnhPOGo5MEdrcUp6akFVTzE0RzZlN3lVZTBOZWZkSnhQTERvRDRtUnNFc2F0bQ?oc=5) ⭐️ 6.0/10
-
-A 200 kW flow battery stack, claimed as the world's largest power single stack, was unveiled at the 15th International Long-Duration Energy Storage and Flow Battery Exhibition in Shanghai on June 3, 2025. The same event also introduced the industry's first all-in-one integrated energy storage system, ENERFLOW-200. This breakthrough significantly increases the power output of flow battery stacks, enabling larger-scale and more cost-effective energy storage solutions. It accelerates the adoption of flow batteries for grid-scale renewable energy integration and long-duration storage applications. The 200 kW stack is a single unit, not a combination of smaller stacks, representing a leap in stack design and manufacturing. The ENERFLOW-200 system integrates the stack, electrolyte tanks, and power conversion into one compact unit, simplifying installation and operation.
+A global first 200 kW single flow battery stack was unveiled, along with the industry's first all-in-one energy storage system ENERFLOW-200. This breakthrough significantly increases the power density of flow batteries, enabling larger-scale and more cost-effective energy storage for renewable energy integration. The 200 kW stack is the highest power single stack for flow batteries globally, and the ENERFLOW-200 system integrates all components into one unit for easier deployment.
 
 rss · Google News - 新能源 · Jun 5, 03:53
 
-**Background**: Flow batteries store energy in liquid electrolytes, with power determined by the stack size and energy by the electrolyte volume. Larger stacks reduce system cost per kilowatt, making them more competitive for grid storage. Previous commercial stacks typically ranged from tens to around 100 kW.
+**Background**: Flow batteries store energy in liquid electrolytes, offering long-duration storage and safety advantages over lithium-ion batteries. High-power stacks are critical for reducing system cost and footprint, making flow batteries more competitive for grid-scale applications.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="http://www.china-nengyuan.com/news/249248.html">china-nengyuan.com/news/249248.html</a></li>
-<li><a href="https://www.engineering.org.cn/sscae/CN/PDF/10.15302/J-SSCAE-2025.10.021">液 流 电 池 关键材料发展研究</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#energy storage`, `#flow battery`, `#renewable energy`, `#technology breakthrough`
+**Tags**: `#flow battery`, `#energy storage`, `#renewable energy`, `#technology breakthrough`
+
+---
+
+<a id="item-42"></a>
+## [Sodium-ion battery storage enters fast track for large-scale application](https://news.google.com/rss/articles/CBMidkFVX3lxTFB6YkZ6YmprWmsyeTZGTXpZc2xNdFhESDFpWnFsOEkyam1iQ1FZOVFhVkdXazg2ZUJObmVVd3hteVZRaHBBRGdHUlo0bVZoaWpSMEtWcUM0dV9tbGZ4Vm55ZFZWNGlUbW4wbEdPS2htMlo3NDNGTUE?oc=5) ⭐️ 6.0/10
+
+Sodium-ion battery storage has achieved breakthroughs in materials, systems, and applications, enabling its entry into large-scale commercial deployment. This marks a significant step forward for the technology, which has long been seen as a cheaper alternative to lithium-ion batteries. This development is significant because sodium-ion batteries use abundant and low-cost sodium, reducing dependence on expensive and geopolitically sensitive lithium. Large-scale application can accelerate the adoption of renewable energy by providing affordable grid-scale storage, benefiting both utilities and consumers. Notably, CATL signed a three-year 60 GWh sodium-ion battery order with Hyperstrong in April 2024, the world's largest such order to date. The technology has already been deployed in a 100 MWh-scale sodium-ion battery storage project in China, demonstrating its commercial viability.
+
+rss · Google News - 新能源 · Jun 5, 04:19
+
+**Background**: Sodium-ion batteries operate similarly to lithium-ion batteries but use sodium ions instead of lithium ions as charge carriers. Sodium is far more abundant and cheaper than lithium, making sodium-ion batteries a promising candidate for large-scale energy storage where energy density is less critical. However, they have historically suffered from lower energy density and shorter cycle life, which recent breakthroughs aim to overcome.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://mcn.solarbe.com/news/20251014/50010097.html">mcn.solarbe.com/news/20251014/50010097.html</a></li>
+<li><a href="http://paper.people.com.cn/rmrb/images/2024-05/22/18/rmrb2024052218.pdf">CHJZKRMRB18B20240522C</a></li>
+<li><a href="https://www.ithome.com/0/957/477.htm">ithome.com/0/957/477.htm</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#sodium-ion batteries`, `#energy storage`, `#renewable energy`
+
+---
+
+<a id="item-43"></a>
+## [Qwen 3.6 35B Shines in Agentic Workflow with KV Cache Insights](https://www.reddit.com/r/LocalLLaMA/comments/1twyoqe/you_guys_were_right_qwen_36_35b_is_goodand_kv/) ⭐️ 6.0/10
+
+A Reddit user reports that Qwen 3.6 35B (IQ4NXL quant) with uncompressed KV cache outperformed Qwen 3.6 27B (Q5KXL) in an agentic workflow, solving a complex debugging task nearly in one shot. This anecdotal evidence highlights that KV cache quality can significantly impact LLM performance in agentic tasks, challenging the common belief that KV cache compression has only a minor effect on intelligence. The user built an agentic workflow in Rivet with an MCP subgraph and 11 tools, using Qwen 3.6 35B IQ4NXL with full KV cache on an RTX 3090 Ti, and found it smarter than the 27B Q5KXL with KV Q8/8 compression.
+
+reddit · r/LocalLLaMA · /u/GrungeWerX · Jun 4, 19:57
+
+**Background**: KV cache stores key-value pairs from previous tokens to speed up autoregressive generation, but compressing it (e.g., via quantization) reduces memory usage at the cost of potential accuracy loss. Agentic workflows involve LLMs autonomously planning, using tools, and iterating, which demands high context retention and reasoning quality.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://grokipedia.com/page/Agentic_workflow">Agentic workflow</a></li>
+<li><a href="https://ba-copilot.com/agentic-workflow">Agentic Workflow : AI Agent Design as a BPMN Process | BA Copilot</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The post received positive engagement, with commenters agreeing that KV cache management is crucial for agentic tasks and sharing similar experiences with Qwen models. Some noted that the 35B's larger parameter count likely benefits from uncompressed cache.
+
+**Tags**: `#Qwen`, `#LLM`, `#KV Cache`, `#Agentic Workflow`, `#LocalLLaMA`
+
+---
+
+<a id="item-44"></a>
+## [Nvidia Accused of Astroturfing on LinkedIn](https://www.reddit.com/r/LocalLLaMA/comments/1twrvts/nvidias_been_paying_shills_on_linkedin/) ⭐️ 6.0/10
+
+A Reddit post on r/LocalLLaMA exposed three LinkedIn accounts that allegedly posted coordinated promotional content for Nvidia's $249 8GB AI machine on the same day, falsely claiming it could replace frontier AI models. This incident highlights deceptive marketing practices (astroturfing) in the AI industry, potentially misleading consumers and undermining trust in genuine community recommendations. The three accounts included some with LinkedIn Gold, and all posted similar messages on the same day, following what appears to be a marketing script without understanding local AI limitations.
+
+reddit · r/LocalLLaMA · /u/jotunck · Jun 4, 15:59
+
+**Background**: Astroturfing is the deceptive practice of creating a false impression of grassroots support, often used by corporations to manipulate public opinion. Local AI models, like those running on consumer GPUs, have limited memory (e.g., 8GB) and cannot match the performance of large frontier models hosted in the cloud.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Astroturfing">Astroturfing - Wikipedia</a></li>
+<li><a href="https://jakubjirak.medium.com/local-ai-vs-cloud-ai-when-does-each-make-sense-2b374f9f5e48">Local AI vs Cloud AI : When Does Each Make Sense | Medium</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The Reddit community largely validated the claims, with users noting the obvious coordination and lack of technical understanding in the posts. Some expressed frustration over Nvidia's marketing tactics.
+
+**Tags**: `#Nvidia`, `#astroturfing`, `#AI marketing`, `#LinkedIn`, `#local AI`
 
 ---
 
 <a id="item-45"></a>
-## [Nvidia Accused of Paying LinkedIn Shills for Misleading AI Posts](https://www.reddit.com/r/LocalLLaMA/comments/1twrvts/nvidias_been_paying_shills_on_linkedin/) ⭐️ 6.0/10
+## [RTX Pro 4500 Blackwell Benchmarks Show VRAM Dominance](https://www.reddit.com/r/LocalLLaMA/comments/1txfiws/rtx_pro_4500_blackwell_performance_numbers/) ⭐️ 6.0/10
 
-A Reddit user on r/LocalLLaMA exposed three LinkedIn accounts, some with LinkedIn Gold badges, posting identical promotional content on the same day claiming a $249 8GB machine can replace frontier AI models, suggesting Nvidia orchestrated a paid marketing campaign. This controversy undermines trust in Nvidia's marketing and raises ethical concerns about astroturfing in the AI community, potentially misleading consumers about the capabilities of low-end hardware versus frontier models. The posts appeared on the same day from different accounts, some with LinkedIn's Community Top Voice badge (often called LinkedIn Gold), and all followed a similar script promoting an 8GB machine as a viable alternative to frontier models, which experts say is unrealistic.
+A Reddit user shared performance numbers comparing the RTX Pro 4500 Blackwell 32GB to the RTX 5060 Ti 16GB for local LLM inference, showing up to 6x faster prompt processing and 2.6x faster token generation on MoE models that fit entirely in VRAM. This provides rare real-world benchmarks for the niche RTX Pro 4500 Blackwell GPU, confirming that VRAM capacity is the primary bottleneck for local LLM inference, especially for MoE models. The data helps enthusiasts and professionals make informed upgrade decisions. The user tested multiple models including Qwen3.6, Gemma4, and Ernie45 using llama.cpp b9007 with flash attention, comparing prompt processing (pp512) and token generation (tg128). NVFP4 and MXFP4 quantizations performed better than Q6_K and Q5_K with no noticeable drop in model quality.
 
-reddit · r/LocalLLaMA · /u/jotunck · Jun 4, 15:59
+reddit · r/LocalLLaMA · /u/UncleRedz · Jun 5, 09:05
 
-**Background**: Frontier AI models, such as GPT-4 or Claude, require significant computational resources and memory (often 80GB+ GPU RAM) to run effectively. Locally hosted AI runs on user-owned hardware, but an 8GB machine is only suitable for small models, not frontier-level performance. LinkedIn Gold badges are awarded to active contributors, but their presence on these posts raised suspicions of coordinated marketing.
+**Background**: Local LLM inference requires loading the entire model into GPU VRAM for optimal performance. When VRAM is insufficient, the system resorts to slower system RAM, causing severe slowdowns. MoE (Mixture-of-Experts) models activate only a subset of parameters per input, making them more memory-efficient but still VRAM-bound. The RTX Pro 4500 Blackwell is a professional-grade GPU with 32GB VRAM, while the RTX 5060 Ti has 16GB.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.linkedin.com/pulse/why-we-dont-see-golden-linkedin-badges-anymore-ammar-hadeed-emba-pqj3f">Why We Don’t See Golden LinkedIn Badges Anymore</a></li>
-<li><a href="https://www.datacamp.com/blog/frontier-models">Frontier Models Explained: What Defines the Cutting Edge of AI</a></li>
-<li><a href="https://www.namecheap.com/blog/understanding-locally-hosted-ais/">Understanding locally hosted AIs - Namecheap Blog</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The Reddit thread is highly critical of Nvidia, with users calling the posts 'shills' and questioning the ethics of such marketing. Some commenters note that even a $249 8GB machine cannot run frontier models, and the campaign appears designed to mislead less technical buyers.
-
-**Tags**: `#Nvidia`, `#marketing`, `#AI`, `#controversy`, `#LinkedIn`
+**Tags**: `#GPU`, `#LLM`, `#benchmark`, `#hardware`
 
 ---
 
 <a id="item-46"></a>
-## [Quantizing Spec Draft KV Cache May Reduce Context Size](https://www.reddit.com/r/LocalLLaMA/comments/1txaume/psa_you_may_not_need_to_quantize_spec_draft_when/) ⭐️ 6.0/10
+## [Open-Source Tool for Exploring Kokoro Model Released](https://www.reddit.com/r/LocalLLaMA/comments/1txal7z/hello_there_i_made_a_tool_to_explore_kokoro/) ⭐️ 6.0/10
 
-A user discovered that using quantized KV cache for the spec draft in llama.cpp (with flags --spec-draft-type-k q4_0 --spec-draft-type-v q4_0) can decrease the available context size from 91648 to 83200 tokens, and developer am17an confirmed this is expected behavior. This finding is important for users of speculative decoding in llama.cpp, as it suggests that the default fp16 KV cache for the spec draft may be more memory-efficient than quantized versions, contrary to common assumptions. The context size reduction occurs because quantizing the spec draft's KV cache introduces additional memory overhead or inefficiency, leading to a net loss in usable context length despite lower per-element memory usage.
-
-reddit · r/LocalLLaMA · /u/regunakyle · Jun 5, 04:41
-
-**Background**: In large language model inference, the KV cache stores key and value tensors to avoid recomputation, and its size grows linearly with context length. Quantization reduces memory per element but may incur overhead. Speculative decoding uses a draft model to generate candidate tokens, and its KV cache can also be quantized.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/blockfeed/llama-cpp-mtp-hip">GitHub - blockfeed/ llama - cpp - mtp -hip: Arch Linux PKGBUILD for...</a></li>
-<li><a href="https://www.banandre.com/blog/llama-cpp-mtp-beta-shuts-gap-with-vllm-via-medusa-support">Llama . cpp ’s MTP Beta Is Stealing vLLM’s Lunch - Banandre</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#llama.cpp`, `#speculative decoding`, `#quantization`, `#context size`
-
----
-
-<a id="item-47"></a>
-## [Tool to Explore Kokoro TTS Released](https://www.reddit.com/r/LocalLLaMA/comments/1txal7z/hello_there_i_made_a_tool_to_explore_kokoro/) ⭐️ 6.0/10
-
-A user released an MIT-licensed tool for exploring the Kokoro TTS model, with code on GitHub and models on Hugging Face. This tool makes it easier for developers and researchers to experiment with Kokoro, a lightweight yet high-quality TTS model, potentially accelerating adoption and innovation in open-source speech synthesis. The tool is built on the creator's own stack but the Kokoro-related code is MIT-licensed. Pre-built Windows CPU and CUDA binaries are available for download, though users still need to clone broworkshop and download models.
+A Reddit user released an open-source tool called brosoundml for exploring the Kokoro speech synthesis model, with code on GitHub and models on Hugging Face. This tool lowers the barrier for developers and researchers to experiment with Kokoro, a state-of-the-art speech synthesis model, potentially accelerating innovation in voice AI applications. The tool is MIT-licensed, includes a trained bridge model, and offers pre-built Windows CPU and CUDA binaries for easier use, though users still need to clone broworkshop and download models separately.
 
 reddit · r/LocalLLaMA · /u/what_eve · Jun 5, 04:28
 
-**Background**: Kokoro is an open-weight TTS model with 82 million parameters, known for delivering natural-sounding speech efficiently. It is Apache-licensed and has been used in various projects and commercial APIs. This tool provides a graphical interface to explore Kokoro's capabilities.
+**Background**: Kokoro-82M is an efficient speech synthesis model that generates natural speech and is Apache-licensed. It has been deployed in various projects and commercial APIs. The tool brosoundml is built on top of the user's own stack and is designed to facilitate exploration of Kokoro's capabilities.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://huggingface.co/hexgrad/Kokoro-82M">hexgrad/ Kokoro -82M · Hugging Face</a></li>
-<li><a href="https://kokorottsai.com/">Kokoro TTS : Advanced AI Text -to- Speech Model with 82M parameters</a></li>
+<li><a href="https://www.kdjingpai.com/en/kokoro/">Kokoro : Efficient Speech Synthesis Model to Generate Natural and...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#TTS`, `#Kokoro`, `#open-source`, `#tool`
+**Tags**: `#Kokoro`, `#open-source`, `#tool`, `#model-exploration`
+
+---
+
+<a id="item-47"></a>
+## [VibeOS: A Fully Hallucinated OS Generated by AI](https://www.reddit.com/r/LocalLLaMA/comments/1twpv8r/vibeos_fully_hallucinated_operating_system/) ⭐️ 6.0/10
+
+A Reddit user presented VibeOS, a fully hallucinated operating system generated by an LLM, questioning the need for traditional programming. This concept challenges the conventional understanding of operating systems and software development, highlighting the potential for AI to generate functional-looking systems without explicit code. VibeOS is not a real operating system; it simulates an OS environment entirely through AI hallucination, where users can interact with a fictional desktop and run imaginary programs.
+
+reddit · r/LocalLLaMA · /u/WhatererBlah555 · Jun 4, 14:48
+
+**Background**: In AI, hallucination refers to the generation of false or misleading information presented as fact. VibeOS leverages this phenomenon to create a convincing but entirely fictional computing environment, blurring the line between real and simulated systems.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)">Hallucination (artificial intelligence) - Wikipedia</a></li>
+<li><a href="https://aiuntethered.com/news/exploring-vibeos-hallucinated-os-revolution/">Exploring VibeOS: The Hallucinated OS Revolution | AiUntethered</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#LLM`, `#AI-generated`, `#operating system`, `#novelty`
 
 ---
 
 <a id="item-48"></a>
-## [Legal Boundaries of Using OpenAI API Outputs for Code Datasets](https://www.reddit.com/r/MachineLearning/comments/1txc6qd/is_it_allowed_to_use_openai_api_outputs_to_create/) ⭐️ 6.0/10
+## [Reddit Users Share Local AI Agent Stacks](https://www.reddit.com/r/LocalLLaMA/comments/1txhg7f/what_is_your_current_goto_stack_for_running_a/) ⭐️ 6.0/10
 
-A Reddit user asked whether using OpenAI API outputs to create a silver dataset for fine-tuning open-source code models or for benchmarking is allowed under OpenAI's terms of service. This question highlights a common legal and ethical dilemma for AI practitioners who rely on API outputs to improve open-source models, and the answer could affect how developers build domain-specific code generation tools. The user distinguishes two scenarios: (1) using API outputs to create a silver dataset for fine-tuning an open-source model, and (2) using them only for a benchmark without training. The user acknowledges that Reddit is not legal advice and plans to consult OpenAI or legal counsel.
+A Reddit user asked the community about their preferred local AI agent stack and quantization levels (GGUF/EXL2) for daily use, sparking a discussion on balancing speed and intelligence. This discussion provides practical insights for practitioners building local AI agents, helping them choose the right quantization method to optimize performance on consumer hardware. The user specifically asks about GGUF and EXL2 quantization levels, which are common formats for running quantized LLMs locally, and the thread likely includes tips on model selection and hardware requirements.
 
-reddit · r/MachineLearning · /u/ororo88 · Jun 5, 05:52
+reddit · r/LocalLLaMA · /u/beasthunterr69 · Jun 5, 10:50
 
-**Background**: A silver dataset is a dataset that is not manually curated but generated or labeled by a weaker model or heuristic, often used for training when gold-standard data is scarce. OpenAI's terms of service prohibit using API outputs to develop competing AI models or to train models that compete with OpenAI. Fine-tuning is a transfer learning technique where a pre-trained model is adapted to a specific task using additional data.
+**Background**: GGUF and EXL2 are quantization formats that reduce the memory footprint of large language models, enabling them to run on consumer GPUs or CPUs. Quantization trades off some model accuracy for faster inference and lower resource usage, making local AI agents feasible for daily use.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets">Training, validation, and test data sets - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)">Fine - tuning (deep learning) - Wikipedia</a></li>
+<li><a href="https://ai.plainenglish.io/running-a-7b-transformer-on-your-phone-how-quantization-is-pushing-the-limits-e70b3307595d">Running a 7B Transformer on Your Phone: How Quantization is...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#OpenAI API`, `#fine-tuning`, `#legal`, `#code generation`, `#dataset`
+**Discussion**: The community discussion is not provided, so no sentiment analysis is available.
+
+**Tags**: `#local AI`, `#quantization`, `#LLM`, `#community discussion`
 
 ---
 
 <a id="item-49"></a>
-## [Queen Bees Develop in Special Wax Chambers](https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06) ⭐️ 5.0/10
+## [Using OpenAI API Outputs for Code Datasets: Legal?](https://www.reddit.com/r/MachineLearning/comments/1txc6qd/is_it_allowed_to_use_openai_api_outputs_to_create/) ⭐️ 6.0/10
 
-Researchers have discovered that queen bees develop from special wax chambers where the chemical environment influences embryo development, determining their caste. This finding provides new insights into how environmental factors shape development, with potential implications for understanding similar processes in other species, including humans. The study highlights that the chemical composition of the wax chambers, rather than genetics alone, plays a crucial role in determining whether a larva becomes a queen or a worker bee.
+A Reddit user asked whether using OpenAI API outputs to create a silver code dataset or benchmark for a specific Python library violates OpenAI's terms of service, distinguishing between fine-tuning and benchmarking scenarios. This question highlights a common legal gray area for developers and researchers who rely on API-generated code for dataset creation, potentially affecting how open-source models are trained and evaluated. The user outlined two scenarios: Scenario 1 uses API outputs to fine-tune an open-source model, while Scenario 2 uses them only as a benchmark. The answer depends on OpenAI's terms, which prohibit using outputs to develop competing AI models.
 
-hackernews · gmays · Jun 4, 21:31 · [Discussion](https://news.ycombinator.com/item?id=48404905)
+reddit · r/MachineLearning · /u/ororo88 · Jun 5, 05:52
 
-**Background**: In honeybee colonies, queen bees and worker bees are genetically identical but develop into different castes due to environmental factors. This discovery reveals that the wax chambers themselves contribute to this differentiation through their chemical environment.
-
-**Discussion**: Commenters expressed fascination with the discovery, with one drawing parallels to human embryo development and another sharing the news with a beekeeper friend.
-
-**Tags**: `#biology`, `#bees`, `#chemistry`
-
----
-
-<a id="item-50"></a>
-## [Physical AI's 'ChatGPT Moment' Predicted in Five Years](https://news.google.com/rss/articles/CBMiogFBVV95cUxOR29JQ3Y4ckx4N05ENkl0dEkzbVVkMWotSmtMb08tWFBfakNySnVtOTlNaTUxMVl5MzJMRVhidjRSaENpMWJVN19kTGdNN2lFdk5ucmJFS2I1dldqdXdJeVgtRWFISHY5SUFqX1htSVdHczRrdHphcDhNbGgwMVVDc3kySlBna2oyUlVBV2xEQ0R2SzNlYWlZV3NzWnhmOFFmS3c?oc=5) ⭐️ 5.0/10
-
-An expert predicts that a 'ChatGPT moment' for physical AI—where AI breakthroughs become widely accessible—is about five years away. This milestone could revolutionize robotics and automation, making physical AI as transformative as large language models have been for digital tasks. The prediction comes from an unnamed expert cited by Yicai Global, and the term 'ChatGPT moment' refers to a breakthrough that makes AI accessible to the general public.
-
-rss · Google News - AI行业 · Jun 4, 08:03
-
-**Background**: Physical AI refers to AI systems that interact with the physical world, such as robots and autonomous vehicles. The 'ChatGPT moment' concept originated from the rapid adoption of OpenAI's ChatGPT in late 2022, which marked a turning point for generative AI.
+**Background**: A silver dataset is a dataset generated by a model (e.g., GPT-4) and then human-validated, often used for training or evaluation. OpenAI's terms of service restrict using API outputs to train models that compete with OpenAI, but allow benchmarking if not used for training. The exact boundaries are ambiguous and case-dependent.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://grokipedia.com/page/Physical_AI">Physical AI</a></li>
-<li><a href="https://en.wikipedia.org/wiki/ChatGPT_moment">ChatGPT moment</a></li>
+<li><a href="https://openai.com/policies/service-terms/">Service terms | OpenAI</a></li>
+<li><a href="https://openai.com/policies/">Terms & policies | OpenAI</a></li>
+<li><a href="https://openai.com/policies/row-terms-of-use/">Terms of Use | OpenAI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#robotics`, `#physical AI`, `#forecast`
+**Discussion**: Comments on the Reddit post likely include warnings about legal risks, suggestions to consult OpenAI's terms, and anecdotal experiences from others who have faced similar issues. Some may argue that human review mitigates violation, while others stress that fine-tuning a model on API outputs is explicitly prohibited.
+
+**Tags**: `#OpenAI API`, `#Terms of Service`, `#Code Generation`, `#Dataset Creation`, `#Legal`
+
+---
+
+<a id="item-50"></a>
+## [S&P 500 Keeps Seasoning Rules for Megacaps](https://www.reddit.com/r/investing/comments/1tx1la7/sp500_index_committee_to_not_change_rules/) ⭐️ 6.0/10
+
+The S&P 500 Index Committee has decided not to change the seasoning period rules for megacap stocks, meaning companies must still wait at least 12 months after their IPO before being eligible for index inclusion. This decision maintains the status quo for index inclusion criteria, which could delay the addition of highly anticipated megacap IPOs like SpaceX, affecting index fund investors who seek early exposure to such stocks. The seasoning period requires companies to be publicly traded for at least 12 months before S&P 500 inclusion, a rule that other index providers have recently relaxed for megacaps. The committee's decision was announced on June 4, 2026, following a review.
+
+reddit · r/investing · /u/Sir_Shfvingle · Jun 4, 21:45
+
+**Background**: The S&P 500 is a market-capitalization-weighted index of 500 leading U.S. companies, widely used as a benchmark for passive investing. The seasoning period is designed to ensure price stability and adequate liquidity before a stock is added. Megacap stocks are those with a market cap over $200 billion, such as Apple and Microsoft.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Megacap_stock">Megacap stock - Wikipedia</a></li>
+<li><a href="https://stockanalysis.com/list/mega-cap-stocks/">List of Mega-Cap Stocks ($200B+ Market Cap) - Stock Analysis</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The Reddit discussion was moderate, with some users arguing that the rule protects index integrity, while others felt it lags behind market evolution and could miss early gains from megacap IPOs.
+
+**Tags**: `#S&P 500`, `#index funds`, `#megacaps`, `#investing`
 
 ---
 
 <a id="item-51"></a>
-## [Semiconductor Industry Enters Knockout Phase](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XaHJSdmFFNXp0Y214bklTRkNBQXE3TmM3STY0N1dMa29WTnhoUDVpTXg3WjFldTNhNEpYSW40NlExR0UyRlpVZGNGcDgwVzZVOU81TVBFN3FGUkhqSElIbXhR?oc=5) ⭐️ 5.0/10
+## [IsUpMap visualizes status of 100+ major sites](https://isupmap.com/) ⭐️ 5.0/10
 
-A Caixin opinion piece argues that the semiconductor industry is not in a gradual 'second half' but rather a fierce 'knockout tournament' where only the strongest players will survive. This perspective reframes the current industry slowdown as a period of consolidation and intense competition, which could reshape the global semiconductor landscape and impact supply chains, investments, and technology leadership. The article emphasizes that the semiconductor industry faces overcapacity, geopolitical tensions, and slowing demand, leading to a survival-of-the-fittest environment rather than a predictable second half.
+A new website called IsUpMap (https://isupmap.com/) has been launched, allowing users to check the real-time status of over 100 major websites at once through a visual map interface. This tool provides a quick overview of internet health, highlighting that many complex systems often run in degraded mode rather than being fully down, which is valuable for developers and IT professionals monitoring service dependencies. The map color-codes sites as up (green), degraded (yellow), or down (red), and includes major platforms like Google, GitHub, and Cloudflare. One commenter noted that Cloudflare's 'degraded' status may be unfair due to its 300+ PoPs always having some in maintenance.
 
-rss · Google News - 半导体芯片 · Jun 5, 02:09
+hackernews · mikelgan · Jun 5, 04:44 · [Discussion](https://news.ycombinator.com/item?id=48408067)
 
-**Background**: The semiconductor industry has experienced rapid growth driven by demand for chips in electronics, automotive, and AI. However, recent cyclical downturns, US-China tech tensions, and massive investments in new fabs have created excess capacity and heightened competition.
+**Background**: IsUpMap is a monitoring tool that aggregates status data from multiple sources to provide a single-pane view of major internet services. It illustrates the concept that complex distributed systems frequently operate in a degraded state, as explained in the article 'How Complex Systems Fail'.
 
-**Tags**: `#semiconductors`, `#industry analysis`, `#competition`, `#market trends`
+**Discussion**: Comments highlight that Cloudflare's many PoPs make 'degraded' status misleading, and suggest grouping sites by shared dependencies to correlate downtime. One user joked that GitHub being shown as up must be wrong, while another noted missing sites like Facebook and Twitter.
+
+**Tags**: `#monitoring`, `#status`, `#visualization`, `#web services`
 
 ---
 
 <a id="item-52"></a>
-## [Hangzhou State-Backed Storage Chip Firm Files for HK IPO](https://news.google.com/rss/articles/CBMiSEFVX3lxTE12aDB4R09iMG1CelZwMFRBNVpOeF9PX0oyRGNfZEdiblc4NWVjWUxFTWYxQnpxOXAyMUt3ZlMycG1QcTdSNmJGYQ?oc=5) ⭐️ 5.0/10
+## [Physical AI's 'ChatGPT Moment' Predicted in Five Years](https://news.google.com/rss/articles/CBMiogFBVV95cUxOR29JQ3Y4ckx4N05ENkl0dEkzbVVkMWotSmtMb08tWFBfakNySnVtOTlNaTUxMVl5MzJMRVhidjRSaENpMWJVN19kTGdNN2lFdk5ucmJFS2I1dldqdXdJeVgtRWFISHY5SUFqX1htSVdHczRrdHphcDhNbGgwMVVDc3kySlBna2oyUlVBV2xEQ0R2SzNlYWlZV3NzWnhmOFFmS3c?oc=5) ⭐️ 5.0/10
 
-A storage chip company valued at 3.584 billion yuan and backed by Hangzhou state capital is preparing for an initial public offering on the Hong Kong Stock Exchange. This IPO highlights the growing role of local government capital in China's semiconductor sector and provides a new funding channel for storage chip companies amid global chip supply chain shifts. The company's valuation of 3.584 billion yuan reflects strong state backing, and the Hong Kong listing could attract international investors. The specific name of the company was not disclosed in the news snippet.
+An expert predicts that a 'ChatGPT Moment' for physical AI—where AI systems can autonomously perform complex tasks in the real world—is about five years away. This milestone would mark a breakthrough comparable to ChatGPT's impact on language AI, potentially revolutionizing robotics, manufacturing, and autonomous systems. The prediction is speculative and lacks specific technical details or named experts. Physical AI refers to AI that enables machines to perceive, understand, and act in the physical world, as defined by NVIDIA.
 
-rss · Google News - 半导体芯片 · Jun 4, 23:45
+rss · Google News - AI行业 · Jun 4, 08:03
 
-**Background**: Storage chips are critical components in electronics and data centers. China has been investing heavily in domestic semiconductor capabilities to reduce reliance on foreign suppliers. Hong Kong IPOs are a common route for Chinese tech firms seeking international capital.
+**Background**: ChatGPT's launch in late 2022 demonstrated the power of large language models, sparking widespread adoption of generative AI. Physical AI aims to bring similar capabilities to robots and autonomous systems, but faces challenges in perception, control, and real-world variability.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.21jingji.com/article/20260604/herald/529e247b9e51c5c593159532f271972e.html">存 储 芯 片 板块，逆 市 拉升；688303，20cm涨停 - 21经济网</a></li>
-<li><a href="https://m.gelonghui.com/p/5007248">晶合集成赴 港 IPO ，专 注 于12英寸晶圆代工，全球第九</a></li>
+<li><a href="https://www.nvidia.com/en-us/glossary/generative-physical-ai/">What is Physical AI? | NVIDIA Glossary</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#physical AI`, `#robotics`, `#prediction`
+
+---
+
+<a id="item-53"></a>
+## [Memory Chip Sales Predicted to Surge 250% This Year](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xQVZEZzhkdDNybmVDMTlXRENJVlpIYnZVZlhfTldGY0VBVHdUMHV6VjBxVTNHZFQtaTdkcDZaLWFmVmJ1aVNydFl0emEzcFg5ZVg4?oc=5) ⭐️ 5.0/10
+
+A report from an industry institution forecasts that global memory chip sales will increase by 250% year-over-year in 2025. This dramatic growth signals a strong recovery in the semiconductor market, driven by demand for AI, data centers, and high-bandwidth memory (HBM). It could boost revenues for major players like Samsung, SK Hynix, and Micron. The forecast covers all types of memory chips including DRAM and NAND flash. The 250% figure is a projection for the full calendar year, though actual results may vary due to market volatility.
+
+rss · Google News - 半导体芯片 · Jun 5, 06:56
+
+**Background**: Memory chips are essential components in computers, smartphones, and servers. The industry experienced a downturn in 2023 due to oversupply and weak demand, but the rise of AI applications has spurred demand for advanced memory like HBM, leading to a rapid rebound.
+
+**Tags**: `#semiconductors`, `#memory chips`, `#industry forecast`
+
+---
+
+<a id="item-54"></a>
+## [Jensen Huang Confirms Three HBM4 Suppliers for NVIDIA](https://news.google.com/rss/articles/CBMiU0FVX3lxTE51Tmk3NkJLVzczVnBxM3d6Yk81ZVlNVGFEYU5ycHYzb2ctdUFhVFROcjlYb1FQWXJkZHlfMmVwbnkzaXZzWkl5ZTR5N0N4R1NHd09F?oc=5) ⭐️ 5.0/10
+
+NVIDIA CEO Jensen Huang announced during a visit to South Korea that Samsung, SK hynix, and Micron are all qualified to supply HBM4 memory chips for NVIDIA's next-generation AI accelerators. This certification ensures a diversified supply chain for HBM4, which is critical for NVIDIA's AI GPU production, and signals the memory industry's readiness for the next-generation high-bandwidth memory standard. HBM4 offers up to 2 TB/s bandwidth per stack and supports capacities up to 64 GB, with backward compatibility to HBM3 controllers. The three memory giants contributed to the JEDEC standard.
+
+rss · Google News - 半导体芯片 · Jun 5, 06:56
+
+**Background**: High Bandwidth Memory (HBM) is a 3D-stacked DRAM technology that provides extremely high data transfer rates for compute-intensive tasks like AI and HPC. HBM4 is the latest generation, succeeding HBM3, and is essential for NVIDIA's upcoming AI chips such as the Blackwell architecture.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://www.supermicro.com/en/glossary/hbm4">What Is HBM4? | Supermicro</a></li>
+<li><a href="https://www.micron.com/products/memory/hbm/hbm4">HBM4 | Micron Technology Inc.</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#memory chips`, `#Jensen Huang`, `#semiconductors`
+
+---
+
+<a id="item-55"></a>
+## [Hangzhou state capital backs storage chip firm's HK IPO](https://news.google.com/rss/articles/CBMiSEFVX3lxTE12aDB4R09iMG1CelZwMFRBNVpOeF9PX0oyRGNfZEdiblc4NWVjWUxFTWYxQnpxOXAyMUt3ZlMycG1QcTdSNmJGYQ?oc=5) ⭐️ 5.0/10
+
+A storage chip company valued at 3.584 billion yuan, backed by Hangzhou state capital, is preparing for a Hong Kong IPO. This IPO highlights the growing role of local government capital in China's semiconductor sector and provides a new funding avenue for storage chip companies amid global chip competition. The company is valued at 3.584 billion yuan and has received investment from Hangzhou state-owned capital. The specific company name has not been disclosed in the news snippet.
+
+rss · Google News - 半导体芯片 · Jun 4, 23:45
+
+**Background**: Hangzhou has been actively investing in semiconductor companies, such as Zhongxin Wafer, which produces silicon wafers. Storage chips are critical components in electronics, and China aims to boost domestic production to reduce reliance on imports.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.hzzbco.com/enterpriseIndustrial">杭州市国有资本投资运营有限公司官网</a></li>
 
 </ul>
 </details>
@@ -1180,485 +1219,484 @@ rss · Google News - 半导体芯片 · Jun 4, 23:45
 
 ---
 
-<a id="item-53"></a>
-## [AOS Dr. Feng Lei on Power Semiconductor Strategy in AI Era](https://news.google.com/rss/articles/CBMiUkFVX3lxTE45SmFpODktNXVPUm1zdUd0QkVKdjN3bzN0ZEpjOE1JNkk2WVVEOWwydnBQMTFHWk9taGEzcXROVjhvM2Q2VzRTbm05alI4QVJNQ1E?oc=5) ⭐️ 5.0/10
-
-In an exclusive interview, Dr. Feng Lei, a key executive at Alpha & Omega Semiconductor (AOS), discussed the company's strategic depth in power semiconductors amid the AI boom. This interview highlights how power semiconductor companies are positioning themselves to support the surging energy demands of AI data centers, a critical enabler for AI infrastructure. AOS specializes in power semiconductor products like MOSFETs, IGBTs, and power ICs, and has recently introduced a 100V MOSFET with dual-side cooling for high-efficiency applications.
-
-rss · Google News - 半导体芯片 · Jun 5, 03:56
-
-**Background**: Power semiconductors are essential for converting and managing electrical power in electronic devices. With AI data centers consuming massive amounts of electricity, efficient power management has become crucial. Companies like AOS are developing advanced power components to reduce energy waste and improve performance.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://empor.top/us/AOSL">The Alpha & Omega Semiconductor Ltd. Story (AOSL) - Power ...</a></li>
-<li><a href="https://synapse-invest.ch/ai-power-ai-power-semiconductors-driving-the-next-data-center-evolution/">AI / Powering AI : Power Semiconductors Driving the... - Synapse Invest</a></li>
-<li><a href="https://www.electronicspecifier.com/products/design-automation/alpha-and-omega-semiconductor-announce-cooling-package/">Alpha and Omega Semiconductor announce... | Electronic Specifier</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#power semiconductors`, `#AI hardware`, `#interview`
-
----
-
-<a id="item-54"></a>
-## [Chinese Memory Products Enter South Korean Market](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QUkN2OTJBcnE5eGFqOGg4ajhjXy1QQ0Y4cXZIZG1ZRUR2Sk52VzF3eGp4ZTlYdVdQVnZHNGdQVDRHOTVfbUlsbEVUTXowNkJLS2ln?oc=5) ⭐️ 5.0/10
-
-Chinese memory products have officially entered the South Korean domestic market, catching Samsung and SK Hynix off guard. This marks a significant shift in the global memory market, as Chinese manufacturers challenge the dominance of Korean giants in their home turf, potentially reshaping competitive dynamics. The specific products and manufacturers involved are not detailed, but the move signals growing competitiveness of Chinese memory chips, particularly NAND flash and DRAM.
-
-rss · Google News - 半导体芯片 · Jun 5, 03:45
-
-**Background**: South Korea has long dominated the global memory market with Samsung and SK Hynix leading in NAND flash and DRAM. Chinese companies like Yangtze Memory Technologies (YMTC) have been ramping up production and improving technology, aiming to reduce reliance on imports and compete internationally.
-
-**Tags**: `#semiconductors`, `#memory`, `#market competition`, `#China`, `#Korea`
-
----
-
-<a id="item-55"></a>
-## [Chip Capacity Becomes a Major Problem](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HaWg5N2p3MEM4X0s5aW13ODJtMENMdHkxcFpQVHB6WDB4X2hUQkpIVE5fOVI3UEd0MERHSFFrTGVRRldHQmpoMjBGV0pKVGw3Nnc1eTVoQkZ2VUFYSV9CRQ?oc=5) ⭐️ 5.0/10
-
-An article from 信息化观察网 highlights that semiconductor chip production capacity has become a critical issue, affecting global supply chains. This matters because chip shortages can disrupt industries from automotive to consumer electronics, impacting economic growth and technological progress. The article discusses the ongoing capacity constraints in semiconductor manufacturing, but lacks specific technical details or new data.
-
-rss · Google News - 半导体芯片 · Jun 5, 02:01
-
-**Background**: Semiconductor chips are essential components in modern electronics. Global chip shortages have occurred periodically due to high demand and supply chain disruptions, prompting investments in new fabrication plants.
-
-**Tags**: `#semiconductor`, `#chip capacity`, `#supply chain`
-
----
-
 <a id="item-56"></a>
-## [Semiconductor Industry Enters Chiplet Era](https://news.google.com/rss/articles/CBMiTkFVX3lxTE45N2VtUlNnY01vWkJtTGF6NmRyakxLYlhEQzctQkM4WGZpcUtfY0N6RGdsci1IdzFSNEpJX1VKMkcyT2xTNWQycDk0RDBHUQ?oc=5) ⭐️ 5.0/10
+## [Hanmi Semiconductor Plans HBF TC Bonder Delivery in H2 2026](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QZ0Y3Njk1WHpWcWRMTDZQNWM3TDBiQzVsWXVPUjFOTkJhTGR3S1dKXzVJM0dXN2pZZWo3MEpOYVVnM3BaaVg4ZG5HaXJwdGRocWJhaVAyT2pTUmZ4TWhORlo3bDRSdw?oc=5) ⭐️ 5.0/10
 
-Chinese tech news outlet Leikeji reports that the semiconductor industry is transitioning to a new stage centered on Chiplet technology, as highlighted by company Yuanli Semiconductor. Chiplet technology enables higher performance and yield by breaking monolithic chips into smaller dies, extending Moore's Law and reducing costs, which is crucial for AI and advanced computing. Chiplet-based designs allow mixing different process nodes and functions, improving flexibility and time-to-market, but require advanced packaging and interconnect standards like UCIe.
+Hanmi Semiconductor announced plans to deliver its first batch of HBF TC bonders to customers in the second half of 2026. This delivery timeline indicates progress in advanced packaging equipment for high-bandwidth memory (HBM), which is critical for AI and high-performance computing chips. The HBF TC bonder is used for thermal compression bonding in HBM packaging, and Hanmi Semiconductor is a key supplier to major memory manufacturers like SK Hynix.
 
-rss · Google News - 半导体芯片 · Jun 5, 01:57
+rss · Google News - 半导体芯片 · Jun 5, 09:32
 
-**Background**: Traditional monolithic chips face yield and cost challenges as dies grow larger. Chiplet technology addresses this by using smaller, modular dies that are integrated via advanced packaging, enabling better reuse and customization.
+**Background**: Thermal compression bonding (TCB) is a chip-attach technology that uses heat and pressure to bond chips onto substrates, enabling finer pitch and better reliability for advanced packages like HBM. HBM stacks multiple DRAM dies vertically to achieve high bandwidth, and TCB is essential for stacking these dies. Hanmi Semiconductor is a South Korean company specializing in semiconductor packaging equipment.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.rcrwireless.com/20250325/fundamentals/what-chiplet-technology">What is chiplet technology and what is its impact on AI processing?</a></li>
-<li><a href="https://www.trendforce.com/news/2023/08/31/understanding-chiplets-soc-and-sip-why-tsmc-intel-samsung-invest/">Understanding Chiplets , SoC, and SiP: Why TSMC, Intel, Samsung...</a></li>
-<li><a href="https://www.keysight.com/blogs/en/tech/sim-des/2024/2/8/what-is-a-chiplet-and-why-should-you-care">What is a Chiplet , and Why Should You Care?</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductor`, `#Chiplet`, `#hardware`, `#industry trend`
+**Tags**: `#semiconductor`, `#HBF TC键合机`, `#韩美半导体`, `#delivery timeline`
 
 ---
 
 <a id="item-57"></a>
-## [Zhongkexin Semiconductor Starts IPO Coaching for Ion Implanters](https://news.google.com/rss/articles/CBMiYkFVX3lxTE94T2Y2Q2JpWWtJNGQ3VFdEd0hiRFpYS2oyZXV1dzZrTGEtT3M2aG9FdGdPVE1yNXdyNG1jOGFKc1NZUlFmTDVIQzhJbTVoRlVNSktvSmd4MWo0eTF3cmpWWmZR?oc=5) ⭐️ 5.0/10
+## [World's Smallest 0.13-inch LCoS Chip Released by SiView](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ycXA2OUx1bEg5RzBMcmxjOUgyRF82LTZoRi1YZUlXTTZSUGRXZ3RiMDdSVHNmSUtDSVBjUTNxSV9mallUaXNBM3p6cmw2Q01JZzZr?oc=5) ⭐️ 5.0/10
 
-Zhongkexin Semiconductor, a Chinese company specializing in semiconductor ion implanters, has initiated IPO coaching, signaling its preparation for an initial public offering. This move highlights the growing importance of domestic semiconductor equipment in China's push for self-sufficiency, as ion implanters are critical for chip manufacturing. A successful IPO could provide capital to accelerate development and reduce reliance on foreign suppliers. The company previously completed a B-round financing of over 700 million yuan in December 2025, led by China Reform Fund. It is recognized as a leader in domestic ion implanter technology.
+SiView has announced the world's smallest 0.13-inch LCoS (Liquid Crystal on Silicon) chip, which is about the size of a grain of rice. This miniaturization enables integration into ultra-compact devices like smart glasses and pico projectors, potentially advancing augmented reality and wearable display technologies. The chip measures only 0.13 inches diagonally, making it the smallest LCoS display panel commercially available. LCoS technology uses liquid crystals on a silicon backplane to create high-resolution images.
 
-rss · Google News - 半导体芯片 · Jun 5, 02:42
+rss · Google News - 半导体芯片 · Jun 5, 10:23
 
-**Background**: Ion implanters are essential equipment in semiconductor manufacturing, used to dope silicon wafers with impurities to modify electrical properties. The technology has been historically dominated by foreign firms like Applied Materials and Axcelis. China has been striving to develop domestic alternatives to secure its chip supply chain.
+**Background**: LCoS is a microdisplay technology commonly used in projectors and head-mounted displays. It reflects light off a silicon chip coated with liquid crystals, offering high resolution and pixel density. The new chip's tiny size allows for more compact optical designs.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://news.pedaily.cn/202512/559160.shtml">专注 半 导 体 离子注入机研发，烁 科 中 科 信 完成超7亿元B轮融资_投资界</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Liquid_crystal_on_silicon">Liquid crystal on silicon - Wikipedia</a></li>
+<li><a href="https://www.ovt.com/technologies/lcos/">Liquid Crystal on Silicon ( LCOS ) | OMNIVISION</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductor`, `#IPO`, `#ion implanter`, `#chip industry`
+**Tags**: `#LCoS`, `#display technology`, `#chip`, `#miniaturization`
 
 ---
 
 <a id="item-58"></a>
-## [Microchip Chips Power Artemis II Lunar Mission](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4Z3QxZjhUbGhhSTVJdUpQTmJWSVYwZHFYdWxoLU9lbWw0OFJBaGRYVU53RmZrdzYxYlQ2VVhCOW85Z0pDYVh4eE9oT0c5MVBrQTIw?oc=5) ⭐️ 5.0/10
+## [AI Computing Power Drives Storage Price Surge](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUUNVZk1icDJyd0I5SzVPaHM0bTZjaXJ6RFYwVVFncjMwQlVoX254cnZXeW4yRXkzR3BuM2FOTE1abE5LaGkwX2MwaUt3WmgtNWZuR0pod3Vtc0R4LWdDUmdvQVRaSUhUdGRLaW01ZGFzTGk4aFhoTjZXOXZ1NzZKZ05SZXpCV09QYUdGOVRkVGgyX1YyLXo5LXZuVlR1NWNiQnNCSl90S24tcm4zNVg5RVhoLVBDSUpaSkxXLThzUER1RTdfYTA3OGJSbURLdEFhZWhQaGN3eG5VZFFK?oc=5) ⭐️ 5.0/10
 
-Microchip Technology's radiation-hardened chips are used in NASA's Artemis II mission, which successfully sent four astronauts on a lunar flyby in 2026. Company executives detailed the aerospace system design in a recent article. This highlights the critical role of commercial off-the-shelf semiconductor solutions in modern space exploration, potentially reducing costs and accelerating development for future missions. It also underscores the growing collaboration between aerospace agencies and chip manufacturers. The chips used are radiation-hardened to withstand the harsh space environment, including high radiation and extreme temperatures. The article likely covers specific Microchip products such as FPGAs or microcontrollers tailored for aerospace applications.
+The surge in AI computing power demand is causing a significant increase in storage device prices, creating new opportunities across the storage supply chain. This trend highlights the growing interdependence between AI advancements and hardware infrastructure, impacting industries from data centers to consumer electronics. The price increase is driven by high-bandwidth memory (HBM) and NAND flash demand for AI training and inference, with major manufacturers like Samsung and SK Hynix ramping up production.
 
-rss · Google News - 半导体芯片 · Jun 5, 05:28
+rss · Google News - 半导体芯片 · Jun 5, 03:28
 
-**Background**: The Artemis program, led by NASA, aims to return humans to the Moon and establish a permanent lunar base. Artemis II, launched in 2026, is the first crewed mission beyond low Earth orbit since Apollo. Microchip has been a supplier of radiation-hardened electronics for space applications for over 30 years.
+**Background**: AI models, especially large language models, require massive amounts of data and fast memory to train and run efficiently. Storage components like HBM and SSDs are critical for handling this data throughput, leading to increased demand and higher prices.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Artemis_mission">Artemis mission</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Artemis_II">Artemis II - Wikipedia</a></li>
-<li><a href="https://www.nacsemi.com/products/microchip/microchip__aerospace_and_defense/">Microchip Aerospace and Defense - NAC Semi</a></li>
+<li><a href="https://en.m.wikipedia.org/wiki/Artificial_intelligence">Artificial intelligence - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#aerospace`, `#semiconductor`, `#space exploration`, `#Microchip`
+**Tags**: `#AI`, `#storage`, `#semiconductors`, `#market trends`
 
 ---
 
 <a id="item-59"></a>
-## [Samsung Reportedly to Manufacture BYD's Autonomous Driving Chips](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XOHQ0WF9BUTV2cEgybFRfU2ZSUnFvQUJGTzVPWjhkS1RyelpwdGhrb1FBV2k0ekNEYnlQX1l0UHJfbEQxSXFLMlVqang3ZTRRcXlr?oc=5) ⭐️ 5.0/10
+## [Tencent Exec Tang Daosheng Addresses AI, Chips, and Talent](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1FS2tsQWo0dGVMOW9GNU9kNVJ0Y0xzVFZucHNGRW8yWVZYcDVmbEJYOU1ERC1ob0xyOTE2T3g1cFZNWHdhVUE?oc=5) ⭐️ 5.0/10
 
-According to a report from Seoul Economic Daily, Samsung Foundry is in talks with BYD to manufacture BYD's self-developed autonomous driving chips, potentially using advanced 4nm or 2nm process nodes. This partnership could strengthen Samsung's position in the automotive chip foundry market and help BYD reduce reliance on external suppliers for critical autonomous driving hardware, accelerating the adoption of L3/L4 autonomy in its vehicles. BYD recently unveiled its Xuanji A3 chip, a 4nm smart driving chip delivering about 700 TOPS with 20% lower power consumption, and Samsung Foundry offers automotive-grade solutions certified with AEC-Q100 Grade 1 and Auto Grade 2/1.
+At the 2026 Tencent Cloud AI Industry Application Conference, Tencent Senior Executive Vice President Tang Daosheng and Chief AI Scientist Yao Shunyu held a public dialogue, addressing topics such as the Yuanbao AI assistant, computing power, chips, and the perception that Tencent is slow in AI. This dialogue signals Tencent's strategic focus on AI and its commitment to catching up in the competitive AI landscape, which could influence the direction of China's AI industry and investor sentiment. Tang and Yao discussed the upcoming Hunyuan 3 model, the integration of DeepSeek models into Yuanbao, and Yao's role leading Tencent's AI infrastructure and large language model teams. Yao emphasized that the second half of AI competition is just beginning.
 
-rss · Google News - 半导体芯片 · Jun 5, 02:50
+rss · Google News - 半导体芯片 · Jun 5, 09:17
 
-**Background**: BYD is a leading Chinese electric vehicle manufacturer that has been developing its own autonomous driving chips to reduce dependence on suppliers like Nvidia. Samsung Foundry is one of the world's top semiconductor foundries, offering advanced nodes and automotive-specific manufacturing services. The rumored deal would combine BYD's chip design with Samsung's manufacturing expertise.
+**Background**: Tencent is a major Chinese tech company with a vast product ecosystem. Its AI assistant Yuanbao integrates Tencent's own Hunyuan models and third-party models like DeepSeek. Yao Shunyu, a prominent AI researcher, joined Tencent in late 2025 as Chief AI Scientist, leading the company's AI research and development.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.trendforce.com/news/2026/06/03/news-samsung-foundry-reportedly-in-talks-with-chinese-carmakers-like-byd-for-2nm-4nm-autonomous-driving-socs/">[News] Samsung Foundry Reportedly in Talks With Chinese...</a></li>
-<li><a href="https://www.caixinglobal.com/2026-06-01/byd-unveils-first-in-house-autonomous-driving-chip-102449712.html">BYD Unveils First In-House Autonomous Driving Chip - Caixin Global</a></li>
-<li><a href="https://semiconductor.samsung.com/foundry/application-specific-service/automotive/">Application Specific Service - Automotive | Foundry | Samsung ...</a></li>
+<li><a href="https://www.163.com/tech/article/KULREUPF00098IEO.html">163.com/tech/article/KULREUPF00098IEO.html</a></li>
+<li><a href="https://tech.ifeng.com/c/8thxKOAXozn">姚顺雨 汤 道 生 对话实录：总办老板们很诚实，AI下半场刚开始， 腾 讯 不慢</a></li>
+<li><a href="https://www.guancha.cn/economy/2026_06_05_819506.shtml">汤 道 生 对谈姚顺雨：首次回应“ 腾 讯 慢了”，AI下半场才刚开始</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Samsung`, `#BYD`, `#chip manufacturing`, `#autonomous driving`
+**Tags**: `#semiconductors`, `#AI`, `#computing`, `#China tech`
 
 ---
 
 <a id="item-60"></a>
-## [STMicroelectronics Doubles Data Revenue Target by 2026 on AI Demand](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hb2V6cEt2NTN3SmkxeGE5X1U2aDdUb3lmdDUxUmFsMlhDaGI5ZlBIbW80d1hIZHFwU1Z3NXZiZWVWSHM3UGtPclZmWlRzWlY0Sl9N?oc=5) ⭐️ 5.0/10
+## [Memory Market Volatility Hits Samsung and SK Hynix Stocks](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KWWFDUWNGNV8wSGNBQW1ka0oyek9uZi16cDYtekxlMXh5cUx6MHZmd0lsNzZtdnl2YjZ2SncwSjRfRUVWSFpucA?oc=5) ⭐️ 5.0/10
 
-STMicroelectronics raised its 2026 data center revenue target to double the previous goal, citing strong AI infrastructure demand and capacity expansion progress. This signals the growing importance of AI-driven semiconductor demand for traditional chipmakers, and STMicro's pivot to data center markets could reshape its revenue mix and competitive position. The company also raised its 2027 data center revenue ambition, and in 2025 it launched a new chip co-developed with Amazon Web Services for AI data centers.
+On a 'Black Friday' for South Korean stocks, Samsung Electronics and SK Hynix saw their share prices plummet due to concerns over memory chip oversupply and weakening demand. This event underscores the cyclical nature of the memory chip industry, which is critical to global electronics supply chains and can significantly impact South Korea's economy. The sharp decline reflects investor fears of a prolonged downturn in memory prices, which have been falling due to weak demand for PCs and smartphones and an oversupply of DRAM and NAND flash chips.
 
-rss · Google News - 半导体芯片 · Jun 5, 01:14
+rss · Google News - 半导体芯片 · Jun 5, 01:46
 
-**Background**: STMicroelectronics is a European multinational semiconductor company that designs and manufactures chips for various applications. Data center revenue has become a key growth driver as AI workloads require specialized hardware, pushing traditional semiconductor firms to invest in this segment.
+**Background**: Samsung and SK Hynix are the world's largest memory chip manufacturers, dominating the DRAM and NAND flash markets. The memory industry is known for boom-and-bust cycles driven by supply-demand imbalances.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://economictimes.indiatimes.com/tech/technology/stmicro-lifts-data-centre-revenue-goals-on-ai-demand-shares-hit-25-year-high/articleshow/131458940.cms">STMicro lifts data centre revenue goals on AI demand , shares hit...</a></li>
-<li><a href="https://timestech.in/st-raises-data-center-revenue-target-on-strong-ai-demand/">ST Raises Data Center Revenue Target on Strong AI Demand</a></li>
-<li><a href="https://en.wikipedia.org/wiki/STMicroelectronics">STMicroelectronics - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#AI`, `#STMicroelectronics`, `#revenue`
+**Tags**: `#semiconductor`, `#memory`, `#stock market`, `#Samsung`, `#SK Hynix`
 
 ---
 
 <a id="item-61"></a>
-## [TSMC CEO Wei Zhejia Considers Price Hike, Avoids Memory Industry Tactics](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIclo0emZGVk11Tzc4MUYxXzZjMFFOaFhXTlV1V3Rxa3k2Rm5SSHFwRFpQMmFxX2d3QnRQWWlqY0FoeEszUFZYUmhYY0Q2ZEk?oc=5) ⭐️ 5.0/10
+## [Cross-Strait Semiconductor Giants in 327M Yuan Arbitration](https://news.google.com/rss/articles/CBMidkFVX3lxTFBHYjRqQkwwQjNlcFJvZXBFRjc4UHUyODBkYUdVRlBqWXZBU3Z4Zzgzb1VlNmttUG9fUVVhZWNxcVpBNnNablFheWZDdTA4d3dhOHNiVktWRFBTMzZvMXplUnFwZWhTLWxQdWlvRmlFY3F3TUhzd0E?oc=5) ⭐️ 5.0/10
 
-TSMC CEO Wei Zhejia has indicated the company is considering raising prices for its foundry services, but emphasized it will not adopt the aggressive pricing strategies common in the memory chip industry. This signals TSMC's confidence in its advanced process leadership and could reshape pricing dynamics across the semiconductor supply chain, affecting customers like Apple, NVIDIA, and AMD. The price increase is expected to focus on advanced nodes (e.g., 3nm and 5nm), where demand outstrips supply, while mature nodes may see more moderate adjustments.
+A 327 million yuan arbitration case between semiconductor companies from mainland China and Taiwan has drawn attention to legal challenges in cross-strait business disputes. This case underscores the complexities of enforcing contracts and intellectual property rights across the Taiwan Strait, which could affect investment and collaboration in the semiconductor industry. The arbitration involves a dispute over a licensing or technology agreement, with the amount of 327 million yuan reflecting the high stakes in semiconductor intellectual property.
 
-rss · Google News - 半导体芯片 · Jun 5, 03:56
+rss · Google News - 半导体芯片 · Jun 5, 08:39
 
-**Background**: TSMC is the world's largest dedicated semiconductor foundry, producing chips for major companies. Unlike the memory industry, which often uses price cuts to gain market share, foundries typically maintain stable pricing. Wei's comments come amid rising costs and capacity constraints.
+**Background**: China's amended Arbitration Law, effective March 2026, introduces ad hoc arbitration and allows foreign institutions to operate, aligning with international standards. Cross-strait legal disputes often face jurisdictional and enforcement issues due to differing legal systems.
 
-**Tags**: `#TSMC`, `#semiconductor`, `#pricing`, `#industry news`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.mayerbrown.com/en/insights/publications/2026/04/what-do-chinas-new-arbitration-reforms-mean-for-your-ip-strategy">What do China’s New Arbitration Reforms Mean for Your IP Strategy? | Insights | Mayer Brown</a></li>
+<li><a href="https://www.paulhastings.com/insights/client-alerts/amended-law-expands-arbitration-options-for-businesses-operating-in-china">Amended Law Expands Arbitration Options for Businesses Operating in China | Paul Hastings LLP</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#semiconductor`, `#legal`, `#arbitration`, `#China`
 
 ---
 
 <a id="item-62"></a>
-## [Broadcom and Micron Suffer Record Single-Day Market Cap Losses](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOXJnZm94RUg2R0VEOF9nSTJkQ2RqalBTTklUQVBUSXNoU3hNdU10Z0NuMGwtU3AtVjk5T1pkTjVGNnBHbVl3ek1oSTMwT1hIX0UyOUJDdUZlUzVjcFRvSXNzM2ZjSGs3aXRNaXBOZmxiTXlWRTZVSXpYTGg4UmpjMWotSWgxVmJs?oc=5) ⭐️ 5.0/10
+## [Shanghai Lingang Chip Packaging Project Reaches New Phase](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BT1RvQ2U3TXJZNnV3WjVpOHhaTnRLd1FXUjJwQlJybFlmQ1RuSVRjOWtOOHQwLVEtZGdlX21QcWgzV3c2T21ma2N4cHJRRUZ6NjFz?oc=5) ⭐️ 5.0/10
 
-Following their latest earnings reports, Broadcom and Micron experienced the largest single-day market capitalization losses in their histories, with Broadcom's stock falling sharply and Micron's stock dropping significantly. These losses highlight the extreme volatility in the semiconductor sector, where investor expectations for AI-driven growth are high but earnings results can trigger sharp sell-offs. The events may influence market sentiment and investment strategies for other chip stocks. Broadcom's record loss came despite reporting strong fiscal Q3 revenue driven by AI accelerators and VMware integration, while Micron's decline was part of a broader semiconductor sell-off amid concerns over HBM competition and technical exhaustion.
+The Shanghai Lingang chip packaging and testing project has entered a new phase, achieving an annual production capacity of 1.2 million units. This milestone strengthens China's semiconductor supply chain by expanding domestic packaging and testing capabilities, reducing reliance on foreign providers. The project is located in Shanghai's Lingang area, a key hub for semiconductor manufacturing. Packaging and testing are critical final steps in chip production, ensuring electrical connections and physical protection.
 
-rss · Google News - 半导体芯片 · Jun 5, 05:25
+rss · Google News - 半导体芯片 · Jun 5, 09:43
 
-**Background**: Broadcom and Micron are major semiconductor companies; Broadcom focuses on networking and custom AI chips, while Micron produces memory and storage products like DRAM and NAND. Their stock prices are sensitive to earnings reports and market trends in AI and memory demand.
+**Background**: Chip packaging involves enclosing an integrated circuit in a protective package and connecting its circuits to external pins. Testing verifies functionality and reliability. These steps are essential for turning wafers into usable chips for devices like smartphones and IoT systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://investors.broadcom.com/financial-information/financial-reports">investors. broadcom .com/financial-information/financial- reports</a></li>
-<li><a href="https://www.fool.com/investing/2026/04/02/why-micron-stock-is-falling-today/">Why Micron Stock Is Falling Today | The Motley Fool</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Integrated_circuit_packaging">Integrated circuit packaging - Wikipedia</a></li>
+<li><a href="https://www.memsf.com/chanpinredian/Detailed-steps-of-chip-packaging-test-process">Detailed steps of chip packaging test process</a></li>
+<li><a href="https://top-seiko.com/news/12985/">Packaging, Test & Assembly Process Overview</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#stock market`, `#Broadcom`, `#Micron`
+**Tags**: `#semiconductor`, `#chip packaging`, `#manufacturing`, `#China`
 
 ---
 
 <a id="item-63"></a>
-## [TSMC Chairman Hints at Price Hike, Criticizes Memory Chip Surge](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9aX0djX19JY3R4WjEwdkdDRzZsSV9neW1BU3BQLUtGazJEU2Q3a3RkOUZ1d3o3RHZaa1FXbWh6Slg1cnJaX2stVg?oc=5) ⭐️ 5.0/10
+## [South Korea's AI Boom: GPU, Robotics, Semiconductors, Auto](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HT3piVlJ3VWEzS3pfLTEwZ2x2Y2xaOHFxbGN2V2dKZ1V4VjNkNnVENTlvNXFWS2h2OExtQ0lseHBqYmhyUkxkQjhmTXpkS0EweU9FeGRR?oc=5) ⭐️ 5.0/10
 
-TSMC Chairman C.C. Wei hinted at upcoming price increases for the company's foundry services, while criticizing memory chip makers for raising prices by up to four times, calling such moves excessive and lacking dignity. This signals potential cost increases for TSMC's customers, including Apple and NVIDIA, and reflects TSMC's strategy to maintain profitability amid rising demand for advanced chips, while contrasting its pricing approach with that of memory chip makers. Wei did not specify the exact magnitude or timing of TSMC's price increases, but noted that the company aims to be 'dignified' in its pricing, unlike the 'ugly' fourfold hikes seen in memory chips. TSMC recently announced a $100 billion investment in U.S. factories.
+South Korea is experiencing a simultaneous surge in AI-related investments across GPU computing, robotics, semiconductors, and automotive manufacturing, as reported by B2B news outlet Ebrun. The trend indicates a broad-based push to integrate AI into multiple industrial sectors. This coordinated investment across key industries signals South Korea's ambition to become a global AI powerhouse, potentially accelerating innovation in autonomous driving, smart manufacturing, and AI chip design. The move could reshape global supply chains and intensify competition with other tech leaders. The report highlights that GPU, robotics, semiconductor, and automotive sectors are all entering the AI race simultaneously, though specific investment figures or company names are not disclosed. The news suggests a strategic alignment between government policies and private sector initiatives.
 
-rss · Google News - 半导体芯片 · Jun 5, 05:16
+rss · Google News - 半导体芯片 · Jun 5, 07:58
 
-**Background**: TSMC is the world's largest dedicated semiconductor foundry, producing chips for major companies like Apple, NVIDIA, and AMD. Memory chip prices, particularly DRAM and NAND, have surged recently due to AI-driven demand, with Samsung reportedly raising prices by up to 60%.
+**Background**: South Korea has long been a leader in semiconductors and electronics, with companies like Samsung and SK Hynix dominating memory chip production. In recent years, the government has announced plans to invest heavily in AI and robotics to maintain competitiveness. The convergence of AI with automotive manufacturing is also a global trend, with autonomous driving and smart factories relying on advanced AI chips and robotics.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://askai.glarity.app/search/Who-is-Wei-Zhejia--C-C--Wei">Who is Wei Zhejia (C.C. Wei )? - Ask and Answer - Glarity</a></li>
-<li><a href="https://biz.chosun.com/en/en-it/2025/03/04/YK44DZ3YN5FV7PURW5WCGYWFWE/">TSMC builds more U.S. factories under Trump pressure... - CHOSUNBIZ</a></li>
-<li><a href="https://telecom.economictimes.indiatimes.com/news/devices/samsung-hikes-memory-chip-prices-by-up-to-60-as-shortage-worsens/125323606">Samsung Electronics: Samsung hikes memory chip prices by up to...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#TSMC`, `#semiconductor`, `#pricing`, `#chip industry`
+**Tags**: `#AI`, `#South Korea`, `#semiconductors`, `#robotics`, `#automotive`
 
 ---
 
 <a id="item-64"></a>
-## [Asian Chip Giants Face Passive Stake Reductions](https://news.google.com/rss/articles/CBMiswJBVV95cUxQNEFUeWtlM1NiR2x5Q0JjTTNJSHhELTllV3plM0U0TkdkRFAxc09oek1LN3Q3ajRpMTREYVQwNl9IR25laGxOa0RtYUg2UVFkQmFhTUlOdGtIa2lJY1BOWFhfWm1iY2tiNXlDRTF5UmQ4cW5FOTNHSzBjYmdBbDBfNlh4cjE5MFAyVFowUlpxQjNPYVFGTFNxM3YxTU8yNnlWV3dWSy1rVHZkVTlDUmM1VmVydmFBNW5OQ0xIdVZIUEVRSmNsVkdPd1F0S21PUEM3b285UlJBMDB6QkRCdTE5Z3ZPNm9HRkNQbzV4MHdlSVpZLUtZNEVNeHp3dWxNMmFibmtJUjdOUHA3bWVnT2lENlFNSVR5UzBwN1BIbVptSEdtOUNoVk5Rbmt5U1lCWmZWcFZV?oc=5) ⭐️ 5.0/10
+## [US Scholar: Huawei Can Achieve 1.4nm Without EUV](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DS3JlUVA3YlhCMWhRTXgwbWVxczZtdk12U1hLTU5rSWNQLV9oMng1VjhQR3dOcmFEbzZucjhSdXgzV1VUTXBQQ2MxbUdpYS1hTnhwUzUwLXc?oc=5) ⭐️ 5.0/10
 
-Asian chip giants TSMC, Samsung, and SK Hynix are experiencing passive reductions in their stakes as investors shift capital to other sectors. This shift signals a potential cooling of investor enthusiasm for the semiconductor sector, which could impact funding for future chip development and influence global supply chain dynamics. The passive reductions are driven by index rebalancing and fund redemptions rather than active selling, and the capital is reportedly moving toward AI and renewable energy stocks.
+A US chip scholar interprets 'Tao's Law' as making it feasible for Huawei to bypass EUV lithography and achieve an equivalent 1.4nm process. The claim was reported by Chinese tech news site MyDrivers. If true, this could break the monopoly of EUV lithography and reshape the global semiconductor landscape, especially for Chinese companies facing export restrictions. It challenges the traditional scaling path defined by Moore's Law. Tao's Law, proposed by Huawei in May 2026, focuses on 'time scaling' rather than geometric scaling, potentially increasing transistor density without requiring advanced EUV tools. The equivalent 1.4nm process is based on this new paradigm.
 
-rss · Google News - 半导体芯片 · Jun 5, 03:18
+rss · Google News - 半导体芯片 · Jun 5, 07:24
 
-**Background**: Passive stake reduction occurs when institutional investors or index funds automatically adjust holdings due to changes in index composition or fund flows, without active decision-making. The three chip giants—TSMC, Samsung, and SK Hynix—are dominant players in semiconductor manufacturing and memory chips.
+**Background**: EUV (extreme ultraviolet) lithography is essential for manufacturing advanced chips at nodes below 7nm, but its supply is restricted to China. Tao's Law proposes alternative methods to improve chip performance through temporal optimization, potentially using existing DUV tools.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.podms.com/p20210622002212.html">ST...</a></li>
+<li><a href="https://ee.ofweek.com/2026-06/ART-8110-2801-30689213.html">火遍全网的 韬 定 律 ，有三大局限 |人人能懂的产业报告 - OFweek...</a></li>
+<li><a href="https://user.guancha.cn/main/content?id=1659666&s=fwtjgzwz">user.guancha.cn/main/content?id=1659666&s=fwtjgzwz</a></li>
+<li><a href="https://news.qq.com/rain/a/20260525A08UKA00">华为正式发布 韬 定 律 ，半导体界迎来新法则_腾讯新闻</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductor`, `#investment`, `#Asia`, `#chip stocks`
+**Tags**: `#semiconductor`, `#Huawei`, `#lithography`, `#chip manufacturing`
 
 ---
 
 <a id="item-65"></a>
-## [Micron Joins Trillion-Dollar Club: Memory Trio All Hit Milestone](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ibHZCUHpoX0NmejgyYWEyLUc4NG9VcTNZZEhtNWpSTzNzSUhzTXhXVUk1UjhmeXpFVWJXeVBjek5EdG5BQXdDNWpFOVh2d005M3dr?oc=5) ⭐️ 5.0/10
+## [Solar PV Shifts to Storage, AI, and Space](https://news.google.com/rss/articles/CBMiZEFVX3lxTE93eXdseU5UWjdIS0VUM1ZoRlUyRkV1b1I1b0V3TDFkM0tQeE9qbmM0ZXVpZ1Q1QUVPRHl1S05NVF9xNURoN2o3a3pCeVh6NlF2YnVwV2p1RllsZ3VCV0l5YzhIUko?oc=5) ⭐️ 5.0/10
 
-Micron Technology has become the third memory chipmaker to reach a market capitalization of over $1 trillion, joining Samsung and SK Hynix in the 'trillion club' of memory giants. This milestone underscores the booming demand for memory chips driven by AI and data center growth, solidifying the dominance of the top three players and signaling a golden era for the storage industry. The trillion-dollar valuation reflects Micron's strong performance in HBM (High Bandwidth Memory) and DRAM markets, though the company still trails Samsung and SK Hynix in overall market share.
+The solar photovoltaic industry is moving beyond selling components to integrating energy storage, AI, and space technologies, which is changing the valuation logic of the sector. This shift signals a maturation of the solar industry, where value creation now depends on system integration and new applications, potentially attracting different investors and accelerating renewable energy adoption. The article highlights that energy storage is becoming a core component, AI is optimizing grid management and predictive maintenance, and space-based solar power is emerging as a long-term frontier.
 
-rss · Google News - 半导体芯片 · Jun 4, 12:30
+rss · Google News - 新能源 · Jun 5, 07:36
 
-**Background**: The memory chip industry is dominated by three players: Samsung, SK Hynix, and Micron. They control the vast majority of the DRAM and NAND flash markets. Recently, AI demand has fueled a surge in high-value memory products like HBM, boosting revenues and market caps.
+**Background**: Traditionally, solar companies were valued primarily on panel manufacturing and sales. However, as solar penetration increases, the need for storage and smart management grows, and space-based solar power offers potential for continuous energy collection.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.163.com/dy/article/KUD976UK051983MB.html">163.com/dy/article/KUD976UK051983MB.html</a></li>
-<li><a href="https://emwap.eastmoney.com/">东方财富网</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#semiconductors`, `#memory`, `#Micron`, `#industry news`
+**Tags**: `#solar energy`, `#energy storage`, `#AI`, `#space technology`, `#industry trends`
 
 ---
 
 <a id="item-66"></a>
-## [Sodium-ion battery storage industry accelerates](https://news.google.com/rss/articles/CBMiZEFVX3lxTE14NXc4emxkSkdfVVF1WGVqekVoaEFnelVyV1BIdUxJUWpBckxTNDZybHhJSVpOSVhrdHVQLWhJRVVFWVpsME9aUG9vUDhwamUyeFdZVkE3SFpOY1hlOVhKMGZnOE0?oc=5) ⭐️ 5.0/10
+## [UL Solutions Launches Large-Scale BESS Fire Testing](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zdmNxYlNJYUZRX3J6VFA4WjRPelpYY1JYQmdhTjFuY0xEaU9PTFlBeTZxOEo4S1BMaXFSSHNlYmZjNmk3MlAtTjZMMTdFdkFuXzdhUg?oc=5) ⭐️ 5.0/10
 
-The sodium-ion battery storage industry is accelerating with material cost reductions, order fulfillment, and expanded applications, as reported by Beijing News. This acceleration could make sodium-ion batteries a cheaper and more sustainable alternative to lithium-ion batteries for large-scale energy storage, reducing reliance on scarce lithium resources. Sodium-ion battery shipments in China exceeded 2 GWh in 2024, up from 0.7 GWh in 2023, with energy storage accounting for 60% of the market in 2023.
+UL Solutions has launched a new large-scale fire testing service for battery energy storage systems (BESS), designed to evaluate realistic worst-case fire scenarios under the revised UL 9540A standard. As BESS deployments grow larger and closer to populated areas, this testing helps ensure safety and prevent catastrophic fires, providing critical data for regulators, insurers, and system integrators. The testing involves initiating a fire within a BESS enclosure to observe fire spread between battery units and potential ignition of nearby structures, following the installation-level testing requirements of UL 9540A.
 
-rss · Google News - 新能源 · Jun 5, 04:52
+rss · Google News - 新能源 · Jun 5, 06:55
 
-**Background**: Lithium-ion batteries dominate energy storage but face issues with uneven lithium distribution and rising costs. Sodium-ion batteries use abundant sodium, offering lower material costs and faster charging (up to 90% in 12 minutes).
+**Background**: Battery energy storage systems are critical for renewable energy integration but pose fire risks due to lithium-ion battery thermal runaway. UL 9540A is a standard for evaluating fire propagation in BESS, and large-scale testing provides more realistic safety validation than smaller-scale tests.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/pulse/sodium-ion-battery-applications-energy-storage-2025-potential-zhao-ztb2c">Sodium - Ion Battery Applications in Energy Storage in 2025...</a></li>
-<li><a href="https://www.tycorun.com/blogs/news/sodium-ion-battery-advantages-challenges-and-development-directions">Sodium - ion battery advantages, challenges and development directions</a></li>
-<li><a href="https://www.kmdpower.com/news/sodium-ion-battery-applications-and-advantages/">Sodium Ion Battery Applications and Advantages</a></li>
+<li><a href="https://www.ul.com/thecodeauthority/knowledge/unlock-compliance-excellence-battery-energy-storage-systems">Unlock Compliance Excellence in Battery Energy ... | UL Solutions</a></li>
+<li><a href="https://www.fsmatters.com/UL-Solutions-launches-BESS-fire-testing-regime">FSM - UL Solutions launches large-scale fire testing for Battery ...</a></li>
+<li><a href="https://fireandsafetyjournalamericas.com/ul-solutions-fire-testing/">How UL Solutions fire testing prevents energy storage catastrophes</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#sodium-ion batteries`, `#energy storage`, `#clean energy`, `#battery technology`
+**Tags**: `#battery safety`, `#energy storage`, `#testing`, `#UL`
 
 ---
 
 <a id="item-67"></a>
-## [April Energy Storage Bidding Surges 132% to 85.3GWh](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVV81V3ZBdzJXSmNvWGZFQ1lHWlZKTXl4R29NM0ROLXpNZ3lIeEk0c3pKTHBNcjFhZkM2OXF5YW12NHE0VVRKeEliaG1Xdm1fd2ttUVJTMDBMTGNwVHNLLWNSQjhpUHVUaDJNcjZJNkczaWtmM055WUI5QkdfZkFMTHJPTFBjY0lOTWJSR1k1OA?oc=5) ⭐️ 5.0/10
+## [April Energy Storage Bidding Surges 132% to 85.3 GWh](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVV81V3ZBdzJXSmNvWGZFQ1lHWlZKTXl4R29NM0ROLXpNZ3lIeEk0c3pKTHBNcjFhZkM2OXF5YW12NHE0VVRKeEliaG1Xdm1fd2ttUVJTMDBMTGNwVHNLLWNSQjhpUHVUaDJNcjZJNkczaWtmM055WUI5QkdfZkFMTHJPTFBjY0lOTWJSR1k1OA?oc=5) ⭐️ 5.0/10
 
-In April, China's energy storage bidding volume reached 85.3 GWh, a 132% increase year-over-year, signaling strong market momentum. This surge indicates accelerating deployment of energy storage, crucial for integrating renewable energy and stabilizing the grid, and highlights key industry trends for investors and policymakers. The article identifies five key signals from the bidding data, including shifts in technology preferences, regional distribution, and project scale, though specific details are not provided in the snippet.
+In April, China's energy storage bidding volume reached 85.3 GWh, a 132% increase year-over-year, signaling robust market growth. This surge indicates accelerating deployment of energy storage systems, crucial for integrating renewable energy and stabilizing the grid. The article highlights five key market signals, including policy support, cost reductions, and increased participation from various sectors.
 
 rss · Google News - 新能源 · Jun 5, 04:18
 
-**Background**: Energy storage systems, such as batteries, store excess energy from renewables like solar and wind for later use, helping to balance supply and demand. Bidding volumes are a leading indicator of future installations and industry health.
+**Background**: Energy storage systems store electricity for later use, helping balance supply and demand. GWh (gigawatt-hour) is a unit of energy equal to one billion watt-hours. Bidding volumes reflect planned projects and investment intentions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.mercomindia.com/powergrid-tenders-3-gwh-battery-storage-projects-in-west-bengal">POWERGRID Tenders 3 GWh Battery Storage Projects in West Bengal</a></li>
-<li><a href="https://blog.fluenceenergy.com/beating-bidding-benchmark-evolving-energy-storage">Beating the Benchmark: Evolving Energy Storage Bidding in the US</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kilowatt-hour">Kilowatt-hour - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#energy storage`, `#renewable energy`, `#bidding`, `#industry trends`
+**Tags**: `#energy storage`, `#renewable energy`, `#market analysis`, `#bidding`
 
 ---
 
 <a id="item-68"></a>
-## [Solar Firms Shift to Integrated Energy Services, Computing-Electricity Key](https://news.google.com/rss/articles/CBMiXkFVX3lxTE14QU5JaTJIU2VLTXBSUmhocUFDcWpNU2tRRTdmbDBDSlhfN1NtLUFUOFlNekJVU01OUXNnMkxlX19oNnd3OXM3VGRwbVhRQy1Ia2k2dVZ5NU9BS2xYNEE?oc=5) ⭐️ 5.0/10
+## [Sodium-ion Battery Storage Industry Accelerates](https://news.google.com/rss/articles/CBMiZEFVX3lxTE14NXc4emxkSkdfVVF1WGVqekVoaEFnelVyV1BIdUxJUWpBckxTNDZybHhJSVpOSVhrdHVQLWhJRVVFWVpsME9aUG9vUDhwamUyeFdZVkE3SFpOY1hlOVhKMGZnOE0?oc=5) ⭐️ 5.0/10
 
-Chinese solar photovoltaic companies are collectively transitioning into integrated energy service providers, with computing-electricity collaboration (算电协同) emerging as a critical competitive area. This shift reflects the growing integration of renewable energy with digital infrastructure, as AI and data centers drive surging electricity demand. It positions solar firms to capture value beyond power generation, aligning with China's new infrastructure strategy. The concept of computing-electricity coordination was first introduced in China's 2026 Government Work Report as a key new infrastructure initiative. The goal is to build an integrated development model combining new energy, energy storage, and data centers.
+The sodium-ion battery energy storage industry is accelerating with material cost reductions, confirmed orders, and expanding applications, as reported by Beijing News. This progress could reduce reliance on lithium, lower energy storage costs, and enable broader adoption of renewable energy storage, especially in large-scale grid applications. Recent developments include over 20 GWh of sodium-ion battery production capacity being announced across China, and a partnership between Sinopec and LG Chem to develop key materials.
 
-rss · Google News - 新能源 · Jun 5, 00:06
+rss · Google News - 新能源 · Jun 5, 04:52
 
-**Background**: Integrated energy service providers offer a range of energy solutions including generation, storage, management, and efficiency services, rather than just selling electricity. Computing-electricity collaboration refers to coordinating the operation of computing infrastructure (like data centers) with renewable energy supply to optimize costs and grid stability.
+**Background**: Sodium-ion batteries are similar to lithium-ion batteries but use sodium, which is abundant and cheap, instead of lithium. They are emerging as a cost-effective alternative for energy storage, though they have lower energy density. The industry has recently seen significant investment and production scale-up.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://grokipedia.com/page/Computing-power_electricity_coordination">Computing-power electricity coordination</a></li>
-<li><a href="https://solar.in-en.com/html/solar-2458585.shtml">AI尽头是能源， 算 电 协 同 重塑万亿级 电 力需求！ -国际太阳能光伏网</a></li>
-<li><a href="https://mcn.solarbe.com/news/20260508/50022688.html">算 电 协 同 进行时：海博思创的布局与思考-碳索储能网</a></li>
+<li><a href="https://ciac.cas.cn/xwdt/kxcb/202509/P020250911306490467597.pdf">Image bymaniacvector on Freepik</a></li>
+<li><a href="https://mcn.solarbe.com/news/20251114/50012590.html">超20GWh！ 钠 离 子 电 池 迎建产高峰，储能系统又要降价了？ -碳索储能网</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#solar energy`, `#energy services`, `#computing-electricity collaboration`, `#industry trend`
+**Tags**: `#sodium-ion batteries`, `#energy storage`, `#battery technology`, `#clean energy`
 
 ---
 
 <a id="item-69"></a>
-## [Tongwei CTO: Solar Ceiling Far Off, AI to Boost Power Demand](https://news.google.com/rss/articles/CBMieEFVX3lxTE5WLWF1cWt1bENfc0w1Q2Z6ejJkVHVWODlsRXoxaVk5RlNNeHlvMkowV3V3SjZLeF9Cd1lQUVp0b0dQMld3V0EtMXJTZU9OUjlsSDlGVnBIRnEtRHJEZkxnbHA1ZFMxVF9vVUNfSTNYaUlIc1Bva1RUTA?oc=5) ⭐️ 5.0/10
+## [Suqian Times Energy Wins 10MW/60MWh Iron-Chromium Project Bid](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mekZCSzNIdUQtdl92bjJLaHdqMk5CcXBYN3BZdWY3SF9nRF9xYW1DV2w2VnZQS2t0cDkxYS0wRjdCTEJseE9MMWxuVzRQQ3pyc1R1MA?oc=5) ⭐️ 5.0/10
 
-At SNEC 2026, Tongwei Co. CTO Xing Guoqiang stated that the solar photovoltaic industry's growth ceiling is far from being reached, and that the rise of AI and computing power will generate enormous electricity demand, further driving solar adoption. This perspective highlights the long-term growth potential of solar energy, especially as AI and data centers become major electricity consumers, reinforcing the need for massive renewable energy deployment. Xing noted that crystalline silicon technology will remain dominant for the next 3-5 years, with core breakthroughs expected in efficiency and cost reduction. SNEC 2026 is scheduled for June 3-5 in Shanghai.
+Suqian Times Energy Storage has won a bid for a 10MW/60MWh iron-chromium battery energy storage project from State Power Investment Corporation Beijing Herui Energy Storage. This project demonstrates the growing commercial adoption of iron-chromium flow batteries, a promising long-duration energy storage technology that uses abundant and low-cost materials. The project has a power rating of 10MW and an energy capacity of 60MWh, providing 6 hours of storage duration. Iron-chromium batteries are a type of flow battery that stores energy in liquid electrolytes.
 
-rss · Google News - 新能源 · Jun 5, 03:46
+rss · Google News - 新能源 · Jun 5, 07:28
 
-**Background**: SNEC is one of the world's largest photovoltaic exhibitions, held annually in Shanghai. Tongwei Co. is a leading Chinese solar manufacturer. AI and computing infrastructure, such as data centers, are rapidly increasing global electricity consumption, creating new demand for clean energy sources like solar.
+**Background**: Iron-chromium flow batteries use iron and chromium ions in an aqueous electrolyte to store and release energy. They are considered safer and more environmentally friendly than lithium-ion batteries, with longer cycle life and lower material costs, making them suitable for grid-scale stationary storage.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://snec-pv.com/channel/about_snec">Exhibition | SNEC PV+</a></li>
-<li><a href="https://www.tongwei.com/news/detail/169687.html">Xinhua News Agency's "Dialogue with Light Chasers" | Xing Guoqian...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Iron">Iron - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#solar energy`, `#AI`, `#electricity demand`, `#renewable energy`
+**Tags**: `#energy storage`, `#iron-chromium battery`, `#project bid`, `#renewable energy`
 
 ---
 
 <a id="item-70"></a>
-## [Low Bids and High Risks Threaten India's Energy Storage Ambitions](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aVzE5b1R4VURsM2Q4R2FKZEstT19VaGhrS2pVSlIzUkRRS0N3anNmaHE5U3NpMTVRT29MZENndk9mVFA2LS13SFZKY2NkRFVlXzl4YQ?oc=5) ⭐️ 5.0/10
+## [Solar-Storage-AI Integration Cuts Industrial Park Energy Costs by 15%](https://news.google.com/rss/articles/CBMieEFVX3lxTFBCTUpsZmtuV25RSVZQc2I3RXlVMFNOVW9YcnZsOVZ0VUVhNnVFTkRIbThFZkhpWXFLU3hsTlZ3alZvZ2pIRTU1alJXZlRpQzBrMThvNVQyY0hnanhlZU9BbTF2M0pDUlNqQnRFdnVSSUtodFlLdHVYQw?oc=5) ⭐️ 5.0/10
 
-The article reports that abnormally low bidding prices and high execution risks are undermining India's energy storage ambitions, potentially slowing the country's renewable energy integration. This matters because India's ambitious renewable energy targets depend on cost-effective and reliable energy storage; persistent low-bid practices could lead to project failures and deter investment. The article highlights that extremely low bids, such as 0.495 yuan/Wh for a storage system in China, set unrealistic benchmarks that increase execution risks, including quality and safety concerns.
+The article reports that integrating AI agents with solar photovoltaic and energy storage systems is becoming a trend, achieving at least a 15% reduction in energy costs for industrial and commercial parks. This integration represents a practical application of AI in the energy sector, potentially accelerating the adoption of renewable energy and improving energy efficiency for large-scale users. The AI agent optimizes energy usage by analyzing real-time data from solar generation, storage status, and consumption patterns, enabling dynamic load management and peak shaving.
 
-rss · Google News - 新能源 · Jun 5, 03:31
+rss · Google News - 新能源 · Jun 5, 08:56
 
-**Background**: Energy storage is critical for integrating variable renewable sources like solar and wind into the grid. India has set a target of 500 GW of renewable energy capacity by 2030, requiring massive storage deployment. However, aggressive bidding in auctions often leads to prices that are too low to ensure project viability, risking delays or defaults.
+**Background**: Industrial parks often face high electricity costs due to peak demand charges. Solar-plus-storage systems can reduce grid reliance, but their effectiveness depends on intelligent control. AI agents can learn usage patterns and weather forecasts to optimize charging/discharging schedules, further cutting costs.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://mcn.solarbe.com/news/20240809/90051.html">7月 储 能 招 中 标 数据出炉，框采与 低 价 成两大关键词-碳索 储 能 网</a></li>
+<li><a href="https://www.energy-storage.news/ai-is-a-critical-differentiator-for-energy-storage-system-success/">AI is a critical differentiator for energy storage ... - Energy- Storage .News</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#energy storage`, `#India`, `#market risk`, `#renewable energy`
+**Tags**: `#solar energy`, `#AI`, `#energy storage`, `#industrial parks`
 
 ---
 
 <a id="item-71"></a>
-## [HYXI Proposes AI-Native Energy Autonomy at SNEC 2026](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlemtZSkdJZXphQTFUa1k5TVlrTE5VcUlVdXFvWlVlVXRDWlEwRTREMHJ2ME42YWlieHgwbUdfZlJIRnlBVFFrNkd6MlRGVzAwclNXM3FaUEloSlE?oc=5) ⭐️ 5.0/10
+## [AI Agents Take Center Stage at SNEC PV Expo](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPb0RvcHdtVDVieFlxU0tJTmF6T2l4RFY5a1d2Q1dlZ0ZVUG5KMnd3aE5ydWlUeGRIVEdxNzRzSDFsTVNGUURWTg?oc=5) ⭐️ 5.0/10
 
-At SNEC 2026, HYXI (Huayu Xin) introduced the concept of 'AI-native energy autonomy' and showcased its AI-native smart energy ecosystem, aiming to reshape the value growth logic for solar and storage. The company also signed strategic cooperation agreements with global partners including BM Energy, Solarever, Vision Grid Solutions, and Longshine Technology. This announcement signals a shift toward AI-driven autonomous energy systems, which could enhance efficiency, reliability, and profitability in solar and storage. It reflects a broader industry trend of integrating AI into renewable energy management, potentially accelerating the adoption of smart grids and microgrids. The AI-native energy autonomy concept leverages AI agents for full-domain optimization, from generation to consumption. HYXI's ecosystem includes digital twins and microgrid autopilot capabilities, aiming for fully autonomous energy operations.
+At the SNEC photovoltaic exhibition, AI agents emerged as a central theme, highlighting the growing integration of artificial intelligence with solar energy. The event also underscored the challenges of computing-electricity synergy, where AI's computational demands must be balanced with renewable energy supply. This signals a paradigm shift where AI is not just a user of energy but an active participant in energy management, potentially optimizing grid operations and renewable energy usage. The focus on computing-electricity synergy is critical as AI's energy consumption grows, making efficient coordination between computing and power grids essential for sustainable AI development. The concept of computing-electricity synergy involves transforming computing facilities from passive power consumers to active participants that interact with the grid in real-time. This approach was first formally proposed in China's 2023 policy document on the 'East Data West Computing' project, and was included in the 2026 Government Work Report as part of new infrastructure.
 
-rss · Google News - 新能源 · Jun 5, 01:54
+rss · Google News - 新能源 · Jun 5, 11:24
 
-**Background**: SNEC is one of the world's largest photovoltaic exhibitions, held annually in Shanghai. AI-native energy autonomy refers to energy systems where AI is deeply integrated from the ground up, enabling self-optimization and autonomous decision-making without human intervention. This approach contrasts with traditional AI add-ons that merely assist human operators.
+**Background**: AI agents are intelligent systems capable of autonomous thinking and action, often powered by large language models to understand and execute tasks. Computing-electricity synergy refers to the coordinated optimization of computing resources and power grids, aiming to match AI's growing computational demand with green energy supply. The SNEC exhibition is a major global photovoltaic event, traditionally focused on solar technology, but now increasingly featuring AI and energy integration.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.thailand-business-news.com/pr-news/hyxi-unveils-ai-native-energy-autonomy-at-snec-2026">HYXI Unveils AI - Native Energy Autonomy ... - Thailand Business News</a></li>
-<li><a href="https://www.nacleanenergy.com/alternative-energies/sigenergy-launches-sigenagent-the-world-s-first-ai-powered-full-domain-agent-for-renewable-energy">North American Clean Energy - Sigenergy Launches SigenAgent, the...</a></li>
-<li><a href="https://snec-pv.com/channel/about_snec">Exhibition | SNEC PV+</a></li>
+<li><a href="https://stock.stockstar.com/SS2026031100018979.shtml">算 电 协 同 爆火的背后：为 算 力和绿 电 寻找最优解_股票频道_证券之星</a></li>
+<li><a href="https://solar.in-en.com/html/solar-2458585.shtml">AI尽头是能源， 算 电 协 同 重塑万亿级 电 力需求！ -国际太阳能光伏网</a></li>
+<li><a href="http://union.china.com.cn/cmdt/txt/2025-02/07/content_43024276.html">人工 智 能 体 产业风口已至_中国网</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#renewable energy`, `#solar`, `#energy storage`
+**Tags**: `#AI`, `#energy`, `#photovoltaic`, `#computing`
 
 ---
 
 <a id="item-72"></a>
-## [Why Solar Giants Struggle in Energy Storage](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTXU0UjZwQnRVZ1plc3h5dFBza1otdVUzbVpVU2ZURURITzV2OGcxWE9tSGhXbVdkX3N0NjU1V2p6Ui1tZUJUT1llYlZ0OGdPZ01XdVh1RENQYnBmN2dESW9yeW84UnFCRG1lY20yeXlFZlhRc3NsdFNTcFd6ckYwY1dqdGkwV000?oc=5) ⭐️ 5.0/10
+## [TÜV SÜD and SJTU Release 2026 China Perovskite PV White Paper](https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zVkI2QmF6TEItMlAtNFpPT0VlZ2lLakltMU94NXRpaXl1TjRWWmlwZmdtY1B0ZG1qTmdXVy1IX0lSbi1xV3FIaW1YZ3prRUtfajV6aDJzUQ?oc=5) ⭐️ 5.0/10
 
-A recent analysis reveals that major Chinese solar companies, including Trina Solar and Jinko Energy, are facing significant losses in their energy storage businesses, with Trina Solar losing nearly 7 billion yuan and Jinko Energy losing over 6.7 billion yuan. This highlights the difficulty for solar giants to diversify into energy storage, a critical sector for renewable energy integration, and underscores the competitive challenges in China's rapidly evolving energy storage market. Despite the overall growth of the energy storage market, solar companies are struggling due to intense price competition, high initial investment costs, and technological hurdles. For instance, module prices have dropped to 0.7 yuan per watt, squeezing margins.
+TÜV SÜD and Shanghai Jiao Tong University's Solar Energy Research Institute jointly released the '2026 China Perovskite Photovoltaic Technology Quality Development White Paper' on March 24, 2026. This white paper provides authoritative guidance on quality standards for perovskite photovoltaics, a promising next-generation solar technology, which could accelerate its commercialization and deployment in China. The white paper focuses on quality development aspects such as stability, efficiency, and manufacturing processes for perovskite solar cells, and is based on joint research by TÜV SÜD and SJTU.
 
-rss · Google News - 新能源 · Jun 5, 00:09
+rss · Google News - 新能源 · Jun 5, 08:26
 
-**Background**: Solar energy and energy storage are complementary technologies, as storage helps address the intermittency of solar power. Many solar companies have expanded into storage to offer integrated solutions, but the storage market is highly competitive with thin margins and requires different expertise.
+**Background**: Perovskite solar cells are a type of solar technology built around crystals with a perovskite structure, offering high efficiency and low production costs. TÜV SÜD is a German technical inspection and certification organization, and Shanghai Jiao Tong University is a leading Chinese research university. The white paper aims to set quality benchmarks for the emerging perovskite photovoltaic industry in China.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://36kr.com/p/3706783191331331">36kr.com/p/3706783191331331</a></li>
-<li><a href="https://mcn.solarbe.com/news/20250610/50002948.html">mcn.solarbe.com/news/20250610/50002948.html</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Perovskite">Perovskite - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#solar energy`, `#energy storage`, `#renewable energy`, `#business analysis`
+**Tags**: `#perovskite`, `#photovoltaics`, `#solar energy`, `#white paper`, `#China`
 
 ---
 
 <a id="item-73"></a>
-## [Solar Giants Race for 28%+ BC Cell Efficiency Amid Losses](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEsyb2NIeWN3bnZuTTNxTzJfWmU1U2ZrWkJXNDRkOHY5S005bTZTTzhMV1RaOXhEUkJtZWVlVDFpQzBvdVd2aGZVRWFFQjZDTnBjSmNwUTMxS2pxc1pVQlc5OU1odXZacHRjeW9FTExka1oweGQycTZoX2xZVDRaeWRzWEZxNVN4?oc=5) ⭐️ 5.0/10
+## [Tongwei CTO: Solar growth far from peak, AI to boost power demand](https://news.google.com/rss/articles/CBMieEFVX3lxTE5WLWF1cWt1bENfc0w1Q2Z6ejJkVHVWODlsRXoxaVk5RlNNeHlvMkowV3V3SjZLeF9Cd1lQUVp0b0dQMld3V0EtMXJTZU9OUjlsSDlGVnBIRnEtRHJEZkxnbHA1ZFMxVF9vVUNfSTNYaUlIc1Bva1RUTA?oc=5) ⭐️ 5.0/10
 
-Major Chinese solar photovoltaic companies are competing to achieve back-contact (BC) cell conversion efficiency above 28%, driven by industry-wide financial losses and the need for asymmetric competition. This efficiency race could reshape the solar industry by pushing technological boundaries, potentially leading to lower levelized cost of electricity and accelerating renewable energy adoption, while also intensifying market consolidation. BC cell technology, including variants like ABC and TBC, is considered the most differentiated path within N-type cell technology, with the 28% threshold representing a significant milestone beyond current commercial efficiencies around 26-27%.
+At the SNEC 2026 conference, Tongwei CTO Xing Guoqiang stated that the ceiling for solar energy development is far from being reached, and that AI and computing power will drive massive electricity demand. This perspective highlights the long-term growth potential of the solar industry, especially as AI and data centers increase global energy consumption, positioning solar as a key solution. Xing Guoqiang made the remarks at the SNEC conference, a major global PV exhibition. He emphasized that solar energy will play a crucial role in meeting the rising power demands from AI and computing infrastructure.
 
-rss · Google News - 新能源 · Jun 5, 05:18
+rss · Google News - 新能源 · Jun 5, 03:46
 
-**Background**: Back-contact (BC) solar cells move all electrical contacts to the rear of the cell, eliminating front-side shading and increasing light absorption. This design allows higher efficiency but requires more complex manufacturing. The industry is currently facing overcapacity and losses, prompting companies to seek technological differentiation.
+**Background**: Tongwei Company is a major Chinese manufacturer of photovoltaic products, including high-purity crystalline silicon, cells, and modules. SNEC is one of the world's largest and most professional PV exhibitions, covering the entire industry chain. The rapid growth of AI and data centers is expected to significantly increase global electricity demand, creating new opportunities for renewable energy sources like solar.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.solarbeglobal.com/bc-back-contact-battery-technology-a-breakthrough-in-solar-power-generation/">BC (Back-Contact) Cell Technology : A Breakthrough in Solar Power...</a></li>
-<li><a href="https://www.chintiyansolar.com/news-detail/90.html">What is a BC Cell ?-Stringer Machine_IV Tester_solar panel making...</a></li>
-<li><a href="https://fourweekmba.com/asymmetric-competition-how-david-beats-goliath-in-modern-business/">Asymmetric Competition : How David Beats Goliath... - FourWeekMBA</a></li>
+<li><a href="https://pv.snec.org.cn/channel/about_snec1?locale=en-US">Overview - SNEC</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tongwei_Company">Tongwei Company - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#solar energy`, `#photovoltaics`, `#renewable energy`, `#industry news`
+**Tags**: `#solar energy`, `#AI`, `#power demand`, `#renewable energy`
 
 ---
 
 <a id="item-74"></a>
-## [VibeOS: A Fully Hallucinated Operating System](https://www.reddit.com/r/LocalLLaMA/comments/1twpv8r/vibeos_fully_hallucinated_operating_system/) ⭐️ 5.0/10
+## [China's New Energy Vehicle Retail Penetration Hits Record 63%](https://news.google.com/rss/articles/CBMibkFVX3lxTE14Zy04NDhrRWRmRkk3VVpyT2ozTFNlR0pnaWxCZWpFbXB4YnpfYS1reno5WnBCUG9wVlVGMm9nVWh0YVhjNUg2ZHM0U3NrVGdCNkZhbjdDYnY0ejZ5Q1c1YnJFdlFnYU1Cbmhnc0lR?oc=5) ⭐️ 5.0/10
 
-A Reddit post introduces VibeOS, a fully hallucinated operating system that replaces traditional programming by generating all code and system responses using an LLM. This concept explores the radical idea of an AI-native OS, potentially challenging fundamental assumptions about software reliability and the role of human programmers. VibeOS is distributed as a ~1.3 GB VHDX image and runs in a virtualized environment like Microsoft Hyper-V, with all commands routed through an LLM via LiteLLM.
+New energy passenger vehicle retail penetration in China reached a new record of 63% in the latest period, according to a report by China Economic Net. This milestone indicates that new energy vehicles (NEVs) are rapidly becoming the mainstream choice for Chinese consumers, accelerating the transition away from traditional internal combustion engine vehicles and reshaping the global automotive industry. The 63% penetration rate refers to the share of new energy passenger vehicles in total retail sales of passenger cars in China, including both battery electric vehicles (BEVs) and plug-in hybrid electric vehicles (PHEVs).
 
-reddit · r/LocalLLaMA · /u/WhatererBlah555 · Jun 4, 14:48
+rss · Google News - 新能源 · Jun 5, 06:36
 
-**Background**: In AI, a hallucination refers to generated content that is false or misleading but presented as fact. HallUnix is a similar project that mimics a Unix-like OS by routing commands through an LLM. VibeOS takes this further by claiming to be a fully bootable OS.
+**Background**: New energy vehicles (NEVs) are vehicles that use alternative fuels or electric power, such as battery electric vehicles (BEVs), plug-in hybrid electric vehicles (PHEVs), and fuel cell vehicles. China has been aggressively promoting NEVs through subsidies, tax exemptions, and infrastructure development to reduce carbon emissions and enhance energy security. The retail penetration rate is a key indicator of consumer adoption and market maturity.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/szmikler/hallunix">GitHub - szmikler/hallunix: Fully hallucinated Unix-like OS .</a></li>
-<li><a href="https://youtubesummary.com/summary/z3pV6FHvcgM">Video Summary - VibeOS - Fully Hallucinated Operating System</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)">Hallucination (artificial intelligence) - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLM`, `#operating system`, `#AI`, `#experimental`
+**Tags**: `#new energy vehicles`, `#automotive`, `#market share`, `#China`
 
 ---
 
 <a id="item-75"></a>
-## [How ML researchers use AI writing tools](https://www.reddit.com/r/MachineLearning/comments/1twtpmb/how_do_ml_researchers_actually_use_ai_tools_to/) ⭐️ 5.0/10
+## [Energy storage batteries become new household essential in SE Asia](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nVGlaUlBreUFHTXJNdExNcUJMNWdTbFZzckJzdWtlVUhSR291X0ZFYmxXUzdNY3gwS0c2ODV5bFgweGZqamc?oc=5) ⭐️ 5.0/10
 
-An ML researcher posted on Reddit asking how peers use AI tools for writing, from grammar cleanup to drafting technical text. This discussion reveals practical workflows and preferences in the ML community, potentially guiding tool adoption and highlighting gaps in current AI writing assistance. The post specifically asks whether researchers use AI tools only for grammar and wording cleanup, or also for rewriting, structuring, and drafting technical content.
+Energy storage batteries are emerging as a new household essential in Southeast Asia, with sellers on Lazada reporting stockouts due to surging demand. This trend signals a shift in consumer spending priorities in Southeast Asia, potentially driving growth for the home energy storage market and related e-commerce sectors. The news highlights that energy storage batteries are now considered one of the 'new three major household items' in the region, alongside other essentials, reflecting increased demand for reliable power backup.
 
-reddit · r/MachineLearning · /u/Hope999991 · Jun 4, 17:02
+rss · Google News - 新能源 · Jun 5, 09:43
 
-**Background**: AI writing tools like Grammarly, ChatGPT, and specialized academic assistants are increasingly used in research. ML researchers often write papers, grant proposals, and technical reports, making efficient writing tools valuable.
-
-**Tags**: `#AI tools`, `#ML research`, `#academic writing`, `#productivity`
-
----
-
-<a id="item-76"></a>
-## [Nvidia's RTX Spark Faces AI PC Market Hurdles](https://www.reddit.com/r/investing/comments/1twws2e/will_nvidia_actually_be_able_to_capture/) ⭐️ 5.0/10
-
-A Reddit post highlights potential challenges for Nvidia's entry into the AI PC market with its RTX Spark chip, including Windows ARM adaptation and uncertain demand for AI PCs. Nvidia's move into the AI PC market could disrupt Intel and AMD's dominance, but success hinges on overcoming software compatibility and market demand issues. The RTX Spark is Nvidia's first CPU for AI PCs, but Windows on ARM still faces compatibility issues with x86 software, and the actual demand for AI PCs remains unproven.
-
-reddit · r/investing · /u/No_Turnip_1023 · Jun 4, 18:48
-
-**Background**: Most Windows PCs run on x86 architecture from Intel or AMD. Windows on ARM is a version designed for ARM-based chips like those from Qualcomm, but it has limited app compatibility. AI PCs integrate dedicated AI accelerators to run local AI models, and Nvidia aims to compete with its GPU expertise.
+**Background**: Lazada is a leading e-commerce platform in Southeast Asia, serving countries like Malaysia, Indonesia, and Thailand. Home energy storage systems allow households to store electricity from solar panels or the grid for later use, which is especially valuable in regions with unstable power supply or frequent outages.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.precedenceresearch.com/ai-pc-market">AI PC Market Size to Hit USD 281.08 Billion by 2034</a></li>
-<li><a href="https://dev.to/keshav___dev/windows-vs-windows-on-arm-whats-the-difference-21pm">Windows vs Windows on ARM – What’s the... - DEV Community</a></li>
+<li><a href="https://www.lazada.com.my/">Lazada Malaysia | Top Deals & Free Shipping for You!</a></li>
+<li><a href="https://www.golocad.com/e-commerce/lazada/">Lazada in E - commerce | Locad</a></li>
+<li><a href="https://www.sundtapv.com/blog/what-is-home-energy-storage_b13">What is home energy storage ?-sundtapv.com</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Reddit post itself does not include comments, but the discussion likely revolves around skepticism about Nvidia's ability to overcome ARM software challenges and whether AI PC demand will materialize.
+**Tags**: `#energy storage`, `#Southeast Asia`, `#e-commerce`, `#market trend`
 
-**Tags**: `#Nvidia`, `#AI PC`, `#ARM`, `#market analysis`
+---
+
+<a id="item-76"></a>
+## [New Battery Recycling Paths for Critical Materials at Africa Lithium Summit](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DYll3UE1ReWRLaW5rN1drbnZHRXIzdHNiNm9XRDZJb0RzbnZJWkJOeW5jUl96QmF0NGxqWFg3T1FiRnVPcTZjdmxR?oc=5) ⭐️ 5.0/10
+
+At the Africa Lithium Battery Summit, new approaches to battery recycling were discussed to secure critical materials like lithium, cobalt, and nickel. The summit highlighted innovative recycling technologies and policies to reduce dependence on primary mining. This matters because battery recycling is crucial for sustainability and supply chain security in the growing electric vehicle and energy storage markets. Improved recycling can reduce environmental impact and geopolitical risks associated with critical material sourcing. The summit covered topics such as the use of lithium iron phosphate (LFP) and ternary lithium batteries, and the average consumption of about 600 tons of lithium carbonate per GWh. It also addressed the 'carbon trade barriers' formed by global battery lifecycle regulations.
+
+rss · Google News - 新能源 · Jun 4, 15:38
+
+**Background**: Battery recycling recovers valuable metals from spent lithium-ion batteries, reducing waste and the need for new mining. Africa is rich in lithium resources, with Chinese companies like Sinomine Resource Group and Huayou Cobalt developing mines there. The summit aimed to foster collaboration between African resource holders and recycling technology providers.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.360estorage.com/44010.html">360estorage.com/44010.html</a></li>
+<li><a href="http://www.caam.org.cn/chn/38/cate_431/con_5234840.html">动力 电 池 出海遇减碳挑战 电 池 回 收 成 “必修课</a></li>
+<li><a href="https://news.91jinshu.com/li/202312/64629.html">华体科技：拟300万美元收购 非 洲 锂 矿_ 锂 _稀贵金属_91金属网</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#battery recycling`, `#critical materials`, `#lithium-ion`, `#sustainability`, `#energy storage`
+
+---
+
+<a id="item-77"></a>
+## [Gemma 4 12B Q5_K_XL Becomes User's Top Local Coding Model](https://www.reddit.com/r/LocalLLaMA/comments/1txdcj9/gemma_4_12b_is_my_new_main_squeeze/) ⭐️ 5.0/10
+
+A Reddit user reports that the Unsloth Q5_K_XL quantization of Gemma 4 12B delivers a strong balance of speed and accuracy for local coding, achieving 50 tokens per second with a 32K context window and Q8 KV cache in llama.cpp. This highlights the growing viability of running capable coding models locally on consumer hardware, and shows that careful quantization choices can significantly reduce syntax errors without sacrificing too much speed. The model file is about 8.6 GB, and with a 32K context and Q8 KV cache, total VRAM usage is around 15.7 GB with a small spillover. The user switched from Q4_K_XL (61 t/s) to Q5_K_XL (50 t/s) to reduce syntax errors.
+
+reddit · r/LocalLLaMA · /u/Wrong_Mushroom_7350 · Jun 5, 06:57
+
+**Background**: Quantization reduces model precision to lower memory usage and increase speed, but can degrade output quality. Unsloth's Q5_K_XL is a dynamic quantization method that aims to preserve accuracy better than standard Q5. Gemma 4 12B is a multimodal open-weight model from Google, suitable for coding and reasoning tasks.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://huggingface.co/google/gemma-4-12B">google/ gemma - 4 - 12 B · Hugging Face</a></li>
+<li><a href="https://unsloth.ai/docs/models/qwen3.5/gguf-benchmarks">Qwen3.5 GGUF Benchmarks | Unsloth Documentation</a></li>
+<li><a href="https://github.com/ggml-org/llama.cpp/blob/master/tools/server/README.md">llama . cpp /tools/server/README.md at master · ggml-org/ llama . cpp</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#local-llm`, `#quantization`, `#coding`, `#gemma-4`
+
+---
+
+<a id="item-78"></a>
+## [SupraLabs Releases Tiny Open Reasoning Model Supra-50M-Reasoning](https://www.reddit.com/r/LocalLLaMA/comments/1txhk6y/new_model_supralabs_just_released_a_new_model/) ⭐️ 5.0/10
+
+SupraLabs released Supra-50M-Reasoning, a 50-million-parameter open-source reasoning model fine-tuned from Supra-50M-Instruct on a synthetic dataset of 500 samples generated by Qwen3 1.7B, trained for 6 epochs. This release demonstrates that even extremely small models can be fine-tuned to produce chain-of-thought reasoning, lowering the barrier for experimenting with reasoning capabilities on limited hardware. The model is experimental and prone to hallucination, and it was trained on only 500 synthetic samples, which limits its reliability and general applicability.
+
+reddit · r/LocalLLaMA · /u/Dangerous_Try3619 · Jun 5, 10:55
+
+**Background**: Reasoning models are designed to show their step-by-step thinking before providing an answer, often using a chain-of-thought format. Supra-50M-Reasoning is part of the Supra-50M collection under Project Chimera, which aims to create a series of small, open-source language models.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://huggingface.co/SupraLabs/Supra-50M-Instruct">SupraLabs / Supra -50M-Instruct · Hugging Face</a></li>
+<li><a href="https://llm-explorer.com/model/SupraLabs/Supra-50M-Instruct,1LSLEZmLQyMeoMYlTeWBjE">Supra 50M Instruct by SupraLabs — VRAM 0.1GB... | LLM Explorer</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#LLM`, `#open-source`, `#reasoning`, `#small model`
+
+---
+
+<a id="item-79"></a>
+## [ML Researchers Discuss AI Writing Tool Usage](https://www.reddit.com/r/MachineLearning/comments/1twtpmb/how_do_ml_researchers_actually_use_ai_tools_to/) ⭐️ 5.0/10
+
+An ML researcher posted on Reddit asking how peers use AI tools for writing tasks such as grammar correction, rewriting, and drafting technical text. This discussion highlights the growing integration of AI tools in academic writing, potentially influencing productivity and writing quality in ML research. The post specifically asks whether researchers use AI tools primarily for grammar and wording cleanup, or also for higher-level tasks like rewriting, structuring, and drafting.
+
+reddit · r/MachineLearning · /u/Hope999991 · Jun 4, 17:02
+
+**Background**: AI writing tools, such as grammar checkers and text generators, have become common in research. ML researchers often produce technical papers and reports, making efficient writing tools valuable. This post seeks to understand practical usage patterns within the community.
+
+**Tags**: `#AI tools`, `#writing`, `#ML research`, `#productivity`
+
+---
+
+<a id="item-80"></a>
+## [Can Nvidia Capture AI PC Market with RTX Spark?](https://www.reddit.com/r/investing/comments/1twws2e/will_nvidia_actually_be_able_to_capture/) ⭐️ 5.0/10
+
+A Reddit post questions whether Nvidia can capture significant market share with its upcoming RTX Spark AI PC, citing challenges such as Windows ARM adaptation and uncertain demand for AI PCs. Nvidia's entry into the AI PC market could disrupt the dominance of x86-based chips from Intel and AMD, but success hinges on overcoming software compatibility issues and proving real consumer demand for on-device AI. The RTX Spark is expected to use an ARM-based CPU, which would require Windows to be adapted for ARM architecture—a challenge given that most Windows software is compiled for x86. Additionally, the actual market demand for AI PCs remains unproven.
+
+reddit · r/investing · /u/No_Turnip_1023 · Jun 4, 18:48
+
+**Background**: Nvidia is known for its GPUs and AI accelerators, but it has not historically produced CPUs for PCs. The AI PC trend refers to computers with dedicated hardware for running AI models locally, which could boost productivity and privacy. ARM architecture is more power-efficient than x86 but has limited software compatibility on Windows.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.m.wikipedia.org/wiki/Nvidia_RTX">Nvidia RTX - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The Reddit post has no comments yet, so no community discussion is available.
+
+**Tags**: `#Nvidia`, `#AI PC`, `#ARM`, `#market share`, `#investing`
 
 ---
 
