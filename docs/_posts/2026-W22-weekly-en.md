@@ -26,14 +26,14 @@
 
 ## 本周高频话题
 
-- `#AI` ×292
-- `#semiconductor` ×127
-- `#energy` ×104
-- `#LLM` ×98
+- `#AI` ×296
+- `#semiconductor` ×132
+- `#energy` ×108
+- `#LLM` ×97
 - `#hardware` ×75
-- `#semiconductors` ×72
-- `#China` ×70
-- `#chip` ×68
+- `#chip` ×72
+- `#China` ×72
+- `#semiconductors` ×70
 
 ---
 
