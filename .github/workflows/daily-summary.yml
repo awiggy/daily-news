@@ -47,3 +47,10 @@ jobs:
           git config user.email "bot@horizon.daily"
           git add -f data/summaries/ docs/_posts/
           git diff --staged --quiet || (git commit -m "Daily: $(date +%Y-%m-%d)" && git push)
+
+      - name: Notify failure
+        if: failure()
+        run: |
+          curl -s -X POST http://www.pushplus.plus/send \
+            -H "Content-Type: application/json" \
+            -d "{\"token\":\"${{ secrets.PUSHPLUS_TOKEN }}\",\"title\":\"daily-news 更新失败\",\"content\":\"$(date +%Y-%m-%d) 新闻日报自动更新失败，请检查 Actions 日志\"}"
