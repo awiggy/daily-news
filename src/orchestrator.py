@@ -546,6 +546,13 @@ class HorizonOrchestrator:
         ai_client = create_ai_client(self.config.ai)
         analyzer = ContentAnalyzer(ai_client)
 
+        # Inject volatile context from recent digest history
+        try:
+            from .ai.prompts import build_volatile_block
+            analyzer._volatile_block = build_volatile_block()
+        except Exception:
+            pass
+
         return await analyzer.analyze_batch(items)
 
     async def _generate_summary(

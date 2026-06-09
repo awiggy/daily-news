@@ -1,4 +1,10 @@
-"""AI prompts for content analysis and summarization."""
+"""AI prompts for content analysis and summarization.
+
+Three-tier design (inspired by Hermes Agent):
+  STABLE   — scoring criteria, identity: never changes, cache-friendly
+  CONTEXT  — user preferences, source config: per-session
+  VOLATILE — recent themes, trending topics: per-run
+"""
 
 TOPIC_DEDUP_SYSTEM = """You are a news deduplication assistant. Identify groups of news items that cover the exact same real-world event, release, or announcement.
 
@@ -65,6 +71,9 @@ CONTENT_ANALYSIS_USER = """Analyze the following content and provide a JSON resp
 - summary: One-sentence summary of the content
 - tags: Relevant topic tags (3-5 tags)
 
+{context_block}
+{volatile_block}
+
 Content:
 Title: {title}
 Source: {source}
@@ -80,6 +89,62 @@ Respond with valid JSON only:
   "summary": "<one-sentence-summary>",
   "tags": ["<tag1>", "<tag2>", ...]
 }}"""
+
+# ── CONTEXT Tier: user preferences, injected per session ──
+CONTEXT_BLOCK = """User's interests and focus areas:
+  Primary: AI/ML breakthroughs, semiconductor industry, financial markets, macro economy, new energy.
+  Secondary: developer tools, open source, robotics, space tech.
+  Language: Score equally for both English and Chinese content."""
+
+# ── VOLATILE Tier: recent trends, injected per run ──
+VOLATILE_TEMPLATE = """Recent themes from past digests (last 7 days):
+  {recent_themes}
+
+  User's watched sectors: {watched_sectors}
+  Upcoming events to watch: {upcoming_events}
+
+  Slightly boost scores for content related to these active themes and watched sectors."""
+
+# Default volatile block when no history is available
+VOLATILE_DEFAULT = """No recent digest history available yet. Score based on general importance."""
+
+def build_volatile_block(posts_dir=None, watched_sectors="AI,半导体,金融,新能源"):
+    """Extract recent themes from last 7 days of digest posts."""
+    import re, os
+    from collections import Counter
+    from pathlib import Path
+
+    if posts_dir is None:
+        posts_dir = Path("docs/_posts")
+    if not os.path.isdir(posts_dir):
+        return VOLATILE_DEFAULT
+
+    tag_counter = Counter()
+    recent_files = sorted(Path(posts_dir).glob("*-summary-zh.md"))[-7:]
+
+    if not recent_files:
+        return VOLATILE_DEFAULT
+
+    for f in recent_files:
+        try:
+            text = f.read_text(encoding="utf-8")
+            tags = re.findall(r"`#([^`]+)`", text)
+            for t in tags:
+                for tag in t.split():
+                    tag_counter[tag.strip("#")] += 1
+        except Exception:
+            pass
+
+    top_themes = [tag for tag, _ in tag_counter.most_common(10)]
+    if not top_themes:
+        return VOLATILE_DEFAULT
+
+    themes_str = ", ".join(top_themes)
+    return VOLATILE_TEMPLATE.format(
+        recent_themes=f"Most discussed: {themes_str}",
+        watched_sectors=watched_sectors,
+        upcoming_events="Check events.json for latest",
+    )
 
 CONCEPT_EXTRACTION_SYSTEM = """You identify technical concepts in news that a reader might not know.
 Given a news item, return 1-3 search queries for concepts that need explanation.

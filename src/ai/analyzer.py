@@ -8,7 +8,10 @@ from tenacity import retry, stop_after_attempt, wait_exponential
 from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, MofNCompleteColumn
 
 from .client import AIClient
-from .prompts import CONTENT_ANALYSIS_SYSTEM, CONTENT_ANALYSIS_USER
+from .prompts import (
+    CONTENT_ANALYSIS_SYSTEM, CONTENT_ANALYSIS_USER,
+    CONTEXT_BLOCK, VOLATILE_TEMPLATE, VOLATILE_DEFAULT,
+)
 from .utils import parse_json_response
 from ..models import ContentItem
 
@@ -130,13 +133,18 @@ class ContentAnalyzer:
         discussion_section = "\n".join(discussion_parts) if discussion_parts else ""
 
         # Generate user prompt
+        # Build volatile block from cached themes (or use default)
+        volatile_block = getattr(self, '_volatile_block', VOLATILE_DEFAULT)
+
         user_prompt = CONTENT_ANALYSIS_USER.format(
             title=item.title,
             source=f"{item.source_type.value}",
             author=item.author or "Unknown",
             url=str(item.url),
             content_section=content_section,
-            discussion_section=discussion_section
+            discussion_section=discussion_section,
+            context_block=CONTEXT_BLOCK,
+            volatile_block=volatile_block,
         )
 
         # Get AI completion
