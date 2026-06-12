@@ -72,7 +72,19 @@ class HorizonOrchestrator:
 
             # 2. Fetch content from all sources
             all_items = await self.fetch_all_sources(since)
-            self.console.print(f"📥 Fetched {len(all_items)} items from all sources\n")
+            self.console.print(f"📥 Fetched {len(all_items)} items from all sources")
+
+            # 2.5 Fetch AI news from aiHOT (free, no auth)
+            try:
+                from .scrapers.aihot import fetch_aihot_items
+                aihot_data = fetch_aihot_items(take=30)
+                if aihot_data:
+                    aihot_items = [self._dict_to_content_item(d) for d in aihot_data]
+                    all_items.extend(aihot_items)
+                    self.console.print(f"📥 Fetched {len(aihot_items)} AI items from aiHOT")
+            except Exception as e:
+                self.console.print(f"[yellow]aiHOT fetch failed: {e}[/yellow]")
+            self.console.print(f"📥 Total: {len(all_items)} items\n")
 
             if not all_items:
                 self.console.print("[yellow]No new content found. Exiting.[/yellow]")
@@ -123,8 +135,7 @@ class HorizonOrchestrator:
                 self.console.print(f"      • {source_key}: {count}")
             self.console.print("")
 
-            # 6. Search related stories + enrich with background knowledge (2nd AI pass)
-            await self._enrich_important_items(important_items)
+            # 6. Enrichment skipped (Lite mode — saves ~70% tokens)
 
             # 7. Generate and save daily summaries for each configured language
             today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -224,6 +235,21 @@ class HorizonOrchestrator:
             hours = self.config.filtering.time_window_hours
             since = datetime.now(timezone.utc) - timedelta(hours=hours)
         return since
+
+    def _dict_to_content_item(self, d: dict) -> ContentItem:
+        """Convert a simple dict (from aiHOT) to a ContentItem."""
+        from datetime import timezone
+        return ContentItem(
+            title=d.get("title", ""),
+            url=d.get("url", ""),
+            summary=d.get("summary", ""),
+            source_type="aiHOT",
+            score=float(d.get("score", 5)),
+            tags=d.get("tags", []),
+            author="",
+            content=d.get("summary", ""),
+            fetched_at=d.get("fetched_at", datetime.now(timezone.utc).isoformat()),
+        )
 
     async def fetch_all_sources(self, since: datetime) -> List[ContentItem]:
         """Fetch content from all configured sources.
