@@ -28,12 +28,12 @@
 
 - `#AI` ×435
 - `#semiconductor` ×201
-- `#LLM` ×161
-- `#energy` ×149
-- `#China` ×129
-- `#chip` ×96
+- `#LLM` ×160
+- `#energy` ×148
+- `#China` ×124
+- `#chip` ×94
 - `#hardware` ×93
-- `#storage` ×89
+- `#storage` ×88
 
 ---
 
