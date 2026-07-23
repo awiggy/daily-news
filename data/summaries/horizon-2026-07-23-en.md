@@ -5,123 +5,182 @@ date: 2026-07-23
 lang: en
 ---
 
-> From 180 items, 40 important content pieces were selected
+> From 189 items, 44 important content pieces were selected
 
 ---
 
 1. [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](#item-1) ⭐️ 8.0/10
 2. [Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong](#item-2) ⭐️ 8.0/10
-3. [AMD携手Anthropic达成重大芯片供应及投资协议，科创芯片设计ETF天弘(589070)近10日“吸金”1.13亿元 - 东方财富](#item-3) ⭐️ 8.0/10
-4. [黄仁勋：谁影响我卖AI芯片给中国，我就怼谁 - Sohu](#item-4) ⭐️ 8.0/10
-5. [中国“芯片刻刀”出鞘：国产6N等级（99.9999%）半导体用高纯氟化氢打破西方垄断 - 凤凰网科技](#item-5) ⭐️ 8.0/10
-6. [谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率 - 东方财富](#item-6) ⭐️ 8.0/10
-7. [AI交换芯片走到聚光灯下：英伟达发布Spectrum-6 或推动Token生成能力倍增 - 东方财富](#item-7) ⭐️ 8.0/10
-8. [芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了 - 手机网易网](#item-8) ⭐️ 8.0/10
-9. [美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息 - 财联社](#item-9) ⭐️ 8.0/10
-10. [China braces as new US global tariffs loom: fresh trade war or managed friction? - South China Morning Post](#item-10) ⭐️ 8.0/10
-11. [SkewAdam: A tiered optimizer that cuts MoE state memory by 97% (fits a 6.7B MoE on a 40GB GPU) (R)](#item-11) ⭐️ 8.0/10
-12. [GigaToken: ~1000x faster Language model tokenization](#item-12) ⭐️ 7.0/10
-13. [Everyone should know SIMD](#item-13) ⭐️ 7.0/10
-14. [Are AI Labs Pelicanmaxxing?](#item-14) ⭐️ 7.0/10
-15. [中国科大团队利用原位应力信号揭示磷酸铁锂电极空间异质性 - 中国科大新闻网](#item-15) ⭐️ 7.0/10
-16. [两大存储芯片巨头，开盘大涨 - 21财经](#item-16) ⭐️ 7.0/10
-17. [光伏行业供给侧出清正加速进入实质性阶段，光伏ETF嘉实(159123)布局光伏产业链投资机遇 - Jiemian.com](#item-17) ⭐️ 7.0/10
-18. [总编辑圈点丨“芯片上的血管”借磁力实现精准可控生长，为构建完整血管网络组织提供新方法 - 中国科技网](#item-18) ⭐️ 7.0/10
-19. [智芯半导体芯片交付受阻？国产车规级MCU或迎洗牌期：低端价格战加速行业出清 - 新浪财经](#item-19) ⭐️ 7.0/10
-20. [AI芯片撑起韩国经济：二季度GDP增长3.7%超预期，但内需依然疲弱 - 华尔街见闻](#item-20) ⭐️ 7.0/10
-21. [同比下降66.04% ！上半年光伏新增装机72.07GW - 国际太阳能光伏网](#item-21) ⭐️ 7.0/10
-22. [罕见，萧楠重仓半导体 - 21财经](#item-22) ⭐️ 7.0/10
-23. [AI半导体行情进入“订单验货期”：聚焦芯片制造的QDII怎么选？ - 新浪财经](#item-23) ⭐️ 7.0/10
-24. [光伏产品强制国标实施，低效产能将退市 - Sohu](#item-24) ⭐️ 7.0/10
-25. [美股存储芯片、科技股普跌，国际油价飙升，美联储加息预期大涨 - 21财经](#item-25) ⭐️ 7.0/10
-26. [被日本卡脖子20年！中国“芯片刻刀”终于出鞘：保证28nm及以下先进制程 - 驱动之家](#item-26) ⭐️ 7.0/10
-27. [美股全线收涨：芯片股领衔反弹，费城半导体指数飙升逾5% - 21财经](#item-27) ⭐️ 7.0/10
-28. [SK斥巨资布局AI芯片与数据中心赛道（附图片） - 新浪财经](#item-28) ⭐️ 7.0/10
-29. [从纯电到插混反超：新能源渗透率60%背后的三电技术路线博弈 - 网通社](#item-29) ⭐️ 7.0/10
-30. [国产算力闭环提速！AI芯片V型反转 融资客提前埋伏这7股(名单) - 东方财富](#item-30) ⭐️ 7.0/10
-31. [韩国经济第二季度增长0.6%，半导体出口强劲 - chinese.joins.com](#item-31) ⭐️ 7.0/10
-32. [美股存储芯片、科技股普跌，美债收益率创新高，国际油价飙升，美联储加息预期大涨 - 新浪财经](#item-32) ⭐️ 7.0/10
-33. [我国研发出具有“电子共振”结构的钙钛矿光伏电池 - 手机网易网](#item-33) ⭐️ 7.0/10
-34. [港股IPO“冰与火” AI撑起九成涨幅 部分新股已腰斩 - 新浪财经](#item-34) ⭐️ 7.0/10
-35. [加息概率升至逾三成！美联储决议倒计时一周，市场彻底懵了？ - 富途牛牛](#item-35) ⭐️ 7.0/10
-36. [伊朗危机加剧，美联储加息概率上升，美股牛市面临考验 - 华尔街日报中文网](#item-36) ⭐️ 7.0/10
-37. [判了！A股标志性财务造假大案迎来关键进展，600518原实控人夫妇赔偿近14亿元 - 新浪财经](#item-37) ⭐️ 7.0/10
-38. [港交所陈翊庭称“中国不能不投资” 上半年IPO集资3461亿港元增22% - 新浪财经](#item-38) ⭐️ 7.0/10
-39. [Escalating Middle East war could slash global growth to 1.3% in 2026, World Bank chief economist says - Reuters](#item-39) ⭐️ 7.0/10
-40. [One encoder, seven heads: what we learned training a unified security classifier with masked losses (P)](#item-40) ⭐️ 7.0/10
+3. [我国研发出具有“电子共振”结构的钙钛矿光伏电池 - 新华网](#item-3) ⭐️ 8.0/10
+4. [AI芯片撑起韩国经济：二季度GDP增长3.7%超预期，但内需依然疲弱 - 华尔街见闻](#item-4) ⭐️ 8.0/10
+5. [被日本卡脖子20年！中国“芯片刻刀”终于出鞘：保证28nm及以下先进制程 - 驱动之家](#item-5) ⭐️ 8.0/10
+6. [黄仁勋：谁影响我卖AI芯片给中国，我就怼谁 - Sohu](#item-6) ⭐️ 8.0/10
+7. [本地跑100B大模型！Acrab发布边缘AI芯片GΞLIX 1：5nm制程加持 - 新浪网](#item-7) ⭐️ 8.0/10
+8. [SK斥巨资布局AI芯片与数据中心赛道（附图片） - 新浪财经](#item-8) ⭐️ 8.0/10
+9. [谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率 - 东方财富](#item-9) ⭐️ 8.0/10
+10. [刚刚，智谱建了一座只用国产芯片的数据中心 - Sohu](#item-10) ⭐️ 8.0/10
+11. [中国科学家以折纸术秒杀光芯片制造瓶颈，有望解放AI算力 - Sohu](#item-11) ⭐️ 8.0/10
+12. [AI交换芯片走到聚光灯下：英伟达发布Spectrum-6 或推动Token生成能力倍增 - 东方财富](#item-12) ⭐️ 8.0/10
+13. [英特尔寻求俄亥俄州芯片厂运营合作伙伴，SK海力士入围潜在名单 - 新浪财经](#item-13) ⭐️ 8.0/10
+14. [AMD与Anthropic签署重大芯片供应及投资协议 - 新浪财经](#item-14) ⭐️ 8.0/10
+15. [中国“芯片刻刀”出鞘：国产6N等级（99.9999%）半导体用高纯氟化氢打破西方垄断 - Sohu](#item-15) ⭐️ 8.0/10
+16. [A股四大指数全线下跌，半导体芯片股重挫，锂电股批量涨停，港股科网股大涨，美团涨5%，百度、腾讯集体上涨 - 手机网易网](#item-16) ⭐️ 8.0/10
+17. [美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息 - 财联社](#item-17) ⭐️ 8.0/10
+18. [伊朗危机加剧，美联储加息概率上升，美股牛市面临考验 - 华尔街日报中文网](#item-18) ⭐️ 8.0/10
+19. [China braces as new US global tariffs loom: fresh trade war or managed friction? - South China Morning Post](#item-19) ⭐️ 8.0/10
+20. [I solved 6 open Erdős problems in 5 days](#item-20) ⭐️ 8.0/10
+21. [No, the HuggingFace incident is not a publicity stunt](#item-21) ⭐️ 8.0/10
+22. [❗NEWS❗The former Director of the White House Office of Science and Technology Policy and Presidential Science Advisor stated that Kimi K3 was distilled from Anthropic's Fable.](#item-22) ⭐️ 8.0/10
+23. [GigaToken: ~1000x faster Language model tokenization](#item-23) ⭐️ 7.0/10
+24. [中国科大团队利用原位应力信号揭示磷酸铁锂电极空间异质性 - 中国科大新闻网](#item-24) ⭐️ 7.0/10
+25. [两大存储芯片巨头，开盘大涨 - 21财经](#item-25) ⭐️ 7.0/10
+26. [智芯半导体芯片交付受阻？国产车规级MCU或迎洗牌期：低端价格战加速行业出清 - 新浪财经](#item-26) ⭐️ 7.0/10
+27. [AI半导体行情进入“订单验货期”：聚焦芯片制造的QDII怎么选？ - 新浪财经](#item-27) ⭐️ 7.0/10
+28. [瑞能半导体推出WMSC系列碳化硅功率模块 - 电子工程专辑](#item-28) ⭐️ 7.0/10
+29. [美股全线收涨：芯片股领衔反弹，费城半导体指数飙升逾5% - 21财经](#item-29) ⭐️ 7.0/10
+30. [光伏：硅料供给侧出清落地｜微研报 - 第一财经](#item-30) ⭐️ 7.0/10
+31. [中国新能源车欧洲每三辆插电混动有一辆来自中国 - 新浪财经](#item-31) ⭐️ 7.0/10
+32. [全球存储芯片，集体反攻！ - Sohu](#item-32) ⭐️ 7.0/10
+33. [国产算力闭环提速！AI芯片V型反转 融资客提前埋伏这7股(名单) - 东方财富](#item-33) ⭐️ 7.0/10
+34. [马斯克：特斯拉AI6芯片将成为全球最佳边缘计算芯片 - 驱动之家](#item-34) ⭐️ 7.0/10
+35. [美股存储芯片、科技股普跌，美债收益率创新高，国际油价飙升，美联储加息预期大涨 - 新浪财经](#item-35) ⭐️ 7.0/10
+36. [加息概率升至逾三成！美联储决议倒计时一周 市场彻底懵了？ - 东方财富](#item-36) ⭐️ 7.0/10
+37. [港股IPO“冰与火” AI撑起九成涨幅 部分新股已腰斩 - 新浪财经](#item-37) ⭐️ 7.0/10
+38. [SpaceX再创上市以来新低！AI驱动全年资本支出飙升，谷歌盘后股价跌近4%！OpenAI承认大模型引发“空前网络安全事件” - 中国基金报](#item-38) ⭐️ 7.0/10
+39. [A股“股王”净利预增超800% - 新浪财经](#item-39) ⭐️ 7.0/10
+40. [美联储预警Anthropic的Mythos模型风险，自身却长达数月无法获取该模型权限 - 新浪财经](#item-40) ⭐️ 7.0/10
+41. [上海：推动科创板持续深化改革 持续扩大科创板第五套上市标准的适用范围 - 东方财富](#item-41) ⭐️ 7.0/10
+42. [千亿利润只是“账面富贵”？上市22年首度烧穿现金流，谷歌AI疯狂烧钱 - 新浪财经](#item-42) ⭐️ 7.0/10
+43. [Escalating Middle East war could slash global growth to 1.3% in 2026, World Bank chief economist says - Reuters](#item-43) ⭐️ 7.0/10
+44. [Unlimited AI tokens aren't unlimited after all as US Army burns through supply](#item-44) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
 ## [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) ⭐️ 8.0/10
 
-Terence Tao uses ChatGPT to analyze a counterexample to the Jacobian Conjecture, showcasing advanced AI-assisted mathematical reasoning.
+Terence Tao uses ChatGPT to analyze a claimed counterexample to the Jacobian Conjecture, demonstrating advanced AI-assisted mathematical reasoning.
 
 hackernews · gmays · Jul 22, 17:30 · [Discussion](https://news.ycombinator.com/item?id=49010345)
 
-**Tags**: `#AI`, `#mathematics`, `#research`, `#LLM`, `#open source`
+**Tags**: `#AI`, `#mathematics`, `#LLM`, `#research`, `#open source`
 
 ---
 
 <a id="item-2"></a>
 ## [Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong](https://github.com/cactus-compute/cactus-hybrid) ⭐️ 8.0/10
 
-Cactus Hybrid post-trains Gemma 4 to output confidence scores, enabling efficient routing between on-device and cloud models while matching benchmark performance.
+Cactus Hybrid post-trains Gemma 4 to output confidence scores, enabling efficient routing between on-device and cloud models.
 
 hackernews · HenryNdubuaku · Jul 22, 17:56 · [Discussion](https://news.ycombinator.com/item?id=49010782)
 
-**Tags**: `#AI`, `#open source`, `#machine learning`, `#on-device AI`, `#hybrid inference`
+**Tags**: `#AI`, `#machine learning`, `#open source`, `#developer tools`
 
 ---
 
 <a id="item-3"></a>
-## [AMD携手Anthropic达成重大芯片供应及投资协议，科创芯片设计ETF天弘(589070)近10日“吸金”1.13亿元 - 东方财富](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GOW9wd3ZqdmZCZnFhamRsTDNCMWJtSHhrQ1hFRjE5QlJrLW1vMzB4SnNQbzNNM3U3ZFVoUFBQRXBrQloxeWdrcUhXd2NvaDlSWjIwTlRiVk9ER29mdUVNdVRB?oc=5) ⭐️ 8.0/10
+## [我国研发出具有“电子共振”结构的钙钛矿光伏电池 - 新华网](https://news.google.com/rss/articles/CBMifEFVX3lxTE8yUktCM1lTcHVfd3lDM3BnenNHa2p5TmtTbkN2T1VwcV8zcm5YcmtYTHV4cUNnOFJGamZNYzFSb1A4dzRyUTJ4M25Ub3JvdjBXb0NMaUo1NUVoN2FFT1NWYkNiSmtwelNzVjFtWDNCNUdFbEVhSjZzM0tzU3I?oc=5) ⭐️ 8.0/10
 
-AMD and Anthropic sign a major chip supply and investment agreement, boosting the Tianhong Semiconductor Chip Design ETF (589070) which attracted 113 million yuan in the last 10 days.
+China develops perovskite solar cells with an 'electron resonance' structure, potentially advancing photovoltaic technology.
 
-rss · Google News - 科技（半导体+新能源） · Jul 23, 02:30
+rss · Google News - 科技（半导体+新能源） · Jul 23, 01:42
 
-**Tags**: `#AMD`, `#Anthropic`, `#半导体`, `#AI`, `#ETF`
+**Tags**: `#新能源`, `#钙钛矿光伏电池`, `#太阳能`, `#中国`, `#技术突破`
 
 ---
 
 <a id="item-4"></a>
-## [黄仁勋：谁影响我卖AI芯片给中国，我就怼谁 - Sohu](https://news.google.com/rss/articles/CBMijAFBVV95cUxQLVZkS2hGN2VlX2ZfZjZzZzBPZ0JyVlhLSjdvcDg3LU9JUV90MXJlN0YtYXFLaktlQ1pMdTZCc3FPUXZTUzEyeHQ5QUNCSUIwdUtqUWRMcGRkVFlYd01DeVdJYzNaOU8yN3EyampJU1drWnFmb2pnMFkzWmVrYkhnTm0zWklxWHpGSlAwTA?oc=5) ⭐️ 8.0/10
+## [AI芯片撑起韩国经济：二季度GDP增长3.7%超预期，但内需依然疲弱 - 华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vMEZUU191VTdPd2tFUXNMeV9DVll2ejFoTmFSQ2JSZ0M2MHkzaXpERVNYTGNDdEE1b0Foa05ELUtaUk5oamtCelJMa1JnSklUeWlB?oc=5) ⭐️ 8.0/10
 
-NVIDIA CEO Jensen Huang asserts he will push back against any restrictions on selling AI chips to China.
+AI chip exports boosted South Korea's Q2 GDP growth to 3.7%, surpassing expectations, though domestic demand remains weak.
 
-rss · Google News - 科技（半导体+新能源） · Jul 23, 03:08
+rss · Google News - 科技（半导体+新能源） · Jul 23, 03:22
 
-**Tags**: `#AI`, `#半导体`, `#芯片`, `#中国`, `#NVIDIA`
+**Tags**: `#AI`, `#半导体`, `#宏观经济`, `#韩国经济`, `#芯片`
 
 ---
 
 <a id="item-5"></a>
-## [中国“芯片刻刀”出鞘：国产6N等级（99.9999%）半导体用高纯氟化氢打破西方垄断 - 凤凰网科技](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tX24xeXBCNFVlLXdxZXoxd1RyQnYxWFl2bzIzT3VvRVN6Q2prWlhfUmszYkY1OTFjXy1FNUtxQXRIMVZUSTQ2NzJTTHU?oc=5) ⭐️ 8.0/10
+## [被日本卡脖子20年！中国“芯片刻刀”终于出鞘：保证28nm及以下先进制程 - 驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxMUpZMGhBSXJfVE5RTHlGQk4xSWt4SXR1Wi03UWJvelJNZlFmU3RwY3pUMUNlVWZfeGpGYjZ2aGZWTWZDekU0ZE1GdGgxRHJ0OC1QY0VieW4?oc=5) ⭐️ 8.0/10
 
-China achieves 6N (99.9999%) high-purity hydrogen fluoride for semiconductors, breaking Western monopoly.
+China announces a breakthrough in domestic chip lithography tools (刻刀) for 28nm and below, ending 20 years of Japanese export restrictions.
 
-rss · Google News - 科技（半导体+新能源） · Jul 23, 02:16
+rss · Google News - 科技（半导体+新能源） · Jul 23, 01:13
 
-**Tags**: `#半导体`, `#芯片`, `#高纯氟化氢`, `#国产替代`, `#材料`
+**Tags**: `#半导体`, `#芯片`, `#中国`, `#光刻机`, `#先进制程`
 
 ---
 
 <a id="item-6"></a>
-## [谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率 - 东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NR0x5WW55RUIyYWM1ZGFOM1B0UkJ4LUduczFGbHJuaERSYlhCV05SQ194WHllVGJNR1J0S0g0b0tydWxYRHBBOHA3M2dVaDBkV1ZVRzE4elg4WHRKZUJGRA?oc=5) ⭐️ 8.0/10
+## [黄仁勋：谁影响我卖AI芯片给中国，我就怼谁 - Sohu](https://news.google.com/rss/articles/CBMijAFBVV95cUxQLVZkS2hGN2VlX2ZfZjZzZzBPZ0JyVlhLSjdvcDg3LU9JUV90MXJlN0YtYXFLaktlQ1pMdTZCc3FPUXZTUzEyeHQ5QUNCSUIwdUtqUWRMcGRkVFlYd01DeVdJYzNaOU8yN3EyampJU1drWnFmb2pnMFkzWmVrYkhnTm0zWklxWHpGSlAwTA?oc=5) ⭐️ 8.0/10
 
-Google is reportedly developing a new AI server chip to significantly improve the efficiency of its Gemini model.
+NVIDIA CEO Jensen Huang asserts he will confront anyone hindering his ability to sell AI chips to China.
 
-rss · Google News - 科技（半导体+新能源） · Jul 22, 05:01
+rss · Google News - 科技（半导体+新能源） · Jul 23, 03:08
 
-**Tags**: `#AI`, `#半导体`, `#谷歌`, `#芯片`, `#Gemini`
+**Tags**: `#AI`, `#半导体`, `#芯片`, `#黄仁勋`, `#中美科技`
 
 ---
 
 <a id="item-7"></a>
+## [本地跑100B大模型！Acrab发布边缘AI芯片GΞLIX 1：5nm制程加持 - 新浪网](https://news.google.com/rss/articles/CBMiigJBVV95cUxPN1U2cktxbUlNVWFsaG5xM0xzOFlOdHhRY3d5ZzdkbEVEcnFPRTJnMnRLYUpfNlZuN2RHSlBDWHNuX292MVRkZE5NMmh5aFNSRUJfdGJHOWFTX3VJellVUkNSems2VWVuV2x0REIwYmFxQnhoYUpnaW82Z2hSRFM4aVNCbGZYQXhYcHhxNkxwamxTcW1EMjRWZ2NzMVQyVG0tOWlVTlFTaXl6ZWU0ZC1yZEQ0b2lkMEYxWmRBemozWGRsUnF1UkZscmI3MHItR1gyWFRKYmM3MEFhUmlBNmUzY096NGItTVBHaFNNMW90T0VBck5QRkFKU1duXzdiZjJhZkFneVpNNlJKZw?oc=5) ⭐️ 8.0/10
+
+Acrab launches GΞLIX 1, a 5nm edge AI chip capable of running 100B-parameter models locally.
+
+rss · Google News - 科技（半导体+新能源） · Jul 23, 04:48
+
+**Tags**: `#AI`, `#半导体`, `#边缘计算`, `#芯片`, `#大模型`
+
+---
+
+<a id="item-8"></a>
+## [SK斥巨资布局AI芯片与数据中心赛道（附图片） - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTFBGMUZtd3BKMTR6Q1VqRG92ZzBWNTdQeXdoSE41NTJ4ZjZfZGNMUVE2MEFEQ1VQNDB1T29fdURLbHZHTGo4UFhnSUo5LUZkYVpiMGMyMGtsYy1YZzBKX3REUWR2dE5TSE9qMkZTekg2bVVCdUNLVUdnVw?oc=5) ⭐️ 8.0/10
+
+SK集团斥巨资布局AI芯片与数据中心领域，显示其对AI基础设施的长期投入。
+
+rss · Google News - 科技（半导体+新能源） · Jul 22, 22:51
+
+**Tags**: `#半导体`, `#AI`, `#数据中心`, `#SK`, `#投资`
+
+---
+
+<a id="item-9"></a>
+## [谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率 - 东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NR0x5WW55RUIyYWM1ZGFOM1B0UkJ4LUduczFGbHJuaERSYlhCV05SQ194WHllVGJNR1J0S0g0b0tydWxYRHBBOHA3M2dVaDBkV1ZVRzE4elg4WHRKZUJGRA?oc=5) ⭐️ 8.0/10
+
+Google is reportedly developing a new AI server chip to significantly improve the efficiency of its Gemini AI model.
+
+rss · Google News - 科技（半导体+新能源） · Jul 22, 05:01
+
+**Tags**: `#AI`, `#半导体`, `#谷歌`, `#芯片`, `#AI硬件`
+
+---
+
+<a id="item-10"></a>
+## [刚刚，智谱建了一座只用国产芯片的数据中心 - Sohu](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHIzTWhxakxQcFJ1NHRwMnFFSTVjSmt4NDA5Q2gtRlpNQmt0Ry1lNE5GY3ctdm5XaXdFdVFXRkVMb2R1aWxqRTJIX1I2MTJJRHJPVUUtWmMtOG1ZZTJiSzI4UHo3SlhYM19QSHMtUExTaWcyamw2NTJoSGVWV1FGRldtZDJRMjFf?oc=5) ⭐️ 8.0/10
+
+智谱 (Zhipu) has built a data center using only domestic (国产) chips, marking a step toward self-reliance in AI infrastructure.
+
+rss · Google News - 科技（半导体+新能源） · Jul 23, 04:25
+
+**Tags**: `#AI`, `#半导体`, `#国产芯片`, `#数据中心`, `#智谱`
+
+---
+
+<a id="item-11"></a>
+## [中国科学家以折纸术秒杀光芯片制造瓶颈，有望解放AI算力 - Sohu](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeGJfMnA4UUwyNmhya1JaNWVpa3B3T0dTWGUwaXB2aFFQT2gzUjJXeVZQbFBMR2tQNTVIZFdrLW9qd05mZnY5Qk90MmNqWlp6RlJGcE8yS2FHLU1xYnRhcHV3dHUyZ081YXZIb1ptQTZfTXkxZUtOVFUyRC1seklkc1VUWjBVVmRv?oc=5) ⭐️ 8.0/10
+
+Chinese scientists propose an origami-based method to overcome optical chip manufacturing bottlenecks, potentially boosting AI computing power.
+
+rss · Google News - 科技（半导体+新能源） · Jul 23, 04:36
+
+**Tags**: `#AI`, `#半导体`, `#光芯片`, `#折纸术`, `#算力`
+
+---
+
+<a id="item-12"></a>
 ## [AI交换芯片走到聚光灯下：英伟达发布Spectrum-6 或推动Token生成能力倍增 - 东方财富](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wMU42TWpmRXo4RjFoUDBTWGxfRmJ4ZUpLLU1MS2dYeDR2Zko3dTJMenU5aW1IT19HNnVqbU42bVhNYlJKSFZBNGVCU2VERUFLYUpHWWp5SWp1elU2WVpVdkUtMG8xZw?oc=5) ⭐️ 8.0/10
 
-NVIDIA releases Spectrum-6 AI switch chip, potentially doubling token generation capability.
+NVIDIA releases Spectrum-6 AI switch chip, potentially doubling token generation capacity.
 
 rss · Google News - 科技（半导体+新能源） · Jul 22, 02:48
 
@@ -129,84 +188,128 @@ rss · Google News - 科技（半导体+新能源） · Jul 22, 02:48
 
 ---
 
-<a id="item-8"></a>
-## [芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了 - 手机网易网](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Da2ZodnduVWpOb3FFWkcyUkRiYU9pak1aeTFJTERTTmQ4dEVMaHNTMEpIandkNGJFQUwwSS1HQVIxYVhhQW00aXVzeEUzN3d5aWlPVTFWbTlwaVpDNjBvTjZB?oc=5) ⭐️ 8.0/10
-
-阿里平头哥在芯片出货56万片后，将其核心IP开源，推动RISC-V生态发展。
-
-rss · Google News - 科技（半导体+新能源） · Jul 23, 02:37
-
-**Tags**: `#半导体`, `#AI`, `#开源`, `#芯片`, `#阿里`
-
----
-
-<a id="item-10"></a>
-## [China braces as new US global tariffs loom: fresh trade war or managed friction? - South China Morning Post](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbEcyUVVocG1RT1BadUcyN2JwU1BwOHdjMGlKUUpIYm5xX0NzemFMT2dFWnIzS0ZyUDZaX044SHNZQ0JoSERiRmhVYUVFWFY1cjVBdnFDTllRT0had3FZQUdGcU8weE9xOGQyNVljamoyR1YySXB5U09fcm84NnM5NGdsY1dqZVhVOVhiejVNYW5uU01USVAzX2VDSDRwYmw2ZnUxdTZPYkNzSDVtNV9WbE5WQzhHNGtBcnJHMVNWNU0xMThoQ1NkMENuQ2RTWTUz0gHQAUFVX3lxTE5qX2lNVFhqU3V3MVZBSmI0MkppWWE0R1FObTNidzNyMWtXNmh2ODBrYzRFWUNqQ3lNWFJmSGlwMU1McVYxWUJ2RkhGRDBHdnBQbjBtaHhCREVpYlJVVzFkOWl1NFA3YzJxY1RURkhhdi16bXdoeU9iUkZ3aVdRb1hXUTIzcHVCLUxtcmNVUElRWVl6UGxWSk9DbzRpYW5wS0tkT3FOMEV4REZic0pYczFkQmxDX2RTNWJpZVNfME5ndWRVR25WRWxHb1oyTUV3UGU?oc=5) ⭐️ 8.0/10
-
-China prepares for potential new US global tariffs, raising questions about a fresh trade war or managed economic friction.
-
-rss · Google News - 全球宏观 · Jul 22, 14:30
-
-**Tags**: `#宏观经济`, `#金融`, `#中国`, `#贸易战`, `#关税`
-
----
-
-<a id="item-11"></a>
-## [SkewAdam: A tiered optimizer that cuts MoE state memory by 97% (fits a 6.7B MoE on a 40GB GPU) (R)](https://www.reddit.com/r/MachineLearning/comments/1v38k1m/skewadam_a_tiered_optimizer_that_cuts_moe_state/) ⭐️ 8.0/10
-
-SkewAdam reduces optimizer state memory by 97% for MoE models, enabling a 6.7B MoE to fit on a single 40GB GPU.
-
-reddit · r/MachineLearning · /u/Kooky-Ad-4124 · Jul 22, 07:04
-
-**Tags**: `#AI`, `#machine learning`, `#optimizer`, `#MoE`, `#memory efficiency`
-
----
-
-<a id="item-12"></a>
-## [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) ⭐️ 7.0/10
-
-GigaToken achieves ~1000x faster tokenization via SIMD-optimized pretokenization and caching, offering substantial speedups for LLM tokenization.
-
-hackernews · syrusakbary · Jul 22, 17:20 · [Discussion](https://news.ycombinator.com/item?id=49010167)
-
-**Tags**: `#AI`, `#tokenization`, `#LLM`, `#performance`, `#open source`
-
----
-
 <a id="item-13"></a>
-## [Everyone should know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) ⭐️ 7.0/10
+## [英特尔寻求俄亥俄州芯片厂运营合作伙伴，SK海力士入围潜在名单 - 新浪财经](https://news.google.com/rss/articles/CBMickFVX3lxTFBBbE9lZkpVc1lkSGJ3WlVtWkV3eU44M0F6OVJJdUYwZ2I0NjJLRGV2ajZTODI0SXNGUF9LRWpVVVpLSXBkN2hvRzhVcE1na2R2UWlYMHI3dXMxUm1ES3p2b3hNNG5mZG5OTzByQmtxZC1YQQ?oc=5) ⭐️ 8.0/10
 
-An article arguing that SIMD (Single Instruction, Multiple Data) is a crucial concept for all programmers to understand for performance optimization.
+Intel is seeking an operating partner for its Ohio chip plant, with SK Hynix shortlisted as a potential candidate.
 
-hackernews · WadeGrimridge · Jul 22, 17:48 · [Discussion](https://news.ycombinator.com/item?id=49010648)
+rss · Google News - 科技（半导体+新能源） · Jul 23, 00:09
 
-**Tags**: `#SIMD`, `#performance`, `#compiler`, `#developer tools`, `#optimization`
+**Tags**: `#半导体`, `#英特尔`, `#SK海力士`, `#芯片制造`, `#合作`
 
 ---
 
 <a id="item-14"></a>
-## [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html) ⭐️ 7.0/10
+## [AMD与Anthropic签署重大芯片供应及投资协议 - 新浪财经](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNWFfMXFDRnVBcllzcTBCb2NEeHg4ZUp2Wi1nbWZ6a2I3cktWc2QwWEpYNWRHUF9HcG9rRWcxbVVNTGVOSk9RM08zZ2FQclpjcVlzTGgxRVhCU1BfckZhQzJPZ3RqdkwzcDhHTE9VblNlaTQyczF3U1VXajFGdzZ1OU5jZ3BKeVkyYWVoRnZYanRJdWhlZHk5WlNPNGMwVzVLM3Yzc2xrUVd2WENENHlYcV9XZy14NmpqdUhDQVkxbksxUWZxMzBUQnRSb0pKdm9ZYzB1TFlUYUJkZFlNQUNn?oc=5) ⭐️ 8.0/10
 
-A quantitative analysis reveals that AI labs' image generation models show consistent biases (e.g., all pelican-bicycle images face right), suggesting potential training data contamination or model quirks.
+AMD and Anthropic sign a major chip supply and investment agreement, strengthening ties in the AI hardware space.
 
-hackernews · dcastm · Jul 22, 17:17 · [Discussion](https://news.ycombinator.com/item?id=49010129)
+rss · Google News - 科技（半导体+新能源） · Jul 22, 14:46
 
-**Tags**: `#AI`, `#machine learning`, `#benchmarking`, `#image generation`, `#model evaluation`
+**Tags**: `#AMD`, `#Anthropic`, `#AI`, `#半导体`, `#芯片`
 
 ---
 
 <a id="item-15"></a>
+## [中国“芯片刻刀”出鞘：国产6N等级（99.9999%）半导体用高纯氟化氢打破西方垄断 - Sohu](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2VoOEtvSmk0TmNtUGI1cjV2cXlqTklmTU4xLXBxbVJGbkh0Njg0WWVpRGxsbXFmS285X1Q5RjgyWllEbVdTMkU1bzQ5aXZrZDYxWk5seHpTdG1Rc1BpYUJlQ1M5bW85Tk8yb281dmNMalNjd1dQWUlVaVZHXzBDZzM2eHlQMUxL?oc=5) ⭐️ 8.0/10
+
+China achieves 99.9999% pure hydrogen fluoride for semiconductor etching, breaking Western monopoly.
+
+rss · Google News - 科技（半导体+新能源） · Jul 23, 04:04
+
+**Tags**: `#半导体`, `#芯片`, `#高纯氟化氢`, `#国产替代`, `#材料`
+
+---
+
+<a id="item-16"></a>
+## [A股四大指数全线下跌，半导体芯片股重挫，锂电股批量涨停，港股科网股大涨，美团涨5%，百度、腾讯集体上涨 - 手机网易网](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFMURXR0p3LWF4LWtWakY1WnJ0QTNwdHAtc05aLWlYWnJDLUE4V05sXzZmRUxFN294dDNmYmFOVjZTczZVZHM1MkJMZFBCQk11UkVzbmItdGQtX1l0ZEhnWVZR?oc=5) ⭐️ 8.0/10
+
+A-share indices fall broadly, semiconductor stocks plunge, lithium battery stocks hit limit-up, while Hong Kong tech stocks surge with Meituan up 5% and Baidu/Tencent rising.
+
+rss · Google News - 科技（半导体+新能源） · Jul 23, 04:20
+
+**Tags**: `#A股`, `#半导体`, `#锂电`, `#港股`, `#金融`
+
+---
+
+<a id="item-18"></a>
+## [伊朗危机加剧，美联储加息概率上升，美股牛市面临考验 - 华尔街日报中文网](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQYVN6LUtvSXphTjJISEpmWHA3S1ppd3hyMXk5T3dxUHhNVVJ5ZzVlZG1nLS1GcmdiYzNLWC1Sd1FHVDNXekdhN0FkbEhDZGp3UkpyUUFUYmtzMTROZmZsbWhCVGROOFhvZFVmT0gxcXJpUl80b21lSW1DOG5pcEl6ZkVTazhhN2NBMG82eXRmVFJJN2VidDBGcVdPaWxNMWxXR3o3cXFrX1I5SW9BdEVFMFc4djBYNWZmQ2YyMjhtcGNYSnVON0Q0WVN0bENjVDBwa3BZMlNRbGluY0tjTU80a2wyZVlvbU1WNHEzNGdoSnVsMWFDYUs0SWVkTi04cmdZMi15UXkwUl82TWdrMGxWUGx5SHh2VFdFaFI3ODFRRUhLZ1hSUzE5Z0Zab3Q4bVZVTXZWQ0QtQWdGdndYbDVhV3pLLVZVY05HR1pSYXRnOVhZR3puMS04V2JNUG5lS0JqY1QweQ?oc=5) ⭐️ 8.0/10
+
+Iran crisis intensifies, raising probability of Fed rate hike and posing challenges to US stock market bull run.
+
+rss · Google News - 金融市场 · Jul 23, 02:32
+
+**Tags**: `#金融`, `#宏观经济`, `#美联储`, `#伊朗危机`, `#美股`
+
+---
+
+<a id="item-19"></a>
+## [China braces as new US global tariffs loom: fresh trade war or managed friction? - South China Morning Post](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbEcyUVVocG1RT1BadUcyN2JwU1BwOHdjMGlKUUpIYm5xX0NzemFMT2dFWnIzS0ZyUDZaX044SHNZQ0JoSERiRmhVYUVFWFY1cjVBdnFDTllRT0had3FZQUdGcU8weE9xOGQyNVljamoyR1YySXB5U09fcm84NnM5NGdsY1dqZVhVOVhiejVNYW5uU01USVAzX2VDSDRwYmw2ZnUxdTZPYkNzSDVtNV9WbE5WQzhHNGtBcnJHMVNWNU0xMThoQ1NkMENuQ2RTWTUz0gHQAUFVX3lxTE5qX2lNVFhqU3V3MVZBSmI0MkppWWE0R1FObTNidzNyMWtXNmh2ODBrYzRFWUNqQ3lNWFJmSGlwMU1McVYxWUJ2RkhGRDBHdnBQbjBtaHhCREVpYlJVVzFkOWl1NFA3YzJxY1RURkhhdi16bXdoeU9iUkZ3aVdRb1hXUTIzcHVCLUxtcmNVUElRWVl6UGxWSk9DbzRpYW5wS0tkT3FOMEV4REZic0pYczFkQmxDX2RTNWJpZVNfME5ndWRVR25WRWxHb1oyTUV3UGU?oc=5) ⭐️ 8.0/10
+
+China prepares for potential new US global tariffs, raising questions about escalation into a trade war or managed friction.
+
+rss · Google News - 全球宏观 · Jul 22, 14:30
+
+**Tags**: `#macro economy`, `#trade war`, `#China`, `#financial markets`, `#tariffs`
+
+---
+
+<a id="item-20"></a>
+## [I solved 6 open Erdős problems in 5 days](https://www.reddit.com/r/singularity/comments/1v3xmuw/i_solved_6_open_erd%C5%91s_problems_in_5_days/) ⭐️ 8.0/10
+
+A user claims to have solved 6 open Erdős problems in 5 days, sparking discussion on AI-assisted mathematical discovery.
+
+reddit · r/singularity · /u/Charuru · Jul 23, 00:02 · [Discussion](https://www.reddit.com/r/singularity/comments/1v3xmuw/i_solved_6_open_erdős_problems_in_5_days/)
+
+**Tags**: `#AI`, `#mathematics`, `#breakthrough`, `#Erdős`, `#singularity`
+
+---
+
+<a id="item-21"></a>
+## [No, the HuggingFace incident is not a publicity stunt](https://www.reddit.com/r/singularity/comments/1v3tcyx/no_the_huggingface_incident_is_not_a_publicity/) ⭐️ 8.0/10
+
+A Reddit post argues that the HuggingFace security incident involving OpenAI's model is a serious security failure, not a publicity stunt, citing official reports.
+
+reddit · r/singularity · /u/ClarityInMadness · Jul 22, 21:13
+
+**Tags**: `#AI`, `#security`, `#open source`, `#HuggingFace`, `#OpenAI`
+
+---
+
+<a id="item-22"></a>
+## [❗NEWS❗The former Director of the White House Office of Science and Technology Policy and Presidential Science Advisor stated that Kimi K3 was distilled from Anthropic's Fable.](https://www.reddit.com/r/singularity/comments/1v3lpwv/newsthe_former_director_of_the_white_house_office/) ⭐️ 8.0/10
+
+Former White House OSTP director alleges Moonshot AI's Kimi K3 model was distilled from Anthropic's Fable, highlighting covert industrial distillation concerns.
+
+reddit · r/singularity · /u/Acceptable-Debt-294 · Jul 22, 16:48
+
+**Tags**: `#AI`, `#distillation`, `#geopolitics`, `#semiconductor`, `#China`
+
+---
+
+<a id="item-23"></a>
+## [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) ⭐️ 7.0/10
+
+GigaToken achieves ~1000x faster tokenization via SIMD optimization and caching, with major impact on pre-training data processing.
+
+hackernews · syrusakbary · Jul 22, 17:20 · [Discussion](https://news.ycombinator.com/item?id=49010167)
+
+**Tags**: `#AI`, `#tokenization`, `#performance`, `#open source`, `#LLM`
+
+---
+
+<a id="item-24"></a>
 ## [中国科大团队利用原位应力信号揭示磷酸铁锂电极空间异质性 - 中国科大新闻网](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xc3BFeXpWRWM0MFI3OXpEMEkxRGhTczVOM0FnLVpXdFp0ZTUzX01DYW51b0Z0bkNaOWJOQ2tNSHVnYy1BakFDdFFNT3VSUnBEbHp5TDF3?oc=5) ⭐️ 7.0/10
 
 USTC team uses in-situ stress signals to reveal spatial heterogeneity in lithium iron phosphate electrodes, advancing battery diagnostics.
 
 rss · Google News - 科技（半导体+新能源） · Jul 23, 03:19
 
-**Tags**: `#新能源`, `#电池`, `#磷酸铁锂`, `#原位应力`, `#中国科大`
+**Tags**: `#新能源`, `#电池`, `#磷酸铁锂`, `#中国科大`, `#材料科学`
 
 ---
 
-<a id="item-16"></a>
+<a id="item-25"></a>
 ## [两大存储芯片巨头，开盘大涨 - 21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdmdCam85YkljcjV1YXJZZ0dJZ2hpX1FGLVNTQS1oODlnY2NleV9GVDlManY1QkdScldwWlMyb1pqVzVQcnFWYU9UQ0JJQlU0QnFUVGFfVUtTQ0ZsRGt1RjhUS09IS050VDNTazNqdGJDdW5qZFFKWThCTnBFZ2sySkE0U1FFNktEdFJXUA?oc=5) ⭐️ 7.0/10
 
 Two major memory chip companies saw their stocks surge at market open, as reported by 21财经.
@@ -217,76 +320,21 @@ rss · Google News - 科技（半导体+新能源） · Jul 23, 00:27
 
 ---
 
-<a id="item-17"></a>
-## [光伏行业供给侧出清正加速进入实质性阶段，光伏ETF嘉实(159123)布局光伏产业链投资机遇 - Jiemian.com](https://news.google.com/rss/articles/CBMiWEFVX3lxTE43LVloRURBVGNiU2tjbTBEdUQ3a2N6NG1laDdsc0pYRDZRU1lWeHcwSFhZVTM3a19SUUVPSmdtcnZLNzg0YTJTeHNuWG5QTWVMYk5oZ3lTR0w?oc=5) ⭐️ 7.0/10
-
-The solar photovoltaic industry's supply-side consolidation is accelerating into a substantive phase, with the PV ETF嘉实(159123) positioning for investment opportunities in the photovoltaic industry chain.
-
-rss · Google News - 科技（半导体+新能源） · Jul 23, 03:41
-
-**Tags**: `#新能源`, `#光伏`, `#供给侧出清`, `#ETF`, `#投资`
-
----
-
-<a id="item-18"></a>
-## [总编辑圈点丨“芯片上的血管”借磁力实现精准可控生长，为构建完整血管网络组织提供新方法 - 中国科技网](https://news.google.com/rss/articles/CBMicEFVX3lxTE1LSVU5c2g5MEdGb2ljbi1SYk1iR3NQcmZQb1Q0a1pOWGVQTWl1enhHdUJHUEZ1U1dkWFZ6bkJmSWRybFFjdUVReTVINmNxRk9SSXZvRl9JZEVaM0pzTy1uVS11NE9Gc3ZMNEotZnEzMEk?oc=5) ⭐️ 7.0/10
-
-Researchers have developed a method to precisely control the growth of 'blood vessels on a chip' using magnetism, offering a new approach for constructing complete vascular network tissues.
-
-rss · Google News - 科技（半导体+新能源） · Jul 22, 17:45
-
-**Tags**: `#biomedical`, `#chip`, `#tissue engineering`, `#new energy`
-
----
-
-<a id="item-19"></a>
+<a id="item-26"></a>
 ## [智芯半导体芯片交付受阻？国产车规级MCU或迎洗牌期：低端价格战加速行业出清 - 新浪财经](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEx6dFVHUjRYSHloTDdzRUg4WVdtN2pyZXlqaGNMMGNVeG5mcG96UDJCd3BRY2lNNEtnX19STWdQMDZlNzEtUEgxbnhZSG1BSFJqZENVLXNvNVJycUp1UUlHUUM5LTJaWjNGVUp4ZTg0dTdtbDBSbUhKQVAyc01JZnVwNzdGczJFM2ctT2ROSmp0eDlCNkZaS2ZCMTZhazNiV0F4WHlfYw?oc=5) ⭐️ 7.0/10
 
-国产车规级MCU行业面临低端价格战和洗牌，智芯半导体芯片交付受阻引发关注。
+智芯半导体芯片交付受阻可能引发国产车规级MCU行业洗牌，低端价格战加速出清。
 
 rss · Google News - 科技（半导体+新能源） · Jul 23, 03:41
 
-**Tags**: `#半导体`, `#车规级MCU`, `#国产芯片`, `#新能源`
+**Tags**: `#半导体`, `#车规级MCU`, `#国产替代`, `#新能源`
 
 ---
 
-<a id="item-20"></a>
-## [AI芯片撑起韩国经济：二季度GDP增长3.7%超预期，但内需依然疲弱 - 华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vMEZUU191VTdPd2tFUXNMeV9DVll2ejFoTmFSQ2JSZ0M2MHkzaXpERVNYTGNDdEE1b0Foa05ELUtaUk5oamtCelJMa1JnSklUeWlB?oc=5) ⭐️ 7.0/10
-
-AI chip exports drove South Korea's Q2 GDP growth to 3.7%, exceeding expectations, while domestic demand remains weak.
-
-rss · Google News - 科技（半导体+新能源） · Jul 23, 03:22
-
-**Tags**: `#AI`, `#半导体`, `#宏观经济`, `#韩国经济`, `#芯片`
-
----
-
-<a id="item-21"></a>
-## [同比下降66.04% ！上半年光伏新增装机72.07GW - 国际太阳能光伏网](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4RGJEWGNfS1VaeUxlb3NlSldudk93R1U0WjBxRUZYZG5RcUU2S0hjZHJLTnRwYm1Ja1RlQThZMEU0bm5jZEtZN3VZVVZwQll3QXl2X3FXcGFNc1Z6SWc?oc=5) ⭐️ 7.0/10
-
-China's solar PV new installations in H1 2024 dropped 66% year-over-year to 72.07 GW, signaling a major slowdown in the new energy sector.
-
-rss · Google News - 科技（半导体+新能源） · Jul 23, 01:00
-
-**Tags**: `#新能源`, `#光伏`, `#装机量`, `#宏观经济`, `#中国`
-
----
-
-<a id="item-22"></a>
-## [罕见，萧楠重仓半导体 - 21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxNXzBCd2dST1Q2TktkRVNQODVFT2RjSDNoc0xKa05acjd1RmNDVDFCQUxydHl6MGRLTU1NdHNUdEpzVVJVSkhObk5mRHd4X0dWY05hTFVoSjYyTzFpX3p2RDBOR3ZYRmVIMTUtQm9GbURnUjEtbjEzV2xGYUpPbGxXMFhCbkw3eTcwX1dsMA?oc=5) ⭐️ 7.0/10
-
-萧楠, a prominent fund manager, has significantly increased his holdings in semiconductor stocks, signaling a bullish view on the sector.
-
-rss · Google News - 科技（半导体+新能源） · Jul 22, 23:08
-
-**Tags**: `#半导体`, `#金融`, `#A股`, `#投资`, `#基金`
-
----
-
-<a id="item-23"></a>
+<a id="item-27"></a>
 ## [AI半导体行情进入“订单验货期”：聚焦芯片制造的QDII怎么选？ - 新浪财经](https://news.google.com/rss/articles/CBMib0FVX3lxTE9vR3VCRVZJdnZMUkx4ZWl4cEU0b3dSdDJNTDFWNURPQkQxc1ZzelVBNnJoQmpHUHVqV2hQLUROQXF5alF3OUJ2RVF0ZW9Tc3BzOTlsU2dkbWR5ckUteGZLWHRyVkRjNVg3TzhTM2RlRQ?oc=5) ⭐️ 7.0/10
 
-Analysis of AI semiconductor market trends and QDII fund options focused on chip manufacturing.
+Analysis of AI semiconductor market entering 'order verification' phase and guidance on selecting QDII funds focused on chip manufacturing.
 
 rss · Google News - 科技（半导体+新能源） · Jul 23, 03:24
 
@@ -294,178 +342,178 @@ rss · Google News - 科技（半导体+新能源） · Jul 23, 03:24
 
 ---
 
-<a id="item-24"></a>
-## [光伏产品强制国标实施，低效产能将退市 - Sohu](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmhNaVpycU9uOXJzcUpmSzNKTm9CSGVTQmMxMDVUTkpaOFZENm45TGlGb3gtMzRkTy1GMk51Yl9BbGFVV091WXBlMDVfTmUtaTZXUzZ6akRXUzUyTEU2ZmNyYWVhZ3BJVXEtbTlTNmZrZ1phMlRRN0JwM2JPZGFVc0prNXpEOW10?oc=5) ⭐️ 7.0/10
+<a id="item-28"></a>
+## [瑞能半导体推出WMSC系列碳化硅功率模块 - 电子工程专辑](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VMElrcE5pVXhiWXlZUWpQRkRMcXNOa1pLc1A3NlQ2Q25IVEFIcXdXUWNJT0lET3hNVFhrWW9hUXBFRFl4S1dCUDUwczRmcDYwQnpF?oc=5) ⭐️ 7.0/10
 
-China's mandatory national standards for photovoltaic products take effect, forcing low-efficiency production capacity to exit the market.
+瑞能半导体发布了新的WMSC系列碳化硅功率模块，用于提升电力电子效率。
 
-rss · Google News - 科技（半导体+新能源） · Jul 23, 02:03
+rss · Google News - 科技（半导体+新能源） · Jul 23, 04:30
 
-**Tags**: `#新能源`, `#光伏`, `#政策`, `#产能出清`, `#中国`
-
----
-
-<a id="item-25"></a>
-## [美股存储芯片、科技股普跌，国际油价飙升，美联储加息预期大涨 - 21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxQdlNwcHIzTDRsdURPcGs0a0J5TVZrb1JTcDhsTUVQenk1aTFRNldaOWxyekRLdkFWWU9GQVl3ZmVVeVEzamFmSnZQYU5BNFNiUnpsemppMVBYcUxiWktLVzdNcEZWaUZzQnQyMW5CMWR6cjg3WTdRam1QU08zMk12bVBtRkNTWmE4ZDdWQg?oc=5) ⭐️ 7.0/10
-
-US stock market sees broad decline in memory chip and tech stocks, oil prices surge, and Fed rate hike expectations rise.
-
-rss · Google News - 科技（半导体+新能源） · Jul 23, 00:02
-
-**Tags**: `#半导体`, `#金融`, `#宏观经济`, `#美股`, `#美联储`
+**Tags**: `#半导体`, `#碳化硅`, `#新能源`, `#功率模块`
 
 ---
 
-<a id="item-26"></a>
-## [被日本卡脖子20年！中国“芯片刻刀”终于出鞘：保证28nm及以下先进制程 - 驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxMUpZMGhBSXJfVE5RTHlGQk4xSWt4SXR1Wi03UWJvelJNZlFmU3RwY3pUMUNlVWZfeGpGYjZ2aGZWTWZDekU0ZE1GdGgxRHJ0OC1QY0VieW4?oc=5) ⭐️ 7.0/10
-
-China announces a breakthrough in domestic chip lithography tools (刻刀) to enable 28nm and below advanced processes, ending 20 years of Japanese export restrictions.
-
-rss · Google News - 科技（半导体+新能源） · Jul 23, 01:13
-
-**Tags**: `#半导体`, `#芯片`, `#中国`, `#光刻机`, `#先进制程`
-
----
-
-<a id="item-27"></a>
+<a id="item-29"></a>
 ## [美股全线收涨：芯片股领衔反弹，费城半导体指数飙升逾5% - 21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjRqVjJveXFlbkVqUnNycDZSTmpGam5WR2tnRjR1R3REVm9yT1lQYlprZzF2dWg1WWNxX0xoRXZ2Y25WaEpzczlZUGZQczVlNUFkMFNPRGhLTHpDMFI2TDJiOFNHS1JTRjkxejJYYlJGWGhFZjMzVlY2RUY0d3dfY0FzQ2lDaFZYeW9qeg?oc=5) ⭐️ 7.0/10
 
 U.S. stocks closed higher led by chip stocks, with the Philadelphia Semiconductor Index surging over 5%.
 
 rss · Google News - 科技（半导体+新能源） · Jul 22, 19:11
 
-**Tags**: `#半导体`, `#美股`, `#芯片`, `#金融`
+**Tags**: `#半导体`, `#美股`, `#金融`, `#芯片`, `#市场反弹`
 
 ---
 
-<a id="item-28"></a>
-## [SK斥巨资布局AI芯片与数据中心赛道（附图片） - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTFBGMUZtd3BKMTR6Q1VqRG92ZzBWNTdQeXdoSE41NTJ4ZjZfZGNMUVE2MEFEQ1VQNDB1T29fdURLbHZHTGo4UFhnSUo5LUZkYVpiMGMyMGtsYy1YZzBKX3REUWR2dE5TSE9qMkZTekg2bVVCdUNLVUdnVw?oc=5) ⭐️ 7.0/10
+<a id="item-30"></a>
+## [光伏：硅料供给侧出清落地｜微研报 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmRjd2OXhtMlV0SG9NRDVibkw2ZUo5Vmc5bk43anNISzBhaHFpOFM1MmNnZlBQc2ROdWQtVFF5cGNINDA1Z1RIVm83Nl9neG9lanFURg?oc=5) ⭐️ 7.0/10
 
-SK集团斥巨资布局AI芯片和数据中心领域，显示其对AI基础设施的长期投入。
+A micro-research report from CBN discusses the supply-side cleanup in the polysilicon sector of the photovoltaic industry.
 
-rss · Google News - 科技（半导体+新能源） · Jul 22, 22:51
+rss · Google News - 科技（半导体+新能源） · Jul 23, 04:03
 
-**Tags**: `#AI`, `#半导体`, `#数据中心`, `#SK集团`
-
----
-
-<a id="item-29"></a>
-## [从纯电到插混反超：新能源渗透率60%背后的三电技术路线博弈 - 网通社](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qYjNMRGNMUHQ4WDVKZExrR3M5Yi02RzV1UV9IU3pTaEtYYWx3V21EZHZCQUFMdF9GMUpJaDhmejFRRTI0VnZXekI1RjEtU3lrUDhEdlkyNE02Z1U?oc=5) ⭐️ 7.0/10
-
-Analysis of the technical route competition between pure electric and plug-in hybrid vehicles as China's new energy vehicle penetration reaches 60%.
-
-rss · Google News - 科技（半导体+新能源） · Jul 22, 21:32
-
-**Tags**: `#新能源`, `#三电技术`, `#插混`, `#纯电`, `#汽车`
+**Tags**: `#新能源`, `#光伏`, `#硅料`, `#供给侧改革`, `#行业研究`
 
 ---
 
 <a id="item-31"></a>
-## [韩国经济第二季度增长0.6%，半导体出口强劲 - chinese.joins.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9oVFBPNzVQT0Q4Vm40WFVibGtVLVRmTWFyQVUyNFZZQlVVMVNUcWZVNVUwREpOZUpiVEVlaVhKUUJUNWEyS2tPbEx1ZWctUE9QaWlvX1pQUnhwOU4yN0k5M1JnM2g3cW9WMnhnYw?oc=5) ⭐️ 7.0/10
+## [中国新能源车欧洲每三辆插电混动有一辆来自中国 - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTE1lMDVIZUFHVTROeC0yUXBZODZ4Z0VESnpKZ2ExZ01ETUJWN2R3eFZ4dzJiMHRzUVJ2N3Z2OHp2RkhCZHJIaHhGOFB6X05VWkZESzU2SEZGOHNrQ2Q3Smt0UFNPNDV2bkhNaW5CR2tOeUNvV0NZZGtPcA?oc=5) ⭐️ 7.0/10
 
-South Korea's economy grew 0.6% in Q2, fueled by robust semiconductor exports.
+One in three plug-in hybrid vehicles sold in Europe comes from China, highlighting China's growing influence in the new energy vehicle market.
 
-rss · Google News - 科技（半导体+新能源） · Jul 23, 01:47
+rss · Google News - 科技（半导体+新能源） · Jul 23, 02:55
 
-**Tags**: `#半导体`, `#宏观经济`, `#韩国经济`, `#出口`, `#GDP`
+**Tags**: `#新能源`, `#中国`, `#汽车`, `#欧洲`, `#插电混动`
 
 ---
 
 <a id="item-32"></a>
-## [美股存储芯片、科技股普跌，美债收益率创新高，国际油价飙升，美联储加息预期大涨 - 新浪财经](https://news.google.com/rss/articles/CBMikgJBVV95cUxNUjZnbEttX2RVUkFNLVhidGpQQWI2UFU5YTN0c0wtT1UtbDdQS19lZ2VNblJsNkNsWlRfVVVock16UG5iamM5UkVxc1BUSFMzOWczZHFGSWR3OU1kVHlTOGhjMEFBU3Z2UXUyMmRPMHYtMncxdmZFNE9oVWNwVXNaUTM5MzkyZ2JGNWF0dnAwREpEOXVrRnFIMkNVNlBaX21aTDVSV01tdXo3OHVjSFNSRXNoWmZmaEZNdS1DaktrZHk1YjJkZlNIbXJ4cnNiZWhrejRLaEFPX0k1eVdrOGNVYzRYUjc1NVhuWF9MUVlxS1ZySGhvSTlrSUVvWjNRME5HRzJURjFqVTUxZ0FQSEtUQlNR?oc=5) ⭐️ 7.0/10
+## [全球存储芯片，集体反攻！ - Sohu](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRjg1Y1RRVDg4ZUZNQVpDd0F5REw4b0pSMHhGT3VqdHJPRnZlNnJ3MktLZlVJSnFQckVQc2g0cV83VGdieS1CcXZWbncycHg1Zl8ybC1fZWlzUnVNUC1yYkZTRkxScVI2WHMyck9pV3hrcDZzMHVGZFNpa1lXQVdIcVBsNzdKNWhhTU05Mg?oc=5) ⭐️ 7.0/10
 
-US stock market sees broad declines in memory chip and tech stocks, with Treasury yields hitting new highs, oil prices surging, and rising expectations of Fed rate hikes.
+Global memory chip manufacturers are collectively mounting a counterattack, indicating a potential market rebound.
 
-rss · Google News - 科技（半导体+新能源） · Jul 22, 23:48
+rss · Google News - 科技（半导体+新能源） · Jul 23, 04:10
 
-**Tags**: `#半导体`, `#美股`, `#美联储`, `#宏观经济`, `#金融`
-
----
-
-<a id="item-33"></a>
-## [我国研发出具有“电子共振”结构的钙钛矿光伏电池 - 手机网易网](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BeDRWX1Nwd2xzTUg4YUNLd1R3RUUwb003SG5sOExsMTllZXNFWG5LWWg2Z253c2dxQk1SX19QR2UzRW5fclpudUVZc2dFbmRVbXY5Y1ZOM0lUUVBNWlQzNzRB?oc=5) ⭐️ 7.0/10
-
-China develops perovskite solar cells with an 'electron resonance' structure, potentially improving efficiency.
-
-rss · Google News - 科技（半导体+新能源） · Jul 23, 03:26
-
-**Tags**: `#新能源`, `#钙钛矿光伏电池`, `#太阳能`, `#材料科学`, `#中国`
+**Tags**: `#半导体`, `#存储芯片`, `#芯片`, `#行业趋势`, `#市场`
 
 ---
 
 <a id="item-34"></a>
+## [马斯克：特斯拉AI6芯片将成为全球最佳边缘计算芯片 - 驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mSV9xc2wzZ2EyTWZqY0t4TzhOcGZfdnVNalp6dHBHMmQ2OU1XZGF1ZUdOTFZiTDk0UVh6S2lEZ05VRWJqYk5vTEQwamZmOWowZnhWc0liQUE?oc=5) ⭐️ 7.0/10
+
+Elon Musk claims Tesla's AI6 chip will be the world's best edge computing chip.
+
+rss · Google News - 科技（半导体+新能源） · Jul 23, 03:52
+
+**Tags**: `#AI`, `#半导体`, `#特斯拉`, `#边缘计算`, `#芯片`
+
+---
+
+<a id="item-35"></a>
+## [美股存储芯片、科技股普跌，美债收益率创新高，国际油价飙升，美联储加息预期大涨 - 新浪财经](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUVZjR3JQYjEzLXZicFE5LVlEYm8zak1fY3A2cDJPTUF3RkNaRS1MUWdybHUwQmZhNzh2SFRjS1FYRUhLekJ0ZkdvMGJvRU5jSlQtU0F0VkhOLXdTSEN5UVpZVWV6eGNONUNPOWMxWVVSUEFwc2ZtaEdLUS1IVTNaVU9uVWlvM3pHSXNEQWF0ZHNXLVV4c3MyTl9vS2tWSFhoNVpROHhaQ3dQdG9HalZldTFBbF81M2dsVV9TM05ydjI5RE9adGlVeEV6SllXdUty?oc=5) ⭐️ 7.0/10
+
+US stock market sees broad declines in memory chip and tech stocks, with bond yields hitting new highs, oil prices surging, and rising Fed rate hike expectations.
+
+rss · Google News - 科技（半导体+新能源） · Jul 22, 23:14
+
+**Tags**: `#半导体`, `#金融`, `#宏观经济`, `#美股`, `#美联储`
+
+---
+
+<a id="item-36"></a>
+## [加息概率升至逾三成！美联储决议倒计时一周 市场彻底懵了？ - 东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xZWVYVjI2OG5lQldJSUNJTEFNU2FZR29EUFA5aFJKR2tMRlBPdXRqNUJoSlpRT3JxV0g3ZGZqeVJ4R1VzbDhqMnNUZkxuazhJX3FNelN4S3ZMcW55Uk1Qag?oc=5) ⭐️ 7.0/10
+
+Market uncertainty rises as Fed rate hike probability exceeds 30% one week before the decision.
+
+rss · Google News - 金融市场 · Jul 22, 01:00
+
+**Tags**: `#金融`, `#宏观经济`, `#美联储`, `#加息`, `#市场`
+
+---
+
+<a id="item-37"></a>
 ## [港股IPO“冰与火” AI撑起九成涨幅 部分新股已腰斩 - 新浪财经](https://news.google.com/rss/articles/CBMibkFVX3lxTE9fTnZ0cXFUR1ZPLW84Tk8yZE91SGtPcFJ4VjA2bGtpMkNhQ1lCNFRzakdBd1B0SXhMdzgwOUNuZjJMenl6anMzalhZOGpNQ2ltVVhScnF2VWZNY0tTZ3Zpa21vanpuV215QkJUQ3Jn?oc=5) ⭐️ 7.0/10
 
 港股IPO市场呈现两极分化，AI相关新股贡献九成涨幅，部分非AI新股已腰斩。
 
 rss · Google News - 金融市场 · Jul 23, 00:42
 
-**Tags**: `#港股`, `#IPO`, `#AI`, `#金融市场`, `#半导体`
-
----
-
-<a id="item-35"></a>
-## [加息概率升至逾三成！美联储决议倒计时一周，市场彻底懵了？ - 富途牛牛](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVU1mRW5HYVozb2dIdzhEV09PaVFKU1I2cEZrZFU2SmtUYzRiN3dWUVBDdWV1NGZlVnNtYVo5MERaVEpINERoVElYc3NranowRzkwMGcwRE5nNXVUV2NvUzNhZGU0MzV4QVlsS0hraUlmN2lfVE9OdEgxOFRPY2JWS2gxd2xCTFFKY2FGbnNFZFdqdw?oc=5) ⭐️ 7.0/10
-
-Market uncertainty rises as probability of Fed rate hike exceeds 30% one week before the decision.
-
-rss · Google News - 金融市场 · Jul 23, 01:03
-
-**Tags**: `#金融`, `#宏观经济`, `#美联储`, `#加息`, `#市场`
-
----
-
-<a id="item-36"></a>
-## [伊朗危机加剧，美联储加息概率上升，美股牛市面临考验 - 华尔街日报中文网](https://news.google.com/rss/articles/CBMi5AJBVV95cUxQYVN6LUtvSXphTjJISEpmWHA3S1ppd3hyMXk5T3dxUHhNVVJ5ZzVlZG1nLS1GcmdiYzNLWC1Sd1FHVDNXekdhN0FkbEhDZGp3UkpyUUFUYmtzMTROZmZsbWhCVGROOFhvZFVmT0gxcXJpUl80b21lSW1DOG5pcEl6ZkVTazhhN2NBMG82eXRmVFJJN2VidDBGcVdPaWxNMWxXR3o3cXFrX1I5SW9BdEVFMFc4djBYNWZmQ2YyMjhtcGNYSnVON0Q0WVN0bENjVDBwa3BZMlNRbGluY0tjTU80a2wyZVlvbU1WNHEzNGdoSnVsMWFDYUs0SWVkTi04cmdZMi15UXkwUl82TWdrMGxWUGx5SHh2VFdFaFI3ODFRRUhLZ1hSUzE5Z0Zab3Q4bVZVTXZWQ0QtQWdGdndYbDVhV3pLLVZVY05HR1pSYXRnOVhZR3puMS04V2JNUG5lS0JqY1QweQ?oc=5) ⭐️ 7.0/10
-
-Iran crisis intensifies, raising probability of Fed rate hike and challenging US stock market bull run.
-
-rss · Google News - 金融市场 · Jul 23, 02:32
-
-**Tags**: `#金融`, `#宏观经济`, `#美股`, `#美联储`, `#伊朗`
-
----
-
-<a id="item-37"></a>
-## [判了！A股标志性财务造假大案迎来关键进展，600518原实控人夫妇赔偿近14亿元 - 新浪财经](https://news.google.com/rss/articles/CBMikgJBVV95cUxObVhQTjBMb3N0a1hRYWtuRzNKSnNvOFAwUUlJLWNnRWJpMWZfclp2b2k1bTZuaUtTdlp2LVVtVVk4OXU2VEZiWlJHREw2TndhVkgzSmdwblZ1SFE5bTRBQ0I5UjlzV04yV1JmWWhOTVJqeEhKb202aS1OOHNBZFZaeS1yT2ZyMEtydXRCTFRCUFo0YS1RckFUUUp3ODRnaVNoLUZpR29ZRURVSktTRGRfc1B6RlVjc0l6SnZWbzQ4dkdBdXhJdUJza01uLVp0T1UwbHh4LWdyZzZMTFBTU3dmeDFsRU9rb0xpN0NFUmRPeVFBYzU4enNSTVBqYk0xMDFYSHhTR1VtcDNQQUxLUWNnLW5B?oc=5) ⭐️ 7.0/10
-
-A key ruling in the landmark financial fraud case of stock 600518 orders the former controlling shareholder and his spouse to pay nearly 1.4 billion yuan in compensation.
-
-rss · Google News - 金融市场 · Jul 22, 23:48
-
-**Tags**: `#金融`, `#A股`, `#财务造假`, `#监管`, `#中国`
+**Tags**: `#港股`, `#IPO`, `#AI`, `#金融市场`, `#新股`
 
 ---
 
 <a id="item-38"></a>
-## [港交所陈翊庭称“中国不能不投资” 上半年IPO集资3461亿港元增22% - 新浪财经](https://news.google.com/rss/articles/CBMibkFVX3lxTE9OZUtCNi11S0RTVHVscm05NHhKQ3JEbC1BRDNMSW05V0pUaDdJTEhnMUc3bVYxTW5WZ3pHeGswWS1ZSlZrZy15dWxhM0JXRFh2dGhGdElPSVE5VzVPNjNZbFZ1NnBsMzFLdHAzRnl3?oc=5) ⭐️ 7.0/10
+## [SpaceX再创上市以来新低！AI驱动全年资本支出飙升，谷歌盘后股价跌近4%！OpenAI承认大模型引发“空前网络安全事件” - 中国基金报](https://news.google.com/rss/articles/CBMiekFVX3lxTFBfT1Z6TUplZ3VBLWY3b0hhVy1IWXRRUi14aE1TOE5tTWEtcUZYQ2kzeUFPeUEtdDFlaU1aUS11UmE3ekd4d2dvNjYtTmRmdzFkamlRNGZLV0V2eXc1d2s4bk9qZVJNSFlZckNQdkE0X0J5UjFBSEplYkpR?oc=5) ⭐️ 7.0/10
 
-HKEX CEO Chen Yiting asserts 'China cannot be not invested in' as first-half IPO fundraising reaches 346.1 billion HKD, up 22%.
+SpaceX stock hits new low, AI drives Google's capital expenditure surge, and OpenAI acknowledges unprecedented cybersecurity incident caused by large models.
 
-rss · Google News - 金融市场 · Jul 23, 02:27
+rss · Google News - 金融市场 · Jul 23, 00:06
 
-**Tags**: `#金融`, `#宏观经济`, `#中国`, `#IPO`, `#港交所`
+**Tags**: `#AI`, `#半导体`, `#金融`, `#SpaceX`, `#网络安全`
 
 ---
 
 <a id="item-39"></a>
-## [Escalating Middle East war could slash global growth to 1.3% in 2026, World Bank chief economist says - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFl4WUhRV1FWS2pZbWhhX1RZVm5PQ2pzcWxENjM5dGRYWUZjZEVlMEpac1FFWk9tWkhIZnp6azZiYkI1Ml82VWYzaVBodTZEdHFqYjZWZ01WSnhxNlotUmlObHpocUt1NXdtRGFkRFNodG9MbnJtbkpGWldnQVRVdjI2bnUzaTNETTA0SjBVYU5ueV9MYWpwdzlEQkFEQmpRaDZRRm9FNDFDM3l4Ny1wUFpCT21lWVA5bWpITjFNQV9pTWc?oc=5) ⭐️ 7.0/10
+## [A股“股王”净利预增超800% - 新浪财经](https://news.google.com/rss/articles/CBMib0FVX3lxTE9TT0JKR0xUUnI4aWdocE5BTjJaeXNCcmZpazA5YnZjaHVLaUtveEY0ZFZsNGlYNTVGWkVSUVB1X3ktOS1qTURqbGtLY1BZaEs1ckNPTlBHWDRHM2toOVpfUXhNdEQtWEZIMlNrQWE5MA?oc=5) ⭐️ 7.0/10
 
-World Bank chief economist warns that an escalating Middle East war could reduce global growth to 1.3% by 2026.
+A股 leading stock (股王) reports net profit pre-increase of over 800%.
 
-rss · Google News - 全球宏观 · Jul 22, 10:31
+rss · Google News - 金融市场 · Jul 23, 03:56
 
-**Tags**: `#macro economy`, `#financial markets`, `#geopolitics`, `#global growth`
+**Tags**: `#A股`, `#金融`, `#财报`, `#中国`
 
 ---
 
 <a id="item-40"></a>
-## [One encoder, seven heads: what we learned training a unified security classifier with masked losses (P)](https://www.reddit.com/r/MachineLearning/comments/1v3vuj9/one_encoder_seven_heads_what_we_learned_training/) ⭐️ 7.0/10
+## [美联储预警Anthropic的Mythos模型风险，自身却长达数月无法获取该模型权限 - 新浪财经](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWnRzZHVOR3dTcW5RcklBaHhWUFhrU2dKdnhtdUJselVXcDhScUNGX2pMMTlsbFhfNjRjQ0dlRWw3emd1al9MRE9jYXhwbEhsbTdoQnlpd19lSHJnRk90dll3YU9CZnI3cXR6clVYcnBudnB1LVdXLUROdzBKaWU0M2dMY2FvakJoWWxRUzRqQU93SzBiZ09xU0ZpclZzbWdqVzB4c3BPMG5WU3U1U2RtM2QwQWl4ZDhhVUpIZWdtMWliR3U1Ri02enVzMmF3WC04eVlGQjdHeHhOdnZsbjlr?oc=5) ⭐️ 7.0/10
 
-A practical report on training a unified multi-head security classifier using masked losses, achieving high F1 scores across seven tasks.
+美联储对Anthropic的Mythos模型发出风险预警，但自身却数月无法获取该模型权限，凸显监管与访问权限的矛盾。
 
-reddit · r/MachineLearning · /u/PatronusProtect · Jul 22, 22:48
+rss · Google News - 金融市场 · Jul 22, 11:03
 
-**Tags**: `#multi-task learning`, `#security`, `#NLP`, `#machine learning`, `#deep learning`
+**Tags**: `#AI`, `#金融`, `#AI安全`, `#监管`, `#Anthropic`
+
+---
+
+<a id="item-41"></a>
+## [上海：推动科创板持续深化改革 持续扩大科创板第五套上市标准的适用范围 - 东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RU1BTWGZXcHE1X3g3c1ppdDkxMzdvX3h3LXZNVWRGVEVvaGJ4MUlLdmFSNVlTLXRGZV9YTHp0QzBMMnY0TDFJNXM5bnNRSWxTVmlpcXlHcDI2eU50a1U5SA?oc=5) ⭐️ 7.0/10
+
+Shanghai aims to deepen reforms of the STAR Market and expand the application scope of its fifth set of listing standards.
+
+rss · Google News - 金融市场 · Jul 22, 03:48
+
+**Tags**: `#金融`, `#科创板`, `#半导体`, `#政策`
+
+---
+
+<a id="item-42"></a>
+## [千亿利润只是“账面富贵”？上市22年首度烧穿现金流，谷歌AI疯狂烧钱 - 新浪财经](https://news.google.com/rss/articles/CBMib0FVX3lxTE42LUZFUEJ3VzV4ei05SFNGZ3lLZzRkbjV1cU42U2M1WXJjOWJzZVZCcU9CcHdmOUItaHMtYjRwWVMzNTZoYWNmckNaeFVYTGlvTG1Bc2F6S2ZmOWRGcEsyZ19wb0hZc091cFhhTTBNcw?oc=5) ⭐️ 7.0/10
+
+Google's AI investments have led to negative free cash flow for the first time in 22 years, questioning the sustainability of its massive spending.
+
+rss · Google News - 金融市场 · Jul 23, 02:59
+
+**Tags**: `#AI`, `#Google`, `#金融`, `#现金流`, `#投资`
+
+---
+
+<a id="item-43"></a>
+## [Escalating Middle East war could slash global growth to 1.3% in 2026, World Bank chief economist says - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFl4WUhRV1FWS2pZbWhhX1RZVm5PQ2pzcWxENjM5dGRYWUZjZEVlMEpac1FFWk9tWkhIZnp6azZiYkI1Ml82VWYzaVBodTZEdHFqYjZWZ01WSnhxNlotUmlObHpocUt1NXdtRGFkRFNodG9MbnJtbkpGWldnQVRVdjI2bnUzaTNETTA0SjBVYU5ueV9MYWpwdzlEQkFEQmpRaDZRRm9FNDFDM3l4Ny1wUFpCT21lWVA5bWpITjFNQV9pTWc?oc=5) ⭐️ 7.0/10
+
+World Bank chief economist warns that an escalating Middle East war could slash global growth to 1.3% in 2026.
+
+rss · Google News - 全球宏观 · Jul 22, 10:31
+
+**Tags**: `#宏观经济`, `#金融`, `#地缘政治`, `#全球增长`
+
+---
+
+<a id="item-44"></a>
+## [Unlimited AI tokens aren't unlimited after all as US Army burns through supply](https://www.reddit.com/r/singularity/comments/1v3ia58/unlimited_ai_tokens_arent_unlimited_after_all_as/) ⭐️ 7.0/10
+
+The US Army's rapid consumption of 'unlimited' AI tokens reveals that such plans have hidden caps, raising concerns about AI scalability and cost in real-world deployments.
+
+reddit · r/singularity · /u/JackFisherBooks · Jul 22, 14:47
+
+**Tags**: `#AI`, `#scalability`, `#enterprise`, `#military`
 
 ---
