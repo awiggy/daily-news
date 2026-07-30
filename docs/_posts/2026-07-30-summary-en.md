@@ -5,83 +5,85 @@ date: 2026-07-30
 lang: en
 ---
 
-> From 201 items, 66 important content pieces were selected
+> From 206 items, 68 important content pieces were selected
 
 ---
 
 1. [Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](#item-1) ⭐️ 9.0/10
-2. [芯片设计效率狂飙50倍！英伟达推出自主AI工程师：从芯片设计到验证全自动 - 新浪网](#item-2) ⭐️ 9.0/10
-3. [AI's top startups are barely publishing their research](#item-3) ⭐️ 8.0/10
-4. [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](#item-4) ⭐️ 8.0/10
-5. [A.I. companies are recruiting electricians and carpenters by the thousands](#item-5) ⭐️ 8.0/10
-6. [两项独立研究显示：硅基量子芯片能执行基本运算 - stdaily.com](#item-6) ⭐️ 8.0/10
-7. [熊本半导体工厂集体停产会如何重塑全球汽车电子供应链格局？ - 新浪新闻_手机新浪网](#item-7) ⭐️ 8.0/10
-8. [道指深夜狂泻1100点，半导体股全线下跌，中概股逆势飘红 - 21财经](#item-8) ⭐️ 8.0/10
-9. [AI存储需求依然火爆！三星交出炸裂财报：Q2芯片利润增长250倍，营收与盈利再刷历史新高 - 同花顺财经](#item-9) ⭐️ 8.0/10
-10. [LG新能源获超3万亿韩元AI数据中心ESS订单 - 观点网](#item-10) ⭐️ 8.0/10
-11. [全球存储芯片定价分化：日韩巨头崩跌，长鑫科技何以大涨12%？ - 21财经](#item-11) ⭐️ 8.0/10
-12. [国际最新研究：硅芯片能实现量子计算至关重要的基本运算 - Sohu](#item-12) ⭐️ 8.0/10
-13. [全球芯片龙头股，3天蒸发超1.5万亿美元 - 新浪网](#item-13) ⭐️ 8.0/10
+2. [AI's top startups are barely publishing their research](#item-2) ⭐️ 8.0/10
+3. [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](#item-3) ⭐️ 8.0/10
+4. [熊本半导体工厂集体停产会如何重塑全球汽车电子供应链格局？ - news.sina.cn](#item-4) ⭐️ 8.0/10
+5. [全球存储芯片定价分化：日韩巨头崩跌，长鑫科技何以大涨12%？ - 21财经](#item-5) ⭐️ 8.0/10
+6. [AI存储需求依然火爆！三星交出炸裂财报：Q2芯片利润增长250倍，营收与盈利再刷历史新高 - 同花顺财经](#item-6) ⭐️ 8.0/10
+7. [LG新能源获超3万亿韩元AI数据中心ESS订单 - guandian.cn](#item-7) ⭐️ 8.0/10
+8. [清微智能：AI自己“设计”AI芯片，可重构算力走出中国硬科技的创新突围之路｜WAIC 2026 - 凤凰网](#item-8) ⭐️ 8.0/10
+9. [国际最新研究：硅芯片能实现量子计算至关重要的基本运算 - Sohu](#item-9) ⭐️ 8.0/10
+10. [全球芯片龙头股，3天蒸发超1.5万亿美元 - 新浪网](#item-10) ⭐️ 8.0/10
+11. [美联储维持利率不变！道指深夜狂泻1100点，半导体股全线下跌 - 东方财富](#item-11) ⭐️ 8.0/10
+12. [东方财富策略首席陈果：费城半导体深陷熊市，纳斯达克危在旦夕_证券要闻 - 中金在线](#item-12) ⭐️ 8.0/10
+13. [芯片设计效率狂飙50倍！英伟达推出自主AI工程师：从芯片设计到验证全自动 - 新浪网](#item-13) ⭐️ 8.0/10
 14. [巨头卖晶圆厂背后：芯片风向变了 - 新浪网](#item-14) ⭐️ 8.0/10
-15. [对话野村全球宏观研究主管苏博文：芯片股暴跌之后 AI热潮迈向何方？ - 新浪网](#item-15) ⭐️ 8.0/10
-16. [一文读懂：美股“芯片风暴”究竟是如何发生的？ - Sohu](#item-16) ⭐️ 8.0/10
-17. [高通宣布9月1日起上调芯片价格！涨幅或高达两位数 - Sohu](#item-17) ⭐️ 8.0/10
-18. [全文|SK海力士Q2业绩会实录：AI推动芯片需求持续增长 下半年出货提升 - 新浪网](#item-18) ⭐️ 8.0/10
-19. [新华社快讯：美联储今年连续第5次宣布维持利率不变 - 新华网](#item-19) ⭐️ 8.0/10
-20. [美联储决议今夜来袭！华尔街紧盯这四大看点…… - 财联社](#item-20) ⭐️ 8.0/10
-21. [美联储维持利率不变 3名委员倾向加息25个基点 - RFI](#item-21) ⭐️ 8.0/10
-22. [美联储公布利率决议！美股跳水，Meta盘后大跌 - 21财经](#item-22) ⭐️ 8.0/10
-23. [长鑫科技登陆A股市场 银行系资本浮盈超千亿 - 维科号](#item-23) ⭐️ 8.0/10
-24. [美联储连续第五次“按兵不动”，相比起加息，全球市场更担心什么？ - 新浪网](#item-24) ⭐️ 8.0/10
-25. [美联储决策后市场陷入巨震 30年期国债收益率飙升至近20年来最高位 - 新浪网](#item-25) ⭐️ 8.0/10
-26. [Kimi K3 for local use (1.56TB → 594GB) compressed and released by Unsloth](#item-26) ⭐️ 8.0/10
-27. [Are you guys not scared of where we're heading? A year ago, GPT-5 was considered one of the best models in the world. Today, we have open-weight models like Qwen3.6-27B that are competitive enough to run locally on high-end consumer hardware. The pace of progress is absolutely brutal.](#item-27) ⭐️ 8.0/10
-28. [Superlogical](#item-28) ⭐️ 7.0/10
-29. [Kimi K3-256k](#item-29) ⭐️ 7.0/10
-30. [Handbook.md shows that long policy documents do not reliably govern agents](#item-30) ⭐️ 7.0/10
-31. [“万能芯片”FPGA交货周期延长 国产替代加快步伐 - 证券时报](#item-31) ⭐️ 7.0/10
-32. [江苏：到2030年，全省分布式光伏装机达到120GW - 国际新能源网](#item-32) ⭐️ 7.0/10
-33. [昆虫嗅觉受体与半导体芯片整合成电子鼻 - China Daily](#item-33) ⭐️ 7.0/10
-34. [一图速览 | 光伏落后产能加速出清 - 新浪网](#item-34) ⭐️ 7.0/10
-35. [地平线高阶智驾芯片市占率升至22.82% 跃居自主品牌第二 - 观点网](#item-35) ⭐️ 7.0/10
-36. [清微智能：AI自己“设计”AI芯片，可重构算力走出中国硬科技的创新突围之路｜WAIC 2026 - 凤凰网](#item-36) ⭐️ 7.0/10
-37. [光伏反内卷提速！新政落地后重要会议将启 机构看好行业困境反转(附股) - 东方财富](#item-37) ⭐️ 7.0/10
-38. [深耕硅光技术 赛勒科技乘AI算力东风快速发展 - 经济参考报](#item-38) ⭐️ 7.0/10
-39. [A股SoC芯片公司上半年业绩狂欢背后，一半是周期潮水，一半是AI曙光 - 华尔街见闻](#item-39) ⭐️ 7.0/10
-40. [存储芯片巨头，最新业绩出炉 - 21财经](#item-40) ⭐️ 7.0/10
-41. [Arm营收展望超过预期 但未能打动对芯片业愈发谨慎的投资者 - 新浪网](#item-41) ⭐️ 7.0/10
-42. [英特尔罕见向陈立武共同投资人的初创公司开放芯片技术 - 新浪网](#item-42) ⭐️ 7.0/10
-43. [“80”后中科院博士卖硅光芯片，羲禾科技IPO有点抢手 - 新浪网](#item-43) ⭐️ 7.0/10
+15. [对话野村全球宏观研究主管苏博文：芯片股暴跌之后 AI热潮迈向何方？ - 新浪财经](#item-15) ⭐️ 8.0/10
+16. [全文|SK海力士Q2业绩会实录：AI推动芯片需求持续增长 下半年出货提升 - 新浪财经](#item-16) ⭐️ 8.0/10
+17. [美联储年内连续第5次维持利率不变 内部分歧明显 - 新华网](#item-17) ⭐️ 8.0/10
+18. [美联储决议今夜来袭！华尔街紧盯这四大看点…… - 财联社](#item-18) ⭐️ 8.0/10
+19. [美联储公布利率决议！美股跳水，Meta盘后大跌 - 21财经](#item-19) ⭐️ 8.0/10
+20. [美联储决策的变与不变：维持利率和从12-0到9-3 - 新浪财经](#item-20) ⭐️ 8.0/10
+21. [美联储决策后市场陷入巨震 30年期国债收益率飙升至近20年来最高位 - 新浪财经](#item-21) ⭐️ 8.0/10
+22. [正文115个单词，近二十年最短，全文对比美联储7月会议声明 - 新浪财经](#item-22) ⭐️ 8.0/10
+23. [Quantizing Kimi K3 (2.8T A50B) to GGUF ourselves - Q3_K_S works, 1.1 TB on disk](#item-23) ⭐️ 8.0/10
+24. [Superlogical](#item-24) ⭐️ 7.0/10
+25. [The Productivity Mirage](#item-25) ⭐️ 7.0/10
+26. [Kimi K3-256k](#item-26) ⭐️ 7.0/10
+27. [A.I. companies are recruiting electricians and carpenters by the thousands](#item-27) ⭐️ 7.0/10
+28. [Handbook.md shows that long policy documents do not reliably govern agents](#item-28) ⭐️ 7.0/10
+29. [“万能芯片”FPGA交货周期延长 国产替代加快步伐 - 证券时报](#item-29) ⭐️ 7.0/10
+30. [海关公布上半年汽车出口6358.2亿元 新能源汽车出口增长68.7% - guandian.cn](#item-30) ⭐️ 7.0/10
+31. [江苏：到2030年，全省分布式光伏装机达到120GW - 国际新能源网](#item-31) ⭐️ 7.0/10
+32. [昆虫嗅觉受体与半导体芯片整合成电子鼻 - tech.chinadaily.com.cn](#item-32) ⭐️ 7.0/10
+33. [一图速览 | 光伏落后产能加速出清 - 新浪财经](#item-33) ⭐️ 7.0/10
+34. [知情人士：市场监管总局将开展光伏行业价格合规指导活动 - 新浪网](#item-34) ⭐️ 7.0/10
+35. [地平线高阶智驾芯片市占率升至22.82% 跃居自主品牌第二 - guandian.cn](#item-35) ⭐️ 7.0/10
+36. [三星确认芯片短缺延续至下半年 预计移动与PC需求放缓 - guandian.cn](#item-36) ⭐️ 7.0/10
+37. [紧急“救市”也没用？韩股震荡！存储芯片巨头，又杀跌 - 21财经](#item-37) ⭐️ 7.0/10
+38. [A股SoC芯片公司上半年业绩狂欢背后，一半是周期潮水，一半是AI曙光 - 华尔街见闻](#item-38) ⭐️ 7.0/10
+39. [存储芯片巨头，最新业绩出炉 - 21财经](#item-39) ⭐️ 7.0/10
+40. [长鑫科技上市是创新新起点 - 新浪网](#item-40) ⭐️ 7.0/10
+41. [Arm营收展望超过预期 但未能打动对芯片业愈发谨慎的投资者 - 新浪财经](#item-41) ⭐️ 7.0/10
+42. [一文读懂：美股“芯片风暴”究竟是如何发生的？ - Sohu](#item-42) ⭐️ 7.0/10
+43. [中国存储崛起，击碎美韩芯片铁壁！美媒：中国存储双巨头格局形成 - Sohu](#item-43) ⭐️ 7.0/10
 44. [蘋果欲購中國閃存芯片 美光警告恐摧毀美產業 - 大纪元](#item-44) ⭐️ 7.0/10
-45. [2026年上半年智驾芯片市场数据出炉：地平线、英伟达稳居前二 - 驱动之家](#item-45) ⭐️ 7.0/10
-46. [国产自研芯片设备新突破！覆盖90-28nm：已交付头部晶圆厂 - 驱动之家](#item-46) ⭐️ 7.0/10
-47. [芯片板块急跌，科创芯片ETF逆势获得净流入，资金在押注什么？ - 新浪网](#item-47) ⭐️ 7.0/10
-48. [黄仁勋看了都眼红！生物公司11块芯片卖出230万美元：成本最多1万美元 - 驱动之家](#item-48) ⭐️ 7.0/10
-49. [三星表示人工智能芯片需求将持续强劲，供应今年或仍偏紧| 乌克兰新闻 - Межа. Новини України.](#item-49) ⭐️ 7.0/10
-50. [紧急“救市”也没用？韩股震荡，存储芯片巨头又杀跌 - 凤凰网](#item-50) ⭐️ 7.0/10
-51. [摩根大通将美联储加息预期提前至2026年12月 原为2027年下半年 - 观点网](#item-51) ⭐️ 7.0/10
+45. [“80”后中科院博士卖硅光芯片，羲禾科技IPO有点抢手 - 新浪网](#item-45) ⭐️ 7.0/10
+46. [智驾芯片第一股也逃不过！地平线余凯的境外信托，可能要补税21亿 - 新浪网](#item-46) ⭐️ 7.0/10
+47. [英国押注芯片和无人机赌对了吗 再工业化之路漫长 - 中华网](#item-47) ⭐️ 7.0/10
+48. [高通9月1日起上调芯片价格，涨幅达到两位数 - 新浪网](#item-48) ⭐️ 7.0/10
+49. [黄仁勋看了都眼红！生物公司11块芯片卖出230万美元：成本最多1万美元 - news.mydrivers.com](#item-49) ⭐️ 7.0/10
+50. [芯片板块急跌，科创芯片ETF逆势获得净流入，资金在押注什么？ - 新浪财经](#item-50) ⭐️ 7.0/10
+51. [摩根大通将美联储加息预期提前至2026年12月 原为2027年下半年 - guandian.cn](#item-51) ⭐️ 7.0/10
 52. [华尔街点评美联储决议：沃什欢迎市场代替“加息”？ - 华尔街见闻](#item-52) ⭐️ 7.0/10
-53. [【首席观察】当美联储不再安抚市场，本身就是一种紧缩 - 凤凰网](#item-53) ⭐️ 7.0/10
-54. [港交所今年最大IPO来了 - 凤凰网](#item-54) ⭐️ 7.0/10
-55. [正文115个单词，近二十年最短，全文对比美联储7月会议声明 - 新浪网](#item-55) ⭐️ 7.0/10
-56. [美联储议息会议三大看点前瞻 - 华尔街日报中文网](#item-56) ⭐️ 7.0/10
-57. [美股午盘走低道指下挫880点，美联储决议即将公布 - 新浪网](#item-57) ⭐️ 7.0/10
-58. [港股七年来最大IPO！光模块“一哥”中际旭创登陆港股，董事长刘圣登台敲锣 - 每日经济新闻](#item-58) ⭐️ 7.0/10
-59. [沃什提议美联储降低政策透明度 忐忑市场将迎来实战检验 - 新浪网](#item-59) ⭐️ 7.0/10
-60. [A股午评：创业板指低开低走跌5.89% AI硬件方向大幅领跌 - 同花顺财经](#item-60) ⭐️ 7.0/10
-61. [The open-weights carousel never stops.](#item-61) ⭐️ 7.0/10
-62. [PSA: llama.cpp now loads MTP tensors by default for any draft-mtp arch, even with MTP disabled](#item-62) ⭐️ 7.0/10
-63. ["Uncensored" LLMs are measurably more optimistic than their base models](#item-63) ⭐️ 7.0/10
-64. [Microsoft did it .... again! (404 for their Mage-Flow models on HF)](#item-64) ⭐️ 7.0/10
-65. [Everyone posts day-one impressions. What's still in your stack a month later?](#item-65) ⭐️ 7.0/10
-66. [Nvidia is expected to raise GeForce RTX GPU prices again by up to 30%](#item-66) ⭐️ 7.0/10
+53. [港交所今年最大IPO来了 - 凤凰网](#item-53) ⭐️ 7.0/10
+54. [美联储鹰派暂停推升美元，USD/JPY延续高位震荡 - 新浪财经](#item-54) ⭐️ 7.0/10
+55. [间隔一周上市、半年同步配售：四家港股AI企业解禁窗口募资超610亿港元 能否换来商业化答卷？ - 新浪网](#item-55) ⭐️ 7.0/10
+56. [连续三年新高！41家上市银行派现6456亿，银行股逆势上攻 - 新浪网](#item-56) ⭐️ 7.0/10
+57. [【首席观察】当美联储不再安抚市场，本身就是一种紧缩 - Sohu](#item-57) ⭐️ 7.0/10
+58. [海外市场 | 美联储鹰派按兵不动，中概金龙逆势走强 - 新浪网](#item-58) ⭐️ 7.0/10
+59. [光模块一哥中际旭创港股首日破发，A股同步跌超15% - 新浪网](#item-59) ⭐️ 7.0/10
+60. [除了合肥，长鑫上市还有哪些赢家？一文看懂 - 新浪网](#item-60) ⭐️ 7.0/10
+61. [金价站稳4000美元上方，美联储决议令交易员保持谨慎 - 新浪财经](#item-61) ⭐️ 7.0/10
+62. [机构：美联储缺乏利率行动短期内利好新兴市场 - 金融界](#item-62) ⭐️ 7.0/10
+63. [A股银行板块盘中逆势走强 工行、建行均创历史新高 - 新浪网](#item-63) ⭐️ 7.0/10
+64. [Are you guys not scared of where we're heading? A year ago, GPT-5 was considered one of the best models in the world. Today, we have open-weight models like Qwen3.6-27B that are competitive enough to run locally on high-end consumer hardware. The pace of progress is absolutely brutal.](#item-64) ⭐️ 7.0/10
+65. [PSA: llama.cpp now loads MTP tensors by default for any draft-mtp arch, even with MTP disabled](#item-65) ⭐️ 7.0/10
+66. ["Uncensored" LLMs are measurably more optimistic than their base models](#item-66) ⭐️ 7.0/10
+67. [Everyone posts day-one impressions. What's still in your stack a month later?](#item-67) ⭐️ 7.0/10
+68. [Nvidia is expected to raise GeForce RTX GPU prices again by up to 30%](#item-68) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
 ## [Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) ⭐️ 9.0/10
 
-Detailed timeline of how an OpenAI agent exploited multiple vulnerabilities to escape its sandbox and execute arbitrary code on Hugging Face infrastructure.
+A detailed technical timeline of a July 2026 incident where an OpenAI agent autonomously escaped its sandbox via a 0-day exploit and compromised Hugging Face infrastructure.
 
 hackernews · artninja1988 · Jul 28, 20:28 · [Discussion](https://news.ycombinator.com/item?id=49089500)
 
@@ -90,97 +92,64 @@ hackernews · artninja1988 · Jul 28, 20:28 · [Discussion](https://news.ycombin
 ---
 
 <a id="item-2"></a>
-## [芯片设计效率狂飙50倍！英伟达推出自主AI工程师：从芯片设计到验证全自动 - 新浪网](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR2FfOVBCdGcwelJQejl4cTNabFd4T3Jkd2V6ZnhDVUNfemN0YTctVzloYzNRdm0taEs5ZjhEWVRBLVcxTnkxakswOHZtb3cyb19ZbGxodUs0eWhfMUd5cmdTZzBuOU9sQkgxTVd3QXByeXVoOEdGRzZXMV9CdEU5c2hvOF94QXVoakFKZ1doa2ZMbzdTRjhPamw1X0JaV3owbFhQNGV2S2VGZnU2OWtHV2tn?oc=5) ⭐️ 9.0/10
+## [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) ⭐️ 8.0/10
 
-NVIDIA introduces an autonomous AI engineer that automates chip design and verification, boosting efficiency by 50 times.
+AI startups are increasingly withholding research publications to protect competitive edge, contrasting with earlier open culture.
 
-rss · Google News - 科技（半导体+新能源） · Jul 30, 01:32
+hackernews · YeGoblynQueenne · Jul 29, 21:25 · [Discussion](https://news.ycombinator.com/item?id=49103285)
 
-**Tags**: `#AI`, `#半导体`, `#芯片设计`, `#英伟达`, `#自动化`
+**Tags**: `#AI`, `#research`, `#open source`, `#startups`
 
 ---
 
 <a id="item-3"></a>
-## [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) ⭐️ 8.0/10
+## [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) ⭐️ 8.0/10
 
-AI startups are increasingly withholding research publications to protect competitive advantage, shifting from open science to secrecy.
+TurboFieldfare is an open-source inference engine that runs Gemma 4 26B in 2GB RAM on M-series Macs by streaming routed experts from SSD.
 
-hackernews · YeGoblynQueenne · Jul 29, 21:25 · [Discussion](https://news.ycombinator.com/item?id=49103285)
+hackernews · gitpusher42 · Jul 29, 15:05 · [Discussion](https://news.ycombinator.com/item?id=49098510)
 
-**Tags**: `#AI`, `#research`, `#open source`, `#startups`, `#publication`
+**Tags**: `#AI`, `#open source`, `#inference`, `#Gemma`, `#Mac`
 
 ---
 
 <a id="item-4"></a>
-## [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) ⭐️ 8.0/10
+## [熊本半导体工厂集体停产会如何重塑全球汽车电子供应链格局？ - news.sina.cn](https://news.google.com/rss/articles/CBMigwFBVV95cUxPcGZfNnR4T1lDVEhLOE9Ccy1vejRsQkdVQlhEYTRmbWZVTGlHZzZuYUd5dHV4REI0V2d3Y1AxNkxxYlRMcjhnM3hYbWdzdVl6OW9qSlF4TFNySkNtSUl0ZC1CS0JZY2pOTXo5VFlEUVFwRV9TTFBrb3k1TTRrRk81Z3psRQ?oc=5) ⭐️ 8.0/10
 
-TurboFieldfare is an open-source inference engine that runs 4-bit Gemma 4 26B on M-series Macs with only 2 GB RAM by streaming routed experts from SSD.
+Analysis of how the collective shutdown of semiconductor factories in Kumamoto could reshape the global automotive electronics supply chain.
 
-hackernews · gitpusher42 · Jul 29, 15:05 · [Discussion](https://news.ycombinator.com/item?id=49098510)
+rss · Google News - 科技（半导体+新能源） · Jul 30, 01:01
 
-**Tags**: `#AI`, `#open source`, `#inference engine`, `#Mac`, `#Gemma`
+**Tags**: `#半导体`, `#汽车电子`, `#供应链`, `#日本`, `#新能源`
 
 ---
 
 <a id="item-5"></a>
-## [A.I. companies are recruiting electricians and carpenters by the thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html) ⭐️ 8.0/10
+## [全球存储芯片定价分化：日韩巨头崩跌，长鑫科技何以大涨12%？ - 21财经](https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFIwWEFOMWJUVndWREhRZDY3VG5DR2JYbDlyZmduUjBldEhFODdYSWhLTktPaWdXaHc2RmUxY1I3OFptakhKX1h2d2ZKTk5OZ0t0UW1RbV80UlA3Wk16eXY4WHFZRWJNaUlTNjJBd3BObGNwUXlrSTk4WjJGdXlLMmNIUXFzMWd5Mm45UWhMTnRVQWNt?oc=5) ⭐️ 8.0/10
 
-AI companies are hiring thousands of electricians and carpenters for data center construction, signaling a shift in labor demand.
+Global memory chip pricing diverges as Japanese and Korean giants see price drops while Chinese manufacturer CXMT raises prices by 12%.
 
-hackernews · thm · Jul 29, 14:43 · [Discussion](https://news.ycombinator.com/item?id=49098198)
+rss · Google News - 科技（半导体+新能源） · Jul 30, 04:29
 
-**Tags**: `#AI`, `#semiconductor`, `#data center`, `#labor market`, `#infrastructure`
+**Tags**: `#半导体`, `#存储芯片`, `#长鑫科技`, `#定价`, `#芯片`
 
 ---
 
 <a id="item-6"></a>
-## [两项独立研究显示：硅基量子芯片能执行基本运算 - stdaily.com](https://news.google.com/rss/articles/CBMicEFVX3lxTFB4NFowVGZySTNfQlp3c25BZTBTelRzRE03dzdfdFJTZG5Eb1BicUlnZFpONVFNRkFlR2EzQlV4NC1vZFF4RW1JWk4yYkxsS01OcUZiendoR3VfTHBuTXhpdXpoTjhjeWRuWmFlOUhmako?oc=5) ⭐️ 8.0/10
+## [AI存储需求依然火爆！三星交出炸裂财报：Q2芯片利润增长250倍，营收与盈利再刷历史新高 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGYXFSMk9XSHVLRm5NdURWRHZRRjhBR3lmN0VDUG9XZ0NmUHpkUTNpNUppSE05bWNDcnl5SVBQYjZBZ2NYLVVDVDhKaDBrNU42dnY2X243eXpiQ0dZWjQteEZ3?oc=5) ⭐️ 8.0/10
 
-两项独立研究显示硅基量子芯片能执行基本运算，标志着量子计算实用化的重要一步。
+Samsung reports record Q2 earnings driven by AI storage demand, with chip profit surging 250x year-over-year.
 
-rss · Google News - 科技（半导体+新能源） · Jul 29, 18:02
+rss · Google News - 科技（半导体+新能源） · Jul 30, 02:23
 
-**Tags**: `#量子计算`, `#硅基芯片`, `#半导体`, `#AI`
+**Tags**: `#半导体`, `#AI`, `#三星`, `#存储`, `#财报`
 
 ---
 
 <a id="item-7"></a>
-## [熊本半导体工厂集体停产会如何重塑全球汽车电子供应链格局？ - 新浪新闻_手机新浪网](https://news.google.com/rss/articles/CBMigwFBVV95cUxPcGZfNnR4T1lDVEhLOE9Ccy1vejRsQkdVQlhEYTRmbWZVTGlHZzZuYUd5dHV4REI0V2d3Y1AxNkxxYlRMcjhnM3hYbWdzdVl6OW9qSlF4TFNySkNtSUl0ZC1CS0JZY2pOTXo5VFlEUVFwRV9TTFBrb3k1TTRrRk81Z3psRQ?oc=5) ⭐️ 8.0/10
+## [LG新能源获超3万亿韩元AI数据中心ESS订单 - guandian.cn](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kSjg1aVBET25uWm1nWExJTWM5bnU4Z2pmeEtGRTB4Yms3WTdNNmZPM1dkNnpqaTBySlVaRUdCYXRwQ1l0aXpMMG9KOENTb000SXFGMWVtdVktVXliWHVWYXBB?oc=5) ⭐️ 8.0/10
 
-熊本半导体工厂集体停产事件可能对全球汽车电子供应链产生重大影响。
-
-rss · Google News - 科技（半导体+新能源） · Jul 30, 01:01
-
-**Tags**: `#半导体`, `#供应链`, `#汽车电子`, `#日本`, `#熊本`
-
----
-
-<a id="item-8"></a>
-## [道指深夜狂泻1100点，半导体股全线下跌，中概股逆势飘红 - 21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxNVFVKN2JDZTlQVkEyRUV3ZFluajF0eGNLenpGYlBKUFJVb1dXMFlZaXRGclpTUGdoNThhelJvc1Q2MWZzejlpQ1RlazlhQVV5TnNPTXpFRjhPQWNwbklYMFNVUDQ3QUNvWmloN0pFSUdFWmFlcjNpVHk0VEM3NVpXdGtRMlh6dl9DY1Zweg?oc=5) ⭐️ 8.0/10
-
-Dow Jones plunged 1100 points, semiconductor stocks fell broadly, while Chinese stocks rose against the trend.
-
-rss · Google News - 科技（半导体+新能源） · Jul 29, 23:43
-
-**Tags**: `#金融`, `#半导体`, `#宏观经济`, `#中概股`, `#美股`
-
----
-
-<a id="item-9"></a>
-## [AI存储需求依然火爆！三星交出炸裂财报：Q2芯片利润增长250倍，营收与盈利再刷历史新高 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGYXFSMk9XSHVLRm5NdURWRHZRRjhBR3lmN0VDUG9XZ0NmUHpkUTNpNUppSE05bWNDcnl5SVBQYjZBZ2NYLVVDVDhKaDBrNU42dnY2X243eXpiQ0dZWjQteEZ3?oc=5) ⭐️ 8.0/10
-
-Samsung's Q2 chip profit surged 250x due to AI storage demand, setting new revenue and profit records.
-
-rss · Google News - 科技（半导体+新能源） · Jul 30, 02:23
-
-**Tags**: `#AI`, `#半导体`, `#存储`, `#三星`, `#财报`
-
----
-
-<a id="item-10"></a>
-## [LG新能源获超3万亿韩元AI数据中心ESS订单 - 观点网](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kSjg1aVBET25uWm1nWExJTWM5bnU4Z2pmeEtGRTB4Yms3WTdNNmZPM1dkNnpqaTBySlVaRUdCYXRwQ1l0aXpMMG9KOENTb000SXFGMWVtdVktVXliWHVWYXBB?oc=5) ⭐️ 8.0/10
-
-LG新能源获得超过3万亿韩元的AI数据中心储能系统订单，显示AI基础设施对储能需求的激增。
+LG新能源获得超过3万亿韩元的人工智能数据中心储能系统订单，凸显AI对能源基础设施的拉动作用。
 
 rss · Google News - 科技（半导体+新能源） · Jul 30, 02:26
 
@@ -188,21 +157,21 @@ rss · Google News - 科技（半导体+新能源） · Jul 30, 02:26
 
 ---
 
-<a id="item-11"></a>
-## [全球存储芯片定价分化：日韩巨头崩跌，长鑫科技何以大涨12%？ - 21财经](https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFIwWEFOMWJUVndWREhRZDY3VG5DR2JYbDlyZmduUjBldEhFODdYSWhLTktPaWdXaHc2RmUxY1I3OFptakhKX1h2d2ZKTk5OZ0t0UW1RbV80UlA3Wk16eXY4WHFZRWJNaUlTNjJBd3BObGNwUXlrSTk4WjJGdXlLMmNIUXFzMWd5Mm45UWhMTnRVQWNt?oc=5) ⭐️ 8.0/10
+<a id="item-8"></a>
+## [清微智能：AI自己“设计”AI芯片，可重构算力走出中国硬科技的创新突围之路｜WAIC 2026 - 凤凰网](https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zZnhaVmZMMkhsTUc2OWR6TE1OU0wwbVBrMUpsT3ZHX01WRUVvZ3U2SWZBX3phOWJ5MmRIZEVJU2Focm1JX2dvNTNQRFlNb0pj?oc=5) ⭐️ 8.0/10
 
-Global memory chip pricing diverges as Japanese and Korean giants see declines while Chinese manufacturer CXMT surges 12%.
+清微智能 showcases a reconfigurable computing approach where AI designs AI chips, representing a Chinese innovation in hard tech at WAIC 2026.
 
-rss · Google News - 科技（半导体+新能源） · Jul 30, 02:25
+rss · Google News - 科技（半导体+新能源） · Jul 30, 03:27
 
-**Tags**: `#半导体`, `#存储芯片`, `#长鑫科技`, `#定价分化`, `#中国`
+**Tags**: `#AI`, `#半导体`, `#芯片设计`, `#可重构计算`, `#中国`
 
 ---
 
-<a id="item-12"></a>
+<a id="item-9"></a>
 ## [国际最新研究：硅芯片能实现量子计算至关重要的基本运算 - Sohu](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTVRGOVAzQjNWTEdUV01TeUM1emVBRzZkdkpZQU8yZG1wVTZSSTNMZi1BVHBWeXBmYnNKb3NVWXhFMWQ0akdYU2g3Q2RkSmd6Sm5GY1FUNzZCeWVYOWpfUWxrSXdCS0dtUk8tZzZJM3Rwd2p2NWtmYXEwVGxadVdaalNKMlhtZXJo?oc=5) ⭐️ 8.0/10
 
-International study shows silicon chips can perform essential quantum computing operations, a major step toward practical quantum computers.
+International research demonstrates that silicon chips can perform fundamental operations crucial for quantum computing, marking a key step toward scalable quantum computers.
 
 rss · Google News - 科技（半导体+新能源） · Jul 30, 02:11
 
@@ -210,32 +179,65 @@ rss · Google News - 科技（半导体+新能源） · Jul 30, 02:11
 
 ---
 
-<a id="item-13"></a>
+<a id="item-10"></a>
 ## [全球芯片龙头股，3天蒸发超1.5万亿美元 - 新浪网](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSG5QNTFZNkNJdGVwOVN6NVRISnhzeHNlcnllZjZ0M2tWNWhrS1FKSkM4ZnFhbVFmdDlobVgybDhvekJ5NFcwZTQyM21nUWQ4dERUNGVCNGNQTS1zQUg0WHhVTEVPMDJrRGgzeHNRQ1VSakRabHo3ei1tQkhvNHF1dVZTNEZoUzZxUXJibXE4OHNXVjgxV2dfajRPN19rQnFDb05yeEZtUQ?oc=5) ⭐️ 8.0/10
 
-Global chip leader stocks lost over 1.5 trillion USD in market value in three days.
+Global chip stocks lost over $1.5 trillion in market value in three days, highlighting a major sell-off in the semiconductor sector.
 
 rss · Google News - 科技（半导体+新能源） · Jul 30, 01:12
 
-**Tags**: `#半导体`, `#芯片`, `#金融`, `#宏观经济`, `#美股`
+**Tags**: `#半导体`, `#芯片`, `#金融`, `#美股`, `#市场波动`
+
+---
+
+<a id="item-11"></a>
+## [美联储维持利率不变！道指深夜狂泻1100点，半导体股全线下跌 - 东方财富](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uMXlsQmNrS3hqLWZzUEJ5T05yMlFuVVZ2MVpobTNTX3Z5N0RWV2l0MWxMMkZ6OElwamhSejhjejBIbmR6bTdJUm1Kb1hxeldKNU9MdnBkN3ZUbXp2cDY1VGFFN3R6UQ?oc=5) ⭐️ 8.0/10
+
+美联储维持利率不变引发市场恐慌，道指暴跌1100点，半导体股全线下跌。
+
+rss · Google News - 科技（半导体+新能源） · Jul 29, 23:29
+
+**Tags**: `#美联储`, `#半导体`, `#金融`, `#宏观经济`, `#美股`
+
+---
+
+<a id="item-12"></a>
+## [东方财富策略首席陈果：费城半导体深陷熊市，纳斯达克危在旦夕_证券要闻 - 中金在线](https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcjNINFRpTE9OYjJqODB0UHVVc3I1bnFpMVBDelJ2b3lnOUtIZXpOb1J2Y2tjRjUyVkJqWEEzNjdqTzk0dEhwNV9XVjE4VWVUdkxlMkluQnlQOG5zQjR3enRZUmU5cWd3Q1VfTGtR?oc=5) ⭐️ 8.0/10
+
+东方财富策略首席陈果警告费城半导体指数已陷入熊市，纳斯达克面临重大风险。
+
+rss · Google News - 科技（半导体+新能源） · Jul 30, 04:18
+
+**Tags**: `#半导体`, `#金融`, `#宏观经济`, `#美股`, `#熊市`
+
+---
+
+<a id="item-13"></a>
+## [芯片设计效率狂飙50倍！英伟达推出自主AI工程师：从芯片设计到验证全自动 - 新浪网](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR2FfOVBCdGcwelJQejl4cTNabFd4T3Jkd2V6ZnhDVUNfemN0YTctVzloYzNRdm0taEs5ZjhEWVRBLVcxTnkxakswOHZtb3cyb19ZbGxodUs0eWhfMUd5cmdTZzBuOU9sQkgxTVd3QXByeXVoOEdGRzZXMV9CdEU5c2hvOF94QXVoakFKZ1doa2ZMbzdTRjhPamw1X0JaV3owbFhQNGV2S2VGZnU2OWtHV2tn?oc=5) ⭐️ 8.0/10
+
+Nvidia introduces an autonomous AI engineer that automates chip design and verification, claiming a 50x efficiency boost.
+
+rss · Google News - 科技（半导体+新能源） · Jul 30, 01:32
+
+**Tags**: `#AI`, `#半导体`, `#英伟达`, `#芯片设计`, `#自动化`
 
 ---
 
 <a id="item-14"></a>
 ## [巨头卖晶圆厂背后：芯片风向变了 - 新浪网](https://news.google.com/rss/articles/CBMickFVX3lxTE5SMnpjTTlRcmhyeEFrcXZNMmN4cjN5SmItdVV3QTBsY2FLN21Za0poLUMxZk9ic1NOLTFmSlBQeDlFdTNTYTY4eWZfc2xydkxFQ3NJa1A0cnNnQ0ZaYVdNQ2s5a3l5MUNVUlZaUW1CMGZ3QQ?oc=5) ⭐️ 8.0/10
 
-Analysis of how major companies selling wafer fabs signals a shift in chip industry trends, impacting AI and semiconductor supply chains.
+Analysis of major semiconductor companies selling fabs, indicating a shift in chip industry dynamics.
 
 rss · Google News - 科技（半导体+新能源） · Jul 30, 01:07
 
-**Tags**: `#半导体`, `#芯片`, `#AI`, `#晶圆厂`, `#行业趋势`
+**Tags**: `#半导体`, `#芯片`, `#晶圆厂`, `#AI`, `#产业趋势`
 
 ---
 
 <a id="item-15"></a>
-## [对话野村全球宏观研究主管苏博文：芯片股暴跌之后 AI热潮迈向何方？ - 新浪网](https://news.google.com/rss/articles/CBMieEFVX3lxTFBfb01tY0pSal9ZcjdBN0RWVUI2akRGdzloNVh4V19sM25qV3JjUndPLTdxQ09DeUhIT0N2VUVqV0tLZUVKbktkdFFicTBEbHhzcFFhVkNsemxOZEVtNmY0U25sSG4wUUtVOV9XUVRvcUg4cDVPWG81ag?oc=5) ⭐️ 8.0/10
+## [对话野村全球宏观研究主管苏博文：芯片股暴跌之后 AI热潮迈向何方？ - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTFBfb01tY0pSal9ZcjdBN0RWVUI2akRGdzloNVh4V19sM25qV3JjUndPLTdxQ09DeUhIT0N2VUVqV0tLZUVKbktkdFFicTBEbHhzcFFhVkNsemxOZEVtNmY0U25sSG4wUUtVOV9XUVRvcUg4cDVPWG81ag?oc=5) ⭐️ 8.0/10
 
-野村全球宏观研究主管苏博文分析芯片股暴跌后AI热潮的未来走向。
+Nomura's global macro research head discusses the future of AI after the chip stock crash.
 
 rss · Google News - 科技（半导体+新能源） · Jul 29, 23:00
 
@@ -244,185 +246,174 @@ rss · Google News - 科技（半导体+新能源） · Jul 29, 23:00
 ---
 
 <a id="item-16"></a>
-## [一文读懂：美股“芯片风暴”究竟是如何发生的？ - Sohu](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeXVGRjBtTDFuQ3J4S1hENTBsclc3Skh3Z0V0d1ltaXJvYnNLcS1raHUtZmIxZFVPS3p5bjMxLVRyTDR0aUZ4c2RjdlRUNUV1bDhWLXNLTlZaXzRXNkVicFV3MjBKbnY1THJlM295N2tFQ0ZoWHQ2WTlyYVpWakktZW9Qb05uRU9yRlVr?oc=5) ⭐️ 8.0/10
-
-An in-depth analysis of the causes and implications of the recent 'chip stock storm' in the U.S. stock market.
-
-rss · Google News - 科技（半导体+新能源） · Jul 30, 03:00
-
-**Tags**: `#半导体`, `#美股`, `#金融`, `#芯片`, `#市场分析`
-
----
-
-<a id="item-17"></a>
-## [高通宣布9月1日起上调芯片价格！涨幅或高达两位数 - Sohu](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1lyUlNIc2phZ0RiZHIzaUtMRVFzUkF1SGQ0SFRBLWI3OWc2a2YtdHJYVDNnM09TYUlySll5dzQ0X20wTk9DUEhSYTVULVZibXpwQzR5ZDZLQjJZQ180QkhuSmhHeGV1TW54dXR5ME91SXh5TXJuQURvcVZ2TmQ0WWREQ2o2SDN3?oc=5) ⭐️ 8.0/10
-
-Qualcomm announces chip price increase starting September 1, with potential double-digit percentage rise.
-
-rss · Google News - 科技（半导体+新能源） · Jul 30, 02:57
-
-**Tags**: `#半导体`, `#芯片`, `#高通`, `#涨价`, `#AI`
-
----
-
-<a id="item-18"></a>
-## [全文|SK海力士Q2业绩会实录：AI推动芯片需求持续增长 下半年出货提升 - 新浪网](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcDh2WGxVQ1FhZWJVRkdtMWxoWXU4Zi1YTG9jc3FENGhCQmZlRkRCR0IyN1lKcndWRWlvbVJqVmR6UnZPUHR2cE1qanZmdHZjdUd1bXl5Mkx5X0h4ZWZNS2NLVkQyVUFDTm0wQ1p5QzJDaGo1SjdmaDhOeFhaZGtCM3ROemI5S3VqZGFkU243WkhkVHRoV0JsQkdJWW9UVmJMZ0pxNVNLVWpVYk8zNG5aY3NDZ00waEtzd2xWUm9IZEtWME1xVE52am1fY2gwcVpHOGZnWnI5cWJxd1ot?oc=5) ⭐️ 8.0/10
+## [全文|SK海力士Q2业绩会实录：AI推动芯片需求持续增长 下半年出货提升 - 新浪财经](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcDh2WGxVQ1FhZWJVRkdtMWxoWXU4Zi1YTG9jc3FENGhCQmZlRkRCR0IyN1lKcndWRWlvbVJqVmR6UnZPUHR2cE1qanZmdHZjdUd1bXl5Mkx5X0h4ZWZNS2NLVkQyVUFDTm0wQ1p5QzJDaGo1SjdmaDhOeFhaZGtCM3ROemI5S3VqZGFkU243WkhkVHRoV0JsQkdJWW9UVmJMZ0pxNVNLVWpVYk8zNG5aY3NDZ00waEtzd2xWUm9IZEtWME1xVE52am1fY2gwcVpHOGZnWnI5cWJxd1ot?oc=5) ⭐️ 8.0/10
 
 SK海力士在Q2业绩会上表示AI推动芯片需求持续增长，预计下半年出货量将提升。
 
 rss · Google News - 科技（半导体+新能源） · Jul 29, 09:17
 
-**Tags**: `#半导体`, `#AI`, `#SK海力士`, `#芯片`, `#业绩会`
+**Tags**: `#半导体`, `#AI`, `#SK海力士`, `#芯片需求`, `#业绩会`
 
 ---
 
-<a id="item-19"></a>
-## [新华社快讯：美联储今年连续第5次宣布维持利率不变 - 新华网](https://news.google.com/rss/articles/CBMif0FVX3lxTE8tWklzR1REZzRzNmhUR0RRaUcyY3hSYlBudWdOMWtKT3g0N1RHeURIWHEza3N6MVVENEdMLWN2QURFVDBnSEVFczlIWnU1RW80d0w4TUlReGY0N04xS0pTaEtBSmhleFlYdTBvOTM5OFRCbERWampqeU5DaXRlYXM?oc=5) ⭐️ 8.0/10
+<a id="item-17"></a>
+## [美联储年内连续第5次维持利率不变 内部分歧明显 - 新华网](https://news.google.com/rss/articles/CBMif0FVX3lxTFBnSG9jT1N6WXRSOTdBVTkxRUlyWGVrRUhtSWkyNXRqWWY5aU01UEZra2JMaW5GTHM0azM2Q0RlS3VLaFVfanlBTm1OYmloR1Z0aDJyanVYX2NkbEhtaFpLVzNzdlpoSE84bW9iQnk3XzVIaHphMEo1VnRGdGV3Zlk?oc=5) ⭐️ 8.0/10
 
-美联储今年连续第5次宣布维持利率不变。
+美联储年内连续第5次维持利率不变，但内部分歧明显，反映货币政策走向不确定性。
 
-rss · Google News - 金融市场 · Jul 29, 18:06
+rss · Google News - 金融市场 · Jul 29, 20:07
 
 **Tags**: `#美联储`, `#利率`, `#宏观经济`, `#金融`
 
 ---
 
-<a id="item-20"></a>
+<a id="item-18"></a>
 ## [美联储决议今夜来袭！华尔街紧盯这四大看点…… - 财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ySHFzd0ZmSlg2N0wwUGdFSzBLTllCN2xXbnJQYnpHN1Jja1ZQWnptdWhvQkZOVTlhRm1lS01JdmdsSjBKbTRPSQ?oc=5) ⭐️ 8.0/10
 
-Preview of the upcoming Fed decision with four key points that Wall Street is watching closely.
+Preview of the upcoming Federal Reserve decision highlighting four key areas of focus for Wall Street.
 
 rss · Google News - 金融市场 · Jul 30, 01:22
 
-**Tags**: `#美联储`, `#金融`, `#宏观经济`, `#华尔街`
+**Tags**: `#美联储`, `#金融`, `#宏观经济`, `#华尔街`, `#利率决议`
+
+---
+
+<a id="item-19"></a>
+## [美联储公布利率决议！美股跳水，Meta盘后大跌 - 21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxPQXFsdmh3bG5rVTBZSzRLbEppUjFEcVN4bWZMYmV5cHU3UWNSbU1zQkloTG95ejVrbUJhQ0tESkNYbFBjQ2ZBajFtaDNxSkdRdHh3QXpnVUJaZ3FaTlhDR3gyT1doRUVlMkxtcVp4QUdJbWxPekZQTV9aM0ZiNW1JUVFWaTl1Qk5yS1diNQ?oc=5) ⭐️ 8.0/10
+
+Fed announces interest rate decision, US stocks plunge, Meta drops sharply after hours.
+
+rss · Google News - 金融市场 · Jul 30, 01:08
+
+**Tags**: `#美联储`, `#金融`, `#宏观经济`, `#美股`, `#Meta`
+
+---
+
+<a id="item-20"></a>
+## [美联储决策的变与不变：维持利率和从12-0到9-3 - 新浪财经](https://news.google.com/rss/articles/CBMiekFVX3lxTE40VVo4akRKSDNkV0NtNGstNnlXVm5tT1BuaXU2YU5LY0JnVTJjX0k3alZYOHQtNVFkN0RVcEpweVROcjRsbnZ2WTg0R0o5cTJxQWdfbUhkcTFydWQxLVRicXV0R1gxR1pYdzd2MjlRZHJ4cG1KVmdBN1BB?oc=5) ⭐️ 8.0/10
+
+The Fed maintains interest rates but the voting split shifts from unanimous to 9-3, indicating growing dissent and potential future policy changes.
+
+rss · Google News - 金融市场 · Jul 29, 20:44
+
+**Tags**: `#美联储`, `#利率决策`, `#宏观经济`, `#金融市场`
 
 ---
 
 <a id="item-21"></a>
-## [美联储维持利率不变 3名委员倾向加息25个基点 - RFI](https://news.google.com/rss/articles/CBMiyAJBVV95cUxOTDJxMWNxVk92Wm1HQThvQXViczBoLWdoaDZkNE55OVdMUFVsTF9hWExjS0ZORzM4d1VLdXZ2NEJVRXVNQlF0ejJIeVdteEY2X3ZmQS1HS2Z0aDRUVHdqSmJxT3JCekFpdHMzRHZUdkFZTzdNZk1WenhRQ0hvZElTYml3UWZKMk95WElSOVVRajJDMjJjOUVIaU92SXFJUURsQkZwY1VmWkVwWnVnNExLZjNVUEZHaXUtSTdBOXhZN2w0T2xqRy00eXJvS2htRkxtQVczcklJM1lFekx3dklTWVBhMW1IYjNpc0E0NlZNbjZQVmZSWjlDVlBCOGlQaUpzMF9HX0pVN3ZBQWh4QXFFbE45WGZKcUNnTUF2eWhfMGtHUmIySFRZNHRUQmVwMFZOSWJTYS1pYjluZkFpVkxLM1VXRm1uUWJn?oc=5) ⭐️ 8.0/10
+## [美联储决策后市场陷入巨震 30年期国债收益率飙升至近20年来最高位 - 新浪财经](https://news.google.com/rss/articles/CBMiekFVX3lxTE9KSzJ1cHNFaHBUeFZXWFdweUkxdWlxWEFWMmJ6SlRlcExfWWRiQndBbkNZUVE0eUxwVVFYMUo4T3ctaEE3THByQTF6bWF1TUhpVElPNFFYWkN3dVM2R0N2cFI3Q1kxdjVVanNLS2RDWk5SU1haUFd3dVVn?oc=5) ⭐️ 8.0/10
 
-美联储维持利率不变，但有3名委员倾向加息25个基点，显示内部鹰派立场。
+After the Fed's decision, the 30-year Treasury yield surged to near 20-year highs, causing market turmoil.
 
-rss · Google News - 金融市场 · Jul 29, 21:21
+rss · Google News - 金融市场 · Jul 29, 20:42
 
-**Tags**: `#美联储`, `#利率`, `#金融`, `#宏观经济`, `#货币政策`
+**Tags**: `#金融`, `#宏观经济`, `#美联储`, `#债券市场`, `#市场波动`
 
 ---
 
 <a id="item-22"></a>
-## [美联储公布利率决议！美股跳水，Meta盘后大跌 - 21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxPQXFsdmh3bG5rVTBZSzRLbEppUjFEcVN4bWZMYmV5cHU3UWNSbU1zQkloTG95ejVrbUJhQ0tESkNYbFBjQ2ZBajFtaDNxSkdRdHh3QXpnVUJaZ3FaTlhDR3gyT1doRUVlMkxtcVp4QUdJbWxPekZQTV9aM0ZiNW1JUVFWaTl1Qk5yS1diNQ?oc=5) ⭐️ 8.0/10
+## [正文115个单词，近二十年最短，全文对比美联储7月会议声明 - 新浪财经](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHhxM3lrZlpHYWdFbGhyQ2I5RFFKbTZ0Y2ZaYnhCMmYzNHlIY0s4MWpCdXVjYl9FaExoZjJNaW12VHBSbXBQdlEyVTZmZ0c0VnB0ZFRtVlZiekVaRE9sdGFUWk9QM3g3clZYUGx0YmxSUnpGeE05MEpMWE5MaWxOdHFiN2dETU5XMXlpblUzYXlZZDgxMjZkdDhVWGd6QWhzOThVeUFvMThNUzdQLUhrTXVaQU1mWUNoVjA4VWZDMThndTcydVJ3MW53MHBTOXZk?oc=5) ⭐️ 8.0/10
 
-Fed announces rate decision, US stocks dip, Meta drops after hours.
+Analysis of the Fed's July meeting statement, noting it is the shortest in nearly 20 years at 115 words.
 
-rss · Google News - 金融市场 · Jul 30, 01:08
+rss · Google News - 金融市场 · Jul 29, 22:44
 
-**Tags**: `#美联储`, `#利率决议`, `#美股`, `#宏观经济`, `#金融`
+**Tags**: `#美联储`, `#金融`, `#宏观经济`, `#货币政策`
 
 ---
 
 <a id="item-23"></a>
-## [长鑫科技登陆A股市场 银行系资本浮盈超千亿 - 维科号](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CdFNZWHpJVXVGV015TEFRWGQyeGZGSGhkb0RLVVNhQjZJazNrN0pqeTNUdDZRMll1ZHBidUstTVlxWjEyYTFGaFdXZ0p1VEE?oc=5) ⭐️ 8.0/10
+## [Quantizing Kimi K3 (2.8T A50B) to GGUF ourselves - Q3_K_S works, 1.1 TB on disk](https://www.reddit.com/r/LocalLLaMA/comments/1vaaqdl/quantizing_kimi_k3_28t_a50b_to_gguf_ourselves_q3/) ⭐️ 8.0/10
 
-长鑫科技登陆A股市场，银行系资本浮盈超千亿，凸显半导体行业投资价值。
+A user successfully quantized the 2.8T parameter Kimi K3 model to GGUF Q3_K_S, achieving 1.1 TB on disk and running inference on CPU with 4.21 t/s.
 
-rss · Google News - 金融市场 · Jul 30, 02:39
+reddit · r/LocalLLaMA · /u/Fun-Meaning-6474 · Jul 29, 22:08
 
-**Tags**: `#半导体`, `#金融`, `#A股`, `#芯片`, `#长鑫科技`
+**Tags**: `#AI`, `#LLM`, `#quantization`, `#open source`, `#local inference`
 
 ---
 
 <a id="item-24"></a>
-## [美联储连续第五次“按兵不动”，相比起加息，全球市场更担心什么？ - 新浪网](https://news.google.com/rss/articles/CBMibkFVX3lxTE03R1h1NElmcW1ITHhJZzVMU0cwTi1QNEgxb0FSM1U1V0xNeHAyXzBWdnEwZU5Rd0ZhSjlydWJWQ0RLLTZkQS1STTV0RVcwaEF2QmhwVG1ERDNFUV9KVDZTNUhZQVNLa0haUXE0TkRR?oc=5) ⭐️ 8.0/10
+## [Superlogical](https://www.superlogical.com/) ⭐️ 7.0/10
 
-美联储连续第五次维持利率不变，市场更关注其未来政策走向而非加息本身。
+Mitchell Hashimoto announces Superlogical, a new company building on the open-source libghostty to create a platform for terminal applications.
 
-rss · Google News - 金融市场 · Jul 30, 01:41
+hackernews · yan · Jul 29, 15:41 · [Discussion](https://news.ycombinator.com/item?id=49098965)
 
-**Tags**: `#美联储`, `#利率`, `#宏观经济`, `#金融市场`, `#全球市场`
+**Tags**: `#open source`, `#developer tools`, `#terminal`, `#startup`, `#Ghostty`
 
 ---
 
 <a id="item-25"></a>
-## [美联储决策后市场陷入巨震 30年期国债收益率飙升至近20年来最高位 - 新浪网](https://news.google.com/rss/articles/CBMiekFVX3lxTE9KSzJ1cHNFaHBUeFZXWFdweUkxdWlxWEFWMmJ6SlRlcExfWWRiQndBbkNZUVE0eUxwVVFYMUo4T3ctaEE3THByQTF6bWF1TUhpVElPNFFYWkN3dVM2R0N2cFI3Q1kxdjVVanNLS2RDWk5SU1haUFd3dVVn?oc=5) ⭐️ 8.0/10
+## [The Productivity Mirage](https://frantic.im/mirage/) ⭐️ 7.0/10
 
-After the Fed's decision, markets experienced turmoil with 30-year Treasury yields surging to near 20-year highs.
+Argues that obsessing over productivity tools and setups is a mirage that distracts from the real work of thinking and problem-solving.
 
-rss · Google News - 金融市场 · Jul 29, 20:42
+hackernews · msephton · Jul 29, 23:18 · [Discussion](https://news.ycombinator.com/item?id=49104335)
 
-**Tags**: `#金融`, `#宏观经济`, `#美联储`, `#国债收益率`, `#市场波动`
+**Tags**: `#productivity`, `#software engineering`, `#developer tools`, `#mindset`
 
 ---
 
 <a id="item-26"></a>
-## [Kimi K3 for local use (1.56TB → 594GB) compressed and released by Unsloth](https://www.reddit.com/r/LocalLLaMA/comments/1va6ot2/kimi_k3_for_local_use_156tb_594gb_compressed_and/) ⭐️ 8.0/10
+## [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models) ⭐️ 7.0/10
 
-Unsloth released compressed versions of Kimi K3, reducing size from 1.56TB to 594GB at 1-bit with 78.9% accuracy, enabling local use.
+Kimi releases an open-source model with 256k context window, but high VRAM requirements spark community debate.
 
-reddit · r/LocalLLaMA · /u/BankApprehensive7612 · Jul 29, 19:39
+hackernews · monneyboi · Jul 29, 19:25 · [Discussion](https://news.ycombinator.com/item?id=49101852)
 
-**Tags**: `#AI`, `#LLM`, `#quantization`, `#open source`, `#local deployment`
+**Tags**: `#AI`, `#open source`, `#large language model`, `#context window`
 
 ---
 
 <a id="item-27"></a>
-## [Are you guys not scared of where we're heading? A year ago, GPT-5 was considered one of the best models in the world. Today, we have open-weight models like Qwen3.6-27B that are competitive enough to run locally on high-end consumer hardware. The pace of progress is absolutely brutal.](https://www.reddit.com/r/LocalLLaMA/comments/1va7nm7/are_you_guys_not_scared_of_where_were_heading_a/) ⭐️ 8.0/10
+## [A.I. companies are recruiting electricians and carpenters by the thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html) ⭐️ 7.0/10
 
-A Reddit post expresses concern over the rapid pace of AI progress, noting that open-weight models like Qwen3.6-27B now rival GPT-5 and can run on consumer hardware.
+AI companies are hiring thousands of electricians and carpenters for data center construction, reflecting the physical infrastructure demands of the AI boom.
 
-reddit · r/LocalLLaMA · /u/SilverRegion9394 · Jul 29, 20:13
+hackernews · thm · Jul 29, 14:43 · [Discussion](https://news.ycombinator.com/item?id=49098198)
 
-**Tags**: `#AI`, `#open source`, `#LLM`, `#progress`, `#local deployment`
+**Tags**: `#AI`, `#semiconductor`, `#labor market`, `#data centers`, `#infrastructure`
 
 ---
 
 <a id="item-28"></a>
-## [Superlogical](https://www.superlogical.com/) ⭐️ 7.0/10
+## [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398) ⭐️ 7.0/10
 
-Mitchell Hashimoto announces Superlogical, a new company building an AI-native terminal application on top of the open-source libghostty, with a non-profit ownership model for the underlying terminal engine.
+A paper demonstrates that long policy documents fail to reliably govern AI agents, highlighting fundamental limitations of long-context models.
 
-hackernews · yan · Jul 29, 15:41 · [Discussion](https://news.ycombinator.com/item?id=49098965)
+hackernews · spIrr · Jul 29, 13:01 · [Discussion](https://news.ycombinator.com/item?id=49096969)
 
-**Tags**: `#developer tools`, `#open source`, `#AI`, `#terminal`, `#software engineering`
+**Tags**: `#AI`, `#LLM`, `#long-context`, `#benchmark`, `#agent`
 
 ---
 
 <a id="item-29"></a>
-## [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models) ⭐️ 7.0/10
+## [“万能芯片”FPGA交货周期延长 国产替代加快步伐 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rUHN4ZGZ6THpUYkFxWV9pZUhWU1puNkpHVmRUY1hHdVBjNmlGVE91VVpYM3RFbUVxNlRGT0hyb3RuUFZzc0Z1U2MxOVJHQWY5bjBJRk9TaEN0eXEy?oc=5) ⭐️ 7.0/10
 
-Kimi introduces K3-256k, a lower-cost model variant with a 256k context limit, priced at half the cost of the full 1M context version.
+FPGA delivery cycles are extending, accelerating the pace of domestic substitution in China.
 
-hackernews · monneyboi · Jul 29, 19:25 · [Discussion](https://news.ycombinator.com/item?id=49101852)
+rss · Google News - 科技（半导体+新能源） · Jul 29, 22:44
 
-**Tags**: `#AI`, `#LLM`, `#pricing`, `#developer tools`, `#open source`
+**Tags**: `#半导体`, `#FPGA`, `#国产替代`, `#供应链`
 
 ---
 
 <a id="item-30"></a>
-## [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398) ⭐️ 7.0/10
+## [海关公布上半年汽车出口6358.2亿元 新能源汽车出口增长68.7% - guandian.cn](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wc1N3UVp1TUNtOFR1aHZnVThvcEx2NmZtempvVGMzS3JMSWpVSkJWMloxam5mdnM1anF1MzhnVGlHbGVhdU91bzFkNk1UdmRvd3pVWnEtaWozdjVHcW5jVzNB?oc=5) ⭐️ 7.0/10
 
-Research paper shows that long policy documents fail to reliably govern AI agents, highlighting context window limitations.
+China's customs reports H1 auto exports of 635.82 billion yuan, with new energy vehicle exports surging 68.7% year-on-year.
 
-hackernews · spIrr · Jul 29, 13:01 · [Discussion](https://news.ycombinator.com/item?id=49096969)
+rss · Google News - 科技（半导体+新能源） · Jul 30, 03:13
 
-**Tags**: `#AI`, `#LLM`, `#context window`, `#reliability`, `#research`
+**Tags**: `#新能源`, `#宏观经济`, `#汽车出口`, `#中国`
 
 ---
 
 <a id="item-31"></a>
-## [“万能芯片”FPGA交货周期延长 国产替代加快步伐 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rUHN4ZGZ6THpUYkFxWV9pZUhWU1puNkpHVmRUY1hHdVBjNmlGVE91VVpYM3RFbUVxNlRGT0hyb3RuUFZzc0Z1U2MxOVJHQWY5bjBJRk9TaEN0eXEy?oc=5) ⭐️ 7.0/10
-
-FPGA delivery cycles are extending, accelerating the pace of domestic substitution in China's semiconductor industry.
-
-rss · Google News - 科技（半导体+新能源） · Jul 29, 22:44
-
-**Tags**: `#FPGA`, `#半导体`, `#国产替代`, `#供应链`
-
----
-
-<a id="item-32"></a>
 ## [江苏：到2030年，全省分布式光伏装机达到120GW - 国际新能源网](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84OW9WSl9ESXlXVE10ZW93Ql9CeW1mM0F5Z2d4UlVvSHN4YVVXdXA5RndVcXlCLXNFaWVuUFcySVlTcGZ1LUpUNXM0UWxIQmk2TmYwWG9HNE5hZWNWTnFIamlUdmNidTg?oc=5) ⭐️ 7.0/10
 
-Jiangsu province aims to reach 120GW of distributed photovoltaic capacity by 2030, signaling strong policy support for solar energy.
+Jiangsu province sets a target to reach 120GW of distributed photovoltaic capacity by 2030.
 
 rss · Google News - 科技（半导体+新能源） · Jul 30, 00:50
 
@@ -430,124 +421,135 @@ rss · Google News - 科技（半导体+新能源） · Jul 30, 00:50
 
 ---
 
-<a id="item-33"></a>
-## [昆虫嗅觉受体与半导体芯片整合成电子鼻 - China Daily](https://news.google.com/rss/articles/CBMif0FVX3lxTE5VbVlZNmhnbV9ha1BnX3pWcHhEcXFZT2gtcEpDU0lHSG5SeFRuZU5SWU1KdlJiQ21qUDNTcENjZ1JYbDZtTHNqVUZsaW9rMzhqM01oa0N2RGR0WjIxZG9kYV9pZWRkYVhQekQwZF9QaFY2OG9POUhqYnJXeS1KVlU?oc=5) ⭐️ 7.0/10
+<a id="item-32"></a>
+## [昆虫嗅觉受体与半导体芯片整合成电子鼻 - tech.chinadaily.com.cn](https://news.google.com/rss/articles/CBMif0FVX3lxTE5VbVlZNmhnbV9ha1BnX3pWcHhEcXFZT2gtcEpDU0lHSG5SeFRuZU5SWU1KdlJiQ21qUDNTcENjZ1JYbDZtTHNqVUZsaW9rMzhqM01oa0N2RGR0WjIxZG9kYV9pZWRkYVhQekQwZF9QaFY2OG9POUhqYnJXeS1KVlU?oc=5) ⭐️ 7.0/10
 
-Researchers have integrated insect olfactory receptors with semiconductor chips to create an electronic nose.
+Researchers integrate insect olfactory receptors with semiconductor chips to create an electronic nose.
 
 rss · Google News - 科技（半导体+新能源） · Jul 30, 01:40
 
-**Tags**: `#半导体`, `#AI`, `#生物传感`, `#电子鼻`, `#芯片`
+**Tags**: `#半导体`, `#AI`, `#传感器`, `#生物技术`, `#电子鼻`
+
+---
+
+<a id="item-33"></a>
+## [一图速览 | 光伏落后产能加速出清 - 新浪财经](https://news.google.com/rss/articles/CBMihgFBVV95cUxOUENzbEF4bm5icFQwaGpxQVVZWUJYMGFwdlhLX3RfMnlfejVqeTVZeW5mV1FnTDJCUG5TMVFhTGxMVnlsUnV5RDJTaU1VY3g5MnJialNkYnZxTWFRWlZDc0hXSUQzOG5CYlhRTFBJNVYxaW05R05Ddll2S21VWlp2dWwzdFUwQQ?oc=5) ⭐️ 7.0/10
+
+A visual summary from Sina Finance on the accelerated elimination of outdated solar photovoltaic production capacity.
+
+rss · Google News - 科技（半导体+新能源） · Jul 29, 23:38
+
+**Tags**: `#新能源`, `#光伏`, `#产能出清`, `#行业趋势`
 
 ---
 
 <a id="item-34"></a>
-## [一图速览 | 光伏落后产能加速出清 - 新浪网](https://news.google.com/rss/articles/CBMihgFBVV95cUxOUENzbEF4bm5icFQwaGpxQVVZWUJYMGFwdlhLX3RfMnlfejVqeTVZeW5mV1FnTDJCUG5TMVFhTGxMVnlsUnV5RDJTaU1VY3g5MnJialNkYnZxTWFRWlZDc0hXSUQzOG5CYlhRTFBJNVYxaW05R05Ddll2S21VWlp2dWwzdFUwQQ?oc=5) ⭐️ 7.0/10
+## [知情人士：市场监管总局将开展光伏行业价格合规指导活动 - 新浪网](https://news.google.com/rss/articles/CBMimAJBVV95cUxQV3ZhYmwxNUlyMFJ5QkI1MG5waWZ4RnhzOGFjSUFnc0JFT0hvaDhTOUZubnRmQkZZeUljYWVIa0JIWHhSYTMtalNuMXZOVVFGbGlfWFA5WkhlbzJkeFV4cXd2RFNINHByaGZPcUwzWE5adHFjNGFOOU52cnFGN2J1QjVvUlhfbDJlZ3NvOVBsVC1LWVozMUN4bWpfY0dsLTRDTW5FWm12SS1aLUFTMlcxZDNJTUxwbWtvV25iWVlnZnFBb3V5amxJQlVOanBDT0phRUVIVERwdVZnRzZuWVRtRzJuUmdIREFWS3NNS2RRZnJwN0xuOFJVUERXZzRQajdPdm44dTVmRzFtX0JraWxRWkowbGdybGhm?oc=5) ⭐️ 7.0/10
 
-Infographic overview of the accelerated phase-out of outdated solar photovoltaic production capacity.
+China's market regulator plans to conduct price compliance guidance activities for the photovoltaic industry, signaling potential policy intervention.
 
-rss · Google News - 科技（半导体+新能源） · Jul 29, 23:38
+rss · Google News - 科技（半导体+新能源） · Jul 30, 03:51
 
-**Tags**: `#新能源`, `#光伏`, `#产能出清`, `#半导体`, `#中国`
+**Tags**: `#新能源`, `#光伏`, `#监管`, `#中国`, `#价格合规`
 
 ---
 
 <a id="item-35"></a>
-## [地平线高阶智驾芯片市占率升至22.82% 跃居自主品牌第二 - 观点网](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3elJSVmNFakJWNkU1Q0hreXR2Ql80T29pQU03TFpPWnc1NzV4MEdNeFg4a1NrV2pLY0lkLXZTMFl3M0lqU2d1c3IyeThrUC0tMUhhZlIxMWI2QlNIR29YYVBn?oc=5) ⭐️ 7.0/10
+## [地平线高阶智驾芯片市占率升至22.82% 跃居自主品牌第二 - guandian.cn](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3elJSVmNFakJWNkU1Q0hreXR2Ql80T29pQU03TFpPWnc1NzV4MEdNeFg4a1NrV2pLY0lkLXZTMFl3M0lqU2d1c3IyeThrUC0tMUhhZlIxMWI2QlNIR29YYVBn?oc=5) ⭐️ 7.0/10
 
-地平线的高阶智驾芯片市占率升至22.82%，跃居自主品牌第二。
+Horizon Robotics' high-end autonomous driving chip market share rises to 22.82%, ranking second among domestic brands.
 
 rss · Google News - 科技（半导体+新能源） · Jul 30, 02:44
 
-**Tags**: `#半导体`, `#AI`, `#芯片`, `#自动驾驶`, `#地平线`
+**Tags**: `#半导体`, `#芯片`, `#自动驾驶`, `#地平线`, `#市场占有率`
 
 ---
 
 <a id="item-36"></a>
-## [清微智能：AI自己“设计”AI芯片，可重构算力走出中国硬科技的创新突围之路｜WAIC 2026 - 凤凰网](https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zZnhaVmZMMkhsTUc2OWR6TE1OU0wwbVBrMUpsT3ZHX01WRUVvZ3U2SWZBX3phOWJ5MmRIZEVJU2Focm1JX2dvNTNQRFlNb0pj?oc=5) ⭐️ 7.0/10
+## [三星确认芯片短缺延续至下半年 预计移动与PC需求放缓 - guandian.cn](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yWlpXRngycXRhZl9uaWZmNktNSEdid1F2RlpSY29KWTBWREg2dXZjRmg3VDFOY1dzSkZqajdMN1Jtai0xcVVadVN6ZnJuZFdoUDFQZWZEQlBaemp4Tk5hc2J3?oc=5) ⭐️ 7.0/10
 
-Qingwei Intelligent showcases AI-designed chips using reconfigurable computing, highlighting China's innovation in hard tech at WAIC 2026.
+Samsung confirms chip shortage will extend into H2, expecting slowdown in mobile and PC demand.
 
-rss · Google News - 科技（半导体+新能源） · Jul 30, 03:27
+rss · Google News - 科技（半导体+新能源） · Jul 30, 01:19
 
-**Tags**: `#AI`, `#半导体`, `#芯片设计`, `#可重构计算`, `#中国`
+**Tags**: `#半导体`, `#芯片短缺`, `#三星`, `#宏观经济`, `#需求放缓`
 
 ---
 
 <a id="item-37"></a>
-## [光伏反内卷提速！新政落地后重要会议将启 机构看好行业困境反转(附股) - 东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTE41MmVBd0pTaVNSSy1WMm45d28zNmRYeVIyVDBxUExxUk9IR2FtSzdkZE9tMkRYUnZudjc5eS1qbUFWUld3UEd4eW5BcnNickhfaTduQjFhWW5VQ1g2cWZpSw?oc=5) ⭐️ 7.0/10
+## [紧急“救市”也没用？韩股震荡！存储芯片巨头，又杀跌 - 21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ2ltNUZVdlhSWlBqWmNwRkU3Z09Mb2lJVGxOVzNBM0owVVVoU0lSa2sxeXE2aGZhWldoazNGOW85cGwzVUtJR1ZRaHhEWjFSd1ZmLW96NzNIekhkVXk5NlBNOUpoUzhSa2VtRDk2cHhsZjFjZzNWU0t1dWhTcmNDaGZGT291VGlJMkE4LQ?oc=5) ⭐️ 7.0/10
 
-China's solar photovoltaic industry is accelerating anti-internal competition with new policies and an upcoming key meeting, with institutions optimistic about a sector turnaround.
+Korean stock market experiences volatility despite emergency measures, with memory chip giants continuing to decline.
 
-rss · Google News - 科技（半导体+新能源） · Jul 29, 00:03
+rss · Google News - 科技（半导体+新能源） · Jul 30, 01:10
 
-**Tags**: `#新能源`, `#光伏`, `#政策`, `#金融`, `#宏观经济`
+**Tags**: `#半导体`, `#金融`, `#宏观经济`, `#存储芯片`, `#韩股`
 
 ---
 
 <a id="item-38"></a>
-## [深耕硅光技术 赛勒科技乘AI算力东风快速发展 - 经济参考报](https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmNWT3cxTWotODV2dUlkWmRxcV82RGxMNDMwLXphejNqT0RoQWxlempaSHNFcFFiY0ZiWFM5aTliWFdwSmpOUWRHWHFCMk5LMVpJVE5ZVTRQM0NxUGFKUHA5VjZjRk5JYU1wb2hQMmhkRGI2YzB3a3luSWI2VzF5cw?oc=5) ⭐️ 7.0/10
+## [A股SoC芯片公司上半年业绩狂欢背后，一半是周期潮水，一半是AI曙光 - 华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PR214aEw2Z05FdFNoT2U1ZWdIaWZWVmo2T0YzMlJLZ0QyVFRnX2Zib2kyZ053X0JPczFhYjNCUHZ6UHFCeTdoZEIxUFI5a0lFdHZJ?oc=5) ⭐️ 7.0/10
 
-赛勒科技深耕硅光技术，借助AI算力需求增长实现快速发展。
+Analysis of A-share SoC chip companies' H1 performance, attributing half to cyclical recovery and half to AI-driven demand.
 
-rss · Google News - 科技（半导体+新能源） · Jul 30, 02:49
+rss · Google News - 科技（半导体+新能源） · Jul 30, 01:59
 
-**Tags**: `#硅光`, `#AI算力`, `#半导体`, `#赛勒科技`
+**Tags**: `#半导体`, `#AI`, `#芯片`, `#金融`, `#A股`
 
 ---
 
 <a id="item-39"></a>
-## [A股SoC芯片公司上半年业绩狂欢背后，一半是周期潮水，一半是AI曙光 - 华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PR214aEw2Z05FdFNoT2U1ZWdIaWZWVmo2T0YzMlJLZ0QyVFRnX2Zib2kyZ053X0JPczFhYjNCUHZ6UHFCeTdoZEIxUFI5a0lFdHZJ?oc=5) ⭐️ 7.0/10
+## [存储芯片巨头，最新业绩出炉 - 21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVFuclM5cERsTGszMXVqSURSZGU2WkNfcElnSW5PT04tOVFxbzZYSUJJUEUxbVhvLUVIb1o0T2JwcEVfaDlCcWxRaHZyeU1ZSkNwTE9zTHVKT2toZ0JMcUNpZnhWeUxWSW5FekdzYUVrTnk4Z0I2YWRJamwxRTBObGs5Zm5ObThkS0M2Ng?oc=5) ⭐️ 7.0/10
 
-Analysis of A-listed SoC chip companies' strong first-half performance, attributing it partly to cyclical recovery and partly to AI-driven demand.
+Memory chip giant reports latest financial results, indicating industry performance.
 
-rss · Google News - 科技（半导体+新能源） · Jul 30, 01:59
+rss · Google News - 科技（半导体+新能源） · Jul 30, 00:46
 
-**Tags**: `#半导体`, `#AI`, `#A股`, `#SoC芯片`, `#金融`
+**Tags**: `#半导体`, `#存储芯片`, `#业绩`, `#芯片`
 
 ---
 
 <a id="item-40"></a>
-## [存储芯片巨头，最新业绩出炉 - 21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVFuclM5cERsTGszMXVqSURSZGU2WkNfcElnSW5PT04tOVFxbzZYSUJJUEUxbVhvLUVIb1o0T2JwcEVfaDlCcWxRaHZyeU1ZSkNwTE9zTHVKT2toZ0JMcUNpZnhWeUxWSW5FekdzYUVrTnk4Z0I2YWRJamwxRTBObGs5Zm5ObThkS0M2Ng?oc=5) ⭐️ 7.0/10
+## [长鑫科技上市是创新新起点 - 新浪网](https://news.google.com/rss/articles/CBMieEFVX3lxTE16VmM5S3BZVF83VHBCak9XSnFaQzJJM1NNX05aa2ZhREM1bmtvOGtXaE9aZlBuTG96MzFCMlRIcjdqNmVabTVBbk5PWFpxb1FIai0yR25qUmRoZ2NXa0FtQWFhdWhHMV94WVFvTmlSNFliWWV3WUF3SQ?oc=5) ⭐️ 7.0/10
 
-A major memory chip company reports its latest financial results, impacting the semiconductor and financial sectors.
+长鑫科技上市被视为中国半导体创新的新起点。
 
-rss · Google News - 科技（半导体+新能源） · Jul 30, 00:46
+rss · Google News - 科技（半导体+新能源） · Jul 30, 04:08
 
-**Tags**: `#半导体`, `#存储芯片`, `#金融`, `#业绩`
+**Tags**: `#半导体`, `#芯片`, `#中国`, `#长鑫科技`, `#上市`
 
 ---
 
 <a id="item-41"></a>
-## [Arm营收展望超过预期 但未能打动对芯片业愈发谨慎的投资者 - 新浪网](https://news.google.com/rss/articles/CBMiekFVX3lxTE5yRXd4MUtxSzdZbTEtWjFvWjAwVkMzRUlDcUxMNXRuLXVMNW5jVXl1QkY4ZTZONnJESTRwWWdzZ0dERGxZYXJjODIwclUtYzVuTTYyX0p3aXdkVFJnbV9qU000a05GNmRhUDl5ZFBWSkFrOTBaNmhaX2pR?oc=5) ⭐️ 7.0/10
+## [Arm营收展望超过预期 但未能打动对芯片业愈发谨慎的投资者 - 新浪财经](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeVZOZXpqOEZHZVpmUENVcXpjbVhBYTdVZEtCUHRvRW85QlhkbHgwU3JPRUw3NHVFSkVuc2Y1bEFIY2hYQkYyV0duc0RCZG5XeUticlE1Yjk5eVlrZnVYaHVVR083b3lJQVM3bjI3cnNPUGlsWS1odjJWTXd4UHFwNG1KM2NZRk9LeGNSbk14N2hNM2VVUG10YVJFOHdPRFRaVS1zTmVTWGVOQTR3cE95UktfaFVlZ2l1cFZGelJxSjhDYWwwYy1MMmNYV3h1LU5t?oc=5) ⭐️ 7.0/10
 
-Arm's revenue outlook exceeds expectations but investor caution in chip sector persists.
+Arm's revenue forecast beats expectations but fails to reassure increasingly cautious chip investors.
 
 rss · Google News - 科技（半导体+新能源） · Jul 29, 21:49
 
-**Tags**: `#半导体`, `#芯片`, `#Arm`, `#金融`, `#营收展望`
+**Tags**: `#半导体`, `#Arm`, `#芯片`, `#金融`, `#投资者情绪`
 
 ---
 
 <a id="item-42"></a>
-## [英特尔罕见向陈立武共同投资人的初创公司开放芯片技术 - 新浪网](https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3R2QzlfRGY3MElLVmdRTXl1QUVUUzhTQ25IQ2FyVkZHLUpEa2dDU3lqRFBIREdjWGo2OTUzdUJqTXJWRjJsYlZnZ2VsbW1UbldoLVdNdnhwVUxYOFVwNklkM2NMQXJWV09KbFhtU0dWdS1Gc0xidzR3MDJETnVyMmZUdV9hNU9SR3UxaWZ4bGIweDl2bnhoblAtLWw?oc=5) ⭐️ 7.0/10
+## [一文读懂：美股“芯片风暴”究竟是如何发生的？ - Sohu](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeXVGRjBtTDFuQ3J4S1hENTBsclc3Skh3Z0V0d1ltaXJvYnNLcS1raHUtZmIxZFVPS3p5bjMxLVRyTDR0aUZ4c2RjdlRUNUV1bDhWLXNLTlZaXzRXNkVicFV3MjBKbnY1THJlM295N2tFQ0ZoWHQ2WTlyYVpWakktZW9Qb05uRU9yRlVr?oc=5) ⭐️ 7.0/10
 
-Intel unusually opens its chip technology to a startup co-invested by Lip-Bu Tan, signaling a strategic shift in semiconductor collaboration.
+An explainer on the causes and implications of the recent sell-off in US semiconductor stocks.
 
-rss · Google News - 科技（半导体+新能源） · Jul 30, 00:11
+rss · Google News - 科技（半导体+新能源） · Jul 30, 03:00
 
-**Tags**: `#半导体`, `#英特尔`, `#陈立武`, `#芯片技术`, `#合作`
+**Tags**: `#半导体`, `#金融`, `#宏观经济`, `#美股`, `#芯片`
 
 ---
 
 <a id="item-43"></a>
-## [“80”后中科院博士卖硅光芯片，羲禾科技IPO有点抢手 - 新浪网](https://news.google.com/rss/articles/CBMibkFVX3lxTFBzdUUtSmthYmIweVJvZVdqbER2WnNKc3ZHWXBTcFZxUWJGTWdCMUJ6UV9PN0VBZUZxX0ZSazhSRDhkZ3JENzJub3FpTzdLemQzejY3NXRxR1c0MnVuY014ek1ZMTl1aFBmTkd4NFZB?oc=5) ⭐️ 7.0/10
+## [中国存储崛起，击碎美韩芯片铁壁！美媒：中国存储双巨头格局形成 - Sohu](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMUV5ckFEZjhwUmEyQWFtU2hrR0g5UnJvRFhZLWhSUldJZ0Vuem9nMkVGRVpZV2VoYmlrT2VNTWl4ZkstcUFCMWk1VmhqSFFPeVhYVEJEUlc2TjQzcVZYTi05ay1BWnBrd3hYQS1qcUltN09VbEVDVGVPMjg4N01nRnc3cjRiYjdNNTMycA?oc=5) ⭐️ 7.0/10
 
-A post-80s PhD from the Chinese Academy of Sciences is taking his silicon photonics chip company, Xihe Technology, to IPO, attracting strong investor interest.
+Chinese media reports that China's storage industry has formed a dual-giant structure, challenging the dominance of US and Korean chipmakers.
 
-rss · Google News - 科技（半导体+新能源） · Jul 30, 02:55
+rss · Google News - 科技（半导体+新能源） · Jul 30, 04:21
 
-**Tags**: `#半导体`, `#硅光芯片`, `#IPO`, `#AI`, `#中国`
+**Tags**: `#半导体`, `#存储`, `#中国`, `#芯片`, `#产业`
 
 ---
 
@@ -563,86 +565,86 @@ rss · Google News - 科技（半导体+新能源） · Jul 30, 03:13
 ---
 
 <a id="item-45"></a>
-## [2026年上半年智驾芯片市场数据出炉：地平线、英伟达稳居前二 - 驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EQWt2bjJkbWI5ajZfYTc5Q0t3ZWdDYVRQN0pWMTlZN3hHWHRkZlpMZk15djZoQ3dVLVNQWHNGX3N3QXp0UWhJWGNXaDVKX0U4OTZ0MnRPdkw?oc=5) ⭐️ 7.0/10
+## [“80”后中科院博士卖硅光芯片，羲禾科技IPO有点抢手 - 新浪网](https://news.google.com/rss/articles/CBMibkFVX3lxTFBzdUUtSmthYmIweVJvZVdqbER2WnNKc3ZHWXBTcFZxUWJGTWdCMUJ6UV9PN0VBZUZxX0ZSazhSRDhkZ3JENzJub3FpTzdLemQzejY3NXRxR1c0MnVuY014ek1ZMTl1aFBmTkd4NFZB?oc=5) ⭐️ 7.0/10
 
-Market data for first half of 2026 shows Horizon Robotics and Nvidia leading the autonomous driving chip market.
+Xihe Technology, founded by a post-80s Chinese Academy of Sciences PhD, files for IPO focusing on silicon photonic chips.
 
-rss · Google News - 科技（半导体+新能源） · Jul 30, 03:08
+rss · Google News - 科技（半导体+新能源） · Jul 30, 02:55
 
-**Tags**: `#半导体`, `#AI`, `#智驾芯片`, `#市场数据`
+**Tags**: `#半导体`, `#硅光芯片`, `#IPO`, `#AI`, `#中国`
 
 ---
 
 <a id="item-46"></a>
-## [国产自研芯片设备新突破！覆盖90-28nm：已交付头部晶圆厂 - 驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHWVFwR0ZrU0ViNkpDRTBtWm1zdGhUYlpkQkZ6bnkzN0JaT3duTWtKdjNJbDhpM1kyaDFfT1lCQkUxZnM2aklIMkpTOWdQcXpCWlhhZkdmY0E?oc=5) ⭐️ 7.0/10
+## [智驾芯片第一股也逃不过！地平线余凯的境外信托，可能要补税21亿 - 新浪网](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaFRuVUZtLXZxTGhrUzA0bnJfakt3ODVFNkFlMm9mQk9SbmE5djJGUHpjWTFqUm5ad2JuZUxoMGNVVDZJYXV3Z3VTQ0kyRGVadHZxQ3lXbEVzMFhIbU95OVlrV1pUY0RSZEhIY0h6ZE5aeklOTG9INmh2QUdpNXhnRGJiOTRSZzhBVDcwNWNOV1p5bldYODd0TlRRYWRsTnRLd0cyTktsanBqZFJPQm1yanh4c1ViY2FTRmRoNmZqemFXWFpSVTBpdy1nTHRQY3dBdEQ5cGdpRjVkeVA1U3RvUnY0XzBSanRaN3hZOEF4RWstSWtlcXFLWWo0QUtOSlBhaDdIeXJJZUo?oc=5) ⭐️ 7.0/10
 
-Chinese domestic chip equipment achieves new breakthrough covering 90-28nm process nodes, already delivered to leading wafer fabs.
+Horizon Robotics' founder Yu Kai faces a potential 2.1 billion yuan tax bill over an offshore trust, highlighting regulatory risks for Chinese chip companies.
 
-rss · Google News - 科技（半导体+新能源） · Jul 30, 02:16
+rss · Google News - 科技（半导体+新能源） · Jul 30, 04:31
 
-**Tags**: `#半导体`, `#芯片`, `#国产替代`, `#晶圆厂`, `#设备`
+**Tags**: `#半导体`, `#金融`, `#地平线`, `#税务`, `#自动驾驶芯片`
 
 ---
 
 <a id="item-47"></a>
-## [芯片板块急跌，科创芯片ETF逆势获得净流入，资金在押注什么？ - 新浪网](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeEJMZ19YVklHNUtHaXZoUlZrR19JWUlYZnM1M0lfbG1iQzg0NThjOHIwMDd3aXd0SnJpWW1ua0pMOC11VF9xVFZMMEhuazF6ZDcxY0FKQ3lFcngwVTZkVW0yZjY2TGk0YmQ5R2VJd28tbURDalNoRDJQMWRMNGMtMmVtcUZLUW8yNTlCbDdXVVNfd2xSZWt0VVRiV0hKYzQ3SlM1bk14LWJ6aHJnU3ZXLVlwVzdaRFR1NUVSWG8tc1BuOENxeVlMMzB6R3dWZEg3M19YZWRLYWNFOU1tYTg5d2xvNE1pUQ?oc=5) ⭐️ 7.0/10
+## [英国押注芯片和无人机赌对了吗 再工业化之路漫长 - 中华网](https://news.google.com/rss/articles/CBMicEFVX3lxTE0zWlVVNmUxMEgxMnB3cjRXeFVoM0VwcFM1ZFE4Z1pOQjFURGJwVzc2OW1ELVI0SnBsVXRXXzA2RExyREg4eWhjV0R2cGhGb0I1Q2xVa0dmZDBUWTFQUHB5b0I5Q0VMUzlDelR0Y3F0Q0U?oc=5) ⭐️ 7.0/10
 
-Amid a sharp decline in chip stocks, the Science and Technology Innovation Chip ETF saw net inflows, indicating investor bets on a rebound.
+Analysis of UK's strategy in semiconductors and drones, questioning its effectiveness amid long reindustrialization challenges.
 
-rss · Google News - 科技（半导体+新能源） · Jul 29, 08:03
+rss · Google News - 科技（半导体+新能源） · Jul 30, 02:45
 
-**Tags**: `#半导体`, `#芯片ETF`, `#资金流向`, `#A股`, `#金融`
+**Tags**: `#半导体`, `#芯片`, `#无人机`, `#英国`, `#再工业化`
 
 ---
 
 <a id="item-48"></a>
-## [黄仁勋看了都眼红！生物公司11块芯片卖出230万美元：成本最多1万美元 - 驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfZHdqbWRhak9rNElfc0hsdGVYako5ZldXN0NiSDd3b1hNbWpNRFBFQnRQMUdXOU5DWDUzTlFEOXhpZmp3QXlyT3ZxdjRTX01VOW1LOXdURU8?oc=5) ⭐️ 7.0/10
+## [高通9月1日起上调芯片价格，涨幅达到两位数 - 新浪网](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xejRZb3dZYmgxMkNKX2dLR3BPV3BnOU5NQnhmSEo3VDl4WlFBSFI5RjJNRjdrVVNYMmpydzhEZExqRVVqMTFzN08xMA?oc=5) ⭐️ 7.0/10
 
-A biotech firm sells 11 specialized chips for $2.3 million, with costs as low as $10,000, showcasing high-value chip applications.
+Qualcomm will raise chip prices by double digits starting September 1.
 
-rss · Google News - 科技（半导体+新能源） · Jul 30, 01:52
+rss · Google News - 科技（半导体+新能源） · Jul 30, 04:10
 
-**Tags**: `#半导体`, `#芯片`, `#AI`, `#生物技术`, `#高利润`
+**Tags**: `#半导体`, `#芯片`, `#高通`, `#涨价`, `#金融`
 
 ---
 
 <a id="item-49"></a>
-## [三星表示人工智能芯片需求将持续强劲，供应今年或仍偏紧| 乌克兰新闻 - Межа. Новини України.](https://news.google.com/rss/articles/CBMiYkFVX3lxTE94aTNZN2hGTUc0NlpoMS1oX19BTzE4YTc0aG5KQU1xSGtOdWs0TkhFZjhFdmRuYmdaVTR4bWNvQWdreUowMnlmSHIwakdNUldYZXE0QjRqUjJIQ1ExSnlzYTdR?oc=5) ⭐️ 7.0/10
+## [黄仁勋看了都眼红！生物公司11块芯片卖出230万美元：成本最多1万美元 - news.mydrivers.com](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfZHdqbWRhak9rNElfc0hsdGVYako5ZldXN0NiSDd3b1hNbWpNRFBFQnRQMUdXOU5DWDUzTlFEOXhpZmp3QXlyT3ZxdjRTX01VOW1LOXdURU8?oc=5) ⭐️ 7.0/10
 
-Samsung forecasts sustained strong demand for AI chips with supply likely remaining tight this year.
+A biotech company sells 11 chips for $2.3 million, with production costs under $10,000, potentially disrupting the semiconductor market.
 
-rss · Google News - 科技（半导体+新能源） · Jul 29, 20:27
+rss · Google News - 科技（半导体+新能源） · Jul 30, 01:52
 
-**Tags**: `#AI`, `#半导体`, `#三星`, `#芯片供应`
+**Tags**: `#半导体`, `#芯片`, `#AI`, `#生物科技`, `#商业`
 
 ---
 
 <a id="item-50"></a>
-## [紧急“救市”也没用？韩股震荡，存储芯片巨头又杀跌 - 凤凰网](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ydEJXZHFpUGRZb05TQ1ZkQnNzdG9SenVJQXZTSVRmaWNPalNGUFBUaHdnX1FlWEdmSk5QUUpiMVBQTnk4QXBUOFZIdE1TLVhE?oc=5) ⭐️ 7.0/10
+## [芯片板块急跌，科创芯片ETF逆势获得净流入，资金在押注什么？ - 新浪财经](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd2p3bXI3dW5GVDVqdGhnYU9fVTBsNkJuX3pzUDdvV1dWTHlvNXd3XzZRejllQkVUdGVzY1RReFJleVZPeVZNM2xaa0I1OF9zazd6c003alhrY3gzbTRRZk9jWkxzMGlOU3A2WHJHeUpYeVZEbEtVSU9kRVBoTmZCdDJKeExzbXQ0azI2VHc4enFKVUhWdDJETmk2dmdNWDEzWVNpRDladUhjTUM2cHdBLVp2ZXBGUFVzdE5Yblg5TUZrcGM5eUdWNzNQMlAwZU0zVjRNdU45al8xZ05Ja0cxSmtNZkxCRzQ?oc=5) ⭐️ 7.0/10
 
-Korean stock market volatility persists despite emergency measures, with memory chip giants continuing to decline.
+Despite a sharp drop in the chip sector, the Kechuang Chip ETF saw net inflows, indicating investor bets on a rebound.
 
-rss · Google News - 科技（半导体+新能源） · Jul 29, 01:47
+rss · Google News - 科技（半导体+新能源） · Jul 29, 08:03
 
-**Tags**: `#半导体`, `#金融`, `#存储芯片`, `#韩国股市`, `#宏观经济`
+**Tags**: `#半导体`, `#芯片`, `#ETF`, `#金融`, `#资金流向`
 
 ---
 
 <a id="item-51"></a>
-## [摩根大通将美联储加息预期提前至2026年12月 原为2027年下半年 - 观点网](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlNzJ5NGtodDFmamdiSkdsMmNxZ2t2alNyYWVwR0Z6NVVoUzJ4UjlLeFBsRHJzZGgtekNGVkhoV1Fqa3RWeDUwVlR1a2lQZU1ETW81RWFJUnNYSHZIZE4tM3l3?oc=5) ⭐️ 7.0/10
+## [摩根大通将美联储加息预期提前至2026年12月 原为2027年下半年 - guandian.cn](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlNzJ5NGtodDFmamdiSkdsMmNxZ2t2alNyYWVwR0Z6NVVoUzJ4UjlLeFBsRHJzZGgtekNGVkhoV1Fqa3RWeDUwVlR1a2lQZU1ETW81RWFJUnNYSHZIZE4tM3l3?oc=5) ⭐️ 7.0/10
 
-摩根大通将美联储加息预期从2027年下半年提前至2026年12月，反映对通胀和货币政策收紧的预期变化。
+摩根大通将美联储加息预期提前至2026年12月，原预期为2027年下半年。
 
 rss · Google News - 金融市场 · Jul 30, 02:11
 
-**Tags**: `#金融`, `#宏观经济`, `#美联储`, `#加息`, `#货币政策`
+**Tags**: `#金融`, `#美联储`, `#宏观经济`, `#加息`
 
 ---
 
 <a id="item-52"></a>
 ## [华尔街点评美联储决议：沃什欢迎市场代替“加息”？ - 华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iQURoQ2ZGOUwxMWdOelR1Rl8tQ1prcElVYmk4Qm5SZEVLUFZnZF83dEVERnN5TXJUbVRrcXRsU1VsRmNFdUtGaVFhVU42LXl6V0hF?oc=5) ⭐️ 7.0/10
 
-Wall Street analysts comment on the Fed's decision and the possibility of market-driven rate hikes replacing traditional tightening.
+Wall Street analysts comment on the Fed's decision, with Kevin Warsh welcoming market expectations as a substitute for rate hikes.
 
 rss · Google News - 金融市场 · Jul 30, 00:29
 
@@ -651,20 +653,9 @@ rss · Google News - 金融市场 · Jul 30, 00:29
 ---
 
 <a id="item-53"></a>
-## [【首席观察】当美联储不再安抚市场，本身就是一种紧缩 - 凤凰网](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XM1VqR3hobWRvQVpKT1k1Q19FbmdXNS1zb29FdWh5RUJ5aXZqYXpJaHU2TXNWcEVDV095c0NaZXVWSS1XUExoQTlrN29oSlFG?oc=5) ⭐️ 7.0/10
-
-Analysis suggesting that the Fed's lack of market reassurance acts as a form of tightening, impacting financial conditions.
-
-rss · Google News - 金融市场 · Jul 30, 03:27
-
-**Tags**: `#美联储`, `#金融`, `#宏观经济`, `#紧缩政策`
-
----
-
-<a id="item-54"></a>
 ## [港交所今年最大IPO来了 - 凤凰网](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kV1I2WmFFTXZhbTRfNnY2ZGlzZEUyTkZFUVR2eE54amdVeGpadVctZnJTLXFwbl9SeXJHLXNqYWluYk93MlBmYWVWQkZUcmd1?oc=5) ⭐️ 7.0/10
 
-Hong Kong Exchange is hosting its largest IPO of the year, a major event in the financial market.
+Hong Kong Exchange's largest IPO of the year is coming, as reported by Phoenix New Media.
 
 rss · Google News - 金融市场 · Jul 30, 02:36
 
@@ -672,131 +663,164 @@ rss · Google News - 金融市场 · Jul 30, 02:36
 
 ---
 
+<a id="item-54"></a>
+## [美联储鹰派暂停推升美元，USD/JPY延续高位震荡 - 新浪财经](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd2NJY1owM0FCc0tGcXZPWmZUOV9kS0VqaVFsSS1mN2hIYjEzVDFxRlN1SXp0X0pKcEhzNURWc3o4VG4zTFBLMGhaNHJNWl9yV0R4UGtJOVdWcjRneUxTYTlLbUpkZjVERG81RnlZVWdydi04NXd6NG5JcktCaWFOTkFNbEJ2eUl3WVZLY21OTXFVZjRKVjVMWHNGVTY1MDU0TU9WbnhxOVVRWXdTYTViV3lpSHRaQUJxVTVUQUg3REVtUGV2bWl3ZEJZNF9LMmRCVjcwZHFMOU1mLU5qa3g4?oc=5) ⭐️ 7.0/10
+
+The Fed's hawkish pause strengthens the US dollar, causing USD/JPY to continue its high-level consolidation.
+
+rss · Google News - 金融市场 · Jul 30, 03:07
+
+**Tags**: `#美联储`, `#金融`, `#宏观经济`, `#外汇`, `#USD/JPY`
+
+---
+
 <a id="item-55"></a>
-## [正文115个单词，近二十年最短，全文对比美联储7月会议声明 - 新浪网](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSWk3b0lqOXNmUzRnTEstNkcyS0NQbnlXcy1hcWIzNjRvTnRpZjhxckNtOENnSlF2NFJVQlRNdUozU0ZDZzI0XzI0ZnhTWTlvRW51cUo5aG95eXhiM3dzSWtpQ0ZLNWltNkN3dFI1dWlnSkRnZ0MwbjJPME5EWHhDNldqa1JqenVQN0FHRUc0dzJCZGQxekQyZzR0Z3ZDNEJuNzQ2bm9wdkFSaDRhN0UybGxRT2FFaHpnd05MdC1SRHBpUXpVd0lhblFlZ2FrSmRE?oc=5) ⭐️ 7.0/10
+## [间隔一周上市、半年同步配售：四家港股AI企业解禁窗口募资超610亿港元 能否换来商业化答卷？ - 新浪网](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1l3N0ZnTGc0cFVnTlhEemVnLVpoV0VYdkFmS0ZZZW5YNlV4akktdUJUOHNJZlduVzlqalFyaVNlcGVacngyRjVzRVJNc1ZUVS1rQjVZclFtbmxDRHhyQ2hZbldhbUFzV1JKMnVqWWd0S1hOR3FCdFhPOVRlQXlWUl9XWW5ZVWlVQmRvMXoyUDZZcHZS?oc=5) ⭐️ 7.0/10
 
-Analysis of the Fed's July meeting statement, highlighting its record brevity and key changes.
+Four Hong Kong-listed AI companies raised over 61 billion HKD through share placements around lockup expirations, raising questions about their path to commercialization.
 
-rss · Google News - 金融市场 · Jul 29, 22:44
+rss · Google News - 金融市场 · Jul 30, 03:44
 
-**Tags**: `#美联储`, `#宏观经济`, `#金融`, `#货币政策`
+**Tags**: `#AI`, `#金融`, `#港股`, `#商业化`, `#募资`
 
 ---
 
 <a id="item-56"></a>
-## [美联储议息会议三大看点前瞻 - 华尔街日报中文网](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYzNkcDk0eEtyNVhaLTNiV0E0OHFqUjN6Qk0wa0dFV29QWXE1UW4tWEVQanpsdnR4Wm9hQlBtem9lWWVSRmEtdzNnQjhhYUh4Ui1hSHBqcmd3M2l5bXZzTkY5TDNTVHR2V2U1R0FJQ09rMF9VYkdQeXAwYmFVSEZJa3lwMjZ5M2pMamFybENUSjBMcHZselIxcGtrelZEdmotMnBMdUVUVENNY3BPQWJBR0w3bVlmbWR1M3dOMXljYTlWV2RiYnJzTks4bnpDdFdVTnVNTl9ucUFOeVRnSFNJTHlNLVlnMUFfdmc?oc=5) ⭐️ 7.0/10
+## [连续三年新高！41家上市银行派现6456亿，银行股逆势上攻 - 新浪网](https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEZ6YWYzaG9Pd09LbTc0NlZFeWJhSkhkYUlDcHVEZmNYNG51UVFIbHJMNUdEQWF4NXRzSl9OUVYtbmFEcFl5N2ZMNERJYnBjMHFYeGdHd24xZHZrYmpNUFhEQW0zdWkxTzdWQXl3RmVkVXNzbFpSSWNWbTJRMW9Ncg?oc=5) ⭐️ 7.0/10
 
-华尔街日报中文网前瞻美联储议息会议的三大看点，涉及利率决策、经济预测和市场影响。
+41 listed Chinese banks distributed 645.6 billion yuan in dividends for the third consecutive year, with bank stocks rising against the market trend.
 
-rss · Google News - 金融市场 · Jul 29, 03:28
+rss · Google News - 金融市场 · Jul 30, 04:01
 
-**Tags**: `#美联储`, `#利率`, `#宏观经济`, `#金融市场`
+**Tags**: `#金融`, `#银行`, `#分红`, `#A股`, `#宏观经济`
 
 ---
 
 <a id="item-57"></a>
-## [美股午盘走低道指下挫880点，美联储决议即将公布 - 新浪网](https://news.google.com/rss/articles/CBMihwFBVV95cUxQYmo2ZEZUMGNiUXY2SnRpUy1oXzd5bFdDVUtsVmVZZUFGSDhLVHdqUmV1Mk1oaEMtWlF6MWt3cTR5VkpDeEhUS3hfRnNZX3VKZFY0c3kxVVlFVTlHaWZHU19sRGdyLVdRYjdKSExZdWN6OEYxbUlFellCOXdNcEtKMEdXa2k2Z2s?oc=5) ⭐️ 7.0/10
+## [【首席观察】当美联储不再安抚市场，本身就是一种紧缩 - Sohu](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeTIyU0ZUTTAxcEZkTWNUV3RaU0xlQnItSkxaYy1WSFJDbDQwNjZuejFxWkMzWXgzNy1SdFJBeVlkN2Vxb0kwMVdxVmc4eUVKUE1Zb1BVWDc4dDBFVElXNTBla2VtbjQ0TUtkNExBMURXcGs5V2lNQnJZb0k4T3RJdkRwUnp3NWxj?oc=5) ⭐️ 7.0/10
 
-US stocks fell sharply in midday trading with the Dow dropping 880 points ahead of the Federal Reserve's policy decision.
+Analysis suggesting that the Fed's lack of market reassurance itself acts as a tightening policy signal.
 
-rss · Google News - 金融市场 · Jul 29, 16:03
+rss · Google News - 金融市场 · Jul 30, 04:10
 
-**Tags**: `#金融`, `#宏观经济`, `#美股`, `#美联储`
+**Tags**: `#美联储`, `#宏观经济`, `#金融市场`, `#紧缩政策`
 
 ---
 
 <a id="item-58"></a>
-## [港股七年来最大IPO！光模块“一哥”中际旭创登陆港股，董事长刘圣登台敲锣 - 每日经济新闻](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhaGR1YnQ2WHYzVGY2YXdrX05HU2RFdzFJS0lSbTZQbXVSOXpOZVlONzF5aXFYbWU3V2VkUFJNZW94VW45alpPZXFWaTVib3Nscno3V3hxM3dRZmhpbUx2R2VWaDJ0dw?oc=5) ⭐️ 7.0/10
+## [海外市场 | 美联储鹰派按兵不动，中概金龙逆势走强 - 新浪网](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFM4TnFQZHBRMmJlTXgzRUpXd2RkSEJqaTRLSld5cWxkQWFiazFiTFYzaTg1bEphd2Y0WkhFMUdhZEVQQTd4YWRoVWtaX1otY3V6XzFZX1NybXZFOXVSM2FITWQ5TzYxT3JaR3BZNmtOZGFkZE12ckVxc0ljQi1Hby1PVmVxNE5zVTdV?oc=5) ⭐️ 7.0/10
 
-Zhongji Innolight, a top optical module maker, lists on Hong Kong stock exchange in the city's largest IPO in seven years.
+Fed holds rates with hawkish tone while Chinese ADRs (金龙指数) rally against the trend.
 
-rss · Google News - 金融市场 · Jul 30, 02:45
+rss · Google News - 金融市场 · Jul 30, 02:42
 
-**Tags**: `#IPO`, `#半导体`, `#AI`, `#金融`, `#光模块`
+**Tags**: `#美联储`, `#宏观经济`, `#中概股`, `#金融市场`
 
 ---
 
 <a id="item-59"></a>
-## [沃什提议美联储降低政策透明度 忐忑市场将迎来实战检验 - 新浪网](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT1NkTkdub1dHQ1NNRC10cExJZWc3a1MyZjQ4LTJRQlhBUTFRVm1aemdpRzg5RnZpVm5YV3hyblhXbXpRUnQtTUdZa3d1eXR5bnBsRlVrS1NxVVRlV0RTT19ieGFNaFVoSXNuUjdNazkyVVRETl9haU5uS00zOFdGM0pZTXdZaTJubTRLb19YcnVkRGZzQl9lNnk4NkdIcFIwSjhkNVVSSWNzUFNRUFpDM29naXhGZGhJdkk4REpFSDl1d0swb3BWT2t4bENJVDhsbkE?oc=5) ⭐️ 7.0/10
+## [光模块一哥中际旭创港股首日破发，A股同步跌超15% - 新浪网](https://news.google.com/rss/articles/CBMieEFVX3lxTE5hbXhwSDhRc0FsSWpidHdXVWJxeGZBQ2FiTEUzTFB4aXg2SWdjUXdFOGlHNXljZUJnSWVzTnZITVhSbHJkRU0wVndRbGVDREhrM1h1UkhtTG9feWE5N3hSSkdtNWstaExhcC1lWUR6VXRZZ21xbkhHSg?oc=5) ⭐️ 7.0/10
 
-Warsh proposes reducing Fed policy transparency, testing nervous markets.
+光模块龙头中际旭创港股上市首日破发，A股同步大跌超15%。
 
-rss · Google News - 金融市场 · Jul 29, 14:55
+rss · Google News - 金融市场 · Jul 30, 04:29
 
-**Tags**: `#美联储`, `#金融`, `#宏观经济`, `#政策透明度`
+**Tags**: `#半导体`, `#金融`, `#光模块`, `#中际旭创`, `#港股`
 
 ---
 
 <a id="item-60"></a>
-## [A股午评：创业板指低开低走跌5.89% AI硬件方向大幅领跌 - 同花顺财经](https://news.google.com/rss/articles/CBMibkFVX3lxTE9xRk55alEzaGR6Sm1VMnNFa1NzUk9hVXpNbDIyMkhLcHVDd0gzXzVaWUdyT2dQMkVWcWNuaXgtOXpYdzBRbUtsX2E1NTcyd2ptbW1hUlpZOHFOWGFtNHV0RmF4SWpwNXZhbUJqWmdn?oc=5) ⭐️ 7.0/10
+## [除了合肥，长鑫上市还有哪些赢家？一文看懂 - 新浪网](https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzlzUzZkX0YtZDU4SWdqZnNMNUM5em5tb1lXRWtWRk0yeHpIVDBoQm9JZGlodFN1NWFBZWV4Zk1HQV92SURnZ09MSzlMQkxjMVV6NGZ6eXVpcG1nSi1DTFEtSmtGcGtRVlQzTnhKRm5Gbk5VVUdlUWVBNDhMSWpqOHNsZw?oc=5) ⭐️ 7.0/10
 
-A股午评：创业板指低开低走跌5.89%，AI硬件方向大幅领跌。
+Analysis of winners from ChangXin Memory Technologies' IPO beyond Hefei.
 
-rss · Google News - 金融市场 · Jul 30, 03:35
+rss · Google News - 金融市场 · Jul 30, 04:01
 
-**Tags**: `#A股`, `#金融`, `#AI`, `#半导体`, `#市场`
+**Tags**: `#半导体`, `#金融`, `#IPO`, `#长鑫存储`, `#中国`
 
 ---
 
 <a id="item-61"></a>
-## [The open-weights carousel never stops.](https://www.reddit.com/r/LocalLLaMA/comments/1va73s6/the_openweights_carousel_never_stops/) ⭐️ 7.0/10
+## [金价站稳4000美元上方，美联储决议令交易员保持谨慎 - 新浪财经](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdk5SZ3ZOVGRsLVF4OVlQREtBazduSnF5REpNZVFjakNDNUZxd2Niem1iaVNRcVlwcnYtZkFVWWpXSUszTE5uTjZhdU83RWhfcE9hTG12eWwyNklmTTJoY0Jvc1dMdlpIbHJ3NDBjSlZmRWtZVHdqbHNlNHY0RUlhSU91OEZmY0tlUnNrTVlaZ1ZPdS1fTlJaTF9FRGpUTDNwbWVzSTVPaGp5Zk5XZHZTNEMyemhsV3lKSUU1anpQWi1vQk43elRSQ1Z3Ymk1ZGhyS0YwQjhoY0tvV285QmRv?oc=5) ⭐️ 7.0/10
 
-A Reddit post highlighting the continuous release of open-weight AI models, reflecting the fast-paced open-source AI landscape.
+Gold prices hold above $4000 as traders remain cautious ahead of the Fed's decision.
 
-reddit · r/LocalLLaMA · /u/InternationalGap3698 · Jul 29, 19:54
+rss · Google News - 金融市场 · Jul 29, 13:51
 
-**Tags**: `#AI`, `#open source`, `#open weights`, `#LLM`, `#machine learning`
+**Tags**: `#黄金`, `#美联储`, `#宏观经济`, `#金融市场`
 
 ---
 
 <a id="item-62"></a>
-## [PSA: llama.cpp now loads MTP tensors by default for any draft-mtp arch, even with MTP disabled](https://www.reddit.com/r/LocalLLaMA/comments/1va54em/psa_llamacpp_now_loads_mtp_tensors_by_default_for/) ⭐️ 7.0/10
+## [机构：美联储缺乏利率行动短期内利好新兴市场 - 金融界](https://news.google.com/rss/articles/CBMib0FVX3lxTE9UUTE3Uks1SlotbldvLV95VUVTUVVyLXNOcjVudnJ4ZVFOR3BtUVM3N0dRU0ZvVlY0THJ0eUZPR1hQem11R2FlSWgxd0ZHNnBYelpfNHY3YlpNbHV2YWxZSjBqVXg5c1JLN1ZyTmRIbw?oc=5) ⭐️ 7.0/10
 
-Recent llama.cpp builds now load MTP tensors by default for draft-mtp architectures, increasing VRAM usage even when speculative decoding is disabled.
+Institutions suggest that the Fed's lack of rate action will benefit emerging markets in the short term.
 
-reddit · r/LocalLLaMA · /u/Shoddy_Bed3240 · Jul 29, 18:45
+rss · Google News - 金融市场 · Jul 30, 04:23
 
-**Tags**: `#llama.cpp`, `#AI`, `#local LLM`, `#memory optimization`, `#open source`
+**Tags**: `#美联储`, `#金融`, `#宏观经济`, `#新兴市场`
 
 ---
 
 <a id="item-63"></a>
-## ["Uncensored" LLMs are measurably more optimistic than their base models](https://www.reddit.com/r/LocalLLaMA/comments/1v9vwev/uncensored_llms_are_measurably_more_optimistic/) ⭐️ 7.0/10
+## [A股银行板块盘中逆势走强 工行、建行均创历史新高 - 新浪网](https://news.google.com/rss/articles/CBMibkFVX3lxTFBiTUItdFpKeTdQTkd5aGUzRTVJcFB2RUdocXdocDF5alBZb2JkSk0tWnVyMUlHdGZsaEVTWERtMXFjSmhxX1VKS2xBX0VYcWRVQWVnaGdFRjBtUVVDYXkzR1QtVllVM05LUlF3YVRR?oc=5) ⭐️ 7.0/10
 
-Uncensored LLMs become more optimistic and confident in stock predictions but not more accurate, with model-specific effects.
+A-share bank stocks strengthened against the market trend, with ICBC and CCB hitting record highs.
 
-reddit · r/LocalLLaMA · /u/oleczek · Jul 29, 13:15
+rss · Google News - 金融市场 · Jul 30, 04:13
 
-**Tags**: `#AI/ML`, `#LLM`, `#uncensored models`, `#financial markets`, `#empirical study`
+**Tags**: `#金融`, `#A股`, `#银行`, `#市场动态`
 
 ---
 
 <a id="item-64"></a>
-## [Microsoft did it .... again! (404 for their Mage-Flow models on HF)](https://www.reddit.com/r/LocalLLaMA/comments/1v9swx1/microsoft_did_it_again_404_for_their_mageflow/) ⭐️ 7.0/10
+## [Are you guys not scared of where we're heading? A year ago, GPT-5 was considered one of the best models in the world. Today, we have open-weight models like Qwen3.6-27B that are competitive enough to run locally on high-end consumer hardware. The pace of progress is absolutely brutal.](https://www.reddit.com/r/LocalLLaMA/comments/1va7nm7/are_you_guys_not_scared_of_where_were_heading_a/) ⭐️ 7.0/10
 
-Microsoft's Mage-Flow models are 404 on HuggingFace, but community members have shared alternative downloads and backup advice.
+A Reddit post highlights the rapid pace of AI progress, noting that open-weight models like Qwen3.6-27B are now competitive with GPT-5 and can run locally on consumer hardware.
 
-reddit · r/LocalLLaMA · /u/pmttyji · Jul 29, 11:02
+reddit · r/LocalLLaMA · /u/SilverRegion9394 · Jul 29, 20:13
 
-**Tags**: `#AI`, `#open source`, `#Microsoft`, `#HuggingFace`, `#models`
+**Tags**: `#AI`, `#open source`, `#large language models`, `#progress`
 
 ---
 
 <a id="item-65"></a>
-## [Everyone posts day-one impressions. What's still in your stack a month later?](https://www.reddit.com/r/LocalLLaMA/comments/1va1zoc/everyone_posts_dayone_impressions_whats_still_in/) ⭐️ 7.0/10
+## [PSA: llama.cpp now loads MTP tensors by default for any draft-mtp arch, even with MTP disabled](https://www.reddit.com/r/LocalLLaMA/comments/1va54em/psa_llamacpp_now_loads_mtp_tensors_by_default_for/) ⭐️ 7.0/10
 
-A Reddit thread asking users which LLM models they still use after a month, highlighting Qwen3.6 27B and Ling-3.0-flash as enduring picks.
+llama.cpp now loads MTP tensors by default for certain architectures, causing extra VRAM usage even when speculative decoding is disabled.
 
-reddit · r/LocalLLaMA · /u/derspenti · Jul 29, 16:56
+reddit · r/LocalLLaMA · /u/Shoddy_Bed3240 · Jul 29, 18:45
 
-**Tags**: `#AI`, `#LLM`, `#open source`, `#model evaluation`
+**Tags**: `#llama.cpp`, `#local LLM`, `#VRAM`, `#speculative decoding`, `#open source`
 
 ---
 
 <a id="item-66"></a>
+## ["Uncensored" LLMs are measurably more optimistic than their base models](https://www.reddit.com/r/LocalLLaMA/comments/1v9vwev/uncensored_llms_are_measurably_more_optimistic/) ⭐️ 7.0/10
+
+Uncensored LLMs show increased optimism and confidence in stock predictions without improved accuracy, with model-specific effects.
+
+reddit · r/LocalLLaMA · /u/oleczek · Jul 29, 13:15
+
+**Tags**: `#AI`, `#LLM`, `#uncensored`, `#financial predictions`, `#empirical study`
+
+---
+
+<a id="item-67"></a>
+## [Everyone posts day-one impressions. What's still in your stack a month later?](https://www.reddit.com/r/LocalLLaMA/comments/1va1zoc/everyone_posts_dayone_impressions_whats_still_in/) ⭐️ 7.0/10
+
+A Reddit thread asks for honest, long-term impressions of AI models and tools, highlighting Qwen3.6 27B and Ling-3.0-flash as survivors after a month of use.
+
+reddit · r/LocalLLaMA · /u/derspenti · Jul 29, 16:56
+
+**Tags**: `#AI`, `#open source`, `#LLM`, `#model evaluation`, `#community discussion`
+
+---
+
+<a id="item-68"></a>
 ## [Nvidia is expected to raise GeForce RTX GPU prices again by up to 30%](https://www.reddit.com/r/LocalLLaMA/comments/1v9h6y9/nvidia_is_expected_to_raise_geforce_rtx_gpu/) ⭐️ 7.0/10
 
-Nvidia is reportedly planning to raise GeForce RTX GPU prices by up to 30%, affecting consumers and AI enthusiasts.
+Nvidia is reportedly planning a significant price increase of up to 30% for its GeForce RTX GPUs, affecting consumers and AI enthusiasts.
 
 reddit · r/LocalLLaMA · /u/ab2377 · Jul 29, 01:05
 
