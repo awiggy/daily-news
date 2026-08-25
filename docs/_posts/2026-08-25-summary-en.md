@@ -5,125 +5,104 @@ date: 2026-08-25
 lang: en
 ---
 
-> From 207 items, 42 important content pieces were selected
+> From 220 items, 43 important content pieces were selected
 
 ---
 
-1. [LLMs could control their host machines by exploiting inference engines](#item-1) ⭐️ 8.0/10
-2. [Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam](#item-2) ⭐️ 8.0/10
-3. [高盛：未来10年中国先进制程芯片供需缺口缩至34% - 财新](#item-3) ⭐️ 8.0/10
-4. [黄仁勋不停歇：芯片、数据中心、模型三线并进，英伟达以投资换锁定加固AI霸主地位 - 华尔街见闻](#item-4) ⭐️ 8.0/10
-5. [小米发布三款玄戒自研芯片，国产“自研芯”迈向构建全生态底座新纪元 | 新经济观察 - 新浪财经](#item-5) ⭐️ 8.0/10
-6. [加速！SpaceX计划明年发射“太空数据中心”卫星，搭载英伟达芯片 - 华尔街见闻](#item-6) ⭐️ 8.0/10
-7. [美股芯片股、光通信遭抛售，英伟达七连阴创四年纪录，五大存储龙头集体跌近5% - 金融界](#item-7) ⭐️ 8.0/10
-8. [雷军野心很大，国内首款3nm智驾芯片，为何偏偏是小米搞出来的？ - 凤凰网科技](#item-8) ⭐️ 8.0/10
-9. [Nvidia客户获悉AI芯片服务器将涨价超15% - 搜狐网](#item-9) ⭐️ 8.0/10
-10. [贝森特出手强压美债利率，城堡证券警告：搞“金融抑制”恐伤美元 - 凤凰网财经](#item-10) ⭐️ 8.0/10
-11. [阿里巴巴在港以IPO集资800亿 港股史上最大宗 评论料科网巨头会仿效 - RFI](#item-11) ⭐️ 8.0/10
-12. [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](#item-12) ⭐️ 7.0/10
-13. [MS Paint and Photos inivisibly watermark even locally generated output with GUID](#item-13) ⭐️ 7.0/10
-14. [Moon (2024)](#item-14) ⭐️ 7.0/10
-15. [The entire city of San Francisco as a video game](#item-15) ⭐️ 7.0/10
-16. [Oceans hit highest temperature on record](#item-16) ⭐️ 7.0/10
-17. [IPFS Maintainers Winding Down](#item-17) ⭐️ 7.0/10
-18. [SeL4 security proofs now complete on AArch64](#item-18) ⭐️ 7.0/10
-19. [上海：推进高性能算力芯片、通用处理器芯片、存储芯片、互联芯片和智能传感器达到国际先进水平 - 东方财富](#item-19) ⭐️ 7.0/10
-20. [SpaceX将部署英伟达CPU芯片用于AI开发 - 华尔街日报中文网](#item-20) ⭐️ 7.0/10
-21. [美国施压韩半导体在美建厂，对韩国“湖南半导体集群计划”表达不满 - 华尔街见闻](#item-21) ⭐️ 7.0/10
-22. [中信证券：美股半导体设备板块经7月回调配置价值凸显上行周期或持续至2028年_公司新闻_财经 - 证券之星](#item-22) ⭐️ 7.0/10
-23. [存储芯片股票正在崩盘，因为三星电子股价暴跌 -8.7%，原因是投资者对其股东回报计划感到失望。 - Moomoo](#item-23) ⭐️ 7.0/10
-24. [玄戒O3、O100、D100齐发！小米朱丹：芯片研发投入是为下一个十年买入场券 - 驱动之家](#item-24) ⭐️ 7.0/10
-25. [联发科最强2nm芯片！天玑9600 Pro完整参数出炉：GPU与小米玄戒O3同源 - 新浪财经](#item-25) ⭐️ 7.0/10
-26. [安卓最强2nm芯片易主！三星Exynos 2700内部实测跑分力压高通第六代骁龙8超级至尊版 - 驱动之家](#item-26) ⭐️ 7.0/10
-27. [苹果AI服务器内部结构首曝，M5芯片2U机架Mac Studio控制 - t.cj.sina.cn](#item-27) ⭐️ 7.0/10
-28. [AMD x86芯片份额首破30%！英特尔份额回落至1995年水平 - 驱动之家](#item-28) ⭐️ 7.0/10
-29. [全球科技企业竞逐存储芯片赛道 - t.cj.sina.cn](#item-29) ⭐️ 7.0/10
-30. [IBM发布2nm芯片，原生支持Arm生态 - 搜狐网](#item-30) ⭐️ 7.0/10
-31. [韩国大企业盈利改善难带动投资 半导体龙头成资本支出主力 - 亚洲日报](#item-31) ⭐️ 7.0/10
-32. [高盛对冲基金业务主管：油价比杰克逊霍尔美联储年会重要，英伟达是本周焦点 - 华尔街见闻](#item-32) ⭐️ 7.0/10
-33. [外资机构密集调研A股公司 集体唱多中国资产 - 新浪财经](#item-33) ⭐️ 7.0/10
-34. [新易盛Q2净利环比增7成 产品毛利率略高于中际旭创 预计H2订单能见度较高|财报解读 - 财联社](#item-34) ⭐️ 7.0/10
-35. [加息大变数！美联储重磅表态临近！“AI总龙头”财报要来了 - 东方财富](#item-35) ⭐️ 7.0/10
-36. [估值超160亿美元！“AI指环”Oura最快9月IPO - 华尔街见闻](#item-36) ⭐️ 7.0/10
-37. [市值蒸发1900亿，宇树IPO只风光了半天？ - 华尔街见闻](#item-37) ⭐️ 7.0/10
-38. [A股巨震，银行为何频频独立走强？ - 新浪财经](#item-38) ⭐️ 7.0/10
-39. [日本央行被“逼到角落”必须加息！2027年将再次行动，终端利率或超1.5%-市场参考 - 金十数据](#item-39) ⭐️ 7.0/10
-40. [存储巨头长存控股启动IPO “六个核桃”为何不涨反跌？ - 东方财富](#item-40) ⭐️ 7.0/10
-41. [Carmichael: America’s wobbly bonds are Canada’s advantage in the trade war. Here’s why - The Logic](#item-41) ⭐️ 7.0/10
-42. [Why do we assume anyone will give us access to superintelligence?](#item-42) ⭐️ 7.0/10
+1. [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](#item-1) ⭐️ 8.0/10
+2. [LLMs could control their host machines by exploiting inference engines](#item-2) ⭐️ 8.0/10
+3. [Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam](#item-3) ⭐️ 8.0/10
+4. [高盛：未来10年中国先进制程芯片供需缺口缩至34% - 财新](#item-4) ⭐️ 8.0/10
+5. [美股芯片股、光通信遭抛售，英伟达七连阴创四年纪录，五大存储龙头集体跌近5% - 金融界](#item-5) ⭐️ 8.0/10
+6. [以为3nm到顶了？小米玄戒O3掀桌子，AI芯片格局大洗牌 - 电子工程专辑](#item-6) ⭐️ 8.0/10
+7. [SpaceX将部署英伟达CPU芯片用于AI开发 - 华尔街日报中文网](#item-7) ⭐️ 8.0/10
+8. [美国施压韩半导体在美建厂，对韩国“湖南半导体集群计划”表达不满 - 华尔街见闻](#item-8) ⭐️ 8.0/10
+9. [小米发布新一代自研手机芯片，消息人士透露：将由台积电进行生产 - RFI](#item-9) ⭐️ 8.0/10
+10. [雷军野心很大，国内首款3nm智驾芯片，为何偏偏是小米搞出来的？ - 凤凰网科技](#item-10) ⭐️ 8.0/10
+11. [IBM发布2nm芯片，原生支持Arm生态 - Moomoo](#item-11) ⭐️ 8.0/10
+12. [AMD x86芯片份额首破30%！英特尔份额回落至1995年水平 - 驱动之家](#item-12) ⭐️ 8.0/10
+13. [英伟达AI芯片价格或将上涨约17%，服务器厂商通知客户 - 新浪财经](#item-13) ⭐️ 8.0/10
+14. [电子行业事件点评：长江存储科创板IPO受理，存储产业链受益明确_行业研究_研报 - 证券之星](#item-14) ⭐️ 8.0/10
+15. [阿里巴巴在港以IPO集资800亿 港股史上最大宗 评论料科网巨头会仿效 - RFI](#item-15) ⭐️ 8.0/10
+16. [Trump vows to double Canada auto tariffs to 50%, escalating trade war - Central Oregon Daily](#item-16) ⭐️ 8.0/10
+17. [(Paper) ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning](#item-17) ⭐️ 8.0/10
+18. [MS Paint and Photos inivisibly watermark even locally generated output with GUID](#item-18) ⭐️ 7.0/10
+19. [Moon (2024)](#item-19) ⭐️ 7.0/10
+20. [The entire city of San Francisco as a video game](#item-20) ⭐️ 7.0/10
+21. [How Europe is killing makers and micro-entrepreneurs](#item-21) ⭐️ 7.0/10
+22. [IPFS Maintainers Winding Down](#item-22) ⭐️ 7.0/10
+23. [Oceans hit highest temperature on record](#item-23) ⭐️ 7.0/10
+24. [SeL4 security proofs now complete on AArch64](#item-24) ⭐️ 7.0/10
+25. [上海：推进高性能算力芯片、通用处理器芯片、存储芯片、互联芯片和智能传感器达到国际先进水平 - 东方财富](#item-25) ⭐️ 7.0/10
+26. [中信证券：美股半导体设备板块经7月回调配置价值凸显上行周期或持续至2028年_公司新闻_财经 - 证券之星](#item-26) ⭐️ 7.0/10
+27. [思格新能源发布2026年中期业绩：营收98.7亿元，同比增长261.2% - 凤凰网科技](#item-27) ⭐️ 7.0/10
+28. [存储芯片股票正在崩盘，因为三星电子股价暴跌 -8.7%，原因是投资者对其股东回报计划感到失望。 - Moomoo](#item-28) ⭐️ 7.0/10
+29. [苹果AI服务器内部结构首曝，M5芯片2U机架Mac Studio控制 - t.cj.sina.cn](#item-29) ⭐️ 7.0/10
+30. [Shein香港IPO：中国快时尚品牌估值270亿美元 - BBC](#item-30) ⭐️ 7.0/10
+31. [高盛对冲基金业务主管：油价比杰克逊霍尔美联储年会重要，英伟达是本周焦点 - 华尔街见闻](#item-31) ⭐️ 7.0/10
+32. [外资机构密集调研A股公司 集体唱多中国资产 - 新浪财经](#item-32) ⭐️ 7.0/10
+33. [加息大变数！美联储重磅表态临近！“AI总龙头”财报要来了 - 东方财富](#item-33) ⭐️ 7.0/10
+34. [邢自强：美债利率飙升不是危机，AI投资不会撞墙，但聪明钱正从港股流向这里 - 新浪财经](#item-34) ⭐️ 7.0/10
+35. [A股巨震，银行为何频频独立走强？ - 新浪财经](#item-35) ⭐️ 7.0/10
+36. [Best Local Vision Language Models - August 2026](#item-36) ⭐️ 7.0/10
+37. [Apple M5 Server](#item-37) ⭐️ 7.0/10
+38. [Qwen 3.8 27B in 9th position on code arena. Gemma 4 31B is 80th.](#item-38) ⭐️ 7.0/10
+39. [JetBrains local AI (using Qwen3.6 27B)](#item-39) ⭐️ 7.0/10
+40. [TielCoder's 22 GB 4-bit quant matches Opus4.6 medium on recent real life coding issues, surpassing KAT-Coder and Nail as strongest and fastest MoE picks.](#item-40) ⭐️ 7.0/10
+41. [I just tried DeepSeek Harness and it escaped from its workspace folder](#item-41) ⭐️ 7.0/10
+42. [Qwen-3.8-27B, Nemotron-3.5-Lightning-30B-A3B, Ornith-1.5-35B-A3B, Muse-Glimmer-30B oQ8e comparison](#item-42) ⭐️ 7.0/10
+43. [Who would buy HuggingFace](#item-43) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines) ⭐️ 8.0/10
+## [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926) ⭐️ 8.0/10
 
-This article argues that LLMs could exploit vulnerabilities in inference engines like vLLM to gain control of host machines, emphasizing the need for sandboxing and security measures.
+Xiaomi's new CPU reportedly matches Apple's single-threaded performance and exceeds in multithreaded, but is based on ARM reference design, raising questions about its true competitiveness.
 
-hackernews · zdw · Aug 24, 19:03 · [Discussion](https://news.ycombinator.com/item?id=49424387)
+hackernews · tosh · Aug 24, 15:08 · [Discussion](https://news.ycombinator.com/item?id=49420873)
 
-**Tags**: `#AI`, `#LLM`, `#security`, `#inference engine`, `#vLLM`
+**Tags**: `#semiconductor`, `#Xiaomi`, `#CPU`, `#ARM`, `#Apple`
 
 ---
 
 <a id="item-2"></a>
-## [Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam](https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc) ⭐️ 8.0/10
+## [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines) ⭐️ 8.0/10
 
-Hot Chips 2026 reveals Nvidia's CUDA is targeting RISC-V, potentially defining a de facto CUDA-capable server profile for the architecture.
+This article explores how LLMs could potentially exploit vulnerabilities in inference engines like vLLM to gain control of host machines, highlighting a new security frontier.
 
-hackernews · rbanffy · Aug 24, 16:52 · [Discussion](https://news.ycombinator.com/item?id=49422548)
+hackernews · zdw · Aug 24, 19:03 · [Discussion](https://news.ycombinator.com/item?id=49424387)
 
-**Tags**: `#CUDA`, `#RISC-V`, `#Nvidia`, `#AI芯片`, `#半导体`
+**Tags**: `#AI security`, `#LLM`, `#inference engines`, `#vLLM`, `#cybersecurity`
 
 ---
 
 <a id="item-3"></a>
-## [高盛：未来10年中国先进制程芯片供需缺口缩至34% - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE01a3pfLWlqTloxaTMyMnRiUXZ4clJRRHdQVEl6OGh0NnJuZ0g2TTM5ekVHZkdfZmJkTER5SDl5dGZhTEhET2JmRlJaRG9lRURzQUQ2Y0h0ZnVwVDg5UnBCa0oxTVg?oc=5) ⭐️ 8.0/10
+## [Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam](https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc) ⭐️ 8.0/10
 
-Goldman Sachs predicts China's advanced process chip supply-demand gap will narrow to 34% over the next decade.
+Hot Chips 2026 reveals NVIDIA's move to define CUDA-capable RISC-V server architecture, potentially shaping the future of AI accelerators.
 
-rss · Google News - 科技（半导体+新能源） · Aug 25, 01:43
+hackernews · rbanffy · Aug 24, 16:52 · [Discussion](https://news.ycombinator.com/item?id=49422548)
 
-**Tags**: `#半导体`, `#中国`, `#芯片供需`, `#高盛`, `#宏观经济`
+**Tags**: `#AI`, `#半导体`, `#RISC-V`, `#CUDA`, `#NVIDIA`
 
 ---
 
 <a id="item-4"></a>
-## [黄仁勋不停歇：芯片、数据中心、模型三线并进，英伟达以投资换锁定加固AI霸主地位 - 华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tUFpwWURRUS1jVldNSEZQelJVcFRuX2dOUE9oQW1fNjB4alFCQWtkS2NxdGM2b0x3VnZsODFRY2YwY3FNTTJzTnRuVnh2RExGTmtn?oc=5) ⭐️ 8.0/10
+## [高盛：未来10年中国先进制程芯片供需缺口缩至34% - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE01a3pfLWlqTloxaTMyMnRiUXZ4clJRRHdQVEl6OGh0NnJuZ0g2TTM5ekVHZkdfZmJkTER5SDl5dGZhTEhET2JmRlJaRG9lRURzQUQ2Y0h0ZnVwVDg5UnBCa0oxTVg?oc=5) ⭐️ 8.0/10
 
-NVIDIA, under Jensen Huang, is simultaneously advancing chips, data centers, and models, using investments to lock in and strengthen its AI leadership.
+Goldman Sachs predicts China's advanced chip supply-demand gap will narrow to 34% over the next decade.
 
-rss · Google News - 科技（半导体+新能源） · Aug 25, 01:35
+rss · Google News - 科技（半导体+新能源） · Aug 25, 01:43
 
-**Tags**: `#NVIDIA`, `#AI芯片`, `#半导体`, `#数据中心`, `#AI`
+**Tags**: `#半导体`, `#中国`, `#AI芯片`, `#宏观经济`, `#高盛`
 
 ---
 
 <a id="item-5"></a>
-## [小米发布三款玄戒自研芯片，国产“自研芯”迈向构建全生态底座新纪元 | 新经济观察 - 新浪财经](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNE84MHBlMXYzT01oUk43OXpSZkpvSW1nMFhVTnRVZEZrMjdib0YyNjR0RW9xdElPY0k0RG1QQVdNMVNGLUZYMWFIRm40eVlTSlpOM0EyWTVvcTcyT0c2eWhzYTJBZ3RmRFEyZmFyQkFqeEMyYl9temNIMm9WSGIxUXpxVDRyR1VsZGR4Z1BTTkt1LUwzdUZjUVdaX282RlVGZUphNFJwNlI4V045T1BsLXZn?oc=5) ⭐️ 8.0/10
-
-小米发布三款玄戒自研芯片，标志着国产自研芯片向构建全生态底座迈进。
-
-rss · Google News - 科技（半导体+新能源） · Aug 25, 00:17
-
-**Tags**: `#半导体`, `#AI芯片`, `#小米`, `#国产芯片`, `#科技`
-
----
-
-<a id="item-6"></a>
-## [加速！SpaceX计划明年发射“太空数据中心”卫星，搭载英伟达芯片 - 华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ndUR5dTNXaGZWazZnYWJ3NmNVSzNhdFdCclZyVnFEYy1zRGh3T2E3RElrQ0xvX3czQ01IWXQtRk9aMEJadnhUeGJUZktUcVp6UXo0?oc=5) ⭐️ 8.0/10
-
-SpaceX计划明年发射搭载英伟达芯片的太空数据中心卫星，以加速太空计算能力。
-
-rss · Google News - 科技（半导体+新能源） · Aug 25, 00:03
-
-**Tags**: `#SpaceX`, `#太空数据中心`, `#英伟达`, `#AI芯片`, `#卫星`
-
----
-
-<a id="item-7"></a>
 ## [美股芯片股、光通信遭抛售，英伟达七连阴创四年纪录，五大存储龙头集体跌近5% - 金融界](https://news.google.com/rss/articles/CBMidEFVX3lxTE95RlBhVXhMdHF6WDNvRDZzeGJXVTYtcWhRTkZCUjNmZGVHekRnS19HT25aU1E3eWdjN1Y3WDhEVi1QUUVnYlNCeTFqVVBqZjlVLW8yaU1tWThQeXNwVlp1Y1pHUE0xdnNUdmtOdWdnX0FROVN4?oc=5) ⭐️ 8.0/10
 
-US chip and optical communication stocks face selloff, with Nvidia hitting a four-year record of seven consecutive declines and five major memory leaders dropping nearly 5%.
+US chip and optical communication stocks face selloff, with Nvidia hitting a four-year losing streak and major memory stocks falling nearly 5%.
 
 rss · Google News - 科技（半导体+新能源） · Aug 25, 00:35
 
@@ -131,10 +110,54 @@ rss · Google News - 科技（半导体+新能源） · Aug 25, 00:35
 
 ---
 
+<a id="item-6"></a>
+## [以为3nm到顶了？小米玄戒O3掀桌子，AI芯片格局大洗牌 - 电子工程专辑](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xSkc5YTVVSkNyT3lHcGtCdHRLdGdHQ19lbW94Z3hhZWx2UnE5MHJuOGU4di1HbmhWOWViZjcyRXdPVmp4OVJnS1c5U3hiTnFIYnVJ?oc=5) ⭐️ 8.0/10
+
+Xiaomi's Xuanjie O3 chip may disrupt the AI chip market, challenging the 3nm process limit.
+
+rss · Google News - 科技（半导体+新能源） · Aug 25, 00:15
+
+**Tags**: `#AI芯片`, `#半导体`, `#小米`, `#3nm`, `#芯片`
+
+---
+
+<a id="item-7"></a>
+## [SpaceX将部署英伟达CPU芯片用于AI开发 - 华尔街日报中文网](https://news.google.com/rss/articles/CBMikwFBVV95cUxOTE1rRkdhV0hHckFDTmZlTTZBSzJPX2dxZEk4X2lOZXR4MmJVOHB4Tl85UE82cEhTNlJDbktkRW9fd2haWkF5OE10NFN3OUZnbnh2anRNWW9RNkVGMDhDQXBDZkVqQXJvWkVrQ0k4SW5YOWRWYWdDNVUzdjVsVXNPWk1YT29VWXpsT3ZtQ09KbWVTWWs?oc=5) ⭐️ 8.0/10
+
+SpaceX will deploy Nvidia CPU chips for AI development, highlighting Nvidia's growing role in AI infrastructure.
+
+rss · Google News - 科技（半导体+新能源） · Aug 24, 23:50
+
+**Tags**: `#AI`, `#半导体`, `#SpaceX`, `#Nvidia`, `#AI芯片`
+
+---
+
 <a id="item-8"></a>
+## [美国施压韩半导体在美建厂，对韩国“湖南半导体集群计划”表达不满 - 华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zM01GSWd2RXQzMWl3TmFRb3hodDRlTWJpdk1Rc2tDMzVBV2M2T2J4eWJkQ2FvQ3ZucjNNb2RuNURUU3ZudkVQeDA4RU5SckZUeW5F?oc=5) ⭐️ 8.0/10
+
+The US is pressuring South Korea to build semiconductor plants in the US, expressing dissatisfaction with Korea's 'Honam Semiconductor Cluster Plan'.
+
+rss · Google News - 科技（半导体+新能源） · Aug 25, 00:39
+
+**Tags**: `#半导体`, `#美国`, `#韩国`, `#供应链`, `#地缘政治`
+
+---
+
+<a id="item-9"></a>
+## [小米发布新一代自研手机芯片，消息人士透露：将由台积电进行生产 - RFI](https://news.google.com/rss/articles/CBMi4ANBVV95cUxOZXRkUG9tblUzdmJ3QlhZS3JXaURhWnpud0NmZE4tZ3hROC11TWxpR1lucDhscWkwZUQ3Y1A5dlZxcVI4Y2R3aW1mdmZrZk5UT0FwTFpUSlREX1ZULXF3U3V2SXZNWnNVVy1OU1ItQUpybmJqTmhHS19ESF95WS0zbng0djVHcGJxZ09WY3hoalRlaXUyUGp5TjZmSnM5U05tai1jclNlcDAtOXhEZUtEMGRuWTVfbGpfSjAyeFRzbDFLOWtKcnp3Vmc4TXZHaUxaMURWZW11eDhKN2lPT25qSHozSjlnelFGb1JQQlhaVDcweEwzZXQ2a0FOUEZKQXM0NzZwMGw0VkFOWmZnWVFkLUE1Q2lNUkM0ZEFfc2t6SGFhVHhmbFp4R3BiSXhXTDNaSUNXSFlQUlVpOUNDVlpGQjdlamxwR25NY1NnaExpVUtuS29mb3VtR3BDS0JlX05LZ0x2SEhtNDVsc0xheC1wLXdqazN5X08wYVUyUl9iUXY2dmtVeEpfNENIUU14VkQ3Z2lZWDF3VWZuQlBTdEZWMjR6VENpNnUxMjlacllTSHR0eDVsSkE3WkY0bTZ5NmZoemUzeVl6VHM0ZUtkelR1WlhlYS02YU96SkZXYS1qcHM?oc=5) ⭐️ 8.0/10
+
+Xiaomi announces a new self-developed smartphone chip, with sources indicating production by TSMC.
+
+rss · Google News - 科技（半导体+新能源） · Aug 24, 09:35
+
+**Tags**: `#半导体`, `#小米`, `#芯片`, `#台积电`, `#智能手机`
+
+---
+
+<a id="item-10"></a>
 ## [雷军野心很大，国内首款3nm智驾芯片，为何偏偏是小米搞出来的？ - 凤凰网科技](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLQzRrLVZnMHN3UjhDdGxKV1VqWjlDbi02WFZyMWxCcVc1OUltclluaUNXTjE5MjROTTFhel81d1hHVDlKQW4zazMzamQ?oc=5) ⭐️ 8.0/10
 
-Xiaomi reportedly develops China's first 3nm autonomous driving chip, marking a major advancement in domestic semiconductor capabilities.
+Xiaomi's development of China's first 3nm autonomous driving chip highlights its ambitious push into advanced semiconductors.
 
 rss · Google News - 科技（半导体+新能源） · Aug 25, 01:24
 
@@ -142,208 +165,208 @@ rss · Google News - 科技（半导体+新能源） · Aug 25, 01:24
 
 ---
 
-<a id="item-9"></a>
-## [Nvidia客户获悉AI芯片服务器将涨价超15% - 搜狐网](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd09oNHdKNW12SVdScm42YnNWaVJMN2pqVWxHX2FCVUlnek5hdV9zQTlBTnhuak5FbElJbjZRblZfTkVRdlR3THZJaDdYa05Fa21sWTViYy1hYzg5MUk4VzJ5bHo2Q3NpRXFjUkN3Z0FGT2tCbGRtbzdaTmZJVEJKejlxZlh2Yi1P?oc=5) ⭐️ 8.0/10
-
-Nvidia customers have been informed that AI chip server prices will rise by over 15%.
-
-rss · Google News - 科技（半导体+新能源） · Aug 25, 01:48
-
-**Tags**: `#Nvidia`, `#AI芯片`, `#服务器涨价`, `#半导体`, `#AI`
-
----
-
-<a id="item-10"></a>
-## [贝森特出手强压美债利率，城堡证券警告：搞“金融抑制”恐伤美元 - 凤凰网财经](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpQXkxX09EcnRzYk9sMFRrM0ZOMkV5MWgtZ21wSFNSRExUZ0VEdnVpampPOFJwaFB0ck5ONXpWSDRBdXJ6RDhUZ3JHVnAwLS01?oc=5) ⭐️ 8.0/10
-
-Bessent's pressure on US Treasury yields and Citadel Securities' warning about financial repression potentially harming the dollar.
-
-rss · Google News - 金融市场 · Aug 24, 17:34
-
-**Tags**: `#金融市场`, `#宏观经济`, `#美联储`, `#美元`, `#美债`
-
----
-
 <a id="item-11"></a>
-## [阿里巴巴在港以IPO集资800亿 港股史上最大宗 评论料科网巨头会仿效 - RFI](https://news.google.com/rss/articles/CBMirgNBVV95cUxNemozYWZnNWh6WnIzU0x1X2lKZHJtYXBwcW9iWWctSG1tbEozUnVNSk5VY00zNEgxUTljbklyU1liQ09WLVREMkRvc3hzZ1lycEY2V0d1SldOTWVUeWtXN1REWVhYQi1YY2J0ektDQUpfZ25yWWU1b0JnVkc0Wlc5VUhJNkVQa1NLUUplRGdRNlMxNjhCUGhNWUtUZnNBbTJRYjJrSTU4LWp2RUxPS2liaTU0RUsxNXZjVm9HWkJack5qRERGYWlWUV9rUDlaUUYxeFNfMHdPeXpmLW9jUEtOdU1HS19BVy1lUS00aS1MRHRKZk8zcE94ZXo3NzRzRGE2LU51R2Y3MXd6Sndtc2I0SjZIbDF2cmxDcm9fTkRsRF9lUk0zX1FhRzN5MGhxM1g5NXNvNUxmMHV6dGhjQ0hHdXJad05LdVZnbHBsRnFIdmZFakhKQlZBY2NXOU83MXpjdENROWVhckg0M1h6MjdYbFBQZE44d3BNMUZBZWw2LVM1UFExVW1wUjlETjlEc1psaVFMQnNZN29mVmNwemVjTFU2b0VEWXoxVlBHaEF3?oc=5) ⭐️ 8.0/10
+## [IBM发布2nm芯片，原生支持Arm生态 - Moomoo](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMHZTdW1xbkM4NVRUY1dHRXNYLXd6MUQyc3JGN1JIdVBkYzFCOGJxc3VVbmVWLTdDRXQtckxWMUc0VHphQ2R6elk4N2oxOEJvZnpMLXFlcGkyUQ?oc=5) ⭐️ 8.0/10
 
-Alibaba's Hong Kong IPO raises HK$80 billion, the largest in Hong Kong history, with analysts expecting other tech giants to follow suit.
+IBM announces a 2nm chip with native Arm ecosystem support, marking a major advancement in semiconductor technology.
 
-rss · Google News - 金融市场 · Aug 24, 06:30
+rss · Google News - 科技（半导体+新能源） · Aug 25, 00:44
 
-**Tags**: `#阿里巴巴`, `#IPO`, `#港股`, `#金融市场`, `#科技巨头`
+**Tags**: `#半导体`, `#IBM`, `#2nm芯片`, `#Arm`, `#芯片`
 
 ---
 
 <a id="item-12"></a>
-## [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926) ⭐️ 7.0/10
+## [AMD x86芯片份额首破30%！英特尔份额回落至1995年水平 - 驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uVVdjSGVLRk1tZEJWeXJNdE9hX3cteC13QVJXVWZzTlhwRnBRSmVIS2ZfdnFqMkV4WDN6bUdjVUdwLXhac1kwSDkzUlNQWXFKaHV5Z3VoeWg?oc=5) ⭐️ 8.0/10
 
-Xiaomi's new CPU reportedly matches Apple's single-threaded performance and exceeds in multithreaded, but community notes it's an ARM design with power and design caveats.
+AMD's x86 chip market share surpasses 30% for the first time, while Intel's share drops to levels last seen in 1995.
 
-hackernews · tosh · Aug 24, 15:08 · [Discussion](https://news.ycombinator.com/item?id=49420873)
+rss · Google News - 科技（半导体+新能源） · Aug 25, 01:15
 
-**Tags**: `#semiconductor`, `#CPU`, `#Xiaomi`, `#Apple`, `#ARM`
+**Tags**: `#半导体`, `#AMD`, `#Intel`, `#x86`, `#市场份额`
 
 ---
 
 <a id="item-13"></a>
-## [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) ⭐️ 7.0/10
+## [英伟达AI芯片价格或将上涨约17%，服务器厂商通知客户 - 新浪财经](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMm5pTXIza3RTNXhXRm1SYkJzVy1VVEZwbzJVdDk0TUFKQVhWMTlOejdudmZfemlXNXRlRkVwQ1NKazNqTmNXWE4wdzNjTGpEcDlzM1pGaUpWY2lQMkw3T21KYlppWHVtX2FTdTVIc3V2MFFtME81RzlER2xWM2ZaZEY3bWlKbFdLTk5naWN1OWdkVGNWcW9YeEJaUWJRRVZacVcyM0pPMHpNQlNFcXMzSWVXeV9IRVI1RWlYNTNQT1E2RWdZZzRBaUpjUThLZ3IxeDBsVFIxSDQ0TVlIRF9v?oc=5) ⭐️ 8.0/10
 
-MS Paint and Photos silently embed invisible GUID watermarks in AI-manipulated images, even for locally generated content, raising privacy and anonymity concerns.
+NVIDIA AI chip prices may rise about 17%, with server manufacturers notifying customers.
 
-hackernews · ComputerGuru · Aug 24, 15:28 · [Discussion](https://news.ycombinator.com/item?id=49421158)
+rss · Google News - 科技（半导体+新能源） · Aug 24, 09:11
 
-**Tags**: `#AI`, `#privacy`, `#watermarking`, `#Microsoft`, `#security`
+**Tags**: `#NVIDIA`, `#AI芯片`, `#半导体`, `#涨价`, `#服务器`
 
 ---
 
 <a id="item-14"></a>
-## [Moon (2024)](https://ciechanow.ski/moon/) ⭐️ 7.0/10
+## [电子行业事件点评：长江存储科创板IPO受理，存储产业链受益明确_行业研究_研报 - 证券之星](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0MXVXTFlNQTQxLV80X09OZVlRTDlwN1dHZnNlelktazZ0d3IxLWZERG9YZm44TGlXSnRMZXhCTkt1SjFWUjJrbTllQ2V3SGwzcnZYV3BkaEFpR1BGRU0tLVBn?oc=5) ⭐️ 8.0/10
 
-An interactive web page exploring the Moon's details, praised for its quality and influence on modern web design.
+长江存储科创板IPO获受理，存储产业链受益明确。
 
-hackernews · simonebrunozzi · Aug 24, 22:06 · [Discussion](https://news.ycombinator.com/item?id=49426466)
+rss · Google News - 金融市场 · Aug 25, 00:51
 
-**Tags**: `#interactive`, `#visualization`, `#web`, `#moon`, `#education`
+**Tags**: `#半导体`, `#存储芯片`, `#科创板`, `#IPO`, `#金融市场`
 
 ---
 
 <a id="item-15"></a>
-## [The entire city of San Francisco as a video game](https://sf.thijs.gg/) ⭐️ 7.0/10
+## [阿里巴巴在港以IPO集资800亿 港股史上最大宗 评论料科网巨头会仿效 - RFI](https://news.google.com/rss/articles/CBMirgNBVV95cUxNemozYWZnNWh6WnIzU0x1X2lKZHJtYXBwcW9iWWctSG1tbEozUnVNSk5VY00zNEgxUTljbklyU1liQ09WLVREMkRvc3hzZ1lycEY2V0d1SldOTWVUeWtXN1REWVhYQi1YY2J0ektDQUpfZ25yWWU1b0JnVkc0Wlc5VUhJNkVQa1NLUUplRGdRNlMxNjhCUGhNWUtUZnNBbTJRYjJrSTU4LWp2RUxPS2liaTU0RUsxNXZjVm9HWkJack5qRERGYWlWUV9rUDlaUUYxeFNfMHdPeXpmLW9jUEtOdU1HS19BVy1lUS00aS1MRHRKZk8zcE94ZXo3NzRzRGE2LU51R2Y3MXd6Sndtc2I0SjZIbDF2cmxDcm9fTkRsRF9lUk0zX1FhRzN5MGhxM1g5NXNvNUxmMHV6dGhjQ0hHdXJad05LdVZnbHBsRnFIdmZFakhKQlZBY2NXOU83MXpjdENROWVhckg0M1h6MjdYbFBQZE44d3BNMUZBZWw2LVM1UFExVW1wUjlETjlEc1psaVFMQnNZN29mVmNwemVjTFU2b0VEWXoxVlBHaEF3?oc=5) ⭐️ 8.0/10
 
-A web-based game that recreates San Francisco as a playable city using real map data, sparking discussions about its technical implementation and future possibilities.
+Alibaba raises 80 billion HKD in Hong Kong's largest IPO, with analysts expecting other tech giants to follow suit.
 
-hackernews · centrosphere · Aug 24, 17:05 · [Discussion](https://news.ycombinator.com/item?id=49422784)
+rss · Google News - 金融市场 · Aug 24, 06:30
 
-**Tags**: `#game development`, `#map data`, `#web technology`, `#open source`, `#creative coding`
+**Tags**: `#IPO`, `#阿里巴巴`, `#港股`, `#金融市场`, `#科技巨头`
 
 ---
 
 <a id="item-16"></a>
-## [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o) ⭐️ 7.0/10
+## [Trump vows to double Canada auto tariffs to 50%, escalating trade war - Central Oregon Daily](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbDhCazBkWENaUEh1dGFWMzVOVGlFY1RRQnRINDhtSWJTbHlqLUhCRjVfRFV4MUpiQ0Zrb3k1eks2cW13djFMLUVyQUE1akhNUHBEWVphZGdtSWhRQ0tLcXVQSGpGWkRNQWJYbU4xSmtMWXREWE9kR21TZThjMzlTTXgxX2pleFhfYmxDWWV1WVNFNzdGNWxpMm5CQ1c1X0MzQUFKemlOUGJyVU0yV01feVNkS1pMaVpMQXN4cjk2YTFLbzNwTXpwa3VBMThERHpOeXRkVldUNGRqckk3VEpVeTdSMkM5TTlqZndSbWF3bFRyUmlXODFEcFhWNEV2Y3c?oc=5) ⭐️ 8.0/10
 
-Oceans hit record high temperatures, highlighting the urgent climate crisis and the slow progress in reducing fossil fuel reliance.
+Trump announces doubling of Canada auto tariffs to 50%, intensifying the trade war.
 
-hackernews · tcp_handshaker · Aug 24, 19:19 · [Discussion](https://news.ycombinator.com/item?id=49424606)
+rss · Google News - 全球宏观 · Aug 24, 19:00
 
-**Tags**: `#climate change`, `#ocean temperature`, `#renewable energy`, `#fossil fuels`, `#environment`
+**Tags**: `#trade war`, `#tariffs`, `#macro economy`, `#US-Canada`, `#automotive`
 
 ---
 
 <a id="item-17"></a>
-## [IPFS Maintainers Winding Down](https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/) ⭐️ 7.0/10
+## [(Paper) ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning](https://www.reddit.com/r/LocalLLaMA/comments/1vx3img/paper_tomoe_converting_dense_large_language/) ⭐️ 8.0/10
 
-IPFS maintainer team Shipyard is sunsetting, but the IPFS project continues with individual maintainer grants, sparking community discussion on the future of decentralized storage.
+ToMoE proposes a differentiable dynamic pruning method to convert dense LLMs into Mixture-of-Experts architectures, reducing active parameters without permanent removal, even without fine-tuning.
 
-hackernews · iand · Aug 24, 15:48 · [Discussion](https://news.ycombinator.com/item?id=49421489)
+reddit · r/LocalLLaMA · /u/pmttyji · Aug 24, 13:54
 
-**Tags**: `#IPFS`, `#decentralized web`, `#open source`, `#maintainership`, `#p2p`
+**Tags**: `#AI`, `#LLM`, `#Model Compression`, `#Mixture-of-Experts`, `#Efficiency`
 
 ---
 
 <a id="item-18"></a>
-## [SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21) ⭐️ 7.0/10
+## [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) ⭐️ 7.0/10
 
-seL4's security proofs are now complete on AArch64, marking a major formal verification achievement despite noted limitations.
+MS Paint and Photos silently embed invisible GUID watermarks in AI-manipulated images, raising privacy concerns about user identification.
 
-hackernews · snvzz · Aug 24, 11:32 · [Discussion](https://news.ycombinator.com/item?id=49418255)
+hackernews · ComputerGuru · Aug 24, 15:28 · [Discussion](https://news.ycombinator.com/item?id=49421158)
 
-**Tags**: `#seL4`, `#formal verification`, `#security`, `#microkernel`, `#AArch64`
+**Tags**: `#AI`, `#privacy`, `#Microsoft`, `#watermark`, `#security`
 
 ---
 
 <a id="item-19"></a>
-## [上海：推进高性能算力芯片、通用处理器芯片、存储芯片、互联芯片和智能传感器达到国际先进水平 - 东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBaHVsd3NhVHFGLXNiWUhmeWR0SGJ5R1dfTzFCcjdqU3otWUkyVXhGY0JDWl9CSTJSRUttbVVWbS04SzNXNktwYlRNQTdpM3oxalgtTHU3M09LTE9NcFpiMA?oc=5) ⭐️ 7.0/10
+## [Moon (2024)](https://ciechanow.ski/moon/) ⭐️ 7.0/10
 
-Shanghai aims to advance high-performance computing chips, general-purpose processors, storage chips, interconnect chips, and smart sensors to international advanced levels.
+An interactive web visualization exploring the Moon's features, phases, and orbit, praised for its detail and educational value.
 
-rss · Google News - 科技（半导体+新能源） · Aug 24, 10:01
+hackernews · simonebrunozzi · Aug 24, 22:06 · [Discussion](https://news.ycombinator.com/item?id=49426466)
 
-**Tags**: `#半导体`, `#芯片`, `#上海`, `#政策`, `#AI`
+**Tags**: `#space`, `#visualization`, `#interactive`, `#education`, `#moon`
 
 ---
 
 <a id="item-20"></a>
-## [SpaceX将部署英伟达CPU芯片用于AI开发 - 华尔街日报中文网](https://news.google.com/rss/articles/CBMikwFBVV95cUxOTE1rRkdhV0hHckFDTmZlTTZBSzJPX2dxZEk4X2lOZXR4MmJVOHB4Tl85UE82cEhTNlJDbktkRW9fd2haWkF5OE10NFN3OUZnbnh2anRNWW9RNkVGMDhDQXBDZkVqQXJvWkVrQ0k4SW5YOWRWYWdDNVUzdjVsVXNPWk1YT29VWXpsT3ZtQ09KbWVTWWs?oc=5) ⭐️ 7.0/10
+## [The entire city of San Francisco as a video game](https://sf.thijs.gg/) ⭐️ 7.0/10
 
-SpaceX will deploy Nvidia CPU chips for AI development, as reported by WSJ Chinese.
+A web-based interactive 3D recreation of San Francisco as a video game, built from map and elevation data, with community interest in potential expansions like street view integration and GTA-style engines.
 
-rss · Google News - 科技（半导体+新能源） · Aug 24, 23:50
+hackernews · centrosphere · Aug 24, 17:05 · [Discussion](https://news.ycombinator.com/item?id=49422784)
 
-**Tags**: `#SpaceX`, `#Nvidia`, `#AI`, `#半导体`
+**Tags**: `#3D rendering`, `#maps`, `#open source`, `#developer tools`, `#interactive`
 
 ---
 
 <a id="item-21"></a>
-## [美国施压韩半导体在美建厂，对韩国“湖南半导体集群计划”表达不满 - 华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zM01GSWd2RXQzMWl3TmFRb3hodDRlTWJpdk1Rc2tDMzVBV2M2T2J4eWJkQ2FvQ3ZucjNNb2RuNURUU3ZudkVQeDA4RU5SckZUeW5F?oc=5) ⭐️ 7.0/10
+## [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) ⭐️ 7.0/10
 
-美国施压韩国半导体企业在美建厂，并对韩国的“湖南半导体集群计划”表示不满，凸显美韩在半导体产业政策上的紧张关系。
+The article argues that EU regulations are harming small-scale makers and micro-entrepreneurs, sparking a debate about regulatory impact and enforcement.
 
-rss · Google News - 科技（半导体+新能源） · Aug 25, 00:39
+hackernews · l-one-lone · Aug 24, 13:05 · [Discussion](https://news.ycombinator.com/item?id=49419237)
 
-**Tags**: `#半导体`, `#美国`, `#韩国`, `#地缘政治`, `#供应链`
+**Tags**: `#EU regulation`, `#entrepreneurship`, `#e-commerce`, `#macro economy`, `#policy`
 
 ---
 
 <a id="item-22"></a>
+## [IPFS Maintainers Winding Down](https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/) ⭐️ 7.0/10
+
+IPFS maintainer team Shipyard is winding down, but the IPFS project continues with individual maintainer grants.
+
+hackernews · iand · Aug 24, 15:48 · [Discussion](https://news.ycombinator.com/item?id=49421489)
+
+**Tags**: `#IPFS`, `#open source`, `#decentralization`, `#maintainership`, `#developer tools`
+
+---
+
+<a id="item-23"></a>
+## [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o) ⭐️ 7.0/10
+
+Oceans hit their highest temperature on record, highlighting accelerating climate change and its implications for global systems.
+
+hackernews · tcp_handshaker · Aug 24, 19:19 · [Discussion](https://news.ycombinator.com/item?id=49424606)
+
+**Tags**: `#climate change`, `#ocean temperature`, `#energy transition`, `#environment`, `#global warming`
+
+---
+
+<a id="item-24"></a>
+## [SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21) ⭐️ 7.0/10
+
+SeL4's security proofs are now complete on AArch64, marking a major step in formally verified operating systems, though with noted limitations and adoption challenges.
+
+hackernews · snvzz · Aug 24, 11:32 · [Discussion](https://news.ycombinator.com/item?id=49418255)
+
+**Tags**: `#seL4`, `#formal verification`, `#operating systems`, `#security`, `#AArch64`
+
+---
+
+<a id="item-25"></a>
+## [上海：推进高性能算力芯片、通用处理器芯片、存储芯片、互联芯片和智能传感器达到国际先进水平 - 东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBaHVsd3NhVHFGLXNiWUhmeWR0SGJ5R1dfTzFCcjdqU3otWUkyVXhGY0JDWl9CSTJSRUttbVVWbS04SzNXNktwYlRNQTdpM3oxalgtTHU3M09LTE9NcFpiMA?oc=5) ⭐️ 7.0/10
+
+Shanghai announces plans to advance high-performance computing chips, general-purpose processors, memory chips, interconnect chips, and smart sensors to international advanced levels.
+
+rss · Google News - 科技（半导体+新能源） · Aug 24, 10:01
+
+**Tags**: `#半导体`, `#政策`, `#上海`, `#芯片`, `#AI芯片`
+
+---
+
+<a id="item-26"></a>
 ## [中信证券：美股半导体设备板块经7月回调配置价值凸显上行周期或持续至2028年_公司新闻_财经 - 证券之星](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jeTYzOG0xeXRZREpBMmJXSS1UcEt6Z2Z2S1g5NS1qRFlFT2Q1R0RZbnZUUWpKVFVVWlFUUk0xSEFlZU9mMGt4eWFfck9tTTdUUEloaUxmTzZOQ0xOYm84Yw?oc=5) ⭐️ 7.0/10
 
 中信证券认为美股半导体设备板块经7月回调后配置价值凸显，上行周期或持续至2028年。
 
 rss · Google News - 科技（半导体+新能源） · Aug 25, 01:33
 
-**Tags**: `#半导体`, `#金融市场`, `#投资策略`, `#美股`
-
----
-
-<a id="item-23"></a>
-## [存储芯片股票正在崩盘，因为三星电子股价暴跌 -8.7%，原因是投资者对其股东回报计划感到失望。 - Moomoo](https://news.google.com/rss/articles/CBMixgFBVV95cUxOcjNudlkzck1kRVp3bDZEeTlweVZ5Z0xfMFhTTmQ3cnNHSGtYZEVYcDJ5V09HTmUteHg3aktKY0VDWS1TOV9IWTNqNzJtdFlqdTc3b3d3S040QXpESHk2SDRMTWtfSV9xblg3bEk5eGJucFFuOHl6SHBRMmsyaG85ejExQW9mVGl4c3lpcWtPVjdKRHo5TVRRQ1hkalpjV3ZvYWxTRUJWR0xEUTZyMDdKQVh2UUZMdy01MXZGTmFYR1NpalBVT0E?oc=5) ⭐️ 7.0/10
-
-Samsung Electronics stock plunges 8.7% due to investor disappointment over shareholder return plans, causing memory chip stocks to crash.
-
-rss · Google News - 科技（半导体+新能源） · Aug 25, 00:58
-
-**Tags**: `#半导体`, `#金融市场`, `#三星`, `#存储芯片`, `#股票`
-
----
-
-<a id="item-24"></a>
-## [玄戒O3、O100、D100齐发！小米朱丹：芯片研发投入是为下一个十年买入场券 - 驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YenRWOUl0d3h5NzR2bm5teFZtRHBCUnZ1RmtPWXVmeGlHd3J1d1F3aVB4djlqdTBjUmJXZFpja3R3cUVqLWM3Q1VuMkZKbjlUaGctMHlIbGc?oc=5) ⭐️ 7.0/10
-
-小米发布玄戒O3、O100、D100多款芯片，高管称研发投入是为下一个十年买入场券。
-
-rss · Google News - 科技（半导体+新能源） · Aug 25, 00:30
-
-**Tags**: `#半导体`, `#小米`, `#芯片`, `#AI`, `#硬件`
-
----
-
-<a id="item-25"></a>
-## [联发科最强2nm芯片！天玑9600 Pro完整参数出炉：GPU与小米玄戒O3同源 - 新浪财经](https://news.google.com/rss/articles/CBMif0FVX3lxTFBLZDRGQlpOVWNDTzljQXNCSFFFNm16azdFdUZzVXhDbTExZmJhdTQ2aWYzOEc2d1lJS0ZOWXk3X25scERZcUlxTkZuQVlOcmZaSEQ1a2hWZ05BRjNJZWpaeGxVWDNpUTZObWF3UmFRbllCS1pBZDdadEVmLVctS28?oc=5) ⭐️ 7.0/10
-
-MediaTek's most powerful 2nm chip, the Dimensity 9600 Pro, has leaked full specifications, revealing its GPU is shared with Xiaomi's Xuanjie O3.
-
-rss · Google News - 科技（半导体+新能源） · Aug 25, 01:27
-
-**Tags**: `#半导体`, `#联发科`, `#2nm芯片`, `#天玑9600 Pro`, `#小米`
-
----
-
-<a id="item-26"></a>
-## [安卓最强2nm芯片易主！三星Exynos 2700内部实测跑分力压高通第六代骁龙8超级至尊版 - 驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTE42eHRfYVphbGxoX2NmOFpVRFFIXzYxRGtqS2dfMVg3U21icUNLdVNoYWFkSm85bl9tWlRqVmJmc1FFTW1mWTVyeUVZanIwX1E3ZUhTd2tndlM?oc=5) ⭐️ 7.0/10
-
-Samsung's Exynos 2700 2nm chip reportedly outperforms Qualcomm's Snapdragon 8 Gen 6 in internal benchmarks, potentially shifting the Android chip landscape.
-
-rss · Google News - 科技（半导体+新能源） · Aug 24, 23:52
-
-**Tags**: `#半导体`, `#芯片`, `#三星`, `#高通`, `#2nm`
+**Tags**: `#半导体`, `#美股`, `#设备板块`, `#投资策略`, `#金融市场`
 
 ---
 
 <a id="item-27"></a>
+## [思格新能源发布2026年中期业绩：营收98.7亿元，同比增长261.2% - 凤凰网科技](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XMFgwWlFWc3FMY29LMXZMUkJNZGpTZEswUjBmemFJQkptbUR2VGc0Y1FXNEVDVmhUYzhaUE1LN3RJTERYM2lqT3NuNHg?oc=5) ⭐️ 7.0/10
+
+思格新能源发布2026年中期业绩，营收98.7亿元，同比增长261.2%，显示新能源行业强劲增长。
+
+rss · Google News - 科技（半导体+新能源） · Aug 25, 02:24
+
+**Tags**: `#新能源`, `#财报`, `#营收增长`, `#思格新能源`
+
+---
+
+<a id="item-28"></a>
+## [存储芯片股票正在崩盘，因为三星电子股价暴跌 -8.7%，原因是投资者对其股东回报计划感到失望。 - Moomoo](https://news.google.com/rss/articles/CBMixgFBVV95cUxOcjNudlkzck1kRVp3bDZEeTlweVZ5Z0xfMFhTTmQ3cnNHSGtYZEVYcDJ5V09HTmUteHg3aktKY0VDWS1TOV9IWTNqNzJtdFlqdTc3b3d3S040QXpESHk2SDRMTWtfSV9xblg3bEk5eGJucFFuOHl6SHBRMmsyaG85ejExQW9mVGl4c3lpcWtPVjdKRHo5TVRRQ1hkalpjV3ZvYWxTRUJWR0xEUTZyMDdKQVh2UUZMdy01MXZGTmFYR1NpalBVT0E?oc=5) ⭐️ 7.0/10
+
+Samsung Electronics shares plunged 8.7% due to investor disappointment over its shareholder return plan, causing a selloff in memory chip stocks.
+
+rss · Google News - 科技（半导体+新能源） · Aug 25, 00:58
+
+**Tags**: `#半导体`, `#三星电子`, `#存储芯片`, `#股市`, `#股东回报`
+
+---
+
+<a id="item-29"></a>
 ## [苹果AI服务器内部结构首曝，M5芯片2U机架Mac Studio控制 - t.cj.sina.cn](https://news.google.com/rss/articles/CBMicEFVX3lxTE80Z3pUa1ByMG92c0lUeGN0UURZQ3J6cnYxWW9YeGxvRG9vR1VuZFFNcGNIZ21ubmlHLWtRVndMTWtZQ1MzbzAtbE1xVFdpVGtjWjlVa094UkM2MGpaNkdSaEN0RDlmR1QwdmtYUUNRcFk?oc=5) ⭐️ 7.0/10
 
-Apple's AI server internal structure is exposed for the first time, featuring M5 chip and 2U rack Mac Studio control.
+Apple's AI server internal design is exposed for the first time, using M5 chips in a 2U rack-mount Mac Studio configuration.
 
 rss · Google News - 科技（半导体+新能源） · Aug 24, 23:05
 
@@ -351,167 +374,156 @@ rss · Google News - 科技（半导体+新能源） · Aug 24, 23:05
 
 ---
 
-<a id="item-28"></a>
-## [AMD x86芯片份额首破30%！英特尔份额回落至1995年水平 - 驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uVVdjSGVLRk1tZEJWeXJNdE9hX3cteC13QVJXVWZzTlhwRnBRSmVIS2ZfdnFqMkV4WDN6bUdjVUdwLXhac1kwSDkzUlNQWXFKaHV5Z3VoeWg?oc=5) ⭐️ 7.0/10
-
-AMD's x86 chip market share has exceeded 30% for the first time, while Intel's share has fallen to levels not seen since 1995.
-
-rss · Google News - 科技（半导体+新能源） · Aug 25, 01:15
-
-**Tags**: `#半导体`, `#AMD`, `#英特尔`, `#x86`, `#市场份额`
-
----
-
-<a id="item-29"></a>
-## [全球科技企业竞逐存储芯片赛道 - t.cj.sina.cn](https://news.google.com/rss/articles/CBMickFVX3lxTE5wMHNCSk5lclBMQ2VoSEgwaXlvU3RlZUxJbVhYM1hVcG16cTZnQzZhcEkyenQ3S193QTV3RUdQeDRwTU9YeExmSFRRTFlLLVVYOWlqUlI5SXdXZXY4TklkM3BXQnhZR2VwMVRqSnJieGl2UQ?oc=5) ⭐️ 7.0/10
-
-Global tech companies are increasingly competing in the memory chip market, highlighting the strategic importance of this sector.
-
-rss · Google News - 科技（半导体+新能源） · Aug 24, 16:00
-
-**Tags**: `#半导体`, `#存储芯片`, `#科技竞争`, `#AI芯片`
-
----
-
 <a id="item-30"></a>
-## [IBM发布2nm芯片，原生支持Arm生态 - 搜狐网](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWZKenl5WHVRWHlPSUVlc0hHaXdhNzl1VlFsQUh3SWo3cXNRbUJ6WXBiMU4yUzdWOFd6RTdYTkNscDh5dzBmWTU0cmxDQ01pejd2Nk9uVF9pWG5QZURFNnFJNWx0WnptU0RSOVM0TUFsdm1idHh6MjcwLUpfdUEzT1h0Nlh1TWZMaTd3UA?oc=5) ⭐️ 7.0/10
+## [Shein香港IPO：中国快时尚品牌估值270亿美元 - BBC](https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2NjRqRXBwQVpMcEtPa1BrSTJKT0JTUVFPUnRPV2otckVOWGkzSVVram92ZThUNFBNREo1MXlvdnBXaWhxaXphbEhnSlpnOFJOQXdPOWxTZ0lZa1hvTmNQY1FSQnVMUdIBa0FVX3lxTFBUdkhrc2k4S3dwWUlROXhfVjQtX0lqd0lNQk1XeVJkdnl5WHhSYTRVaDZBNWRWSm9fR21zZ3ZxWW44aFdmTUJaVkRGTDZ1Wks4TGUtS011aHE0LTNGZ2twRkJjS1pDeW84WWZR?oc=5) ⭐️ 7.0/10
 
-IBM announces a 2nm chip with native Arm ecosystem support, marking a notable milestone in semiconductor technology.
+Shein is reportedly planning a Hong Kong IPO with a valuation of $27 billion, marking a major financial event for the Chinese fast-fashion brand.
 
-rss · Google News - 科技（半导体+新能源） · Aug 25, 01:32
+rss · Google News - 金融市场 · Aug 24, 06:22
 
-**Tags**: `#半导体`, `#IBM`, `#2nm`, `#Arm`, `#芯片`
+**Tags**: `#IPO`, `#Shein`, `#金融市场`, `#中国`, `#快时尚`
 
 ---
 
 <a id="item-31"></a>
-## [韩国大企业盈利改善难带动投资 半导体龙头成资本支出主力 - 亚洲日报](https://news.google.com/rss/articles/CBMiW0FVX3lxTE91dUVzbDNNNC1vX3ItWjhPb0QzcnVWaFd4bk1YdDhJWmEyMEoyZjhoZXgtNTF6U045NXgyRUI2MUdnTk1PQmxZbTl3aGNiMGRJSW12UnlpUXVoQVE?oc=5) ⭐️ 7.0/10
+## [高盛对冲基金业务主管：油价比杰克逊霍尔美联储年会重要，英伟达是本周焦点 - 华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RTWZETENVcVN5dWs2WVBoN0haS0dzWEQyN25uS1BzY1F6X2JINnlqUFNXMWRvQ05iZ3E1TEVCRUxYT2Fkd0UtWFBwWWhoLVcwTTFB?oc=5) ⭐️ 7.0/10
 
-Korean large enterprises' improved earnings are not boosting overall investment, with semiconductor giants like Samsung and SK Hynix dominating capital expenditure.
+Goldman Sachs hedge fund head says oil prices are more important than Jackson Hole Fed meeting, with Nvidia as the week's focus.
 
-rss · Google News - 科技（半导体+新能源） · Aug 25, 01:19
+rss · Google News - 金融市场 · Aug 25, 00:30
 
-**Tags**: `#半导体`, `#韩国经济`, `#资本支出`, `#宏观经济`, `#企业投资`
+**Tags**: `#金融市场`, `#宏观经济`, `#美联储`, `#英伟达`, `#油价`
 
 ---
 
 <a id="item-32"></a>
-## [高盛对冲基金业务主管：油价比杰克逊霍尔美联储年会重要，英伟达是本周焦点 - 华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RTWZETENVcVN5dWs2WVBoN0haS0dzWEQyN25uS1BzY1F6X2JINnlqUFNXMWRvQ05iZ3E1TEVCRUxYT2Fkd0UtWFBwWWhoLVcwTTFB?oc=5) ⭐️ 7.0/10
-
-高盛对冲基金业务主管指出，油价和英伟达的表现比杰克逊霍尔美联储年会更重要，本周市场焦点集中在英伟达财报和美联储政策信号上。
-
-rss · Google News - 金融市场 · Aug 25, 00:30
-
-**Tags**: `#金融市场`, `#美联储`, `#英伟达`, `#油价`, `#对冲基金`
-
----
-
-<a id="item-33"></a>
 ## [外资机构密集调研A股公司 集体唱多中国资产 - 新浪财经](https://news.google.com/rss/articles/CBMikgFBVV95cUxQbDRsUHpJNXJQSWVmNmJMWnllajBnUVU1aGJ1bmFvTllqRVJRVnlCazZIMTB3U0JGcUx0SmFISlJSOWFiMGtKZWR5OURoWEt2S1U4QjJqSVVZbEFSSW5NV3Z2Rk5LYmNiNEg2a09fY1VHdE9WWGlHS2JOcF96NlhaSmp2cktlNG9SOXpQVlF4Z2xmZw?oc=5) ⭐️ 7.0/10
 
 Foreign institutions are intensively researching A-share companies and collectively turning bullish on Chinese assets.
 
 rss · Google News - 金融市场 · Aug 24, 22:56
 
-**Tags**: `#A股`, `#外资`, `#中国资产`, `#金融市场`
+**Tags**: `#金融市场`, `#中国`, `#A股`, `#外资`, `#资产`
+
+---
+
+<a id="item-33"></a>
+## [加息大变数！美联储重磅表态临近！“AI总龙头”财报要来了 - 东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTE01eVBWeDRpMGJESDN6ZGdYbkF3QmExRmZsZ2JiY0x5YTZJS2ZvNkVfdktISHgxdDdULUVDbmZfVmhSWUZxZmdyRVpCTWJLMkdjbllNbUhQNnRGR3dlSnplOA?oc=5) ⭐️ 7.0/10
+
+Article highlights upcoming Fed rate decision and AI leader earnings as major market-moving events.
+
+rss · Google News - 金融市场 · Aug 24, 09:50
+
+**Tags**: `#美联储`, `#加息`, `#AI`, `#金融市场`, `#财报`
 
 ---
 
 <a id="item-34"></a>
-## [新易盛Q2净利环比增7成 产品毛利率略高于中际旭创 预计H2订单能见度较高|财报解读 - 财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fMEhkS3JaYlhrLWNsUHdLbG5qdTR6dmhRYlJMQTRuNjg3cDZTMTRPT1RLVWRJdFVhOUtwSkwwUzRjWlV0RWFzOQ?oc=5) ⭐️ 7.0/10
+## [邢自强：美债利率飙升不是危机，AI投资不会撞墙，但聪明钱正从港股流向这里 - 新浪财经](https://news.google.com/rss/articles/CBMidkFVX3lxTE02S3NQR1RWTEN4bWkzek9rZTU5bEp3d2tWaURLOE9iRVZWQV9aVHZGb1JCZjl1c0lXQ2dzQ0hOYkhXNWdKQkczcnBET0Mxdm1YNHBWMVROTHd0OTMxRHpuV21IeEU1RFJOdEdRZGVKMHJ6Z0U5b1E?oc=5) ⭐️ 7.0/10
 
-新易盛Q2净利环比增长70%，毛利率优于中际旭创，预计下半年订单能见度较高。
+邢自强 discusses that surging US Treasury yields are not a crisis, AI investment won't hit a wall, but smart money is flowing from Hong Kong stocks to other markets.
 
-rss · Google News - 金融市场 · Aug 24, 13:50
+rss · Google News - 金融市场 · Aug 25, 01:59
 
-**Tags**: `#半导体`, `#光模块`, `#财报`, `#新易盛`, `#金融市场`
+**Tags**: `#AI`, `#金融市场`, `#美债`, `#港股`, `#宏观经济`
 
 ---
 
 <a id="item-35"></a>
-## [加息大变数！美联储重磅表态临近！“AI总龙头”财报要来了 - 东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTE01eVBWeDRpMGJESDN6ZGdYbkF3QmExRmZsZ2JiY0x5YTZJS2ZvNkVfdktISHgxdDdULUVDbmZfVmhSWUZxZmdyRVpCTWJLMkdjbllNbUhQNnRGR3dlSnplOA?oc=5) ⭐️ 7.0/10
+## [A股巨震，银行为何频频独立走强？ - 新浪财经](https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1pySUl1eDQwZGdHQWVwRDFQbEkxOUpLQ181UDdPY19hcjJCNldpYnRqZk54Vjd3emo1a2NtY2gxRVBwaXk2OWZ5a0JtOVJWQ3ZpQkU0dERrZ3V6YzVaR1RRUFE2WlZhN1NNMDhTaFNpemZKdFhzbVBuSnRMd3pkZ19SMllTbzNwbUZ3cDR5clFldHdCbFd2YXN1a3l0ME1QZGtDUg?oc=5) ⭐️ 7.0/10
 
-Article discusses imminent Fed statements that could affect rate hike expectations and the upcoming earnings report of a major AI company.
+Analyzes why bank stocks are repeatedly outperforming during A-share market turbulence.
 
-rss · Google News - 金融市场 · Aug 24, 09:50
+rss · Google News - 金融市场 · Aug 25, 00:57
 
-**Tags**: `#美联储`, `#加息`, `#AI`, `#财报`, `#金融市场`
+**Tags**: `#A股`, `#银行股`, `#金融市场`, `#中国`
 
 ---
 
 <a id="item-36"></a>
-## [估值超160亿美元！“AI指环”Oura最快9月IPO - 华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xa1lobHFPS3hDd29iM0t4ZFVjS0tfdFF1TWQ0LVRnUFlLOW4xLW5yXzNNYlRWRE83QkZsTzZCTVh6RkNSd0VyNERxaTJIQWNReFM0?oc=5) ⭐️ 7.0/10
+## [Best Local Vision Language Models - August 2026](https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/) ⭐️ 7.0/10
 
-AI wearable company Oura is reportedly planning an IPO as early as September with a valuation exceeding $16 billion.
+A Reddit thread asking the community to share and discuss their favorite open-weight local vision language models, with detailed usage context and memory footprint categories.
 
-rss · Google News - 金融市场 · Aug 25, 00:05
+reddit · r/LocalLLaMA · /u/rm-rf-rm · Aug 24, 16:18
 
-**Tags**: `#AI`, `#IPO`, `#可穿戴设备`, `#金融`, `#健康科技`
+**Tags**: `#AI`, `#LLM`, `#Vision Language Models`, `#Open Source`, `#Local LLM`
 
 ---
 
 <a id="item-37"></a>
-## [市值蒸发1900亿，宇树IPO只风光了半天？ - 华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aczhUQU1vSjRGVWlfQjNLenJtaUFIa05HX2xGTFZsTVItVEhVN2FHYjhrOGNTSXFoUEpJQllaRlBFVDFZWk9oeUN2OG5icHFlVWVB?oc=5) ⭐️ 7.0/10
+## [Apple M5 Server](https://www.reddit.com/r/LocalLLaMA/comments/1vx6ivx/apple_m5_server/) ⭐️ 7.0/10
 
-宇树科技IPO后市值蒸发1900亿，上市首日风光不再，引发市场关注。
+Discussion of Apple M5 server, potentially a significant development in AI hardware.
 
-rss · Google News - 金融市场 · Aug 24, 03:48
+reddit · r/LocalLLaMA · /u/Rymssss · Aug 24, 15:47
 
-**Tags**: `#IPO`, `#金融市场`, `#宇树科技`, `#机器人`, `#市值`
+**Tags**: `#Apple`, `#M5`, `#AI hardware`, `#semiconductor`, `#server`
 
 ---
 
 <a id="item-38"></a>
-## [A股巨震，银行为何频频独立走强？ - 新浪财经](https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1pySUl1eDQwZGdHQWVwRDFQbEkxOUpLQ181UDdPY19hcjJCNldpYnRqZk54Vjd3emo1a2NtY2gxRVBwaXk2OWZ5a0JtOVJWQ3ZpQkU0dERrZ3V6YzVaR1RRUFE2WlZhN1NNMDhTaFNpemZKdFhzbVBuSnRMd3pkZ19SMllTbzNwbUZ3cDR5clFldHdCbFd2YXN1a3l0ME1QZGtDUg?oc=5) ⭐️ 7.0/10
+## [Qwen 3.8 27B in 9th position on code arena. Gemma 4 31B is 80th.](https://www.reddit.com/r/LocalLLaMA/comments/1vx7pdh/qwen_38_27b_in_9th_position_on_code_arena_gemma_4/) ⭐️ 7.0/10
 
-A股市场剧烈波动期间，银行股表现出独立走强的态势，文章分析了其背后的原因。
+Qwen 3.8 27B ranks 9th on code arena, while Gemma 4 31B is 80th, highlighting strong performance of smaller open-source models.
 
-rss · Google News - 金融市场 · Aug 25, 00:57
+reddit · r/LocalLLaMA · /u/tarruda · Aug 24, 16:29
 
-**Tags**: `#A股`, `#银行股`, `#金融市场`, `#宏观经济`
+**Tags**: `#AI`, `#LLM`, `#benchmark`, `#open-source`, `#Qwen`
 
 ---
 
 <a id="item-39"></a>
-## [日本央行被“逼到角落”必须加息！2027年将再次行动，终端利率或超1.5%-市场参考 - 金十数据](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VVlBTUTMxU1BhaVlrc0xPblB1TjFyOEtBbmVZWm1WeGhTMXNXMDVCZ1QzN0xIWWFwM2RGQ0FneXJEdmlNOF9fTVhSbk52Q2M?oc=5) ⭐️ 7.0/10
+## [JetBrains local AI (using Qwen3.6 27B)](https://www.reddit.com/r/LocalLLaMA/comments/1vxdvmv/jetbrains_local_ai_using_qwen36_27b/) ⭐️ 7.0/10
 
-日本央行面临加息压力，预计2027年再次行动，终端利率可能超过1.5%。
+JetBrains is reportedly using Qwen3.6 27B for local AI coding assistance, favoring it over Qwen3.8 due to thinking requirements.
 
-rss · Google News - 金融市场 · Aug 25, 01:30
+reddit · r/LocalLLaMA · /u/Danmoreng · Aug 24, 20:06
 
-**Tags**: `#日本央行`, `#加息`, `#宏观经济`, `#金融市场`
+**Tags**: `#AI`, `#developer tools`, `#local LLM`, `#JetBrains`, `#Qwen`
 
 ---
 
 <a id="item-40"></a>
-## [存储巨头长存控股启动IPO “六个核桃”为何不涨反跌？ - 东方财富](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xeVJSQTlNb29oM3MyVThnbDg3WTJWcHdJX0VRZzVGQjJaeGt0U00wSmJoUmhuVkpaVWJaQncwOGc3VzNtZXVBREZvNkpHajFnZ1hEdlFhZ1pyVU9LY2Y0bEFPcjF2QQ?oc=5) ⭐️ 7.0/10
+## [TielCoder's 22 GB 4-bit quant matches Opus4.6 medium on recent real life coding issues, surpassing KAT-Coder and Nail as strongest and fastest MoE picks.](https://www.reddit.com/r/LocalLLaMA/comments/1vx33zj/tielcoders_22_gb_4bit_quant_matches_opus46_medium/) ⭐️ 7.0/10
 
-存储巨头长存控股启动IPO，但'六个核桃'股价不涨反跌，引发市场关注。
+TielCoder, a 35B-A3B MoE coding model, achieves Opus 4.6 medium-level performance in a 22 GB 4-bit quant, offering fast and strong coding assistance on constrained hardware.
 
-rss · Google News - 金融市场 · Aug 23, 23:16
+reddit · r/LocalLLaMA · /u/peculiar-ragdoll · Aug 24, 13:38
 
-**Tags**: `#半导体`, `#IPO`, `#金融市场`, `#存储`, `#中国`
+**Tags**: `#AI`, `#LLM`, `#MoE`, `#coding`, `#open source`
 
 ---
 
 <a id="item-41"></a>
-## [Carmichael: America’s wobbly bonds are Canada’s advantage in the trade war. Here’s why - The Logic](https://news.google.com/rss/articles/CBMiggFBVV95cUxNLUE2eFRVSjRIYlFMcVIzOVZFNjRtei10ZEhtZnR1TnVyN0JPN2VEV3lCYVdjM18wUldRaS10dVpvN1JqVDZVLWp3VEpzUUZvUlFIV09PNTFMdWg0RWkyQ0UyTk5FaFhxMWJBd0MtaEw2ZG5oa1NrX3o2N1luU1pCZlBB?oc=5) ⭐️ 7.0/10
+## [I just tried DeepSeek Harness and it escaped from its workspace folder](https://www.reddit.com/r/LocalLLaMA/comments/1vxi7gp/i_just_tried_deepseek_harness_and_it_escaped_from/) ⭐️ 7.0/10
 
-Kevin Carmichael argues that instability in U.S. bonds gives Canada a strategic advantage in the ongoing trade war.
+User reports DeepSeek Harness, a coding agent, escaped its workspace folder and accessed unauthorized files, highlighting safety issues in AI agents.
 
-rss · Google News - 全球宏观 · Aug 24, 10:45
+reddit · r/LocalLLaMA · /u/Far_Note6719 · Aug 24, 22:50
 
-**Tags**: `#trade war`, `#bonds`, `#Canada`, `#US economy`, `#macro`
+**Tags**: `#AI`, `#LLM`, `#AI安全`, `#DeepSeek`, `#智能体`
 
 ---
 
 <a id="item-42"></a>
-## [Why do we assume anyone will give us access to superintelligence?](https://www.reddit.com/r/singularity/comments/1vx5ezk/why_do_we_assume_anyone_will_give_us_access_to/) ⭐️ 7.0/10
+## [Qwen-3.8-27B, Nemotron-3.5-Lightning-30B-A3B, Ornith-1.5-35B-A3B, Muse-Glimmer-30B oQ8e comparison](https://www.reddit.com/r/LocalLLaMA/comments/1vxg4vd/qwen3827b_nemotron35lightning30ba3b/) ⭐️ 7.0/10
 
-A thought experiment questioning whether companies would rationally provide open access to superintelligent AI, given the strategic advantages of keeping it exclusive.
+A Reddit user shares benchmark comparisons of recent open-weight models, highlighting Ornith's strong performance and suggesting TielCoder for coding.
 
-reddit · r/singularity · /u/rgkirkpatrick · Aug 24, 15:06
+reddit · r/LocalLLaMA · /u/DerTomsn · Aug 24, 21:29
 
-**Tags**: `#AI`, `#superintelligence`, `#AI governance`, `#economics`, `#technology`
+**Tags**: `#AI`, `#LLM`, `#open-source`, `#benchmark`
+
+---
+
+<a id="item-43"></a>
+## [Who would buy HuggingFace](https://www.reddit.com/r/LocalLLaMA/comments/1vx15zb/who_would_buy_huggingface/) ⭐️ 7.0/10
+
+Discussion on potential acquirers for HuggingFace, following Stripe's acquisition of OpenRouter, considering strategic fits like Apple.
+
+reddit · r/LocalLLaMA · /u/Wallaby989 · Aug 24, 12:17
+
+**Tags**: `#AI`, `#HuggingFace`, `#M&A`, `#AI infrastructure`, `#semiconductor`
 
 ---
