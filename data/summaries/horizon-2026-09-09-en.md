@@ -5,67 +5,67 @@ date: 2026-09-09
 lang: en
 ---
 
-> From 214 items, 50 important content pieces were selected
+> From 209 items, 39 important content pieces were selected
 
 ---
 
-1. [AlphaGenome Atlas: a high-resolution map of human DNA](#item-1) ⭐️ 9.0/10
-2. [On the Navier–Stokes Millennium Prize Problem](#item-2) ⭐️ 9.0/10
-3. [Tao: Open math problems being non-renewably mined by AI](#item-3) ⭐️ 8.0/10
-4. [I resigned from Anthropic today](#item-4) ⭐️ 8.0/10
-5. [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](#item-5) ⭐️ 8.0/10
-6. [ChatGPT Images 2.5](#item-6) ⭐️ 8.0/10
-7. [向阳而立：光伏装机首超煤电能源版图迎新变--经济·科技 - finance.people.com.cn](#item-7) ⭐️ 8.0/10
-8. [高通斩获亚马逊最高600亿美元AI芯片大单，科创芯片设计指数早盘最高涨超2% - 界面新闻](#item-8) ⭐️ 8.0/10
-9. [日本强烈抗议中国针对日本半导体材料进行反倾销调查 - RFI](#item-9) ⭐️ 8.0/10
-10. [道指重挫600点，芯片与光通信逆势狂飙，Lumentum涨超11%，英特尔涨超9%，国际油价逼近100美元/桶 - jrj.com.cn](#item-10) ⭐️ 8.0/10
-11. [三星电子与Mistral AI达成战略合作，联手打造半导体专用模型 - finance.sina.cn](#item-11) ⭐️ 8.0/10
-12. [华为时隔六年再次发布高性能芯片 - 东方财富网](#item-12) ⭐️ 8.0/10
-13. [16万颗华为昇腾950DT芯片！DeepSeek打了一场算力突围战 - t.cj.sina.cn](#item-13) ⭐️ 8.0/10
-14. [美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息 - 财联社](#item-14) ⭐️ 8.0/10
-15. [Qwen/Qwen-Drive-1.0-4B · Hugging Face](#item-15) ⭐️ 8.0/10
-16. [DeepSeek Flash 4.1 is already being tested via API and rolling out.](#item-16) ⭐️ 8.0/10
-17. [inclusionAI/Ling-3.0-flash-VL · Hugging Face](#item-17) ⭐️ 8.0/10
-18. [Qwen3.8-Flash-Next in llama.cpp vs SGLang vs FreeToken: 35s vs 258s to first token at full context. My findings on new PRs coming to engines.](#item-18) ⭐️ 8.0/10
-19. [US accuses Chinese AI firms of 'malicious' copying of AI technology](#item-19) ⭐️ 8.0/10
-20. [Muse – Meta’s personal AI agent](#item-20) ⭐️ 7.0/10
-21. [Large language models develop novel social biases through adaptive exploration](#item-21) ⭐️ 7.0/10
-22. [Mercury 2.5](#item-22) ⭐️ 7.0/10
-23. [I-have-ADHD: A skill to stop coding agents from burying the answer](#item-23) ⭐️ 7.0/10
-24. [A Topological Picture Book, Rendered](#item-24) ⭐️ 7.0/10
-25. [硬科技早报|DeepSeek内测；腾讯500亿锁定内存；芯片涨价推高中国出口 - 观察者](#item-25) ⭐️ 7.0/10
-26. [据报道Anthropic将退出ITI 反对限制外国获取美国芯片立法 - 观点网](#item-26) ⭐️ 7.0/10
-27. [利好突袭，英特尔涨超9%！美芯片股大爆发 - 东方财富](#item-27) ⭐️ 7.0/10
-28. [美伊战事推升油价逼近百元关口，亚洲芯片股延续涨势，SK海力士涨逾3%，金银齐升 - 华尔街见闻](#item-28) ⭐️ 7.0/10
-29. [电动车2026H1财报总结：锂电延续高景气，利润向中上游倾斜 - 电子工程专辑](#item-29) ⭐️ 7.0/10
-30. [国产模拟芯片企业2026上半年营收增长分化，AI与汽车成新增长点 - 虎嗅网](#item-30) ⭐️ 7.0/10
-31. [小米堆料成功！3nm芯片玄戒O3，要打赢高通、苹果的2nm芯片了 - Sohu](#item-31) ⭐️ 7.0/10
-32. [ETF异动 | 易方达亚洲半导体ETF(03486)涨超2% GPT-6 攻下“千禧年难题“ 算力与半导体景气预期升温 - Moomoo](#item-32) ⭐️ 7.0/10
-33. [铠侠CEO否认与SK海力士合作生产芯片：涨价必须遏制 - 凤凰网科技](#item-33) ⭐️ 7.0/10
-34. [消息称英特尔计划再度上调CPU价格 涨幅约10% - finance.sina.cn](#item-34) ⭐️ 7.0/10
-35. [【9.9锂电快讯】多家头部厂商密集上调产品价格 电池涨价潮加速蔓延 - 上海有色金属](#item-35) ⭐️ 7.0/10
-36. [优地机器人上市首日开盘涨142% - 观点网](#item-36) ⭐️ 7.0/10
-37. [今年以来56家公司上市 数量已超前两年之和 IPO量质齐升折射北交所强大“磁力” - 北京市人民政府门户网站](#item-37) ⭐️ 7.0/10
-38. [长江存储冲刺IPO，武汉新芯同日撤回：分拆背后有何考量？ - 凤凰网财经](#item-38) ⭐️ 7.0/10
-39. [宇树科技腰斩后，传监管收紧人形机器人IPO - finance.sina.cn](#item-39) ⭐️ 7.0/10
-40. [市值超150亿！阿里投出一个机器人IPO - Sohu](#item-40) ⭐️ 7.0/10
-41. [江波龙H股较A股折价44%首秀破发 半年盈利超百亿研发投入增91% - cj.sina.cn](#item-41) ⭐️ 7.0/10
-42. [比亚迪、宁德时代力挺，铜博科技二闯IPO，AI风口难解“造血”之困 - 36kr.com](#item-42) ⭐️ 7.0/10
-43. [3家A股券商9月15日起停牌！中金公司重组获证监会批复 - 东方财富网](#item-43) ⭐️ 7.0/10
-44. [助贷新规冲击显现 七家上市平台业绩跳水、净利润最高跌95% - 财新](#item-44) ⭐️ 7.0/10
-45. [Trump escalates trade war with Canada, moving to ban imports of some motorcycles, dairy and alcohol - NBC News](#item-45) ⭐️ 7.0/10
-46. [China must buy more from EU to avoid trade war, Brussels warns - euractiv.com](#item-46) ⭐️ 7.0/10
-47. [Qwen3.8-Flash-Next on MLX-serve, 1m context is released!](#item-47) ⭐️ 7.0/10
-48. [Qwen 3.8 27b with PI agent - pushed to its 3D graphic game limits](#item-48) ⭐️ 7.0/10
-49. [Qwen3-0.6B (400 MB) on a Samsung Note 8 (2017) phone drives a real desktop Chrome](#item-49) ⭐️ 7.0/10
-50. [On the Value of Human Ideas: What data poisoning research reveals about "autonomous" AI breakthroughs](#item-50) ⭐️ 7.0/10
+1. [OpenAl Says It Has Cracked One of Math's “Millennium Problems” (Navier-Stokes) (N)](#item-1) ⭐️ 10.0/10
+2. [AlphaGenome Atlas: a high-resolution map of human DNA](#item-2) ⭐️ 9.0/10
+3. [Muse – Meta’s personal AI agent](#item-3) ⭐️ 8.0/10
+4. [Navier-Stokes – Tristan Buckmaster (pdf)](#item-4) ⭐️ 8.0/10
+5. [Mercury 2.5](#item-5) ⭐️ 8.0/10
+6. [Tao: Open math problems being non-renewably mined by AI](#item-6) ⭐️ 8.0/10
+7. [向阳而立：光伏装机首超煤电能源版图迎新变--经济·科技 - 人民网财经](#item-7) ⭐️ 8.0/10
+8. [存储芯片库存告急，韩国券商警告明年短缺加剧 - 新浪网](#item-8) ⭐️ 8.0/10
+9. [高通斩获亚马逊最高600亿美元AI芯片大单，科创芯片设计指数早盘最高涨超2% - 界面新闻](#item-9) ⭐️ 8.0/10
+10. [三星电子与Mistral AI达成战略合作，联手打造半导体专用模型 - 新浪网](#item-10) ⭐️ 8.0/10
+11. [华为时隔六年再次发布高性能芯片 - 东方财富网](#item-11) ⭐️ 8.0/10
+12. [美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息 - cls.cn](#item-12) ⭐️ 8.0/10
+13. [长江存储冲刺IPO，武汉新芯同日撤回：分拆背后有何考量？ - finance.ifeng.com](#item-13) ⭐️ 8.0/10
+14. [NeurIPS desk-rejected 178 papers for being "AI-generated". The detector flagged the track chairs' own papers at 24-69% (N)](#item-14) ⭐️ 8.0/10
+15. [My lab found a way to migrate between embedding models with zero downtime. (R)](#item-15) ⭐️ 8.0/10
+16. [Large language models develop novel social biases through adaptive exploration](#item-16) ⭐️ 7.0/10
+17. [I resigned from Anthropic today](#item-17) ⭐️ 7.0/10
+18. [I-have-ADHD: A skill to stop coding agents from burying the answer](#item-18) ⭐️ 7.0/10
+19. [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](#item-19) ⭐️ 7.0/10
+20. [【IPO行业分布解读】半导体10家吸金815.52亿元、占全市场42.5% 96家属战略性新兴产业 - 新浪网](#item-20) ⭐️ 7.0/10
+21. [利好突袭，英特尔涨超9%！美芯片股大爆发 - 证券时报](#item-21) ⭐️ 7.0/10
+22. [美伊战事推升油价逼近百元关口，亚洲芯片股延续涨势，SK海力士涨逾3%，金银齐升 - 华尔街见闻](#item-22) ⭐️ 7.0/10
+23. [美股全线收跌，道指重挫超600点！芯片股逆市爆发，英特尔涨超9%！国际油价上行，黄金走低 - 国际金融报](#item-23) ⭐️ 7.0/10
+24. [中科飞测陈鲁：半导体量检测迎国产替代窗口期 从单点突破迈向全链协同 - 集微网](#item-24) ⭐️ 7.0/10
+25. [电动车2026H1财报总结：锂电延续高景气，利润向中上游倾斜 - 电子工程专辑](#item-25) ⭐️ 7.0/10
+26. [美股光通信、芯片股爆发，Lumentum涨超11%，英特尔市值一夜飙涨2900亿元 - 同花顺财经](#item-26) ⭐️ 7.0/10
+27. [日本强烈抗议中国针对日本半导体材料进行反倾销调查 - RFI](#item-27) ⭐️ 7.0/10
+28. [国产模拟芯片企业2026上半年营收增长分化，AI与汽车成新增长点 - 虎嗅网](#item-28) ⭐️ 7.0/10
+29. [港股概念追踪| AI基建投资激增！两大存储芯片巨头库存告急，存储芯片又要涨了?(附概念股) 港美股资讯 - hstong.com](#item-29) ⭐️ 7.0/10
+30. [比亚迪汽车：地平线智驾芯片量产突破1500万。 - 新浪网](#item-30) ⭐️ 7.0/10
+31. [传英伟达Rubin Ultra芯片改用8层HBM，以控制内存成本 - 集微网](#item-31) ⭐️ 7.0/10
+32. [【9.9锂电快讯】多家头部厂商密集上调产品价格 电池涨价潮加速蔓延 - 上海有色金属](#item-32) ⭐️ 7.0/10
+33. [国内存储首个A+H落地！江波龙上市即破发 - 21财经](#item-33) ⭐️ 7.0/10
+34. [优地机器人今日在香港上市，总市值超150亿港元- DoNews - 同花顺财经](#item-34) ⭐️ 7.0/10
+35. [大摩闭门会：美联储9月不加息，不建议轮动消费 - Moomoo](#item-35) ⭐️ 7.0/10
+36. [宇树科技腰斩后，传监管收紧人形机器人IPO - 新浪网](#item-36) ⭐️ 7.0/10
+37. [3家A股券商9月15日起停牌！中金公司重组获证监会批复 - 东方财富网](#item-37) ⭐️ 7.0/10
+38. [Trump escalates trade war with Canada, moving to ban imports of some motorcycles, dairy and alcohol - NBC News](#item-38) ⭐️ 7.0/10
+39. [Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) (P)](#item-39) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
+## [OpenAl Says It Has Cracked One of Math's “Millennium Problems” (Navier-Stokes) (N)](https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/) ⭐️ 10.0/10
+
+OpenAI claims to have solved the Navier-Stokes existence and smoothness problem, one of the Clay Mathematics Institute's Millennium Problems.
+
+reddit · r/MachineLearning · /u/Shizuka_Kuze · Sep 8, 17:42
+
+**Tags**: `#AI`, `#mathematics`, `#OpenAI`, `#Navier-Stokes`, `#breakthrough`
+
+---
+
+<a id="item-2"></a>
 ## [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) ⭐️ 9.0/10
 
-Google DeepMind releases AlphaGenome Atlas, a predictive map of all possible DNA letter changes in the human genome.
+Google DeepMind releases AlphaGenome Atlas, a predictive map of every possible DNA letter change in the human genome, enabling researchers to explore pathogenic mutations.
 
 hackernews · utiiiD · Sep 8, 14:55 · [Discussion](https://news.ycombinator.com/item?id=49611251)
 
@@ -73,65 +73,54 @@ hackernews · utiiiD · Sep 8, 14:55 · [Discussion](https://news.ycombinator.co
 
 ---
 
-<a id="item-2"></a>
-## [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) ⭐️ 9.0/10
-
-OpenAI announces a potential solution to the Navier-Stokes Millennium Prize Problem using an AI model, sparking intense debate about the validity, originality, and implications for mathematical research.
-
-hackernews · tedsanders · Sep 8, 17:13 · [Discussion](https://news.ycombinator.com/item?id=49613262)
-
-**Tags**: `#AI`, `#Mathematics`, `#OpenAI`, `#Millennium Prize`, `#Research`
-
----
-
 <a id="item-3"></a>
-## [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560) ⭐️ 8.0/10
+## [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/) ⭐️ 8.0/10
 
-Terence Tao discusses how AI's indiscriminate use of solution-extraction tools may solve individual math problems but risks depleting the ecosystem of open problems that drive future progress.
+Meta introduces Muse, a personal AI agent, sparking community discussion on its security measures and market positioning.
 
-hackernews · _alternator_ · Sep 8, 21:00 · [Discussion](https://news.ycombinator.com/item?id=49616968)
+hackernews · yks · Sep 8, 19:25 · [Discussion](https://news.ycombinator.com/item?id=49615537)
 
-**Tags**: `#AI`, `#mathematics`, `#research`, `#Terence Tao`, `#open problems`
+**Tags**: `#AI`, `#Meta`, `#AI agent`, `#security`, `#LLM`
 
 ---
 
 <a id="item-4"></a>
-## [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m) ⭐️ 8.0/10
+## [Navier-Stokes – Tristan Buckmaster (pdf)](https://cims.nyu.edu/~tristanb/statement.pdf) ⭐️ 8.0/10
 
-A researcher resigns from Anthropic over AI existential risk concerns, triggering a debate on the plausibility and urgency of AI doomsday scenarios.
+A mathematician's progress on Navier-Stokes-related problems is overshadowed by accusations of OpenAI attempting to co-opt the work, sparking a major discussion on research ethics and AI company behavior.
 
-hackernews · yurivish · Sep 9, 00:40 · [Discussion](https://news.ycombinator.com/item?id=49619227)
+hackernews · procedurecall · Sep 8, 05:42 · [Discussion](https://news.ycombinator.com/item?id=49605915)
 
-**Tags**: `#AI`, `#AI safety`, `#Anthropic`, `#existential risk`, `#LLM`
+**Tags**: `#mathematics`, `#Navier-Stokes`, `#OpenAI`, `#research ethics`, `#AI`
 
 ---
 
 <a id="item-5"></a>
-## [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/) ⭐️ 8.0/10
+## [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5) ⭐️ 8.0/10
 
-Benchmark shows Qwen3 27B retains quality down to 4-bit quantization, while 1-bit collapses, with community discussion on KV cache quantization and methodology.
+Inception Labs introduces Mercury 2.5, a diffusion-based LLM with strong coding and voice capabilities, sparking community discussion on its architecture and business model.
 
-hackernews · stared · Sep 8, 14:49 · [Discussion](https://news.ycombinator.com/item?id=49611128)
+hackernews · Topfi · Sep 8, 20:14 · [Discussion](https://news.ycombinator.com/item?id=49616354)
 
-**Tags**: `#LLM`, `#quantization`, `#AI`, `#benchmark`, `#Qwen`
+**Tags**: `#AI`, `#LLM`, `#diffusion`, `#coding`, `#Inception Labs`
 
 ---
 
 <a id="item-6"></a>
-## [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/) ⭐️ 8.0/10
+## [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560) ⭐️ 8.0/10
 
-OpenAI introduces ChatGPT Images 2.5, a major update to its image generation model with significantly faster generation times and new editing features, sparking extensive community discussion.
+Terence Tao discusses how AI is 'non-renewably mining' open math problems, potentially harming the ecosystem of mathematical progress.
 
-hackernews · vertigoruntime · Sep 8, 18:37 · [Discussion](https://news.ycombinator.com/item?id=49614720)
+hackernews · _alternator_ · Sep 8, 21:00 · [Discussion](https://news.ycombinator.com/item?id=49616968)
 
-**Tags**: `#AI`, `#OpenAI`, `#image generation`, `#ChatGPT`, `#AI tools`
+**Tags**: `#AI`, `#mathematics`, `#research`, `#LLM`, `#science`
 
 ---
 
 <a id="item-7"></a>
-## [向阳而立：光伏装机首超煤电能源版图迎新变--经济·科技 - finance.people.com.cn](https://news.google.com/rss/articles/CBMibkFVX3lxTE5uQWJXLWcwaGVldDFFMG1ySHQ1cUJXckFmRVlCSXd3QzhjNXI3V3FOeEVSUGZZT0xIaGo3bkRLU2tPSUMwejJLbHlWYkUyXzVJOWxMaDlWU1pONVZEOWJ1NHgzN0ZjN09pS3NraGVB?oc=5) ⭐️ 8.0/10
+## [向阳而立：光伏装机首超煤电能源版图迎新变--经济·科技 - 人民网财经](https://news.google.com/rss/articles/CBMibkFVX3lxTE5uQWJXLWcwaGVldDFFMG1ySHQ1cUJXckFmRVlCSXd3QzhjNXI3V3FOeEVSUGZZT0xIaGo3bkRLU2tPSUMwejJLbHlWYkUyXzVJOWxMaDlWU1pONVZEOWJ1NHgzN0ZjN09pS3NraGVB?oc=5) ⭐️ 8.0/10
 
-China's solar photovoltaic installed capacity has surpassed coal power for the first time, marking a historic shift in the country's energy structure.
+China's solar PV installed capacity has surpassed coal power for the first time, signaling a major shift in the energy mix.
 
 rss · Google News - 科技（半导体+新能源） · Sep 9, 01:31
 
@@ -140,130 +129,75 @@ rss · Google News - 科技（半导体+新能源） · Sep 9, 01:31
 ---
 
 <a id="item-8"></a>
-## [高通斩获亚马逊最高600亿美元AI芯片大单，科创芯片设计指数早盘最高涨超2% - 界面新闻](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fQy1PVVZWY1lZSF9kZmQwUlZOSm4tbUs1eGlHNkhKeWVwc3JqWFpUeF9ORy1wYmJLTHpZUGFBQVAyZjRJdVF2aTRPNVpPdWd5QktSV0FnUXQ?oc=5) ⭐️ 8.0/10
+## [存储芯片库存告急，韩国券商警告明年短缺加剧 - 新浪网](https://news.google.com/rss/articles/CBMieEFVX3lxTE5NOWZDQ1Y3ZEdRU1ZRaTVDOGVkMzYxQ2E2bDlfWjd3Y0tCRFc0MHQ0bS1aN21LU19tY0d6OGI1dnVvQ2U0cWo1ZjR1NmdBX1VQcFBqWDkzbUs2YnFLQ2ZQa1FiZ3pZWlB0eTZQU2R6eHp3RTBLaWg5Vw?oc=5) ⭐️ 8.0/10
 
-Qualcomm reportedly lands a major AI chip deal with Amazon worth up to $60 billion, boosting semiconductor design stocks.
+Korean securities firms warn of worsening memory chip shortage next year as inventories run low.
 
-rss · Google News - 科技（半导体+新能源） · Sep 9, 02:49
+rss · Google News - 科技（半导体+新能源） · Sep 9, 02:48
 
-**Tags**: `#AI芯片`, `#半导体`, `#高通`, `#亚马逊`, `#金融市场`
+**Tags**: `#半导体`, `#存储芯片`, `#供应链`, `#金融市场`, `#AI硬件`
 
 ---
 
 <a id="item-9"></a>
-## [日本强烈抗议中国针对日本半导体材料进行反倾销调查 - RFI](https://news.google.com/rss/articles/CBMi_wJBVV95cUxNWTh0MklvWnVkc1JhUWMtS0pFbENHb0VXbzZvd2l0MTF0ZlBpRHZIQ2d6QTRMTXFwdTZKMDgzTGI4cTdFbkJhNVlpYVlkaDNzYlNnVUpVZEhvbEp2M3dMbFZqSnljcEx1c3g3ZXBvd1FpSXE1Vk9qX29hYVRQRVVaREtIR3NsbVF0SGl1VzJfbm5GaE5jX1hXcDR6bjVGTEdpd2wyUmp0RWotM1QtT3hIdXdYSHY3dWhuX3Z3Vl9RQmhRODhVaWd6UzN3c056RU1FRzZWUGVfLUVoUE9iM1dvb1I3RS1mYjE4WmJMUWdOZUJENC1teUpxVDVZY3Z0dE9aMU9fSnFmWTZ6bXZtb001TnRaODZxT0tpdFZWLVJWNmk2Y0dQMlZheXlQaUN5cGxTTUZoU1NwbUxyWEZCUV8zQTM4NWVBazUySUp2Qmt0U1pPS2lsZ24xcXFIZmR1R1FCODdVbmRtU1NWb3Vsb3VKc2w3eG5kQ1ZWQ0gyOVRkQQ?oc=5) ⭐️ 8.0/10
+## [高通斩获亚马逊最高600亿美元AI芯片大单，科创芯片设计指数早盘最高涨超2% - 界面新闻](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fQy1PVVZWY1lZSF9kZmQwUlZOSm4tbUs1eGlHNkhKeWVwc3JqWFpUeF9ORy1wYmJLTHpZUGFBQVAyZjRJdVF2aTRPNVpPdWd5QktSV0FnUXQ?oc=5) ⭐️ 8.0/10
 
-Japan strongly protests China's anti-dumping investigation into Japanese semiconductor materials.
+Qualcomm secures a major AI chip order from Amazon worth up to $60 billion, boosting the semiconductor design index.
 
-rss · Google News - 科技（半导体+新能源） · Sep 8, 09:06
+rss · Google News - 科技（半导体+新能源） · Sep 9, 02:49
 
-**Tags**: `#半导体`, `#贸易争端`, `#中国`, `#日本`, `#反倾销`
+**Tags**: `#AI芯片`, `#半导体`, `#高通`, `#亚马逊`, `#金融`
 
 ---
 
 <a id="item-10"></a>
-## [道指重挫600点，芯片与光通信逆势狂飙，Lumentum涨超11%，英特尔涨超9%，国际油价逼近100美元/桶 - jrj.com.cn](https://news.google.com/rss/articles/CBMidEFVX3lxTFBWZkNBMU9tdG85OG1CSnZ6aHZEa1JXMnR2LUpSTUN3ODNGalN3SWtpN1dYNWR3ekExYmZPRXBEVnB5cHhHdDhmQVluQXg4Qi1DNWlzelpvb3Z1WjI5aG1KQTFlYzB2TEpjRGhjblhOSFVUaDdI?oc=5) ⭐️ 8.0/10
+## [三星电子与Mistral AI达成战略合作，联手打造半导体专用模型 - 新浪网](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbUJoNUk3NVdsVHktdWRVaUQ1OEdhbk5pUzlCaXN1bEF1V1I3c1M2SGx1YWhMemstTjBvVnhvTU54Mjh5NHhwb0VObXl1WGxOWU4xcWp3TnE4RTZGUWI3Y2ZBcm54aHY1Rm1Ib0twQ2xCOUpidUg4VXNHM3BLT0NLRVY1MXpYUUNEM08yODUwSFd0UUQw?oc=5) ⭐️ 8.0/10
 
-Dow plunges 600 points while chip and optical communication stocks rally, with Lumentum up over 11% and Intel up over 9%, as oil prices approach $100 per barrel.
+Samsung Electronics and Mistral AI announced a strategic collaboration to build AI models specialized for the semiconductor industry.
 
-rss · Google News - 科技（半导体+新能源） · Sep 9, 00:07
-
-**Tags**: `#金融市场`, `#半导体`, `#宏观经济`, `#芯片`, `#油价`
-
----
-
-<a id="item-11"></a>
-## [三星电子与Mistral AI达成战略合作，联手打造半导体专用模型 - finance.sina.cn](https://news.google.com/rss/articles/CBMivAFBVV95cUxObTE3OEdoU0h6OFZrN1I2WnRmSjRXeGI0TWZBYzMxVUFsaW1qZmNJTzZBXzRXV21xNW5WbmJacFJPS3VkS1NpdENPZWpJWTg0RHVnUEN0dkVJRkl6cXM2aVVWMU0xYnpfLWt4YmdoRGxhU2REOVI4LTJJWXM3SDl6SU9fandnWXh0eHVPeXJXM1o3UDQ0anh3aEp4b2NFU3NJVnM0ekNnQzJVdjNmVms0eHRWdjMwVTZlckNyQg?oc=5) ⭐️ 8.0/10
-
-Samsung Electronics and Mistral AI have formed a strategic partnership to develop AI models specialized for the semiconductor industry.
-
-rss · Google News - 科技（半导体+新能源） · Sep 9, 01:28
+rss · Google News - 科技（半导体+新能源） · Sep 9, 06:11
 
 **Tags**: `#AI`, `#半导体`, `#三星`, `#Mistral AI`, `#战略合作`
 
 ---
 
 <a id="item-13"></a>
-## [16万颗华为昇腾950DT芯片！DeepSeek打了一场算力突围战 - t.cj.sina.cn](https://news.google.com/rss/articles/CBMicEFVX3lxTE55eTllRHJRTU5TZzR1Z25Ud1hOdGM2eWo2U093WnJ1XzAydVpJeVZZbVJIUkN4RkdmY2wzZnAyWVc0M3dkQUdzNTRFM1pTYmRwWi1RUlN1QzZFejF5MXpkTVRuaUU3U0FYbWdNQVBlQmI?oc=5) ⭐️ 8.0/10
+## [长江存储冲刺IPO，武汉新芯同日撤回：分拆背后有何考量？ - finance.ifeng.com](https://news.google.com/rss/articles/CBMiUEFVX3lxTE15WlduZFNsdExyX2s5SHNJeWFIRWh5LUpyeklvbmxkMkdFS21RTmRqdEl2ODZHT1psbmQ4QmJMVjI3ZVVucE9sTkF1Q2huS2Vk?oc=5) ⭐️ 8.0/10
 
-DeepSeek reportedly deploys 160,000 Huawei Ascend 950DT chips in a strategic move to secure AI compute capacity.
+长江存储冲刺IPO，武汉新芯同日撤回，引发市场对分拆背后战略考量的关注。
 
-rss · Google News - 科技（半导体+新能源） · Sep 8, 17:02
+rss · Google News - 金融市场 · Sep 9, 02:55
 
-**Tags**: `#AI`, `#半导体`, `#华为`, `#DeepSeek`, `#算力`
+**Tags**: `#半导体`, `#IPO`, `#中国`, `#金融市场`, `#长江存储`
+
+---
+
+<a id="item-14"></a>
+## [NeurIPS desk-rejected 178 papers for being "AI-generated". The detector flagged the track chairs' own papers at 24-69% (N)](https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/) ⭐️ 8.0/10
+
+NeurIPS desk-rejected 178 papers using an unreliable AI detector, which also flagged the track chairs' own papers, highlighting severe flaws in automated screening.
+
+reddit · r/MachineLearning · /u/tughanbulut · Sep 8, 10:19
+
+**Tags**: `#AI`, `#NeurIPS`, `#AI detection`, `#research ethics`, `#academic publishing`
 
 ---
 
 <a id="item-15"></a>
-## [Qwen/Qwen-Drive-1.0-4B · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1wauxg9/qwenqwendrive104b_hugging_face/) ⭐️ 8.0/10
+## [My lab found a way to migrate between embedding models with zero downtime. (R)](https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/) ⭐️ 8.0/10
 
-Qwen releases Qwen-Drive-1.0-4B, an open-weight vision-language model for autonomous driving with 3D perception and motion planning.
+A lab presents EmbedFlow, a method to migrate between embedding models with zero downtime by reranking old index documents, achieving retrieval quality comparable to the target model.
 
-reddit · r/LocalLLaMA · /u/FullstackSensei · Sep 8, 17:27
+reddit · r/MachineLearning · /u/Potential_Low_1183 · Sep 8, 02:16
 
-**Tags**: `#AI`, `#自动驾驶`, `#Qwen`, `#开源模型`, `#VLM`
+**Tags**: `#AI`, `#Embedding Models`, `#RAG`, `#Machine Learning`, `#Semiconductor`
 
 ---
 
 <a id="item-16"></a>
-## [DeepSeek Flash 4.1 is already being tested via API and rolling out.](https://www.reddit.com/r/LocalLLaMA/comments/1wan3nl/deepseek_flash_41_is_already_being_tested_via_api/) ⭐️ 8.0/10
-
-DeepSeek is beta testing DeepSeek Flash 4.1 via API with a new architecture, native multimodal support, and improved performance at the same price.
-
-reddit · r/LocalLLaMA · /u/Nunki08 · Sep 8, 12:31
-
-**Tags**: `#AI`, `#DeepSeek`, `#LLM`, `#API`, `#multimodal`
-
----
-
-<a id="item-17"></a>
-## [inclusionAI/Ling-3.0-flash-VL · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face/) ⭐️ 8.0/10
-
-Ling-3.0-flash-VL is a new multimodal LLM with 124B total parameters (5.5B active), supporting image/video understanding and up to 1M token context, designed for agentic workflows.
-
-reddit · r/LocalLLaMA · /u/jacek2023 · Sep 8, 15:57
-
-**Tags**: `#AI`, `#LLM`, `#multimodal`, `#vision-language`, `#efficient inference`
-
----
-
-<a id="item-18"></a>
-## [Qwen3.8-Flash-Next in llama.cpp vs SGLang vs FreeToken: 35s vs 258s to first token at full context. My findings on new PRs coming to engines.](https://www.reddit.com/r/LocalLLaMA/comments/1waydqj/qwen38flashnext_in_llamacpp_vs_sglang_vs/) ⭐️ 8.0/10
-
-Benchmark of Qwen3.8-Flash-Next across llama.cpp, SGLang, and FreeToken shows SGLang fastest at full context, with MTP and speculative decoding improvements.
-
-reddit · r/LocalLLaMA · /u/FantasticNature7590 · Sep 8, 19:26
-
-**Tags**: `#AI`, `#LLM`, `#inference`, `#performance`, `#llama.cpp`
-
----
-
-<a id="item-19"></a>
-## [US accuses Chinese AI firms of 'malicious' copying of AI technology](https://www.reddit.com/r/LocalLLaMA/comments/1wb9prm/us_accuses_chinese_ai_firms_of_malicious_copying/) ⭐️ 8.0/10
-
-US officials accuse Chinese AI companies of maliciously copying American AI technology on an industrial scale, citing DeepSeek and Alibaba.
-
-reddit · r/LocalLLaMA · /u/External_Mood4719 · Sep 9, 03:06
-
-**Tags**: `#AI`, `#China`, `#US`, `#IP theft`, `#Geopolitics`
-
----
-
-<a id="item-20"></a>
-## [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/) ⭐️ 7.0/10
-
-Meta announces Muse, a personal AI agent, sparking discussion on its strategy, security, and trust issues.
-
-hackernews · yks · Sep 8, 19:25 · [Discussion](https://news.ycombinator.com/item?id=49615537)
-
-**Tags**: `#AI`, `#Meta`, `#AI agent`, `#security`, `#prompt injection`
-
----
-
-<a id="item-21"></a>
 ## [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH) ⭐️ 7.0/10
 
-A study shows that large language models can spontaneously develop novel social biases about artificial demographic groups through adaptive exploration, even without inherent differences.
+A study shows that large language models can spontaneously develop novel social biases through adaptive exploration in synthetic hiring scenarios, even when demographic groups are initially identical.
 
 hackernews · paimapi · Sep 8, 21:47 · [Discussion](https://news.ycombinator.com/item?id=49617581)
 
@@ -271,153 +205,175 @@ hackernews · paimapi · Sep 8, 21:47 · [Discussion](https://news.ycombinator.c
 
 ---
 
+<a id="item-17"></a>
+## [I resigned from Anthropic today](https://twitter.com/hilbertspaess/status/2097476196791709843#m) ⭐️ 7.0/10
+
+A researcher announces resignation from Anthropic, sparking a large community debate on the existential dangers of AI versus other human activities.
+
+hackernews · yurivish · Sep 9, 00:40 · [Discussion](https://news.ycombinator.com/item?id=49619227)
+
+**Tags**: `#AI`, `#Anthropic`, `#AI risk`, `#resignation`, `#community discussion`
+
+---
+
+<a id="item-18"></a>
+## [I-have-ADHD: A skill to stop coding agents from burying the answer](https://github.com/ayghri/i-have-adhd) ⭐️ 7.0/10
+
+A GitHub skill 'i-have-adhd' aims to make coding agents like Claude more concise, sparking a lively discussion about LLM verbosity and prompt engineering.
+
+hackernews · domhudson · Sep 8, 14:13 · [Discussion](https://news.ycombinator.com/item?id=49610631)
+
+**Tags**: `#AI`, `#LLM`, `#developer-tools`, `#prompt-engineering`
+
+---
+
+<a id="item-19"></a>
+## [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/) ⭐️ 7.0/10
+
+Benchmark of Qwen3.8 27B quantizations shows 4-bit retains quality while 1-bit collapses, with active community debate on methodology and KV cache quantization.
+
+hackernews · stared · Sep 8, 14:49 · [Discussion](https://news.ycombinator.com/item?id=49611128)
+
+**Tags**: `#LLM`, `#quantization`, `#benchmark`, `#AI`, `#open source`
+
+---
+
+<a id="item-20"></a>
+## [【IPO行业分布解读】半导体10家吸金815.52亿元、占全市场42.5% 96家属战略性新兴产业 - 新浪网](https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUEFaTjhibGRHOWx6eFg2RU5yUWh6My1MbjR4c1U4em81cUR6X25saFpFendwM2dmWXZIZFZuRkxnaHhSU1JteUFzalBQRFFkZlFKa3p4b3F5RUFUcXpDaTVsdEtnNUo0QzF0bnFMNHJmSFV6a3N1UQ?oc=5) ⭐️ 7.0/10
+
+Semiconductor companies dominate recent IPOs, raising 81.552 billion yuan (42.5% of total market), with 96 firms in strategic emerging industries.
+
+rss · Google News - 科技（半导体+新能源） · Sep 9, 06:00
+
+**Tags**: `#半导体`, `#IPO`, `#金融市场`, `#中国`, `#战略性新兴产业`
+
+---
+
+<a id="item-21"></a>
+## [利好突袭，英特尔涨超9%！美芯片股大爆发 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0RnpoTzZvd1JzV3dIWkFOTVpGUThjUXNMVDJ1YjZ5U2hMM0tMdUUtcGphMTR1UGRqYjBLdVRLd3BaUHZGeGtmYkNMS096UG9ZaERnUzZoUzFNSEx4?oc=5) ⭐️ 7.0/10
+
+Intel and US chip stocks surge over 9% following positive news, as reported by Securities Times.
+
+rss · Google News - 科技（半导体+新能源） · Sep 9, 00:23
+
+**Tags**: `#半导体`, `#金融市场`, `#英特尔`, `#股票`, `#芯片`
+
+---
+
 <a id="item-22"></a>
-## [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5) ⭐️ 7.0/10
+## [美伊战事推升油价逼近百元关口，亚洲芯片股延续涨势，SK海力士涨逾3%，金银齐升 - 华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NSDgtX3N5TFJOS2VmbGhQNS1xRTFvdmVvUnByTlJhSXcwNElhSnFtZWliRXg5SVZ5bUh0dnF6ZEQ1ZlFlXzVINHltdTVwV0k1dHNR?oc=5) ⭐️ 7.0/10
 
-Inception Labs introduces Mercury 2.5, a diffusion-based LLM for coding and general use, with low latency and cost advantages, though not open-weights.
+US-Iran conflict drives oil prices near $100, Asian chip stocks extend gains with SK Hynix up over 3%, and gold/silver rise.
 
-hackernews · Topfi · Sep 8, 20:14 · [Discussion](https://news.ycombinator.com/item?id=49616354)
+rss · Google News - 科技（半导体+新能源） · Sep 9, 03:53
 
-**Tags**: `#AI`, `#LLM`, `#diffusion`, `#Inception Labs`, `#coding`
+**Tags**: `#oil prices`, `#semiconductor`, `#financial markets`, `#geopolitics`, `#gold`
 
 ---
 
 <a id="item-23"></a>
-## [I-have-ADHD: A skill to stop coding agents from burying the answer](https://github.com/ayghri/i-have-adhd) ⭐️ 7.0/10
+## [美股全线收跌，道指重挫超600点！芯片股逆市爆发，英特尔涨超9%！国际油价上行，黄金走低 - 国际金融报](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWF9pcjZZaHY2VEVSS1V5Vno3ZGxoUU1uTFVCNTVCeFZ2blhjX0pVTGFsVVlDQXdDWlcwVFdxMmVWcjdhaEtGYTExcjNyU2U5M0pOXzdB?oc=5) ⭐️ 7.0/10
 
-A GitHub skill that instructs coding agents to avoid burying answers in verbose output, with community discussion on its effectiveness and the broader issue of LLM verbosity.
+US stocks fell sharply with Dow down over 600 points, while chip stocks rallied with Intel up over 9%, oil prices rose, and gold declined.
 
-hackernews · domhudson · Sep 8, 14:13 · [Discussion](https://news.ycombinator.com/item?id=49610631)
+rss · Google News - 科技（半导体+新能源） · Sep 9, 01:05
 
-**Tags**: `#AI`, `#LLM`, `#developer-tools`, `#coding-agents`, `#prompt-engineering`
+**Tags**: `#美股`, `#半导体`, `#金融市场`, `#宏观经济`, `#英特尔`
 
 ---
 
 <a id="item-24"></a>
-## [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/) ⭐️ 7.0/10
+## [中科飞测陈鲁：半导体量检测迎国产替代窗口期 从单点突破迈向全链协同 - 集微网](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE83SUZMdi1xWndOenY0T3NuTHRpVHVHcHFFeVpQcXNfSDliamhVZEw5VkdHUjBiaEMwZ3ZwSXFNdDNJUkk?oc=5) ⭐️ 7.0/10
 
-A topological picture book rendered with hand-drawn style lines, showcasing mathematical visualization and sparking technical discussion.
+中科飞测陈鲁指出半导体量检测设备迎来国产替代窗口期，行业需从单点突破转向全链协同。
 
-hackernews · mathgenius · Sep 8, 22:28 · [Discussion](https://news.ycombinator.com/item?id=49618050)
+rss · Google News - 科技（半导体+新能源） · Sep 9, 06:22
 
-**Tags**: `#topology`, `#visualization`, `#mathematics`, `#rendering`, `#interactive`
+**Tags**: `#半导体`, `#国产替代`, `#量检测设备`, `#中科飞测`, `#中国`
 
 ---
 
 <a id="item-25"></a>
-## [硬科技早报|DeepSeek内测；腾讯500亿锁定内存；芯片涨价推高中国出口 - 观察者](https://news.google.com/rss/articles/CBMiZEFVX3lxTE56bm5lRkFaV0Q3ajdHZmJiTG9vRGZVWHpCNy1VWTNhbmtkX0FObzFMSzJXVnIzOTB0cTNoMlVxaExEMjIxc054STlyTm1UV3BuR0FvZ0lTLTYyQlhVUW5qLUdGRWI?oc=5) ⭐️ 7.0/10
+## [电动车2026H1财报总结：锂电延续高景气，利润向中上游倾斜 - 电子工程专辑](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WMTJaQ2lOSk8yeDZlVmJOelduSFhBbG5uRWpzb2REeklrMFNrTUtILWNBLTZ0RVdtN283RGtzVmc2OUo0T3JGY1d2NFZIM01ibi1R?oc=5) ⭐️ 7.0/10
 
-A tech morning brief covering DeepSeek's internal testing, Tencent's 50 billion memory investment, and chip price hikes boosting Chinese exports.
+Summary of electric vehicle industry H1 2026 financial reports indicating continued high prosperity in lithium batteries with profits shifting toward midstream and upstream segments.
 
-rss · Google News - 科技（半导体+新能源） · Sep 9, 00:05
+rss · Google News - 科技（半导体+新能源） · Sep 9, 01:30
 
-**Tags**: `#AI`, `#半导体`, `#腾讯`, `#DeepSeek`, `#中国出口`
+**Tags**: `#新能源`, `#电动车`, `#锂电`, `#财报`, `#供应链`
 
 ---
 
 <a id="item-26"></a>
-## [据报道Anthropic将退出ITI 反对限制外国获取美国芯片立法 - 观点网](https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtWG1wVDF4aGpuTHlvdG5JNm5Xb3ZiWlBrcGRDRU9HWlpYTks0Mmk2Rm5TVjBzaERrclR6aEdsR1I3c1ZEOGpFLW54T2s4UG52bEVqZFhNVWVzVXBPX2VDLTBB?oc=5) ⭐️ 7.0/10
+## [美股光通信、芯片股爆发，Lumentum涨超11%，英特尔市值一夜飙涨2900亿元 - 同花顺财经](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qV1dmQXdUdm8taTdUd2NZaHpmUWgtNkJPRnZRb3NXR2Q1d1VQbWUwNWtoY2NOY1ZQVGZZbGt6ZFppeXFPaVJUbXNWMVA3NUVZYzhxblRDTVVpQk1Va1ZEVEpR?oc=5) ⭐️ 7.0/10
 
-Anthropic reportedly leaves ITI to oppose legislation restricting foreign access to US chips.
+US stock optical communication and chip stocks surged, with Lumentum rising over 11% and Intel's market value increasing by 290 billion yuan overnight.
 
-rss · Google News - 科技（半导体+新能源） · Sep 9, 00:13
+rss · Google News - 科技（半导体+新能源） · Sep 8, 23:12
 
-**Tags**: `#AI`, `#半导体`, `#政策`, `#Anthropic`
+**Tags**: `#半导体`, `#美股`, `#光通信`, `#英特尔`, `#金融市场`
 
 ---
 
 <a id="item-27"></a>
-## [利好突袭，英特尔涨超9%！美芯片股大爆发 - 东方财富](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oY210YUFVb2ZfSFpJMUkzR3VnM3JYd2dwMDlXbTY5V3RxeXVtZEFIQkZReWh6N1VDR1lnUkd4am9Fei1iWlFvVWtndUt3dDByV3ptbm9PamRkRHprOWVRV29fNFlFQQ?oc=5) ⭐️ 7.0/10
+## [日本强烈抗议中国针对日本半导体材料进行反倾销调查 - RFI](https://news.google.com/rss/articles/CBMi_wJBVV95cUxNWTh0MklvWnVkc1JhUWMtS0pFbENHb0VXbzZvd2l0MTF0ZlBpRHZIQ2d6QTRMTXFwdTZKMDgzTGI4cTdFbkJhNVlpYVlkaDNzYlNnVUpVZEhvbEp2M3dMbFZqSnljcEx1c3g3ZXBvd1FpSXE1Vk9qX29hYVRQRVVaREtIR3NsbVF0SGl1VzJfbm5GaE5jX1hXcDR6bjVGTEdpd2wyUmp0RWotM1QtT3hIdXdYSHY3dWhuX3Z3Vl9RQmhRODhVaWd6UzN3c056RU1FRzZWUGVfLUVoUE9iM1dvb1I3RS1mYjE4WmJMUWdOZUJENC1teUpxVDVZY3Z0dE9aMU9fSnFmWTZ6bXZtb001TnRaODZxT0tpdFZWLVJWNmk2Y0dQMlZheXlQaUN5cGxTTUZoU1NwbUxyWEZCUV8zQTM4NWVBazUySUp2Qmt0U1pPS2lsZ24xcXFIZmR1R1FCODdVbmRtU1NWb3Vsb3VKc2w3eG5kQ1ZWQ0gyOVRkQQ?oc=5) ⭐️ 7.0/10
 
-Intel stock surges over 9% on positive news, leading a broad rally in US chip stocks.
+Japan strongly protests China's anti-dumping investigation into Japanese semiconductor materials, escalating trade tensions in the semiconductor sector.
 
-rss · Google News - 科技（半导体+新能源） · Sep 9, 00:23
+rss · Google News - 科技（半导体+新能源） · Sep 8, 09:06
 
-**Tags**: `#半导体`, `#芯片股`, `#英特尔`, `#金融市场`, `#AI`
+**Tags**: `#半导体`, `#贸易`, `#中国`, `#日本`, `#反倾销`
 
 ---
 
 <a id="item-28"></a>
-## [美伊战事推升油价逼近百元关口，亚洲芯片股延续涨势，SK海力士涨逾3%，金银齐升 - 华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NSDgtX3N5TFJOS2VmbGhQNS1xRTFvdmVvUnByTlJhSXcwNElhSnFtZWliRXg5SVZ5bUh0dnF6ZEQ1ZlFlXzVINHltdTVwV0k1dHNR?oc=5) ⭐️ 7.0/10
+## [国产模拟芯片企业2026上半年营收增长分化，AI与汽车成新增长点 - 虎嗅网](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hemhOdnBnckRyd3R1M0NpU0I0dGxoVUx3bHNaOGM3QzZrUEdhQVFYVDlSRnk3QjI1WjYyQVRxYUNiUmlPVGI5OTdwVFFQa0NFdTdZWU1JSzFzaGlvTHJV?oc=5) ⭐️ 7.0/10
 
-US-Iran conflict pushes oil prices near $100, Asian chip stocks continue rally with SK Hynix up over 3%, and gold and silver rise.
+国产模拟芯片企业2026上半年营收增长分化，AI与汽车成为新的增长点。
 
-rss · Google News - 科技（半导体+新能源） · Sep 9, 03:53
+rss · Google News - 科技（半导体+新能源） · Sep 9, 04:14
 
-**Tags**: `#oil prices`, `#semiconductor`, `#financial markets`, `#geopolitics`, `#SK Hynix`
+**Tags**: `#半导体`, `#模拟芯片`, `#AI`, `#汽车`, `#国产芯片`
 
 ---
 
 <a id="item-29"></a>
-## [电动车2026H1财报总结：锂电延续高景气，利润向中上游倾斜 - 电子工程专辑](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WMTJaQ2lOSk8yeDZlVmJOelduSFhBbG5uRWpzb2REeklrMFNrTUtILWNBLTZ0RVdtN283RGtzVmc2OUo0T3JGY1d2NFZIM01ibi1R?oc=5) ⭐️ 7.0/10
+## [港股概念追踪| AI基建投资激增！两大存储芯片巨头库存告急，存储芯片又要涨了?(附概念股) 港美股资讯 - hstong.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uNmpyMHV2a3pzWUJzNFNCSDAxeGlHWjVDa0Z0eW1zWXNNMmFmTm9IN3VTd3h0TXdubjBzSmJRQmw2b0tfU1l4anhaMExfZENlX3J4eGhXOVpqc0ExUkt2VjN3?oc=5) ⭐️ 7.0/10
 
-The article summarizes the 2026 H1 financial reports of the electric vehicle industry, highlighting continued high prosperity in lithium batteries and a profit shift towards midstream and upstream segments.
+AI infrastructure investment surge leads to inventory shortages at major memory chip makers, potentially driving up memory chip prices.
 
-rss · Google News - 科技（半导体+新能源） · Sep 9, 01:30
+rss · Google News - 科技（半导体+新能源） · Sep 8, 23:39
 
-**Tags**: `#电动车`, `#锂电池`, `#新能源`, `#财报分析`, `#行业趋势`
+**Tags**: `#AI`, `#半导体`, `#存储芯片`, `#AI基建`, `#港股`
 
 ---
 
 <a id="item-30"></a>
-## [国产模拟芯片企业2026上半年营收增长分化，AI与汽车成新增长点 - 虎嗅网](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hemhOdnBnckRyd3R1M0NpU0I0dGxoVUx3bHNaOGM3QzZrUEdhQVFYVDlSRnk3QjI1WjYyQVRxYUNiUmlPVGI5OTdwVFFQa0NFdTdZWU1JSzFzaGlvTHJV?oc=5) ⭐️ 7.0/10
+## [比亚迪汽车：地平线智驾芯片量产突破1500万。 - 新浪网](https://news.google.com/rss/articles/CBMieEFVX3lxTE54cU9SR3FyWi1HejB1dWZBZVl0dlVVTkNCN0xYU3ZxX05YX2dHNGhDS1hLa1VZLUJpS1Rhc3B5Rlc2TFpycHJ6aWJuMlpyNVViNF9DNFc5T3ByUUktMWNZWHZjQ19qZVJKOTl0bHh4bEQ2TmF4V0NRbw?oc=5) ⭐️ 7.0/10
 
-Chinese analog chip companies show divergent revenue growth in H1 2026, with AI and automotive sectors emerging as new growth points.
+BYD announces that Horizon Robotics' autonomous driving chips have surpassed 15 million units in mass production.
 
-rss · Google News - 科技（半导体+新能源） · Sep 9, 04:14
+rss · Google News - 科技（半导体+新能源） · Sep 9, 03:10
 
-**Tags**: `#半导体`, `#模拟芯片`, `#AI`, `#汽车`, `#中国`
+**Tags**: `#半导体`, `#自动驾驶`, `#比亚迪`, `#地平线`, `#新能源`
 
 ---
 
 <a id="item-31"></a>
-## [小米堆料成功！3nm芯片玄戒O3，要打赢高通、苹果的2nm芯片了 - Sohu](https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnVKLVZvX3Y1dVJMMEVqT2tFV0NOb000LW9Nck9QdGF1QWpLRHdkamxVLWs1S2pLRHNsNzF4MmxaSmxWTjVqQ2pqM3l5MTZ5OEp5V0p4UEk5ZnJ3Vk8yQ2ZNZWtWVzMxYk9BcTh2WmI3YV9WdFVNYTU2NnRxdHNjRV9hZUN3aEJYc2g5TA?oc=5) ⭐️ 7.0/10
+## [传英伟达Rubin Ultra芯片改用8层HBM，以控制内存成本 - 集微网](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5ybzZPcWpxRk9YbW5kQlVHVGhCUjRZY282RnZjQkhGQ0V0S2hmTGI3aUR5ZFNWbW12aFd6bFhianFMRTQ?oc=5) ⭐️ 7.0/10
 
-Xiaomi's 3nm chip 'Xuanjie O3' is claimed to compete with Qualcomm and Apple's 2nm chips.
+NVIDIA's Rubin Ultra chip reportedly switches to 8-layer HBM to manage memory costs.
 
-rss · Google News - 科技（半导体+新能源） · Sep 9, 03:32
+rss · Google News - 科技（半导体+新能源） · Sep 9, 05:49
 
-**Tags**: `#半导体`, `#AI芯片`, `#小米`, `#3nm`, `#芯片`
+**Tags**: `#NVIDIA`, `#HBM`, `#半导体`, `#AI芯片`, `#Rubin Ultra`
 
 ---
 
 <a id="item-32"></a>
-## [ETF异动 | 易方达亚洲半导体ETF(03486)涨超2% GPT-6 攻下“千禧年难题“ 算力与半导体景气预期升温 - Moomoo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOXBZMTctd1hUalpQeDc5Q1pld2dLYUJzTGpQZlFiVVhPN3BSOF81MkFFcW9MQmd2SkVyTl9uWnRQa3l2VWtqQ01KMXhYZHVtckw2MzgxTmVycXdVYk9GM0lqMThBeDlpZ0hhYnRyaGtLM09xbEN1Vmt2bzJDbFF0eHNXSHlBWk1DOVJNRjFCQ1dNVkdVdUFTUTkwVHNYYllPWHpvdFozTk05eFBf?oc=5) ⭐️ 7.0/10
-
-易方达亚洲半导体ETF涨超2%，因GPT-6攻下'千禧年难题'，提升算力与半导体景气预期。
-
-rss · Google News - 科技（半导体+新能源） · Sep 9, 02:11
-
-**Tags**: `#半导体`, `#AI`, `#ETF`, `#算力`, `#GPT-6`
-
----
-
-<a id="item-33"></a>
-## [铠侠CEO否认与SK海力士合作生产芯片：涨价必须遏制 - 凤凰网科技](https://news.google.com/rss/articles/CBMiTEFVX3lxTE45LVdUMHIyemlydkZONGhVU2FOd2Zad3V1MGZzQWVqbkpLTlBOcFYzNFRhZ0FPZnBEV0Z5aWtaUmtkMk91b1RJT0I1R1A?oc=5) ⭐️ 7.0/10
-
-Kioxia CEO denies chip production partnership with SK Hynix and emphasizes need to curb price increases.
-
-rss · Google News - 科技（半导体+新能源） · Sep 9, 02:38
-
-**Tags**: `#半导体`, `#SK海力士`, `#铠侠`, `#芯片价格`, `#行业动态`
-
----
-
-<a id="item-34"></a>
-## [消息称英特尔计划再度上调CPU价格 涨幅约10% - finance.sina.cn](https://news.google.com/rss/articles/CBMieEFVX3lxTE9NTGdNd1JSMGJPTHJ2dURsXzJoSUl6RnpyeUJycUxFNWxqcjdGeHNRanJ5eFhkclRPTkJwSW1aX1FrMkFNVVdkUTEwYnlSWDRJNUdPLXprTFNCUlRTVFBFV0ExX2twaTNYa0Ixd2hrMFRDaTZRLVlqeA?oc=5) ⭐️ 7.0/10
-
-Intel reportedly plans to raise CPU prices by about 10% again.
-
-rss · Google News - 科技（半导体+新能源） · Sep 9, 03:56
-
-**Tags**: `#半导体`, `#Intel`, `#CPU`, `#价格`, `#科技`
-
----
-
-<a id="item-35"></a>
 ## [【9.9锂电快讯】多家头部厂商密集上调产品价格 电池涨价潮加速蔓延 - 上海有色金属](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IdHNwclRBUUR0RXJQM1BnWkI3eDd6N3dZYmdHYm03YXBJZUNLR1lOSXA3MzIzbzluZVJlQU1jUG9fUDJxNGdCZXZR?oc=5) ⭐️ 7.0/10
 
-Leading battery manufacturers are intensively raising product prices, accelerating the battery price hike trend.
+多家头部锂电池厂商密集上调产品价格，电池涨价潮加速蔓延。
 
 rss · Google News - 科技（半导体+新能源） · Sep 8, 10:28
 
@@ -425,156 +381,79 @@ rss · Google News - 科技（半导体+新能源） · Sep 8, 10:28
 
 ---
 
+<a id="item-33"></a>
+## [国内存储首个A+H落地！江波龙上市即破发 - 21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxPMVQyMmFwRzk4UFp2b0hoNXBlTkFkYTdDX2gzbXlhaHJzZjNPdEJsaVJtRmFDWm92Vm96VGo2Q3RyME9EU3A3YzQyWlZEdE14SEtwYzVxSzRmNlc5Rkg2aFkzbE9iS2tndUZ6RnBqOHZTTk9TNXBGeXBjb01DQmpwMjdDUjVhdkFWN2VZUg?oc=5) ⭐️ 7.0/10
+
+江波龙成为国内存储行业首个A+H上市的公司，但上市首日即破发。
+
+rss · Google News - 金融市场 · Sep 9, 04:58
+
+**Tags**: `#半导体`, `#存储`, `#IPO`, `#金融市场`, `#中国`
+
+---
+
+<a id="item-34"></a>
+## [优地机器人今日在香港上市，总市值超150亿港元- DoNews - 同花顺财经](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tN3BGb1RoaGNyVk0tby1YRmRabjl2NTFfeXY0dTlmb3JwSXMxdVNNTUVESnJEM1I2NGZGU0FYMDVTZHNZNnRDZG92eE5LaDlEekpUWVRpanZycDJnY3c?oc=5) ⭐️ 7.0/10
+
+优地机器人今日在香港上市，总市值超150亿港元。
+
+rss · Google News - 金融市场 · Sep 9, 02:51
+
+**Tags**: `#机器人`, `#IPO`, `#香港上市`, `#金融市场`
+
+---
+
+<a id="item-35"></a>
+## [大摩闭门会：美联储9月不加息，不建议轮动消费 - Moomoo](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wVXZ0SHVpRktiV0RYY3VYbVA0anBpdURVVnJjNUhoU1VxSEZfdHBFWU1SSC1qbklDSG1XWkFubzVTTU54SnlNWF9Qc285QnNHN2FLWEV5TTVMZw?oc=5) ⭐️ 7.0/10
+
+Morgan Stanley's closed-door meeting suggests the Fed will not raise rates in September and advises against rotating into consumer stocks.
+
+rss · Google News - 金融市场 · Sep 9, 01:27
+
+**Tags**: `#美联储`, `#金融市场`, `#投资策略`, `#摩根士丹利`
+
+---
+
 <a id="item-36"></a>
-## [优地机器人上市首日开盘涨142% - 观点网](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oM1I1bV9zbk9GVGdTODRuVUEwTDkyQlBxbDZTNlhOZ0U0M1B5dWh4bFI4OFI0UDJ3cDY3WVltTXBqbjFOd2NxalUwY2Nndw?oc=5) ⭐️ 7.0/10
+## [宇树科技腰斩后，传监管收紧人形机器人IPO - 新浪网](https://news.google.com/rss/articles/CBMieEFVX3lxTFBQNlcwaElhNEk1UEUtTTBhS015amI5Q2l6c1JBdjhBNWp4NS1qcVRKMXgxV2NJYkZGV0tSZW9hT2w3OUpfaEsySFNjVmRuem9rMEJvLUJEQXdXeldkbnZ2WlFJZlpiRU9TY2xseTFjb0FYMFBxdjZvbw?oc=5) ⭐️ 7.0/10
 
-优地机器人上市首日开盘大涨142%，成为市场关注焦点。
+Reports suggest regulators are tightening IPO rules for humanoid robotics companies following Unitree's valuation halving.
 
-rss · Google News - 金融市场 · Sep 9, 04:04
+rss · Google News - 金融市场 · Sep 9, 04:46
 
-**Tags**: `#IPO`, `#机器人`, `#金融市场`, `#AI`
+**Tags**: `#人形机器人`, `#IPO`, `#监管`, `#宇树科技`, `#金融`
 
 ---
 
 <a id="item-37"></a>
-## [今年以来56家公司上市 数量已超前两年之和 IPO量质齐升折射北交所强大“磁力” - 北京市人民政府门户网站](https://news.google.com/rss/articles/CBMie0FVX3lxTE9Za3hDdV9zbnhqRXNRdlMtb3NzQTluY2RXSXNVR2NvamRLeEJiQUtBZWIydlFoYUpkaVQ3bnNOeWoxRXFTUVU0dzc1Q01wNG03V3pxakpmLUE1enhMUllEYUpyb05VMGhRd2ZLVVNXTmtLVm5XWmJtYUh3Yw?oc=5) ⭐️ 7.0/10
+## [3家A股券商9月15日起停牌！中金公司重组获证监会批复 - 东方财富网](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vYnRyeHh1bThPSUNFVXlUZEk2UWgySGxINHl6dnhIbEI1QUsyYy11eGs5WnlCQnJjdHhwWF85MnZOVUhnM2k4ZzUwOWdGcGpUMnBkQjNZbnFoR1d6VTZZWQ?oc=5) ⭐️ 7.0/10
 
-今年已有56家公司上市，数量超过前两年总和，显示北交所吸引力增强。
+Three A-share brokerages will suspend trading from September 15, as CICC's restructuring receives regulatory approval from the CSRC.
 
-rss · Google News - 金融市场 · Sep 8, 02:24
+rss · Google News - 金融市场 · Sep 7, 21:45
 
-**Tags**: `#IPO`, `#金融市场`, `#中国`, `#北交所`, `#宏观经济`
+**Tags**: `#金融`, `#中国`, `#券商`, `#并购重组`, `#A股`
 
 ---
 
 <a id="item-38"></a>
-## [长江存储冲刺IPO，武汉新芯同日撤回：分拆背后有何考量？ - 凤凰网财经](https://news.google.com/rss/articles/CBMiUEFVX3lxTE15WlduZFNsdExyX2s5SHNJeWFIRWh5LUpyeklvbmxkMkdFS21RTmRqdEl2ODZHT1psbmQ4QmJMVjI3ZVVucE9sTkF1Q2huS2Vk?oc=5) ⭐️ 7.0/10
+## [Trump escalates trade war with Canada, moving to ban imports of some motorcycles, dairy and alcohol - NBC News](https://news.google.com/rss/articles/CBMivwFBVV95cUxPR21QVmJISUl6amZFN3NjaC1DSjVuQTQ3RWFhNExoa1N1b1VkUlIzb09qdXkxakFGWklHYVJlak05b1NjVVNocVRJU3FucVpMYzZlUGttTXJ5TS1MTHMxVFRxMTB3VDVJNHBneWYxam1QdE95WERoTmt5MS1ZTnpOTVlNa0c0QW9VWm41U3JFaDdFTlhWb2JwbzAwMV9IclNDczROQWRINExidGtqNnBXVmdZSjllTkJ4TWRxd1ZkSQ?oc=5) ⭐️ 7.0/10
 
-长江存储冲刺IPO，武汉新芯同日撤回，引发对分拆背后战略考量的关注。
+Trump escalates trade war with Canada by proposing bans on imports of motorcycles, dairy, and alcohol.
 
-rss · Google News - 金融市场 · Sep 9, 02:55
+rss · Google News - 全球宏观 · Sep 8, 23:50
 
-**Tags**: `#半导体`, `#IPO`, `#中国`, `#金融市场`
+**Tags**: `#trade war`, `#macro economy`, `#Canada`, `#US politics`, `#financial markets`
 
 ---
 
 <a id="item-39"></a>
-## [宇树科技腰斩后，传监管收紧人形机器人IPO - finance.sina.cn](https://news.google.com/rss/articles/CBMieEFVX3lxTFBQNlcwaElhNEk1UEUtTTBhS015amI5Q2l6c1JBdjhBNWp4NS1qcVRKMXgxV2NJYkZGV0tSZW9hT2w3OUpfaEsySFNjVmRuem9rMEJvLUJEQXdXeldkbnZ2WlFJZlpiRU9TY2xseTFjb0FYMFBxdjZvbw?oc=5) ⭐️ 7.0/10
+## [Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) (P)](https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/) ⭐️ 7.0/10
 
-Report claims Chinese regulators are tightening IPO approvals for humanoid robotics companies following a sharp decline in Unitree Technology's valuation.
+A tiny 417k-parameter recurrent dynamical system autonomously generates the entire Bad Apple video from a single initial state, without timestamp inputs.
 
-rss · Google News - 金融市场 · Sep 9, 04:46
+reddit · r/MachineLearning · /u/SEBADA321 · Sep 8, 00:05
 
-**Tags**: `#人形机器人`, `#IPO`, `#监管`, `#宇树科技`, `#中国`
-
----
-
-<a id="item-40"></a>
-## [市值超150亿！阿里投出一个机器人IPO - Sohu](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGlnQW9vV1RNMFI2SGRRVEtpdGhQN1k5UlQtVjlKY2tINzRKSmtrT05nOU92a0pGY1hHNzdaeC12cUg3TGtxMjQ3dFJrb0U2dUhYMk4tX1lXUktySWxrNFI3LVJlMkRPQjNnc3NjQndsUE9RMEoyMG1jYkRrZUcyVFlrb1ZEamF2bUgzNQ?oc=5) ⭐️ 7.0/10
-
-Alibaba-backed robotics company goes public with a market cap exceeding 15 billion RMB.
-
-rss · Google News - 金融市场 · Sep 9, 04:33
-
-**Tags**: `#robotics`, `#IPO`, `#Alibaba`, `#financial markets`, `#AI`
-
----
-
-<a id="item-41"></a>
-## [江波龙H股较A股折价44%首秀破发 半年盈利超百亿研发投入增91% - cj.sina.cn](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNW9BWWUydXN3VXRHWXZKUEZfWjVYLWt6N1MzRTNXMlFhRlNnbmdPbXVOQ21fQW5nTko2Rm5PVjh0dUxLc2JCRmhlUzBDaEx6bm0wYUdYODBfbXFRWEVwSUFvTk43WUg2c3lYWUNrMlBzRU9iaVF4WGdwRVczWk1ORE5LMEtkQVY4R3c?oc=5) ⭐️ 7.0/10
-
-江波龙H股首日破发，较A股折价44%，但公司半年盈利超百亿且研发投入大增91%。
-
-rss · Google News - 金融市场 · Sep 9, 01:51
-
-**Tags**: `#半导体`, `#金融市场`, `#IPO`, `#江波龙`, `#H股`
-
----
-
-<a id="item-42"></a>
-## [比亚迪、宁德时代力挺，铜博科技二闯IPO，AI风口难解“造血”之困 - 36kr.com](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MNWE1X3pwbG9CLUtBMUs0N0ZJOHE2UmdzU0VrdEZKRVZYTk80WGhrcDhtWmVVZDhfeVI2LTBaSzlfTmxfdV9MNHFZMEhkUQ?oc=5) ⭐️ 7.0/10
-
-Copper foil maker 铜博科技, backed by BYD and CATL, makes a second IPO attempt but faces profitability challenges despite AI-driven demand.
-
-rss · Google News - 金融市场 · Sep 9, 01:30
-
-**Tags**: `#IPO`, `#新能源`, `#金融市场`, `#AI`, `#铜箔`
-
----
-
-<a id="item-43"></a>
-## [3家A股券商9月15日起停牌！中金公司重组获证监会批复 - 东方财富网](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vYnRyeHh1bThPSUNFVXlUZEk2UWgySGxINHl6dnhIbEI1QUsyYy11eGs5WnlCQnJjdHhwWF85MnZOVUhnM2k4ZzUwOWdGcGpUMnBkQjNZbnFoR1d6VTZZWQ?oc=5) ⭐️ 7.0/10
-
-Three A-share brokerages will suspend trading from September 15 as China International Capital Corporation's restructuring receives regulatory approval.
-
-rss · Google News - 金融市场 · Sep 7, 21:45
-
-**Tags**: `#A股`, `#券商`, `#中金公司`, `#重组`, `#金融市场`
-
----
-
-<a id="item-45"></a>
-## [Trump escalates trade war with Canada, moving to ban imports of some motorcycles, dairy and alcohol - NBC News](https://news.google.com/rss/articles/CBMivwFBVV95cUxPR21QVmJISUl6amZFN3NjaC1DSjVuQTQ3RWFhNExoa1N1b1VkUlIzb09qdXkxakFGWklHYVJlak05b1NjVVNocVRJU3FucVpMYzZlUGttTXJ5TS1MTHMxVFRxMTB3VDVJNHBneWYxam1QdE95WERoTmt5MS1ZTnpOTVlNa0c0QW9VWm41U3JFaDdFTlhWb2JwbzAwMV9IclNDczROQWRINExidGtqNnBXVmdZSjllTkJ4TWRxd1ZkSQ?oc=5) ⭐️ 7.0/10
-
-Trump escalates trade war with Canada by moving to ban imports of motorcycles, dairy, and alcohol.
-
-rss · Google News - 全球宏观 · Sep 8, 23:50
-
-**Tags**: `#trade war`, `#macro economy`, `#US-Canada`, `#tariffs`, `#geopolitics`
-
----
-
-<a id="item-46"></a>
-## [China must buy more from EU to avoid trade war, Brussels warns - euractiv.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1huWWQya3doM2NPQVBEb01hMVJnODdjbHNBb1UyNVZUT0syYzNTMjBFMHRGRGdjVTRkX3Zsc2hTdXFSV1k1Q3BSUGlKWGVkOGJudmhkemcyNjhYYkI2el9CWU9KR2hkZ0lSTktRQWFadlIxcTg0d2JrSmVvNU1ZUDVzUkE0M24zRG9VTkswYlVGSWV2QzJJ?oc=5) ⭐️ 7.0/10
-
-Brussels warns China must increase purchases from the EU to prevent a trade war, highlighting escalating trade tensions.
-
-rss · Google News - 全球宏观 · Sep 8, 09:54
-
-**Tags**: `#trade war`, `#China-EU relations`, `#macro economy`, `#geopolitics`
-
----
-
-<a id="item-47"></a>
-## [Qwen3.8-Flash-Next on MLX-serve, 1m context is released!](https://www.reddit.com/r/LocalLLaMA/comments/1wb7p70/qwen38flashnext_on_mlxserve_1m_context_is_released/) ⭐️ 7.0/10
-
-Release of Qwen3.8-Flash-Next support in MLX-serve enabling 1M context at 40-75 tok/s on M5 Max with 8-bit KV cache.
-
-reddit · r/LocalLLaMA · /u/Beamsters · Sep 9, 01:34
-
-**Tags**: `#AI`, `#LLM`, `#MLX`, `#Apple Silicon`, `#Local LLM`
-
----
-
-<a id="item-48"></a>
-## [Qwen 3.8 27b with PI agent - pushed to its 3D graphic game limits](https://www.reddit.com/r/LocalLLaMA/comments/1waz5a0/qwen_38_27b_with_pi_agent_pushed_to_its_3d/) ⭐️ 7.0/10
-
-A user pushes Qwen 3.8 27B with a PI agent to generate a 3D game from a 267KB design document, showcasing the potential of local AI agents.
-
-reddit · r/LocalLLaMA · /u/Healthy-Nebula-3603 · Sep 8, 19:53
-
-**Tags**: `#AI`, `#LLM`, `#Local AI`, `#3D game`, `#Qwen`
-
----
-
-<a id="item-49"></a>
-## [Qwen3-0.6B (400 MB) on a Samsung Note 8 (2017) phone drives a real desktop Chrome](https://www.reddit.com/r/LocalLLaMA/comments/1wapzjg/qwen306b_400_mb_on_a_samsung_note_8_2017_phone/) ⭐️ 7.0/10
-
-A 0.6B parameter Qwen model running on a 2017 Samsung phone successfully drives a real desktop Chrome browser via a structured page-perception layer, showcasing efficient small-model agentic capabilities.
-
-reddit · r/LocalLLaMA · /u/Mean-Standard7390 · Sep 8, 14:29
-
-**Tags**: `#AI`, `#LLM`, `#edge-computing`, `#local-models`, `#agent`
-
----
-
-<a id="item-50"></a>
-## [On the Value of Human Ideas: What data poisoning research reveals about "autonomous" AI breakthroughs](https://www.reddit.com/r/LocalLLaMA/comments/1wazzes/on_the_value_of_human_ideas_what_data_poisoning/) ⭐️ 7.0/10
-
-Discussion on how human half-finished ideas may contribute to AI discoveries, sparked by the OpenAI Navier-Stokes controversy.
-
-reddit · r/LocalLLaMA · /u/MaxDev0 · Sep 8, 20:23
-
-**Tags**: `#AI`, `#data poisoning`, `#research ethics`, `#OpenAI`, `#LLM`
+**Tags**: `#AI`, `#Machine Learning`, `#Recurrent Neural Network`, `#Video Generation`, `#Open Source`
 
 ---
